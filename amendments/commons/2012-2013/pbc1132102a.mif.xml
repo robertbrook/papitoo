@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\Development\Projects\actstoschema\BillSchema\schema\schemaBillBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>Groceries Code Adjudicator Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>25/2/2013</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="Amendment" /><ukm:DocumentStage Value="Notice" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill" />
+<ukm:Parliament Value="" />
+<ukm:Session Value="2012-2013" />
+<ukm:House Value="Commons" />
+</ukm:BillMetadata>
+<ukm:BillAmendmentMetaData><ukm:BillTitle>Groceries Code Adjudicator Bill</ukm:BillTitle><ukm:GivenOn><ukm:GivenOnDay>Thursday</ukm:GivenOnDay><ukm:GivenOnDate>21 February 2013</ukm:GivenOnDate></ukm:GivenOn>
+<ukm:StageHeader>
+<ukm:Stage>Report</ukm:Stage><ukm:StageText>Consideration of Bill</ukm:StageText></ukm:StageHeader><ukm:ShortTitle>Groceries Code Adjudicator Bill, As Amended</ukm:ShortTitle><ukm:AsAmended>AsAmended</ukm:AsAmended></ukm:BillAmendmentMetaData>
+<ukm:billEffects><ukm:BillEffect ref="NC2" Type="Move" status="" Page="" Line="" Schedule="" Clause="New"><ukm:Sponsor>Philip Davies</ukm:Sponsor><ukm:ClauseTitle>Supplier turnover</ukm:ClauseTitle></ukm:BillEffect><ukm:BillEffect ref="NC3" Type="Move" status="" Page="" Line="" Schedule="" Clause="New"><ukm:Sponsor>Philip Davies</ukm:Sponsor><ukm:ClauseTitle>Sunsetting</ukm:ClauseTitle></ukm:BillEffect><ukm:BillEffect ref="p00024" status="" Type="addition" Page="3" Line="15" Schedule="" Clause="8" order="Page|line|[Clause|"><ukm:Sponsor>Philip Davies</ukm:Sponsor></ukm:BillEffect><ukm:BillEffect ref="p00025" status="" Type="addition" Page="5" Line="27" Schedule="" Clause="14" order="Page|line|[Clause|"><ukm:Sponsor>Philip Davies</ukm:Sponsor></ukm:BillEffect><ukm:BillEffect ref="p00026" status="" Type="addition" Page="8" Line="33" Schedule="" Clause="19" order="Page|line|[Clause|"><ukm:Sponsor>Philip Davies</ukm:Sponsor></ukm:BillEffect><ukm:BillEffect ref="NC4" Type="Move" status="" Page="" Line="" Schedule="" Clause="New"><ukm:Sponsor>Mr Christopher Chope</ukm:Sponsor><ukm:ClauseTitle>Supplier headquarters</ukm:ClauseTitle></ukm:BillEffect><ukm:BillEffect ref="NC5" Type="Move" status="" Page="" Line="" Schedule="" Clause="New"><ukm:Sponsor>Mr Christopher Chope</ukm:Sponsor><ukm:ClauseTitle>Supply source</ukm:ClauseTitle></ukm:BillEffect><ukm:BillEffect ref="p00027" status="" Type="replace" Page="10" Line="" Schedule="" Clause="25" order="Page|[Clause|"><ukm:Sponsor>Mr Christopher Chope</ukm:Sponsor></ukm:BillEffect><ukm:BillEffect ref="p00008" status="" Type="replace" Page="6" Line="" Schedule="" Clause="15" order="Page|[Clause|" Star="No"><ukm:Sponsor>Secretary Vince Cable</ukm:Sponsor></ukm:BillEffect><ukm:BillEffect ref="a0000a" amendmentId="p00008" status="" Type="insert" Page="" Line="6" Schedule="" Clause="" order="Line|"><ukm:Sponsor>Mr Christopher Chope</ukm:Sponsor></ukm:BillEffect><ukm:BillEffect ref="a0000b" amendmentId="p00008" status="" Type="insert" Page="" Line="9" Schedule="" Clause="" order="Line|"><ukm:Sponsor>Mr Christopher Chope</ukm:Sponsor></ukm:BillEffect><ukm:BillEffect ref="p00028" status="" Type="insert" Page="4" Line="32" Schedule="" Clause="12" order="Page|line|[Clause|"><ukm:Sponsor>Ian Murray</ukm:Sponsor><ukm:Sponsor>Huw Irranca-Davies</ukm:Sponsor></ukm:BillEffect><ukm:BillEffect ref="p00029" status="" Type="addition" Page="5" Line="18" Schedule="" Clause="13" order="Page|line|[Clause|"><ukm:Sponsor>Ian Murray</ukm:Sponsor><ukm:Sponsor>Huw Irranca-Davies</ukm:Sponsor></ukm:BillEffect><ukm:BillEffect ref="p00030" status="" Type="addition" Page="5" Line="18" Schedule="" Clause="13" order="Page|line|[Clause|"><ukm:Sponsor>Ian Murray</ukm:Sponsor><ukm:Sponsor>Huw Irranca-Davies</ukm:Sponsor></ukm:BillEffect><ukm:BillEffect ref="p00031" status="" Type="insert" Page="5" Line="29" Schedule="" Clause="14" order="Page|line|[Clause|"><ukm:Sponsor>Ian Murray</ukm:Sponsor><ukm:Sponsor>Huw Irranca-Davies</ukm:Sponsor></ukm:BillEffect><ukm:BillEffect ref="p00032" status="" Type="omit" Page="6" Line="34" Schedule="" Clause="15" order="Page|line|[Clause|"><ukm:Sponsor>Ian Murray</ukm:Sponsor><ukm:Sponsor>Huw Irranca-Davies</ukm:Sponsor></ukm:BillEffect></ukm:billEffects>
+</ukm:Metadata>
+<Header><NoticeOfAmds><Text><?start-line?>Notices of Amendments</Text>
+</NoticeOfAmds>
+<?new-line?><Given><Text><?start-line?>given on</Text>
+</Given>
+<?new-line?><Date><Text><?start-line?>Thursday </Text>
+
+
+<Text><?start-line?>21 February 2013</Text>
+
+</Date>
+<?new-line?><billPrelim><Text><?start-line?>For other Amendment(s) see the following page(s) of Supplement to Votes:<?new-line?>675, 721-22 749 <Emphasis>and</Emphasis> 773-74</Text>
+
+
+<?new-line?>
+
+</billPrelim>
+<?new-line?><Stageheader><Text><?start-line?>Consideration of Bill</Text>
+</Stageheader>
+<?new-line?><Shorttitle>Groceries Code Adjudicator Bill
+, As Amended</Shorttitle>
+
+</Header><BillAmendment><Body>
+<P1 id="NC2"><Pnumber>NC2</Pnumber><P1para><Text><?start-line?>To move the following Clause:—</Text>
+
+</P1para><BlockAmendment Format="None" context="clause"><Text><?start-line?>‘Suppliers are not allowed to refer cases to the Adjudicator and cannot have cases <?new-line?>referred on their behalf if their turnover exceeds £1bn per annum.’.</Text>
+</BlockAmendment></P1>
+<?new-line?><P1 id="NC3"><Pnumber>NC3</Pnumber><P1para><Text><?start-line?>To move the following Clause:—</Text>
+
+</P1para><BlockAmendment Format="None" context="clause"><Text><?start-line?>‘This Bill will expire in seven years from the date it receives Royal Assent.’.</Text>
+</BlockAmendment></P1>
+<?new-page?><P1 id="p00024"><Pnumber>24</Pnumber><?quote []?><P1para><Text><?start-line?>at end add—</Text>
+<BlockAmendment Format="single" Context="clause" TargetClass="unknown" TargetSubClass="unknown"><?Text [at end add]?><?new-page?><P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The large retailer may appeal against the requirement to publish information—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>to the High Court, in England and Wales or Northern Ireland; or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>to the Court of Session, in Scotland.’.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</BlockAmendment></P1para></P1>
+<?new-page?><P1 id="p00025"><Pnumber>25</Pnumber><?quote []?><P1para><Text><?start-line?>at end add—</Text>
+<BlockAmendment Format="single" Context="clause" TargetClass="unknown" TargetSubClass="unknown"><?Text [at end add]?><?new-page?><P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>all costs incurred by the Adjudicator.’.</Text>
+</P3para>
+</P3>
+</BlockAmendment></P1para></P1>
+<?new-page?><P1 id="p00026"><Pnumber>26</Pnumber><?quote []?><P1para><Text><?start-line?>at end add—</Text>
+<BlockAmendment Format="single" Context="clause" TargetClass="unknown" TargetSubClass="unknown"><?Text [at end add]?><?new-page?><P2>
+<Pnumber>3A</Pnumber>
+<P2para>
+<Text><?start-line?>For the purpose of the first levy and any subsequent annual increase in the levy <?new-line?>of greater then 10 per cent on the previous year, the Adjudicator must undertake <?new-line?>a consultation process with the large retailers and consider any submissions <?new-line?>received as the Adjudicator considers appropriate.’.</Text>
+</P2para>
+</P2>
+</BlockAmendment></P1para></P1>
+<?new-line?><P1 id="NC4"><Pnumber>NC4</Pnumber><P1para><Text><?start-line?>To move the following Clause:—</Text>
+
+</P1para><BlockAmendment Format="None" context="clause"><Text><?start-line?>‘Suppliers are not allowed to refer cases to the Adjudicator and cannot have cases <?new-line?>referred on their behalf if they have their principal headquarters outside the <?new-line?>European Union.’.</Text>
+</BlockAmendment></P1>
+<?new-line?><P1 id="NC5"><Pnumber>NC5</Pnumber><P1para><Text><?start-line?>To move the following Clause:—</Text>
+
+</P1para><BlockAmendment Format="None" context="clause"><Text><?start-line?>‘The provisions of this Act shall not apply to any supplies which are produced, <?new-line?>manufactured or processed, in whole or in part, outside the European Union.’.</Text>
+</BlockAmendment></P1>
+<?new-page?><P1 id="p00027"><Pnumber>27</Pnumber><?quote []?><P1para><Text><?start-line?>leave out lines 35 to 40 and insert ‘This Act shall come into force <?new-line?>two months after Royal Assent.’.</Text>
+
+<?new-line?>
+</P1para></P1>
+<?new-line?><P1 id="p00008"><Pnumber>8</Pnumber><?quote []?><P1para><Text><?start-line?>leave out lines 34 to 36 and insert—</Text>
+<BlockAmendment Format="single" Context="clause" TargetClass="unknown" TargetSubClass="unknown"><?Text [leave out lines 34 to 36 and insert]?><?new-page?><P2>
+<Pnumber>10A</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State may by order provide that this Act has effect as if the <?new-line?>section set out in subsection (11) below were inserted after section 4.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>10B</Pnumber>
+<P2para>
+<Text><?start-line?>An order under subsection (10A)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>may be made only if, as a result of the findings of a review, the Secretary <?new-line?>of State thinks that making the order would enable the Adjudicator to be <?new-line?>more effective;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>may be revoked only if, as a result of the findings of a review, the <?new-line?>Secretary of State thinks that revoking the order would not impair the <?new-line?>Adjudicator’s effectiveness.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>11</Pnumber>
+<P2para>
+<Text><?start-line?>This is the section referred to in subsection (10A)—’.</Text>
+</P2para>
+</P2>
+</BlockAmendment></P1para></P1><A2A id="a0000a" amendmentId="p00008"><PNumber>(a)</PNumber><?quote []?><P1para><Text><?start-line?>after ‘more’, insert ‘efficient and’.</Text>
+</P1para></A2A><A2A id="a0000b" amendmentId="p00008"><PNumber>(b)</PNumber><?quote []?><P1para><Text><?start-line?>after ‘Adjudicator’s’, insert ‘efficiency and’.</Text>
+</P1para></A2A>
+<?new-page?><P1 id="p00028"><Pnumber>28</Pnumber><?quote []?><P1para><Text><?start-line?>at end insert—</Text>
+<BlockAmendment Format="single" Context="clause" TargetClass="unknown" TargetSubClass="unknown"><?Text [at end insert]?><?new-page?><P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the nature and type of arbitrations to be conducted under section 3 <?new-line?>including:</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>the law applicable to an arbirtration; and</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>where the arbitration should be conducted.’.</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</BlockAmendment></P1para></P1>
+<?new-page?><P1 id="p00029"><Pnumber>29</Pnumber><?quote []?><P1para><Text><?start-line?>at end add—</Text>
+<BlockAmendment Format="single" Context="clause" TargetClass="unknown" TargetSubClass="unknown"><?Text [at end add]?><?new-page?><P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The Office of Fair Trading shall be required to publish a response to the <?new-line?>Adjudicator on the recommendations set out in subsection (1) explaining whether <?new-line?>they will be acted upon or not.’.</Text>
+</P2para>
+</P2>
+</BlockAmendment></P1para></P1>
+<?new-page?><P1 id="p00030"><Pnumber>30</Pnumber><?quote []?><P1para><Text><?start-line?>at end add—</Text>
+<BlockAmendment Format="single" Context="clause" TargetClass="unknown" TargetSubClass="unknown"><?Text [at end add]?><?new-page?><P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In assessing changes that could be made to the Code, the Adjudicator shall give <?new-line?>due consideration to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the territorial extent of the Code, especially in relation to activities of <?new-line?>large retailers outwith the UK, including work done by subsidiaries of <?new-line?>large retailers;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>whether intermediaries in the supply chain should be covered; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>whether commercial pressures or criminal activity pose risks to <?new-line?>consumer interests by potentially compromising standards of food safety, <?new-line?>hygiene and food authenticity.’.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</BlockAmendment></P1para></P1>
+<?new-page?><P1 id="p00031"><Pnumber>31</Pnumber><?quote []?><P1para><Text><?start-line?>after ‘followed’, insert ‘and whether any further <?new-line?>enforcement measures are to be taken in order to secure compliance with the Groceries <?new-line?>Code.’.</Text>
+
+<?new-line?>
+
+<?new-line?>
+</P1para></P1>
+<?new-line?><P1 id="p00032"><Pnumber>32</Pnumber><?quote []?><P1para><Text><?start-line?>leave out subsection (11).</Text>
+</P1para></P1>
+
+</Body></BillAmendment>
+</Legislation>

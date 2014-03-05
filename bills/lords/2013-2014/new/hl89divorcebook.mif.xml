@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>Divorce (Financial Provision) Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>26/2/2014</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 89" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="3" />
+<ukm:House Value="House of Lords" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Cover>
+<CoverTitle>EXPLANATORY NOTES</CoverTitle>
+<CoverPara><Text><?start-line?>Explanatory notes to the Bill, prepared by the [Name to be replaced], are published <?new-line?>separately as ...</Text></CoverPara>
+<CoverTitle>EUROPEAN CONVENTION ON HUMAN RIGHTS</CoverTitle>
+<CoverPara><Text><?start-line?>[Name to be replaced] has made the following statement under section 19(1)(a) of the <?new-line?>Human Rights Act 1998:</Text></CoverPara>
+
+<CoverPara><Text><?start-line?>In my view the provisions of the <?start-line?>Divorce (Financial Provision) Bill [HL]<?start-line?> are <?new-line?>compatible with the Convention rights.</Text></CoverPara>
+</Cover><Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsItem ContentRef="p00009">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Amendment of the Matrimonial Causes Act 1973</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00010">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>Applications for court orders</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00011">
+<ContentsNumber>3</ContentsNumber>
+<ContentsTitle>Pre-nuptial and post-nuptial agreements</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00012">
+<ContentsNumber>4</ContentsNumber>
+<ContentsTitle>Matrimonial property</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00015">
+<ContentsNumber>5</ContentsNumber>
+<ContentsTitle>Periodical payments and lump sums</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00018">
+<ContentsNumber>6</ContentsNumber>
+<ContentsTitle>Children of the family</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00019">
+<ContentsNumber>7</ContentsNumber>
+<ContentsTitle>Conduct</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00020">
+<ContentsNumber>8</ContentsNumber>
+<ContentsTitle>Short title, commencement and extent</ContentsTitle>
+</ContentsItem>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Amend the Matrimonial Causes Act 1973 and to make provision in connection <?new-line?>with financial settlements following divorce.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<P1group id="p00009">
+<Title><?start-line?>Amendment of the Matrimonial Causes Act 1973</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Section 25 of the Matrimonial Causes Act 1973 (matters to which court is to <?new-line?>have regard in deciding how to exercise its powers under ss. 23, 24 and 24A) is <?new-line?>repealed.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>References to section 25 of the Matrimonial Causes Act 1973 in the Civil <?new-line?>Partnership Act 2004 and the Marriage (Same Sex Couples) Act 2013 shall be <?new-line?>read as references to the provisions of this Act.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In this Act—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“divorce” includes dissolution of a civil partnership;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“marriage” includes civil partnership;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“pre-nuptial agreement” means an agreement entered into in <?new-line?>contemplation of marriage for the purpose of regulating the affairs of <?new-line?>the parties should their marriage break down; and</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“post-nuptial agreement” means an agreement entered into after <?new-line?>marriage, by the parties to the marriage, for the purpose of regulating <?new-line?>their affairs should the marriage break down.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Any reference in this Act to a party to a marriage includes a reference to a civil <?new-line?>partner.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00010">
+<Title><?start-line?>Applications for court orders</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<Text><?start-line?>In an action for divorce either party may apply to the court for one or more of <?new-line?>the following orders—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>an order for payment of a lump sum to him or her by the other party to <?new-line?>the marriage;</Text>
+</P3para>
+</P3>
+<?new-page?><P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>an order for the transfer of property to him or her by the other party to <?new-line?>the marriage;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>an order for the making of a periodical payment to him or her by the <?new-line?>other party to the marriage;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>a pension sharing order.</Text>
+</P3para>
+</P3>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00011">
+<Title><?start-line?>Pre-nuptial and post-nuptial agreements</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>For the purposes of this Act, a pre-nuptial or post-nuptial agreement is to be <?new-line?>treated as binding unless—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the agreement attempted to impose an obligation on a third party who <?new-line?>had not agreed in advance to be bound by it;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>a party did not receive his or her own legal advice before the agreement <?new-line?>was made;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>the agreement was made less than 21 days before the marriage;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>there was no full disclosure of assets as between the parties before it <?new-line?>was made; or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>the agreement is unenforceable under the rules of contract law.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Where there is a binding pre-nuptial or post-nuptial agreement in force, the <?new-line?>court may consider the making of an order for periodical payments, for the <?new-line?>payment of a lump sum, for the adjustment or sale of property or for pension <?new-line?>sharing only to the extent to which the agreement does not deal with the <?new-line?>matter.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00012">
+<Title><?start-line?>Matrimonial property</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<P2 id="p00013">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The net value of the matrimonial property should be shared fairly between the <?new-line?>parties to the marriage.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In applying the principle set out in subsection <InternalLink id="i00001" Ref="p00013">(1)</InternalLink>, the net value of the <?new-line?>matrimonial property shall be taken to be shared fairly between the parties <?new-line?>when it is shared equally.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The net value of the property shall be the value of the property at the relevant <?new-line?>date after deduction of any debts incurred by one or both of the parties to the <?new-line?>marriage—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>before the marriage so far as they relate to the matrimonial property; <?new-line?>and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>during the marriage;</Text>
+</P3para>
+</P3>
+<Text><?start-line?>which are outstanding at that date.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>In this section the relevant date means the date—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>on which the parties ceased to cohabit; or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>of service of the petition for divorce;</Text>
+</P3para>
+</P3>
+<Text><?start-line?>whichever is the earlier.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>Subject to the special circumstances set out in subsection <InternalLink id="i00002" Ref="p00014">(6)</InternalLink>, matrimonial <?new-line?>property means all the property belonging to the parties or either of them at the <?new-line?>relevant date which was acquired by them or one of them (otherwise than by <?new-line?>way of gift or succession from a third party)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>before the marriage for use by them as a family home or as furniture or <?new-line?>fittings for such home; or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>during the marriage but before the relevant date.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<?new-page?><P2 id="p00014">
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>Special circumstances may justify departing from equal sharing of the <?new-line?>matrimonial property, namely—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the terms of any agreement between the parties relating to the <?new-line?>ownership or division of any of the matrimonial property;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the source of the funds or assets used to acquire any of the matrimonial <?new-line?>property where those funds or assets were not derived from the income <?new-line?>or efforts of the parties during the marriage;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>any destruction, dissipation or alienation of property by either party;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>the nature and use of the matrimonial property (such as use for <?new-line?>business purposes or as a family home) and the extent to which it is <?new-line?>reasonable to expect it to be realised or divided or used as security;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>the needs of any children of the family aged under 21; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>f</Pnumber>
+<P3para>
+<Text><?start-line?>the actual or prospective liability for any expenses of valuation or <?new-line?>transfer of property in connection with the divorce.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00015">
+<Title><?start-line?>Periodical payments and lump sums</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<P2 id="p00016">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>An order for periodical payments made under this Act may only be for a <?new-line?>definite period, not exceeding three years.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The court shall not make an order for periodical payments or a lump sum <?new-line?>unless the order is justified by the principles set out in this section and it is <?new-line?>satisfied that an order for transfer of property under section 4 would be <?new-line?>inappropriate or insufficient to satisfy the requirements of this section.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In deciding whether to exercise its powers to make a periodical payments or <?new-line?>lump sum order in favour of one of the parties to the marriage the court shall <?new-line?>take into account—</Text>
+<P3 id="p00017">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>any economic advantage derived by either party from contributions by <?new-line?>the other, and of any economic disadvantage suffered by either party in <?new-line?>the interests of the other party or of their family;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>any economic burden of caring after divorce for a child of the family <?new-line?>under the age of 16 years which should be shared fairly between the <?new-line?>parties;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>that a party who has been dependent to a substantial degree on the <?new-line?>financial support of the other party should be awarded such periodical <?new-line?>payments or a lump sum as is reasonable to enable him or her to adjust <?new-line?>to the loss of that support on divorce over a period of not more than <?new-line?>three years from the date of the decree of divorce;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>that a party who at the time of the divorce is likely to suffer serious <?new-line?>financial hardship as a result of the divorce should be awarded such <?new-line?>periodical payments or a lump sum as is reasonable to relieve him or <?new-line?>her of hardship over a reasonable period, of not more than three years <?new-line?>in total.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>In assessing economic advantage and disadvantage in subsection <InternalLink id="i00003" Ref="p00017">(3)(a)</InternalLink> the <?new-line?>court shall take into account—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>advantage gained whether before or during the marriage, including <?new-line?>gains in capital, in income and in earning capacity, and “disadvantage” <?new-line?>shall be construed accordingly;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>whether the economic advantages or disadvantages incurred by either <?new-line?>party have been balanced by the economic advantages or <?new-line?>disadvantages incurred by the other party; and</Text>
+</P3para>
+</P3>
+<?new-page?><P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>whether any resulting imbalance has been or will be corrected by a <?new-line?>sharing of the value of the matrimonial property or otherwise.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>In assessing contributions in subsection <InternalLink id="i00004" Ref="p00017">(3)(a)</InternalLink>, the court shall take into account <?new-line?>contributions made before or during the marriage, including indirect and non-<?new-line?>financial contributions and any such contribution made by looking after the <?new-line?>family home, caring for the family or supporting the family financially.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>For the purposes of this section, the court shall have regard to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the age, health and earning capacity of the party who is claiming the <?new-line?>periodical allowance;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the duration and extent of the dependence of that party prior to <?new-line?>divorce;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>any intention of that party to undertake a course of education or <?new-line?>training;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>any support available to the claimant from a third party;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>the needs and resources of the parties;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>f</Pnumber>
+<P3para>
+<Text><?start-line?>all the other circumstances of the case.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>An order made under this section shall cease to have effect on the person <?new-line?>receiving payment—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>marrying,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>entering into a civil partnership,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>dying,</Text>
+</P3para>
+</P3>
+<Text><?start-line?>except in relation to any arrears due under it.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00018">
+<Title><?start-line?>Children of the family</Title>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<Text><?start-line?>For the purposes of orders made under sections 4<InternalLink id="i00005" Ref="p00013">(1)</InternalLink> and 5<InternalLink id="i00006" Ref="p00016">(1)</InternalLink>, the court shall <?new-line?>have regard to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>any order for support for the child;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the need to provide suitable accommodation for the child;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>the age and health of the child;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>the educational, financial and other circumstances of the child;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>the availability and cost of suitable childcare facilities;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>f</Pnumber>
+<P3para>
+<Text><?start-line?>the needs and resources of the parties.</Text>
+</P3para>
+</P3>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00019">
+<Title><?start-line?>Conduct</Title>
+<P1>
+<Pnumber>7</Pnumber>
+<P1para>
+<Text><?start-line?>In making orders under sections 4<InternalLink id="i00007" Ref="p00013">(1)</InternalLink> and 5<InternalLink id="i00008" Ref="p00016">(1)</InternalLink>, the court shall not take account <?new-line?>of the conduct of either party to the marriage unless—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the conduct has adversely affected the financial resources which are <?new-line?>relevant to the decision of the court on a claim for financial provision; or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>it would be manifestly inequitable to leave the conduct out of account.</Text>
+</P3para>
+</P3>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00020">
+<Title><?start-line?>Short title, commencement and extent</Title>
+<P1>
+<Pnumber>8</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Act may be cited as the Divorce (Financial Provision) Act 2014.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>This Act comes into force three months after Royal Assent.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>This Act extends to England and Wales.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Body>
+</Primary>
+</Legislation>

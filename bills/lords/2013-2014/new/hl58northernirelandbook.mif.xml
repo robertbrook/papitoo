@@ -1,0 +1,2904 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>Northern Ireland (Miscellaneous Provisions) Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>20/11/2013</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 58" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="3" />
+<ukm:House Value="House of Lords" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Cover>
+<CoverTitle>EXPLANATORY NOTES</CoverTitle>
+<CoverPara><Text><?start-line?>Explanatory notes to the Bill, prepared by the Northern Ireland Office, are published <?new-line?>separately as HL Bill 58—EN.</Text></CoverPara>
+<CoverTitle>EUROPEAN CONVENTION ON HUMAN RIGHTS</CoverTitle>
+<CoverPara><Text><?start-line?>Baroness Randerson has made the following statement under section 19(1)(a) of the <?new-line?>Human Rights Act 1998:</Text></CoverPara>
+
+<CoverPara><Text><?start-line?>In my view the provisions of the <?start-line?>Northern Ireland (Miscellaneous Provisions) Bill <?start-line?> are <?new-line?>compatible with the Convention rights.</Text></CoverPara>
+</Cover><Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsPblock>
+<ContentsTitle>Donations and loans etc for political purposes</ContentsTitle>
+<ContentsItem ContentRef="p00031">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Donations</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00037">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>Loans etc</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+<ContentsPblock>
+<ContentsTitle>Northern Ireland Assembly</ContentsTitle>
+<ContentsItem ContentRef="p00041">
+<ContentsNumber>3</ContentsNumber>
+<ContentsTitle>MPs to be disqualified for membership of Assembly</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00043">
+<ContentsNumber>4</ContentsNumber>
+<ContentsTitle>Members of the Dáil Éireann to be disqualified for membership of Assembly</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00045">
+<ContentsNumber>5</ContentsNumber>
+<ContentsTitle>Statements by prospective members of Assembly</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00049">
+<ContentsNumber>6</ContentsNumber>
+<ContentsTitle>Reduction in size of Assembly to be reserved matter</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00050">
+<ContentsNumber>7</ContentsNumber>
+<ContentsTitle>Extension of term of Assembly</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+<ContentsPblock>
+<ContentsTitle>Justice Minister</ContentsTitle>
+<ContentsItem ContentRef="p00051">
+<ContentsNumber>8</ContentsNumber>
+<ContentsTitle>Appointment of Justice Minister</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00056">
+<ContentsNumber>9</ContentsNumber>
+<ContentsTitle>Reappointment of other Northern Ireland Ministers in certain cases</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+<ContentsPblock>
+<ContentsTitle>Excepted and reserved matters</ContentsTitle>
+<ContentsItem ContentRef="p00062">
+<ContentsNumber>10</ContentsNumber>
+<ContentsTitle>Civil Service Commissioners for Northern Ireland</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00063">
+<ContentsNumber>11</ContentsNumber>
+<ContentsTitle>Northern Ireland Human Rights Commission</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00064">
+<ContentsNumber>12</ContentsNumber>
+<ContentsTitle>District electoral areas for council elections</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+<ContentsPblock>
+<ContentsTitle>Electoral registration and administration</ContentsTitle>
+<ContentsItem ContentRef="p00065">
+<ContentsNumber>13</ContentsNumber>
+<ContentsTitle>Removal of requirement that canvass form must be prescribed form</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00069">
+<ContentsNumber>14</ContentsNumber>
+<ContentsTitle>Registration as an elector: abolition of 3 month residence requirement</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00071">
+<ContentsNumber>15</ContentsNumber>
+<ContentsTitle>Registration as an overseas elector: declaration of nationality</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00078">
+<ContentsNumber>16</ContentsNumber>
+<ContentsTitle>Absent voting</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00080">
+<ContentsNumber>17</ContentsNumber>
+<ContentsTitle>Electoral identity cards</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00083">
+<ContentsNumber>18</ContentsNumber>
+<ContentsTitle>Chief Electoral Officer: duty to take necessary steps</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00087">
+<ContentsNumber>19</ContentsNumber>
+<ContentsTitle>Chief Electoral Officer: performance standards etc</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00088">
+<ContentsNumber>20</ContentsNumber>
+<ContentsTitle>Data sharing</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+<ContentsPblock>
+<ContentsTitle>Miscellaneous</ContentsTitle>
+<ContentsItem ContentRef="p00096">
+<ContentsNumber>21</ContentsNumber>
+<ContentsTitle>Rules of court</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00097">
+<ContentsNumber>22</ContentsNumber>
+<ContentsTitle>Equality duties</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00098">
+<ContentsNumber>23</ContentsNumber>
+<ContentsTitle>Extension of powers to make secondary legislation about elections etc</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00099">
+<ContentsNumber>24</ContentsNumber>
+<ContentsTitle>Regulation of biometric data</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00100">
+<ContentsNumber>25</ContentsNumber>
+<ContentsTitle>Amendment of Northern Ireland Assembly Disqualification Act 1975</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+<ContentsPblock>
+<ContentsTitle>Final provisions</ContentsTitle>
+<ContentsItem ContentRef="p00101">
+<ContentsNumber>26</ContentsNumber>
+<ContentsTitle>Amendments that could have been made under existing powers</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00102">
+<ContentsNumber>27</ContentsNumber>
+<ContentsTitle>Extent</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00105">
+<ContentsNumber>28</ContentsNumber>
+<ContentsTitle>Commencement</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00111">
+<ContentsNumber>29</ContentsNumber>
+<ContentsTitle>Short title</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+<ContentsSchedules>
+<ContentsSchedule ContentRef="p00112">
+<ContentsNumber>Schedule</ContentsNumber>
+<ContentsTitle>Rules of court</ContentsTitle>
+</ContentsSchedule>
+</ContentsSchedules>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Make provision about donations, loans and related transactions for political <?new-line?>purposes in connection with Northern Ireland; to amend the Northern Ireland <?new-line?>Assembly Disqualification Act 1975 and the Northern Ireland Act 1998; to <?new-line?>make provision about the registration of electors and the administration of <?new-line?>elections in Northern Ireland; and to make miscellaneous amendments in the <?new-line?>law relating to Northern Ireland.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<Pblock>
+<Title><?start-line?>Donations and loans etc for political purposes</Title>
+<P1group id="p00031">
+<Title><?start-line?>Donations</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<P2 id="p00032">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In the Northern Ireland (Miscellaneous Provisions) Act 2006—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>for section 14 (modifications of the Political Parties, Elections and <?new-line?>Referendums Act 2000 to have effect during a prescribed period) <?new-line?>substitute—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Special provision in relation to Northern Ireland recipients</Title>
+<P1>
+<Pnumber>14</Pnumber>
+<P1para>
+<Text><?start-line?>Schedule 1 contains amendments of the 2000 Act relating to <?new-line?>donations received by Northern Ireland recipients.</Text>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+<AppendText>;</AppendText>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in Schedule 1, in the heading, for “<SmallCaps>Modifications</SmallCaps>” substitute <?new-line?>“<SmallCaps>Amendments</SmallCaps>”.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00033">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>After section 15 of that Act insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group id="p00034">
+<Title><?start-line?>Power to increase transparency</Title>
+<P1>
+<Pnumber>15A</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State may, after consulting the Electoral Commission, <?new-line?>by order—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>make provision permitting or requiring the Electoral <?new-line?>Commission to publish information about donations received <?new-line?>by Northern Ireland recipients, or</Text>
+</P3para>
+</P3>
+<?new-page?><P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>make other provision for the purpose of increasing <?new-line?>transparency in relation to such donations.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Provision made under this section may—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>amend, repeal or modify any enactment connected with <?new-line?>donations for political purposes (including in particular any of <?new-line?>the provisions inserted into the 2000 Act by Schedule 1);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>include consequential, supplementary, incidental, transitional, <?new-line?>transitory or saving provision.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Provision made under this section may apply in relation to donations <?new-line?>received at any time on or after 1 November 2007.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The power to make an order under this section is exercisable by <?new-line?>statutory instrument.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>No order is to be made under this section unless a draft of the <?new-line?>instrument containing the order has been laid before and approved by <?new-line?>a resolution of each House of Parliament.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>For the purposes of this section and section <InternalLink id="i00001" Ref="p00035">15B</InternalLink>—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>“donation” has the same meaning as in Part 4 of the 2000 Act <?new-line?>(see section 50 of that Act);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the time at which a donation is received is to be determined in <?new-line?>the same way as for the purposes of that Part;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>“Northern Ireland recipient” has the same meaning as in <?new-line?>Chapter 6 of that Part (see section 71A of that Act).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>Section <InternalLink id="i00002" Ref="p00035">15B</InternalLink> imposes limits on the provision that may be made under <?new-line?>this section.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00035">
+<Title><?start-line?>Confidentiality of donations received before 1 January 2014</Title>
+<P1>
+<Pnumber>15B</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The provision that may be made by order under section <InternalLink id="i00003" Ref="p00034">15A</InternalLink> does not <?new-line?>include provision which—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>alters the effect of section 71E of the 2000 Act (duty not to <?new-line?>disclose contents of donation reports) in relation to the <?new-line?>disclosure of protected information,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>reduces the maximum penalty for an offence under that section <?new-line?>committed in relation to the disclosure of protected <?new-line?>information, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>gives a person a right to obtain protected information contained <?new-line?>in a register kept by the Commission under that Act.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>“Protected information” means information—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>which relates to a donation received before 1 January 2014, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>which identifies the donor or from which it is possible to <?new-line?>identify the donor.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The references in subsection (1) to section 71E of the 2000 Act and to the <?new-line?>maximum penalty for an offence under that section are to that section <?new-line?>and maximum penalty as they have effect at the time at which the order <?new-line?>under section <InternalLink id="i00004" Ref="p00034">15A</InternalLink> is made.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2 id="p00036">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In section 71E of the Political Parties, Elections and Referendums Act 2000 </Text><?new-page?><?start-line?>  <Text>(duty not to disclose contents of donation reports), after subsection (4) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>4A</Pnumber>
+<P2para>
+<Text><?start-line?>Such information may be disclosed if the Commission believe, on <?new-line?>reasonable grounds, that—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the relevant person has consented to the disclosure, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the consent was given in accordance with any prescribed <?new-line?>requirements.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4B</Pnumber>
+<P2para>
+<Text><?start-line?>“The relevant person” means the person who made the donation to <?new-line?>which the information relates.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00037">
+<Title><?start-line?>Loans etc</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<P2 id="p00038">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In the Electoral Administration Act 2006 (Regulation of Loans etc: Northern <?new-line?>Ireland) Order 2008 (<Citation id="c00101" Class="UnitedKingdomStatutoryInstrument" Year="2008" Number="1319">S.I. 2008/1319</Citation>)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>for article 5 (modifications of the Political Parties, Elections and <?new-line?>Referendums Act 2000 to have effect during a prescribed period) <?new-line?>substitute—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Special provision in relation to Northern Ireland participants</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<Text><?start-line?>Schedule 1 contains amendments of the 2000 Act relating to <?new-line?>loans etc involving Northern Ireland participants.</Text>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+<AppendText>;</AppendText>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in Schedule 1, in the heading, for “<SmallCaps>Modifications</SmallCaps>” substitute <?new-line?>“<SmallCaps>Amendments</SmallCaps>”.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00039">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In section 71Z4 of the Political Parties, Elections and Referendums Act 2000 <?new-line?>(duty not to disclose contents of transaction reports), after subsection (4) <?new-line?>insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>4A</Pnumber>
+<P2para>
+<Text><?start-line?>Such information may be disclosed if the Commission believe, on <?new-line?>reasonable grounds, that—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>each relevant person has consented to the disclosure, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the consent was given in accordance with any prescribed <?new-line?>requirements.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4B</Pnumber>
+<P2para>
+<Text><?start-line?>“Relevant person” means a party to the transaction to which the <?new-line?>information relates other than—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>a registered party whose treasurer is required under this Part to <?new-line?>prepare a report to the Commission giving details of the <?new-line?>transaction, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>any other party to the transaction who is required under this <?new-line?>Part to prepare such a report.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2 id="p00040">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In section 63 of the Electoral Administration Act 2006 (power to make <?new-line?>provision for regulation of loans etc: Northern Ireland), after subsection (7) <?new-line?>insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>8</Pnumber>
+<P2para>
+<Text><?start-line?>For the purposes of this section, section 1<InternalLink id="i00005" Ref="p00036">(3)</InternalLink> of the Northern Ireland <?new-line?>(Miscellaneous Provisions) Act 2013 (which amends section 71E of the <?new-line?>2000 Act) is treated as provision made by the 2006 Act.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+<?new-page?><Pblock>
+<Title><?start-line?>Northern Ireland Assembly</Title>
+<P1group id="p00041">
+<Title><?start-line?>MPs to be disqualified for membership of Assembly</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In section 1(1) of the Northern Ireland Assembly Disqualification Act 1975 <?new-line?>(disqualification of holders of certain offices etc), before paragraph (a) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3 id="p00042">
+<Pnumber>za</Pnumber>
+<P3para>
+<Text><?start-line?>is a member of the House of Commons;</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>After section 1 of that Act insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Members of the House of Commons</Title>
+<P1>
+<Pnumber>1A</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>A person returned at an election as a member of the Northern Ireland <?new-line?>Assembly is not disqualified under section 1(1)<InternalLink id="i00006" Ref="p00042">(za)</InternalLink> at any time in the <?new-line?>period of 8 days beginning with the day the person is so returned.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Subsection (3) applies where a person—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>is returned at an election as a member of the Northern Ireland <?new-line?>Assembly,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>on being so returned is a candidate for election to the House of <?new-line?>Commons, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>is subsequently returned at that election as a member of that <?new-line?>House.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The person is not disqualified under section 1(1)<InternalLink id="i00007" Ref="p00042">(za)</InternalLink> at any time in the <?new-line?>period of 8 days beginning with the day the person is returned as a <?new-line?>member of the House of Commons.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>A person is a “candidate for election to the House of Commons” if the <?new-line?>person’s nomination paper for election as a member of the House of <?new-line?>Commons has been delivered to the returning officer under rule 6 of <?new-line?>Schedule 1 to the Representation of the People Act 1983 (parliamentary <?new-line?>election rules).</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In section 37(1) of the Northern Ireland Act 1998 (effect of disqualification)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in paragraph (a), after “by virtue of” insert “the Northern Ireland <?new-line?>Assembly Disqualification Act 1975 or”;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in paragraph (b), after “by virtue of” insert “that Act or”.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>In section 47(4) of that Act (remuneration of members), for “either House of <?new-line?>Parliament” substitute “the House of Lords”.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00043">
+<Title><?start-line?>Members of the Dáil Éireann to be disqualified for membership of Assembly</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In section 1(1) of the Northern Ireland Assembly Disqualification Act 1975 <?new-line?>(disqualification of holders of certain offices etc), before paragraph (e) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3 id="p00044">
+<Pnumber>db</Pnumber>
+<P3para>
+<Text><?start-line?>is a member of the Dáil Éireann (House of Representatives of <?new-line?>Ireland);</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>After section 1A of that Act (as inserted by section 3) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Members of the Dáil Éireann</Title>
+<P1>
+<Pnumber>1B</Pnumber>
+<P1para>
+<Text><?start-line?>A person returned at an election as a member of the Northern Ireland <?new-line?>Assembly is not disqualified under section 1(1)<InternalLink id="i00008" Ref="p00044">(db)</InternalLink> at any time in the <?new-line?>period of 8 days beginning with the day the person is so returned.</Text>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<?new-page?><P1group id="p00045">
+<Title><?start-line?>Statements by prospective members of Assembly</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Northern Ireland Assembly (Elections) Order 2001 (<Citation id="c00102" Class="UnitedKingdomStatutoryInstrument" Year="2001" Number="2599">S.I. 2001/2599</Citation>) is <?new-line?>amended as follows.</Text>
+</P2para>
+</P2>
+<P2 id="p00046">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In article 6 (vacancies filled by substitutes)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in paragraph (2), for the words from “state in writing” to the end <?new-line?>substitute “make a statement of readiness”;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in paragraph (3)—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>in sub-paragraph (a)(ii), for the words from “in writing” to <?new-line?>“Assembly” substitute “of readiness”;</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>in sub-paragraph (b), for “is not willing or able to be so <?new-line?>returned” substitute “will not make a statement of readiness,”;</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>in paragraph (4)—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>for “states in writing” substitute “makes a statement of <?new-line?>readiness”;</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>omit “that he is willing and able to be returned as a member of <?new-line?>the Assembly”;</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>in paragraph (5)—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>in the opening words: after “a statement” insert “of readiness”; <?new-line?>and omit “that he is willing and able to be returned as a member <?new-line?>of the Assembly”;</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>in sub-paragraph (a), for “is not willing and able to be so <?new-line?>returned” substitute “will not make a statement of readiness”;</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text><?start-line?>in sub-paragraph (b), for “in writing that he is willing and able <?new-line?>to be so returned” substitute “of readiness”;</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>after paragraph (6) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>In this article and article 6B “statement of readiness” means a <?new-line?>statement in writing by a person (“P”)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>that P is willing and able to be returned as a member of <?new-line?>the Assembly,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>that P is aware of the provisions of the Northern Ireland <?new-line?>Assembly Disqualification Act 1975 and section 36 of the <?new-line?>Northern Ireland Act 1998, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>that P is, to the best of P’s knowledge and belief, not <?new-line?>disqualified for membership of the Assembly.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</BlockAmendment>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00047">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In article 6B (vacancies arising during an Assembly term: members of <?new-line?>registered parties)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in paragraph (3), for the words “in writing” to the end substitute <?new-line?>“with—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>a statement of readiness, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>a statement in writing that he will not make a statement <?new-line?>of readiness.</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>;</AppendText>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>for paragraph (4)(a) and (b) substitute—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>does not respond within such period as the Officer <?new-line?>considers reasonable with a statement of the kind <?new-line?>mentioned in paragraph (3)(a) or (b), or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>responds within such a period with a statement of the <?new-line?>kind mentioned in paragraph (3)(b).</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>;</AppendText>
+</P3para>
+</P3>
+<?new-page?><P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>in paragraph (6), for the words from “does” to “Assembly” substitute <?new-line?>“responds within such period as the Officer considers reasonable with <?new-line?>a statement of the kind mentioned in paragraph (3)(a)”.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00048">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Schedule 1 (application with modifications of provisions of the Representation <?new-line?>of the People Act 1983 etc) is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>In the entry for section 65A (false statements in nomination papers etc), in the <?new-line?>second column, insert</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double" PartialRefs="p10013"><Text id="p10013">For subsection (1B)(c) substitute—</Text>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>that he is, to the best of his knowledge and belief, not <?new-line?>disqualified for membership of the Assembly, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>that he is, to the best of his knowledge and belief, disqualified <?new-line?>for membership of the Assembly only under section 1(1)<InternalLink id="i00009" Ref="p00042">(za)</InternalLink> or <?new-line?><InternalLink id="i00010" Ref="p00044">(db)</InternalLink> of the Northern Ireland Assembly Disqualification Act <?new-line?>1975 (disqualification of MPs or members of the Dáil <?new-line?>Éireann).”.</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>In the entry for rule 8 of the parliamentary elections rules (consent to <?new-line?>nomination), in the second column, for the first sentence substitute “For <?new-line?>paragraph (3)(b) substitute—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>shall state that he is aware of the provisions of the Northern <?new-line?>Ireland Assembly Disqualification Act 1975 and section 36 of <?new-line?>the Northern Ireland Act 1998; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>ba</Pnumber>
+<P3para>
+<Text><?start-line?>shall state either—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>that he is, to the best of his knowledge and belief, not <?new-line?>disqualified for membership of the Assembly, or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>that he is, to the best of his knowledge and belief, <?new-line?>disqualified for membership of the Assembly only <?new-line?>under section 1(1)<InternalLink id="i00011" Ref="p00042">(za)</InternalLink> or <InternalLink id="i00012" Ref="p00044">(db)</InternalLink> of the Northern Ireland <?new-line?>Assembly Disqualification Act 1975 (disqualification of <?new-line?>MPs or members of the Dáil Éireann); and”.</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00049">
+<Title><?start-line?>Reduction in size of Assembly to be reserved matter</Title>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<Text><?start-line?>In Schedule 3 to the Northern Ireland Act 1998 (reserved matters), after <?new-line?>paragraph 7 insert—</Text>
+<BlockAmendment TargetClass="primary" Context="schedule" TargetSubClass="unknown" Format="double">
+<P1>
+<Pnumber>7A</Pnumber>
+<P1para>
+<Text><?start-line?>The alteration of the number of members of the Assembly returned <?new-line?>for each constituency.</Text>
+</P1para>
+</P1>
+<P1para>
+<Text><?start-line?>This paragraph does not include—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the alteration of that number to a number exceeding six, or</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the provision of different numbers for different <?new-line?>constituencies.</Text>
+
+</P3para></P3>
+</P1para>
+</BlockAmendment>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00050">
+<Title><?start-line?>Extension of term of Assembly</Title>
+<P1>
+<Pnumber>7</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In section 31(1) of the Northern Ireland Act 1998 (dates of elections and <?new-line?>dissolutions), for “fourth” substitute “fifth”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The amendment made by subsection (1) has effect in relation to the <?new-line?>determination of the date of the poll for the election of the Assembly next <?new-line?>following the Assembly elected at the poll on 5 May 2011 (as well as its <?new-line?>successors).</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+<?new-page?><Pblock>
+<Title><?start-line?>Justice Minister</Title>
+<P1group id="p00051">
+<Title><?start-line?>Appointment of Justice Minister</Title>
+<P1>
+<Pnumber>8</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Part 1A of Schedule 4A to the Northern Ireland Act 1998 (department with <?new-line?>policing and justice functions) is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>For paragraph 3B (modification of section 16A) substitute—</Text>
+<BlockAmendment TargetClass="primary" Context="schedule" TargetSubClass="unknown" Format="double">
+<P1>
+<Pnumber>3B</Pnumber>
+<P1para>
+<Text><?start-line?>Section 16A(3) has effect as if, for paragraph (b) (and the word “and” <?new-line?>before it) there were substituted—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>aa</Pnumber>
+<P3para>
+<Text><?start-line?>once those offices have been filled, the relevant Ministerial <?new-line?>office (within the meaning of Part 1A of Schedule 4A) shall be <?new-line?>filled by applying paragraph 3D(4) to (8) of that Schedule; <?new-line?>and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>once that office has been filled, the other Ministerial offices to <?new-line?>be held by Northern Ireland Ministers shall be filled by <?new-line?>applying section 18(2) to (6).</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+</P1para>
+</P1>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In paragraph 3C (section 18 not to apply to relevant Minister)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the existing provision becomes sub-paragraph (1);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>after that sub-paragraph insert—</Text>
+<BlockAmendment TargetClass="primary" Context="schedule" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>But the reference to Ministerial offices in subsection (5) of that <?new-line?>section (in the definition of M) shall be taken to include the <?new-line?>relevant Ministerial office.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Paragraph 3D (provisions relating to relevant Minister) is amended in <?new-line?>accordance with subsections <InternalLink id="i00013" Ref="p00052">(5)</InternalLink> to <InternalLink id="i00014" Ref="p00055">(8)</InternalLink>.</Text>
+</P2para>
+</P2>
+<P2 id="p00052">
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>In sub-paragraph (3), after “after” insert “section 16B(3) to (7) is applied in <?new-line?>relation to the offices of First Minister and deputy First Minister but before”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>After sub-paragraph (4) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="schedule" TargetSubClass="unknown" Format="double">
+<P2 id="p00053">
+<Pnumber>4A</Pnumber>
+<P2para>
+<Text><?start-line?>But a member of the Assembly who is a member of a political party <?new-line?>may not be nominated unless the nominating officer of the party <?new-line?>consents to the nomination within a period specified in standing <?new-line?>orders.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>In sub-paragraph (11)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>omit the “or” at the end of paragraph (b) and after that paragraph <?new-line?>insert—</Text>
+<BlockAmendment TargetClass="primary" Context="schedule" TargetSubClass="unknown" Format="double">
+<P3 id="p00054">
+<Pnumber>ba</Pnumber>
+<P3para>
+<Text><?start-line?>where consent to the Minister’s nomination was <?new-line?>required under sub-paragraph <InternalLink id="i00015" Ref="p00053">(4A)</InternalLink>, the Minister is <?new-line?>dismissed by the nominating officer of the party and <?new-line?>the Presiding Officer is notified of the dismissal, or</Text>
+
+</P3para></P3>
+</BlockAmendment>
+<AppendText>;</AppendText>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>at the beginning of paragraph (c) insert “where consent to the <?new-line?>Minister’s nomination was not required under sub-paragraph <InternalLink id="i00016" Ref="p00053">(4A)</InternalLink>,”.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00055">
+<Pnumber>8</Pnumber>
+<P2para>
+<Text><?start-line?>After sub-paragraph (17) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="schedule" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>18</Pnumber>
+<P2para>
+<Text><?start-line?>In this paragraph and paragraph 3E “nominating officer” has the <?new-line?>same meaning as in section 18.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<?new-page?><P1group id="p00056">
+<Title><?start-line?>Reappointment of other Northern Ireland Ministers in certain cases</Title>
+<P1>
+<Pnumber>9</Pnumber>
+<P1para>
+<Text><?start-line?>In Part 1A of Schedule 4A to the Northern Ireland Act 1998 (department with <?new-line?>policing and justice functions), after paragraph 3D insert—</Text>
+<BlockAmendment TargetClass="primary" Context="schedule" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Reappointment of other Northern Ireland Ministers in certain cases</Title>
+<P1 id="p00057">
+<Pnumber>3E</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Where the first condition or the second condition is met—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>all the Northern Ireland Ministers other than the relevant <?new-line?>Minister cease to hold office, and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>those Ministerial offices must be filled by applying section <?new-line?>18(2) to (6) within a period specified in standing orders.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2 id="p00058">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The first condition is that—</Text>
+<P3 id="p00059">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the relevant Minister ceased to hold office by virtue of <?new-line?>paragraph 3D(1)(a), and the office was filled by virtue of <?new-line?>paragraph 3D(1)(b),</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>paragraph 3D(1) applied because a resolution was passed <?new-line?>under section 30(2) which caused no Ministerial office other <?new-line?>than the relevant Ministerial office to become vacant, and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>as a result of the events mentioned in paragraph <InternalLink id="i00017" Ref="p00059">(a)</InternalLink> the total <?new-line?>number of Ministerial offices held by members of a political <?new-line?>party increased or decreased.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2 id="p00060">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The second condition is that—</Text>
+<P3 id="p00061">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the relevant Minister (“the former Minister”) ceased to hold <?new-line?>office otherwise than by virtue of paragraph 3D(1)(a), and the <?new-line?>office was filled by virtue of paragraph 3D(14), and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>as a result of the events mentioned in paragraph <InternalLink id="i00018" Ref="p00061">(a)</InternalLink> the total <?new-line?>number of Ministerial offices held by members of a political <?new-line?>party increased or decreased.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>But the second condition is not met where—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the former Minister ceased to hold office by virtue of being <?new-line?>dismissed by a nominating officer under paragraph <?new-line?>3D(11)<InternalLink id="i00019" Ref="p00054">(ba)</InternalLink>,</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>immediately before the office was filled there was at least one <?new-line?>eligible member of the nominating officer’s political party, <?new-line?>and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>each such eligible member failed to fill the office for one or <?new-line?>other of the following reasons.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>Those reasons are—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>that one or more members of the Assembly sought to <?new-line?>nominate the eligible member for the office, but consent to <?new-line?>the nomination was not given by the nominating officer in <?new-line?>accordance with paragraph 3D(4A);</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>that the eligible member was nominated for the office but did <?new-line?>not take it up within the period specified in standing orders <?new-line?>under paragraph 3D(7)(a).</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>References in this paragraph to an eligible member of a political <?new-line?>party are to a member of that party who is also a member of the <?new-line?>Assembly, but do not include the former Minister.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+<?new-page?><Pblock>
+<Title><?start-line?>Excepted and reserved matters</Title>
+<P1group id="p00062">
+<Title><?start-line?>Civil Service Commissioners for Northern Ireland</Title>
+<P1>
+<Pnumber>10</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In paragraph 21 of Schedule 2 to the Northern Ireland Act 1998 (excepted <?new-line?>matters), after “Northern Ireland Constitution Act 1973” insert “, other than <?new-line?>section 36(1)(c),”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In paragraph 16 of Schedule 3 to that Act (reserved matters), omit “functions <?new-line?>and procedures of the”.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00063">
+<Title><?start-line?>Northern Ireland Human Rights Commission</Title>
+<P1>
+<Pnumber>11</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In paragraph 22 of Schedule 2 to the Northern Ireland Act 1998 (excepted <?new-line?>matters), for sub-paragraph (f) substitute—</Text>
+<BlockAmendment TargetClass="primary" Context="schedule" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>f</Pnumber>
+<P3para>
+<Text><?start-line?>in Part VII, sections 69B, 71(1) and (2) and (3) to (5), 74(5) and <?new-line?>(6), 76 and 78;</Text>
+
+</P3para></P3>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In paragraph 42 of Schedule 3 to that Act (reserved matters), in sub-paragraph <?new-line?>(b)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>after “sections” insert “68 to 69A, 69C to 70, 71(2A) to (2C),”;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>for “Schedules 8 and” substitute “Schedules 7 to”.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00064">
+<Title><?start-line?>District electoral areas for council elections</Title>
+<P1>
+<Pnumber>12</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In paragraph 12 of Schedule 2 to the Northern Ireland Act 1998 (excepted <?new-line?>matters), the existing provision becomes sub-paragraph (1) and after that sub-<?new-line?>paragraph insert—</Text>
+<BlockAmendment TargetClass="primary" Context="schedule" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>This paragraph does not apply to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the division of local government districts into areas (“district <?new-line?>electoral areas”) for the purposes of elections to the councils <?new-line?>of those districts,</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the determination of the names of district electoral areas, or</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>the determination of the number of councillors to be elected <?new-line?>for a district electoral area or a local government district.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>After paragraph 41 of Schedule 3 to that Act (reserved matters) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="schedule" TargetSubClass="unknown" Format="double">
+<P1>
+<Pnumber>41A</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The division of local government districts into areas (“district <?new-line?>electoral areas”) for the purposes of elections to the councils of those <?new-line?>districts.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The determination of the names of district electoral areas.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The determination of the number of councillors to be elected for a <?new-line?>district electoral area or a local government district.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+<Pblock>
+<Title><?start-line?>Electoral registration and administration</Title>
+<P1group id="p00065">
+<Title><?start-line?>Removal of requirement that canvass form must be prescribed form</Title>
+<P1>
+<Pnumber>13</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In section 10 of the Representation of the People Act 1983 (“RPA 1983”) (duty <?new-line?>to conduct canvass)—</Text>
+<?new-page?><P3 id="p00066">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in subsection (4) (as substituted by paragraph 9(5) of Schedule 4 to the <?new-line?>Electoral Registration and Administration Act 2013), for “be a form <?new-line?>prescribed for those purposes” substitute “comply with such <?new-line?>requirements as to its form or content as shall be prescribed by the <?new-line?>Secretary of State after having consulted the Electoral Commission”;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in subsection (4A), for “prescribe a form” substitute “prescribe <?new-line?>requirements”;</Text>
+</P3para>
+</P3>
+<P3 id="p00067">
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>after subsection (4B), insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>4BA</Pnumber>
+<P2para>
+<Text><?start-line?>If requested to do so by the Secretary State for the purposes of <?new-line?>making regulations under subsection (4), the Electoral <?new-line?>Commission must design a form for the purposes of a canvass <?new-line?>under this section.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00068">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In section 201 of RPA 1983 (regulations), in subsections (2) and (2A), before <?new-line?>“110(7)” insert “10(4) or”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>If sub-paragraph (5) of paragraph 9 of Schedule 4 to the Electoral Registration <?new-line?>and Administration Act 2013 has not come into force on or before the day on <?new-line?>which this section comes into force, then until that sub-paragraph comes into <?new-line?>force—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the amendment made by subsection <InternalLink id="i00020" Ref="p00066">(1)(a)</InternalLink> of this section is of no effect;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>section 10(4) of RPA 1983 has effect as if, for “a form prescribed for <?new-line?>those purposes shall be used”, there were substituted “that does not <?new-line?>apply and the form to be used for the purposes of the canvass must <?new-line?>comply with such requirements as to its form or content as shall be <?new-line?>prescribed by the Secretary of State after having consulted the Electoral <?new-line?>Commission”;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>the following provisions of RPA 1983 have effect as if the references in <?new-line?>them to regulations under section 10(4) of that Act were references to <?new-line?>such regulations in respect of a canvass in Northern Ireland only—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>section 10(4BA) (as inserted by subsection <InternalLink id="i00021" Ref="p00067">(1)(c)</InternalLink>);</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>section 201(2) and (2A) (as amended by subsection <InternalLink id="i00022" Ref="p00068">(2)</InternalLink>).</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00069">
+<Title><?start-line?>Registration as an elector: abolition of 3 month residence requirement</Title>
+<P1>
+<Pnumber>14</Pnumber>
+<P1para>
+<P2 id="p00070">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The following provisions (which impose or relate to the requirement that <?new-line?>persons registering as electors in Northern Ireland must have been resident <?new-line?>there for three months) are repealed or revoked—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in the Representation of the People Act 1983—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>section 4(2);</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>section 7B(5);</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text><?start-line?>section 7C(1)(b) (and the “and” before it);</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>iv</Pnumber>
+<P4para>
+<Text><?start-line?>section 10(4A)(c)(ii) (but not the “and” after it);</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>v</Pnumber>
+<P4para>
+<Text><?start-line?>section 10A(1A)(c)(ii) (but not the “and” after it);</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>vi</Pnumber>
+<P4para>
+<Text><?start-line?>section 13A(2A)(c)(ii) (but not the “and” after it);</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>vii</Pnumber>
+<P4para>
+<Text><?start-line?>section 14(2);</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>viii</Pnumber>
+<P4para>
+<Text><?start-line?>section 17(1)(b) (but not the “and” after it);</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in the European Parliamentary Elections (Franchise of Relevant <?new-line?>Citizens of the Union) Regulations 2001 (<Citation id="c00103" Class="UnitedKingdomStatutoryInstrument" Year="2001" Number="1184">S.I. 2001/1184</Citation>)—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>regulation 4(2);</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>regulation 6(1)(c);</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<?new-page?><P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>in the Representation of the People (Northern Ireland) Regulations <?new-line?>2008 (<Citation id="c00104" Class="UnitedKingdomStatutoryInstrument" Year="2008" Number="1741">S.I. 2008/1741</Citation>), regulation 25(6).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In consequence of the amendments made by subsection <InternalLink id="i00023" Ref="p00070">(1)</InternalLink>—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in the Elected Authorities (Northern Ireland) Act 1989, in Schedule 1—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>in Part 1, for “Section 4(2)” substitute “Section 4(3)”;</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>in Part 2, omit paragraph 7(1);</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in the Representation of the People Act 2000, omit paragraph 7 of <?new-line?>Schedule 1.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00071">
+<Title><?start-line?>Registration as an overseas elector: declaration of nationality</Title>
+<P1>
+<Pnumber>15</Pnumber>
+<P1para>
+<P2 id="p00072">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In the Representation of the People Act 1985, in section 2 (registration of British <?new-line?>citizens overseas)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>after subsection (3) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2 id="p00073">
+<Pnumber>3A</Pnumber>
+<P2para>
+<Text><?start-line?>An overseas elector’s declaration that specifies an address in <?new-line?>Northern Ireland under subsection (4) may, instead of or in <?new-line?>addition to including a statement under subsection (3)(b), state <?new-line?>that the declarant is an eligible Irish citizen.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+<AppendText>;</AppendText>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>after subsection (8) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2 id="p00074">
+<Pnumber>9</Pnumber>
+<P2para>
+<Text><?start-line?>In this section “eligible Irish citizen” means an Irish citizen <?new-line?>who—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>was born in Northern Ireland, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>qualifies as a British citizen (whether or not he identifies <?new-line?>himself as such).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00075">
+<Pnumber>10</Pnumber>
+<P2para>
+<Text><?start-line?>A person found abandoned in Northern Ireland as a new-born <?new-line?>infant is, unless the contrary is shown, deemed for the purposes <?new-line?>of subsection <InternalLink id="i00024" Ref="p00074">(9)</InternalLink> to have been born in Northern Ireland.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In the Representation of the People (Northern Ireland) Regulations 2008 (S.I. <?new-line?>2008/1741), in regulation 20 (contents of overseas elector’s declaration)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in paragraph (1)—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>after “required” insert “or permitted”;</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>after “2(3)(a) to (d)” insert “, <InternalLink id="i00025" Ref="p00073">(3A)</InternalLink>”;</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text><?start-line?>for “(7)” substitute “<InternalLink id="i00026" Ref="p00077">(6B)</InternalLink>”;</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>after paragraph (5) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>5A</Pnumber>
+<P2para>
+<Text><?start-line?>Where the conditions in paragraph (4)(a) and (b) are not met in <?new-line?>relation to a declarant, his overseas elector’s declaration shall <?new-line?>comply with paragraphs (6) to <InternalLink id="i00027" Ref="p00077">(6B)</InternalLink>.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+<AppendText>;</AppendText>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>in paragraph (6), for the words before sub-paragraph (a) substitute “If <?new-line?>the declaration includes a statement under section 2(3)(b) of the 1985 <?new-line?>Act (statement that declarant is a British citizen), the declaration shall <?new-line?>state—”;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>after that paragraph insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2 id="p00076">
+<Pnumber>6A</Pnumber>
+<P2para>
+<Text><?start-line?>If the declaration includes a statement under section 2<InternalLink id="i00028" Ref="p00073">(3A)</InternalLink> of <?new-line?>the 1985 Act (statement that declarant is an eligible Irish <?new-line?>citizen), the declaration shall state—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in the case of a declarant who is the bearer of an Irish <?new-line?>passport, the number of that passport together with its <?new-line?>date and place of issue, or</Text>
+</P3para>
+</P3>
+<?new-page?><P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>otherwise, when and how the declarant acquired the <?new-line?>status of Irish citizen, together with the date, place and <?new-line?>country of the declarant’s birth.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00077">
+<Pnumber>6B</Pnumber>
+<P2para>
+<Text><?start-line?>Where, apart from this paragraph, a declaration would be <?new-line?>required to include both a statement under paragraph (6) and a <?new-line?>statement under paragraph <InternalLink id="i00029" Ref="p00076">(6A)</InternalLink>, the declaration need include <?new-line?>only one of those statements.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+<AppendText>;</AppendText>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>omit paragraph (7).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In regulation 22 of those regulations (attestation of certain overseas electors’ <?new-line?>declarations)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in paragraph (3) for “the bearer of a British passport which describes his <?new-line?>national status as a “British citizen”” substitute “a person”;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>after paragraph (3)(c) insert</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double" PartialRefs="p10031"><Text id="p10031">; and</Text>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>is—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>the bearer of a British passport which describes <?new-line?>his national status as a “British citizen”, or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>an eligible Irish citizen who is the bearer of an <?new-line?>Irish passport.</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>;</AppendText>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>in paragraph (4), after “British citizen” insert “, or an eligible Irish <?new-line?>citizen,”;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>for paragraph (5)(b) substitute—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>any of the following—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>that he is the bearer of a British passport which <?new-line?>describes his national status as a “British <?new-line?>citizen”, together with the number of that <?new-line?>passport and its date and place of issue;</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>that he is an eligible Irish citizen who is the <?new-line?>bearer of an Irish passport, together with the <?new-line?>number of that passport and its date and place of <?new-line?>issue;</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text><?start-line?>that he is the bearer of a British passport which <?new-line?>describes his national status as a “British citizen” <?new-line?>and is an eligible Irish citizen who is the bearer <?new-line?>of an Irish passport, together with the number of <?new-line?>either of those passports and its date and place of <?new-line?>issue;</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>;</AppendText>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>in paragraph (5)(f), after “British citizen” insert “, or an eligible Irish <?new-line?>citizen,”;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>f</Pnumber>
+<P3para>
+<Text><?start-line?>after paragraph (5) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>In this regulation “eligible Irish citizen” has the meaning given <?new-line?>by section 2<InternalLink id="i00030" Ref="p00074">(9)</InternalLink> and <InternalLink id="i00031" Ref="p00075">(10)</InternalLink> of the 1985 Act.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00078">
+<Title><?start-line?>Absent voting</Title>
+<P1>
+<Pnumber>16</Pnumber>
+<P1para>
+<P2 id="p00079">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In section 13BA of the Representation of the People Act 1983 (alteration of <?new-line?>registers in Northern Ireland: pending elections), omit subsection (4) (which <?new-line?>prevents late registration as an absent voter).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In consequence of the amendment made by subsection <InternalLink id="i00032" Ref="p00079">(1)</InternalLink>—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in Part 2 of Schedule 1 to the Elected Authorities (Northern Ireland) Act <?new-line?>1989, omit paragraph 8A;</Text>
+</P3para>
+</P3>
+<?new-page?><P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in Schedule 4 to the Northern Ireland (Miscellaneous Provisions) Act <?new-line?>2006, omit paragraph 7(4).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00080">
+<Title><?start-line?>Electoral identity cards</Title>
+<P1>
+<Pnumber>17</Pnumber>
+<P1para>
+<Text><?start-line?>After section 13C of the Representation of the People Act 1983 (electoral <?new-line?>identity card: Northern Ireland) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?> Provision of false information: application for electoral identity <?new-line?>card</Title>
+<P1>
+<Pnumber>13CZA</Pnumber>
+<P1para>
+<P2 id="p00081">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>A person who provides false information in connection with an <?new-line?>application for an electoral identity card is guilty of an offence.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In relation to a signature, “false information” for the purposes of <?new-line?>subsection <InternalLink id="i00033" Ref="p00081">(1)</InternalLink> means a signature which—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>is not the usual signature of, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>was written by a person other than,</Text>
+</P3para>
+</P3>
+<Text><?start-line?>the person whose signature it purports to be.</Text>
+</P2para>
+</P2>
+<P2 id="p00082">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>A person does not commit an offence under subsection <InternalLink id="i00034" Ref="p00081">(1)</InternalLink> if the person <?new-line?>did not know, and had no reason to suspect, that the information was <?new-line?>false.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Where sufficient evidence is adduced to raise an issue with respect to <?new-line?>the defence under subsection <InternalLink id="i00035" Ref="p00082">(3)</InternalLink>, the court must assume that the <?new-line?>defence is satisfied unless the prosecution proves beyond reasonable <?new-line?>doubt that it is not.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>A person guilty of an offence under this section is liable on summary <?new-line?>conviction to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>imprisonment for a term not exceeding six months, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>a fine not exceeding level 5 on the standard scale,</Text>
+</P3para>
+</P3>
+<Text><?start-line?>or to both.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00083">
+<Title><?start-line?>Chief Electoral Officer: duty to take necessary steps</Title>
+<P1>
+<Pnumber>18</Pnumber>
+<P1para>
+<P2 id="p00084">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In the Representation of the People Act 1983 (“RPA 1983”)—</Text>
+<P3 id="p00085">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>section 9A (duty of registration officers to take necessary steps) extends <?new-line?>to Northern Ireland (as well as Great Britain), and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in section 9 (registers of electors), omit subsection (6) (duty of <?new-line?>registration officers in Northern Ireland to take reasonable steps).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In consequence of subsection <InternalLink id="i00036" Ref="p00085">(1)(a)</InternalLink>, in section 78(2)(a) of the Electoral <?new-line?>Administration Act 2006 (which confined the extent of section 9A of RPA 1983 <?new-line?>to Great Britain), for “9” substitute “9(2)”.</Text>
+</P2para>
+</P2>
+<P2 id="p00086">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Section 9A of RPA 1983 is amended as follows—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in subsection (1), for the words from “for the purpose of securing” to <?new-line?>the end substitute</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double" PartialRefs="p10035"><Text id="p10035">—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in the case of a registration officer in Great Britain, for <?new-line?>the purpose of securing that, so far as is reasonably <?new-line?>practicable, persons who are entitled to be registered in <?new-line?>a register (and no others) are registered in it, and</Text>
+</P3para>
+</P3>
+<?new-page?><P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in the case of the Chief Electoral Officer for Northern <?new-line?>Ireland, for the purpose of meeting the relevant <?new-line?>registration objectives.</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>;</AppendText>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in subsection (2)(a), after “section 9D” insert “or 10”;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>in subsection (2)(b), for “subsection (5) of that section” substitute <?new-line?>“section 9D(5) or 10(5)”.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>In Schedule 1 to the Elected Authorities (Northern Ireland) Act 1989 <?new-line?>(application, with modifications, of provisions of RPA 1983 to local elections), <?new-line?>in Part 1 (provisions applied), after “Sections 9,” insert “9A,”.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00087">
+<Title><?start-line?>Chief Electoral Officer: performance standards etc</Title>
+<P1>
+<Pnumber>19</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State may by order made by statutory instrument make <?new-line?>provision about objectives or standards of performance to be met by the Chief <?new-line?>Electoral Officer for Northern Ireland, including in particular provision <?new-line?>about—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>setting such objectives or standards;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>assessing or reporting the extent to which such objectives or standards <?new-line?>have been met.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>An order under this section may confer a function on, or modify or remove a <?new-line?>function of, the Chief Electoral Officer for Northern Ireland, the Electoral <?new-line?>Commission or the Secretary of State.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>References in subsection (2) to a function include a discretionary function.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>An order under this section may—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>amend, repeal, revoke or otherwise modify any enactment (whenever <?new-line?>passed or made);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>include consequential, supplementary, incidental, transitional, <?new-line?>transitory or saving provision.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>In this section “enactment” includes—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>a provision of an Act, including a provision of or inserted by this Act;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>a provision of, or of an instrument made under, Northern Ireland <?new-line?>legislation;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>a provision of subordinate legislation (within the meaning of the <?new-line?>Interpretation Act 1978).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>An order under this section may not be made unless a draft of the statutory <?new-line?>instrument containing it has been laid before, and approved by a resolution of, <?new-line?>each House of Parliament.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00088">
+<Title><?start-line?>Data sharing</Title>
+<P1>
+<Pnumber>20</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In the Representation of the People Act 1983 (“RPA 1983”), in section 53(8) <?new-line?>(power to make regulations as to registration etc), omit “in Great Britain”.</Text>
+</P2para>
+</P2>
+<P2 id="p00089">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In Schedule 2 to RPA 1983 (provisions which may be contained in regulations <?new-line?>as to registration etc)—</Text>
+<P3 id="p00090">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in paragraph 1—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>omit sub-paragraphs (4A) and (4B);</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>in sub-paragraph (5) omit “or (4A)”;</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text><?start-line?>omit sub-paragraphs (6) to (8);</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<?new-page?><P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in paragraph 1A(1), omit “in Great Britain”;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>in paragraph 8C—</Text>
+<P4 id="p00091">
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>in sub-paragraph (1)(a), for “or 10ZD” substitute “, 10ZD or <?new-line?>10A”;</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>in sub-paragraph (1)(b) omit “in Great Britain”;</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3 id="p00092">
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>in paragraph 11A, omit sub-paragraph (1A);</Text>
+</P3para>
+</P3>
+<P3 id="p00093">
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>in paragraph 13, omit sub-paragraph (1ZA).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In Schedule 1 to the Elected Authorities (Northern Ireland) Act 1989 <?new-line?>(application, with modifications, of provisions of RPA 1983 to local elections), <?new-line?>in Part 1 (provisions applied), after “Section 53 and, in Schedule 2, paragraphs <?new-line?>1(2) to (5),” insert “1A,”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>In the Representation of the People (Northern Ireland) Regulations 2008 (S.I. <?new-line?>2008/1741) (“the 2008 regulations”)—</Text>
+<P3 id="p00094">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in regulation 41(1) (requests for information), for “the purposes <?new-line?>mentioned in paragraph 1(4B)” substitute “any of the purposes <?new-line?>mentioned in paragraph 1A(1)”;</Text>
+</P3para>
+</P3>
+<P3 id="p00095">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in regulation 43(1)(a) (disclosure of information), for “the purpose <?new-line?>mentioned in paragraph 1(4B)” substitute “any of the purposes <?new-line?>mentioned in paragraph 1A(1)”.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>Regulation 41 (as amended by subsection <InternalLink id="i00037" Ref="p00094">(4)(a)</InternalLink>) and regulation 42 of the 2008 <?new-line?>regulations are treated for the purposes of paragraph 1A of Schedule 2 to RPA <?new-line?>1983 as having been made under that paragraph.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>Regulation 43 (as amended by subsection <InternalLink id="i00038" Ref="p00095">(4)(b)</InternalLink>) of the 2008 regulations is <?new-line?>treated for the purposes of paragraphs 1A and 13(1ZB) of Schedule 2 to RPA <?new-line?>1983 as having been made under those paragraphs.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>In consequence of the amendments made by subsection <InternalLink id="i00039" Ref="p00090">(2)(a)</InternalLink>, <InternalLink id="i00040" Ref="p00092">(d)</InternalLink> and <InternalLink id="i00041" Ref="p00093">(e)</InternalLink>—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>omit section 6 of the Electoral Fraud (Northern Ireland) Act 2002;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>omit section 7 of the Northern Ireland (Miscellaneous Provisions) Act <?new-line?>2006.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+<Pblock>
+<Title><?start-line?>Miscellaneous</Title>
+<P1group id="p00096">
+<Title><?start-line?>Rules of court</Title>
+<P1>
+<Pnumber>21</Pnumber>
+<P1para>
+<Text><?start-line?>The Schedule to this Act makes provision about rules of court.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00097">
+<Title><?start-line?>Equality duties</Title>
+<P1>
+<Pnumber>22</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In section 75 of the Northern Ireland Act 1998 (statutory duty on public <?new-line?>authorities), after subsection (3) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>3A</Pnumber>
+<P2para>
+<Text><?start-line?>An order under subsection (3)(a) or (d) may provide that the <?new-line?>designated department, corporation, body or other person—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>is not subject to, or is only subject to, specified obligations under <?new-line?>subsection (1) or (2), or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>is not subject to, or is only subject to, specified obligations under <?new-line?>subsection (1) or (2)—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>when exercising a specified function, or</Text>
+</P4para>
+</P4>
+<?new-page?><P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>when exercising a specified function in specified <?new-line?>circumstances or for specified purposes.</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3B</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (3A) “specified” means specified in the order.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In Schedule 9 to that Act (equality: enforcement of duties), in paragraph 4, after <?new-line?>sub-paragraph (4) insert—</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber><ERROR>ERROR:Amendment error
+[#####AMENDMENTERROR#####
+ 5]</ERROR>#####AMENDMENTERROR#####
+ 5</Pnumber>
+<P2para>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>But where the public authority is designated by order under section <?new-line?>75(3)(a) or (d)—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“equality of opportunity” does not include equality of opportunity <?new-line?>in relation to which (by virtue of the order) the public authority <?new-line?>has no obligations under section 75(1);</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“the relevant functions” does not include functions of the public <?new-line?>authority so far as the obligations imposed by section 75 do not <?new-line?>(by virtue of the order) apply to their exercise.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00098">
+<Title><?start-line?>Extension of powers to make secondary legislation about elections etc</Title>
+<P1>
+<Pnumber>23</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In section 34 of the Northern Ireland Act 1998 (elections and franchise for the <?new-line?>Assembly), after subsection (6) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>An order under subsection (4) may make different provision for <?new-line?>different areas about the conduct of elections, including different <?new-line?>provision about the registration of persons entitled to vote at an <?new-line?>election.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In section 84 of that Act (provision with respect to certain matters), after <?new-line?>subsection (1A) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>1B</Pnumber>
+<P2para>
+<Text><?start-line?>An Order in Council under subsection (1) may make different <?new-line?>provision for different areas about the conduct of elections, including <?new-line?>different provision about the registration of persons entitled to vote at <?new-line?>an election.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00099">
+<Title><?start-line?>Regulation of biometric data</Title>
+<P1>
+<Pnumber>24</Pnumber>
+<P1para>
+<Text><?start-line?>In Schedule 1 to the Protection of Freedoms Act 2012 (amendments of regimes <?new-line?>other than PACE), in Part 7 (corresponding Northern Ireland provision for <?new-line?>excepted or reserved matters etc), in paragraph 8(1) for “2011 or 2012 (whether <?new-line?>before or after the passing of this Act)” substitute “2013 or 2014”.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00100">
+<Title><?start-line?>Amendment of Northern Ireland Assembly Disqualification Act 1975</Title>
+<P1>
+<Pnumber>25</Pnumber>
+<P1para>
+<Text><?start-line?>In Part 3 of Schedule 1 to the Northern Ireland Assembly Disqualification Act <?new-line?>1975 (other disqualifying offices), at the appropriate place, insert “Civil Service <?new-line?>Commissioner for Northern Ireland.”</Text>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+<Pblock>
+<Title><?start-line?>Final provisions</Title>
+<P1group id="p00101">
+<Title><?start-line?>Amendments that could have been made under existing powers</Title>
+<P1>
+<Pnumber>26</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The amendments made by section 2<InternalLink id="i00042" Ref="p00038">(1)</InternalLink> and <InternalLink id="i00043" Ref="p00039">(2)</InternalLink> are treated, for the purposes of <?new-line?>section 63 of the Electoral Administration Act 2006, as made under that section.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Where—</Text>
+<?new-page?><P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>any other provision of this Act amends or revokes subordinate <?new-line?>legislation (within the meaning of the Interpretation Act 1978), and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the amendment or revocation could have been made under a power <?new-line?>conferred by an enactment,</Text>
+</P3para>
+</P3>
+<Text><?start-line?>the amendment or revocation is treated, for the purposes of that enactment, as <?new-line?>having been made under it.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00102">
+<Title><?start-line?>Extent</Title>
+<P1>
+<Pnumber>27</Pnumber>
+<P1para>
+<P2 id="p00103">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The amendment made by section 17 extends to Northern Ireland only.</Text>
+</P2para>
+</P2>
+<P2 id="p00104">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Any other amendment, repeal, revocation or other modification of an <?new-line?>enactment made by this Act has the same extent as the enactment, or relevant <?new-line?>part of the enactment, to which it relates.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Subject to subsections <InternalLink id="i00044" Ref="p00103">(1)</InternalLink> and <InternalLink id="i00045" Ref="p00104">(2)</InternalLink>, this Act extends to the whole of the United <?new-line?>Kingdom.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00105">
+<Title><?start-line?>Commencement</Title>
+<P1>
+<Pnumber>28</Pnumber>
+<P1para>
+<P2 id="p00106">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The following provisions come into force on the day on which this Act is <?new-line?>passed—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in section 1 (donations for political purposes)—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>subsections <InternalLink id="i00046" Ref="p00032">(1)</InternalLink> and <InternalLink id="i00047" Ref="p00033">(2)</InternalLink>, and</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>subsection <InternalLink id="i00048" Ref="p00036">(3)</InternalLink> for the purpose of prescribing requirements;</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in section 2 (loans etc for political purposes)—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>subsection <InternalLink id="i00049" Ref="p00038">(1)</InternalLink>,</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>subsection <InternalLink id="i00050" Ref="p00039">(2)</InternalLink> for the purpose of prescribing requirements, and</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text><?start-line?>subsection <InternalLink id="i00051" Ref="p00040">(3)</InternalLink>;</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>section 7 (extension of term of Assembly);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>section 19 (Chief Electoral Officer: performance standards etc);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>section 20 (data sharing) (but see subsection <InternalLink id="i00052" Ref="p00107">(2)</InternalLink> below);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>f</Pnumber>
+<P3para>
+<Text><?start-line?>section 22 (equality duties);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>g</Pnumber>
+<P3para>
+<Text><?start-line?>section 23 (extension of powers to make secondary legislation about <?new-line?>elections etc);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>h</Pnumber>
+<P3para>
+<Text><?start-line?>section 24 (regulation of biometric data);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>i</Pnumber>
+<P3para>
+<Text><?start-line?>sections 26 to 29 (final provisions).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00107">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>If paragraph 10 of Schedule 4 to the Electoral Registration and Administration <?new-line?>Act 2013 (which restricts to Northern Ireland the application of section 10A of <?new-line?>the Representation of the People Act 1983) comes into force on a day after that <?new-line?>on which this Act is passed, subsection <InternalLink id="i00053" Ref="p00091">(2)(c)(i)</InternalLink> of section 20 comes into force <?new-line?>immediately after that paragraph comes into force.</Text>
+</P2para>
+</P2>
+<P2 id="p00108">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The following provisions come into force at the end of the period of two <?new-line?>months beginning with the day on which this Act is passed—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>section 6 (reduction in size of the Assembly to be reserved matter);</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>section 10 (Civil Service Commissioners for Northern Ireland);</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>section 11 (Northern Ireland Human Rights Commission);</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>section 12 (district electoral areas for council elections);</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>section 13 (removal of requirement that canvass form must be prescribed <?new-line?>form);</Text>
+</Para>
+</ListItem>
+<?new-page?><ListItem>
+<Para>
+<Text><?start-line?>section 17 (electoral identity cards);</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>section 18 (Chief Electoral Officer: duty to take necessary steps) (but see <?new-line?>subsection <InternalLink id="i00054" Ref="p00109">(4)</InternalLink> below);</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>section 21 and the Schedule (rules of court);</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>section 25 (amendment of Northern Ireland Assembly Disqualification <?new-line?>Act 1975).</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P2para>
+</P2>
+<P2 id="p00109">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>If paragraph 6 of Schedule 4 to the Electoral Registration and Administration <?new-line?>Act 2013 (which amends section 9A of the Representation of the People Act <?new-line?>1983) comes into force on a day after the end of the period mentioned in <?new-line?>subsection <InternalLink id="i00055" Ref="p00108">(3)</InternalLink>, section 18<InternalLink id="i00056" Ref="p00086">(3)</InternalLink> comes into force immediately after that paragraph <?new-line?>comes into force.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>The following provisions come into force on the first day after this Act is <?new-line?>passed on which the Northern Ireland Assembly is dissolved—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>section 3 (MPs to be disqualified for membership of Assembly);</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>section 4 (members of the Dáil Éireann to be disqualified for membership <?new-line?>of the Assembly);</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>section 5 (statements by prospective members of Assembly).</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P2para>
+</P2>
+<P2 id="p00110">
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>Subject to the preceding subsections of this section, this Act comes into force on <?new-line?>such day as the Secretary of State may appoint by order made by statutory <?new-line?>instrument.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>An order under subsection <InternalLink id="i00057" Ref="p00110">(6)</InternalLink>—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>may appoint different days for different purposes, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>may make transitional, transitory or saving provision.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00111">
+<Title><?start-line?>Short title</Title>
+<P1>
+<Pnumber>29</Pnumber>
+<P1para>
+<Text><?start-line?>This Act may be cited as the Northern Ireland (Miscellaneous Provisions) Act <?new-line?>2013.</Text>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+</Body>
+<?new-page?>
+<Schedules>
+<Schedule id="p00112" NumberFormat="default">
+<Number><?start-line?>Schedule</Number>
+<TitleBlock>
+<Title><?start-line?>Rules of court</Title>
+</TitleBlock>
+<Reference>Section 21</Reference>
+<ScheduleBody>
+<P1group>
+<Title><?start-line?>High Court and Court of Appeal</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<Text><?start-line?>In section 56 of the Judicature (Northern Ireland) Act 1978 (control and <?new-line?>publication of rules), for subsection (1) substitute—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Rules made by the Rules Committee—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in the case of rules that are required under section 55A to be <?new-line?>submitted to the Lord Chancellor, are subject to annulment in <?new-line?>pursuance of a resolution of either House of Parliament in the <?new-line?>same manner as a statutory instrument and section 5 of the <?new-line?>Statutory Instruments Act 1946 applies accordingly; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in the case of rules that are required under section 55A to be <?new-line?>submitted to the Department of Justice, are subject to <?new-line?>negative resolution within the meaning of section 41(6) of the <?new-line?>Interpretation Act (Northern Ireland) 1954.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</BlockAmendment>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Crown Court</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<Text><?start-line?>In section 53 of the Judicature (Northern Ireland) Act 1978 (Crown Court <?new-line?>Rules Committee), after subsection (3) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>In the application of section 56(1) by virtue of subsection (3), <?new-line?>references to section 55A include references to section 53A.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>County courts</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<Text><?start-line?>In the County Courts (Northern Ireland) Order 1980 (<Citation id="c00105" Class="UnitedKingdomStatutoryInstrument" Year="1980" Number="0397" AlternativeNumber="N.I 3">S.I. 1980/397 (N.I. 3)</Citation>), <?new-line?>after Article 47 (making of county court rules) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="schedule" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Control of county court rules</Title>
+<P1>
+<Pnumber>47A</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>County court rules that are required under Article 47 to be <?new-line?>submitted to the Lord Chancellor are subject to annulment in <?new-line?>pursuance of a resolution of either House of Parliament in the <?new-line?>same manner as a statutory instrument and section 5 of the <?new-line?>Statutory Instruments Act 1946 applies accordingly.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>County court rules that are required under Article 47 to be <?new-line?>submitted to the Department of Justice are subject to negative <?new-line?>resolution.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1></P1group>
+
+</BlockAmendment>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Magistrates’ courts</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In Article 13 of the Magistrates’ Courts (Northern Ireland) Order 1981 (S.I. <?new-line?>1981/1675 (N.I. 26)) (magistrates’ court rules), for paragraph (3A) </Text><?new-page?><?start-line?>  <Text>substitute—</Text>
+<BlockAmendment TargetClass="primary" Context="schedule" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>3A</Pnumber>
+<P2para>
+<Text><?start-line?>After making magistrates’ courts rules the Rules Committee must <?new-line?>submit them to the relevant authority.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3AA</Pnumber>
+<P2para>
+<Text><?start-line?>The relevant authority must, after consultation with the Lord <?new-line?>Chief Justice, allow or disallow rules submitted to it.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3AB</Pnumber>
+<P2para>
+<Text><?start-line?>Magistrates’ courts rules have effect only if the relevant authority <?new-line?>allows them.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3AC</Pnumber>
+<P2para>
+<Text><?start-line?>If the relevant authority disallows rules submitted to it, it must <?new-line?>give the Rules Committee written reasons why it has disallowed <?new-line?>them.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>After Article 13 of that Order insert—</Text>
+<BlockAmendment TargetClass="primary" Context="schedule" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Control of magistrates’ courts rules</Title>
+<P1>
+<Pnumber>13A</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Magistrates’ courts rules that are required under Article 13 to be <?new-line?>submitted to the Lord Chancellor are subject to annulment in <?new-line?>pursuance of a resolution of either House of Parliament in the <?new-line?>same manner as a statutory instrument and section 5 of the <?new-line?>Statutory Instruments Act 1946 applies accordingly.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Magistrates’ courts rules that are required under Article 13 to be <?new-line?>submitted to the Department of Justice are subject to negative <?new-line?>resolution.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1></P1group>
+
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Inquests</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In section 36 of the Coroners Act (Northern Ireland) <Citation id="c00106" Class="UnitedKingdomPublicGeneralAct" Year="1959" Number="0015">1959 (c. 15)</Citation> (rules and <?new-line?>fees), for subsections (1C) and (1D) substitute—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2 id="p00113">
+<Pnumber>1C</Pnumber>
+<P2para>
+<Text><?start-line?>After making rules under subsection (1)(b) the Lord Chief Justice <?new-line?>must submit them to the relevant authority.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>1CA</Pnumber>
+<P2para>
+<Text><?start-line?>The relevant authority must allow or disallow rules submitted to it.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>1CB</Pnumber>
+<P2para>
+<Text><?start-line?>Rules made under subsection (1)(b) have effect only if the relevant <?new-line?>authority allows them.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>1D</Pnumber>
+<P2para>
+<Text><?start-line?>If the relevant authority disallows rules submitted to it, it must give <?new-line?>the Lord Chief Justice written reasons why it has disallowed them.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>After section 36 of that Act insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Control of rules</Title>
+<P1>
+<Pnumber>36A</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The following rules are subject to annulment in pursuance of a <?new-line?>resolution of either House of Parliament in the same manner as a <?new-line?>statutory instrument—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>rules made by the Lord Chancellor under section 36(1)(a);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>rules made under subsection (1)(b) of section 36 that are <?new-line?>required under that section to be submitted to the Lord <?new-line?>Chancellor;</Text>
+</P3para>
+</P3>
+<Text><?start-line?>and section 5 of the Statutory Instruments Act 1946 applies <?new-line?>accordingly.</Text>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The following rules are subject to negative resolution—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>rules made by the Department of Justice under section <?new-line?>36(1)(a);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>rules made under subsection (1)(b) of section 36 that are <?new-line?>required under that section to be submitted to that <?new-line?>Department.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Application of amendments made by Schedule</Title>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<Text><?start-line?>The amendments made by this Schedule have effect in relation to rules made <?new-line?>on or after the day on which this Schedule comes into force.</Text>
+</P1para>
+</P1>
+</P1group>
+</ScheduleBody>
+</Schedule>
+</Schedules>
+</Primary>
+</Legislation>

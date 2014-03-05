@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>Family Perinatal Support and Adoption Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>25/2/2013</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 88" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="2" />
+<ukm:House Value="House of Commons" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsItem ContentRef="p00007">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Family perinatal support</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00008">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>Adoption</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00009">
+<ContentsNumber>3</ContentsNumber>
+<ContentsTitle>Regulations</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00010">
+<ContentsNumber>4</ContentsNumber>
+<ContentsTitle>Interpretation</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00011">
+<ContentsNumber>5</ContentsNumber>
+<ContentsTitle>Financial provisions</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00012">
+<ContentsNumber>6</ContentsNumber>
+<ContentsTitle>Short title, commencement and extent</ContentsTitle>
+</ContentsItem>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Require the Secretary of State to provide appropriate perinatal support to any <?new-line?>family expecting a child who will be born on to the child protection register <?new-line?>and for whom an adoption plan has not been made at the moment the child is <?new-line?>entered on to the register; to require that a decision be made not later than one <?new-line?>year after the child’s birth as to whether or not such a child will be adopted; <?new-line?>and for connected purposes.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<P1group id="p00007">
+<Title><?start-line?>Family perinatal support</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<Text><?start-line?>The Secretary of State must, within three months of the passing of this Act, <?new-line?>make regulations—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>making perinatal talking therapies available to a person (“the carer”) <?new-line?>who will be responsible for the care of an unborn child following his or <?new-line?>her birth, where that child will be born with a child protection plan, <?new-line?>with no plan made to take the child into local authority care;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>making provision that the carer is offered appropriate talking <?new-line?>therapies, to begin before the birth of the child, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>making provision that a child protection review conference to reach a <?new-line?>decision about the ongoing care of the child be held no later than the <?new-line?>child’s six month of age and that this conference take into account <?new-line?>medical assessments of carer/infant attunement in respect of—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>the talking therapy received,</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>progress made, and</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text><?start-line?>the extent to which the skills are used in relation to the infant.</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00008">
+<Title><?start-line?>Adoption</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<Text><?start-line?>The Secretary of State must, within three months of the passing of this Act, <?new-line?>make regulations providing that if a child protection review conference <?new-line?>determines that the carer has not made sufficient progress, the child should be <?new-line?>placed for adoption before its first birthday.</Text>
+</P1para>
+</P1>
+</P1group>
+<?new-page?><P1group id="p00009">
+<Title><?start-line?>Regulations</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Any power to make regulations under this Act is exercisable by statutory <?new-line?>instrument.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>A statutory instrument containing regulations under this Act is subject to <?new-line?>annulment in pursuance of a resolution of either House of Parliament.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00010">
+<Title><?start-line?>Interpretation</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<Text><?start-line?>In this Act—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“perinatal talking therapies” means parent-infant psychotherapy, <?new-line?>psychodynamic therapies, cognitive behavioural therapy and <?new-line?>counselling;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“carer/infant attunement” means the ability of a carer to react to an <?new-line?>infant’s emotions attentively and the consequential ability of infants to <?new-line?>recognize and regulate their own feelings.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00011">
+<Title><?start-line?>Financial provisions</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<Text><?start-line?><Emphasis>There is to be paid out of money provided by Parliament—</Emphasis></Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?><Emphasis>any expenditure incurred under or by virtue of this Act by the Secretary of <?new-line?>State, and</Emphasis></Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?><Emphasis>any increase attributable to this Act in the sums payable under any other Act <?new-line?>out of money so provided.</Emphasis></Text>
+</P3para>
+</P3>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00012">
+<Title><?start-line?>Short title, commencement and extent</Title>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Act may be cited as the Family Perinatal Support and Adoption Act 2013.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>This Act comes into force at the end of the period of 2 months beginning with <?new-line?>the day on which it is passed.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>This Act extends to England and Wales.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Body>
+</Primary>
+</Legislation>

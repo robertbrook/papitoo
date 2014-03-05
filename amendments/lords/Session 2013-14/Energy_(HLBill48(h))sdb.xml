@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendments>
+   <header>
+      <billtitle>Energy_(Bill48(h))</billtitle>
+      <headertext>AMENDMENTS TO BE MOVED ON REPORT</headertext>
+   </header>
+   <clausenumber>Clause 1</clausenumber>
+   <proposer>LORD OXBURGH</proposer>
+   <proposer>LORD STERN OF BRENTFORD</proposer>
+   <proposer>BARONESS WORTHINGTON</proposer>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> Clause 1, page 2, line 4, leave out subsection (5) and insert&#8212;</quote>
+         <quote>&#8220;(5) The first decarbonisation order must be made before 1st April 2014 and the year in relation to which the decarbonisation target range is set must be 2030.&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> Clause 1, page 2, line 9, leave out subsection (6) and insert&#8212;</quote>
+         <quote>&#8220;(6) Before setting or amending a decarbonisation target range, the Secretary of State shall&#8212;</quote>
+         <IndentOne>(a) take into account the advice of the Committee on Climate Change including in relation to the most cost effective means of meeting the target set out in section 1(1) of the Climate Change Act 2008; and</IndentOne>
+         <IndentOne>(b) if the Secretary of State does not accept the advice of the Committee on Climate Change, he or she shall publish the reasons.&#8221;</IndentOne>
+      </text>
+   </Amendment>
+   <clausenumber>After Clause 37</clausenumber>
+   <proposer>LORD OXBURGH</proposer>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 37, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Capacity payments: gas</quote>
+         <IndentOne>The Secretary of State shall have the power to make such arrangements as are necessary for capacity payments to be made for the supply of gas if it is deemed likely that this could allow gas to be supplied to consumers at lower prices or more securely than otherwise.&#8221;</IndentOne>
+      </text>
+   </Amendment>
+   <clausenumber>After Clause 130</clausenumber>
+   <proposer>LORD MARLESFORD</proposer>
+   <proposer>THE LORD BISHOP OF CHESTER</proposer>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 130, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Transparency for consumers</quote>
+         <IndentOne>The power under section 130 to modify energy supply licences may be exercised so as to make provision requiring a licence holder to provide information on a consumer bill that breaks down the total cost charged to the consumer by showing each of&#8212;</IndentOne>
+         <IndentOne>(a) the amount that goes to Government environmental levies or programmes;</IndentOne>
+         <IndentOne>(b) the amount that goes to administration costs;</IndentOne>
+         <IndentOne>(c) the amount that goes to wholesale energy costs;</IndentOne>
+         <IndentOne>(d) the amount for raw energy costs; and</IndentOne>
+         <IndentOne>(e) any other categories of cost.&#8221;</IndentOne>
+      </text>
+   </Amendment>
+</amendments>

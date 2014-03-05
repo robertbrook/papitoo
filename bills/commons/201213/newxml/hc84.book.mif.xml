@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>Protection of Workers Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>22/2/2013</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 84" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="2" />
+<ukm:House Value="House of Commons" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsItem ContentRef="p00007">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Assaulting certain providers of public services</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00008">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>Provisions supplementary to section 1</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00009">
+<ContentsNumber>3</ContentsNumber>
+<ContentsTitle>Penalties</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00010">
+<ContentsNumber>4</ContentsNumber>
+<ContentsTitle>Saving for certain other offences</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00011">
+<ContentsNumber>5</ContentsNumber>
+<ContentsTitle>Power to modify</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00012">
+<ContentsNumber>6</ContentsNumber>
+<ContentsTitle>Short title, commencement and extent</ContentsTitle>
+</ContentsItem>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Create a specific offence relating to assault on those whose work brings them <?new-line?>into face-to-face contact with members of the public; and for connected <?new-line?>purposes.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<P1group id="p00007">
+<Title><?start-line?>Assaulting certain providers of public services</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>A person who assaults another person acting in a capacity mentioned in <?new-line?>subsection (3) below commits an offence.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>No offence is committed under subsection (1) above unless the person who <?new-line?>assaults knows or ought to know that the person being assaulted is acting in <?new-line?>that capacity.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The capacity referred to in subsection (1) above is—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>that of a person whose employment, paid or unpaid work whether <?new-line?>under a contract, apprenticeship or otherwise, involves dealing with <?new-line?>members of the public, to any extent;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>that of a person whose employment, paid or unpaid work whether <?new-line?>under a contract, apprenticeship or otherwise, involves essential work.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00008">
+<Title><?start-line?>Provisions supplementary to section 1</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>A person may be convicted of the offence under section 1 of this Act <?new-line?>notwithstanding that it is effected by means other than physical means.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Evidence from a single source is sufficient evidence to establish, for the <?new-line?>purpose of section 1 of this Act, whether a person is acting in a capacity <?new-line?>referred to in that section.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Essential work includes prison officers and related grades, operational support <?new-line?>grades, nursing staff, industrials and instructional officers; all clinical staff <?new-line?>employed by the NHS; probation service officers and other operational staff; </Text><?new-page?><?start-line?>  <Text>local authority employed staff and social workers, who work directly with the <?new-line?>public.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00009">
+<Title><?start-line?>Penalties</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<Text><?start-line?>A person is guilty of an offence under this Act is liable, on summary conviction, <?new-line?>to imprisonment for a period not exceeding six months or to a fine not <?new-line?>exceeding level 5 on the standard scale or to both.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00010">
+<Title><?start-line?>Saving for certain other offences</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<Text><?start-line?>Nothing in this Act affects section 89 of the Police Act 1998 (assaults on <?new-line?>constables) or section 44(3) of the Fire and Rescue Services Act 2004 <?new-line?>(obstruction of fire-fighters in an emergency) or the Emergency Workers <?new-line?>(Obstruction) Act 2006.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00011">
+<Title><?start-line?>Power to modify</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State may by order modify this Act by—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>adding a person or description of person to, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>removing a person or description of person from,</Text>
+</P3para>
+</P3>
+<Text><?start-line?>section 2(3) of this Act and by making such provision connected with that <?new-line?>modification as he thinks fit.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State shall not make an order under subsection (1)(a) above <?new-line?>unless it appears to him that the person to be added (or, as the case may be, <?new-line?>each person of the description to be added) is one whose functions or activities <?new-line?>are such that the person is likely, in the course of them, to have to deal with the <?new-line?>public.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>An order under subsection (1) above is to be made by statutory instrument.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>No order under this section shall be made unless a draft of it has been laid <?new-line?>before, and approved by a resolution of, each House of Parliament.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00012">
+<Title><?start-line?>Short title, commencement and extent</Title>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Act may be cited as the Protection of Workers Act 2013.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>This Act comes into force on the day on which it is passed.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>This Act extends to England and Wales only.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Body>
+</Primary>
+</Legislation>

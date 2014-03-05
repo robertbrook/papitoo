@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>Graduated Driving Licence Scheme Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>23/10/2013</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 22" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="3" />
+<ukm:House Value="House of Commons" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsItem ContentRef="p00003">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Newly-qualified drivers’ licences</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00004">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>Short title, commencement and extent</ContentsTitle>
+</ContentsItem>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Make provision for a graduated driving licence scheme; and for connected <?new-line?>purposes.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<P1group id="p00003">
+<Title><?start-line?>Newly-qualified drivers’ licences</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Road Traffic Act 1988 is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>After section 89(2A) (tests of competence to drive) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>2AA</Pnumber>
+<P2para>
+<Text><?start-line?>No person submitting himself for a test of competence to drive a motor <?new-line?>vehicle shall be permitted to book an appointment for the test unless he <?new-line?>submits a certificate of completion by him of an approved training <?new-line?>course, signed by an Approved Driving Instructor, with his application <?new-line?>for the test.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>After section 97(3) (grant of licences) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>3A</Pnumber>
+<P2para>
+<Text><?start-line?>If the applicant for the licence states that it is made for the purpose of <?new-line?>enabling the applicant to drive a motor vehicle within twelve months <?new-line?>of passing a test of competence to drive, any licence granted in <?new-line?>pursuance of the application shall be a newly-qualified driver’s licence <?new-line?>for that purpose.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3B</Pnumber>
+<P2para>
+<Text><?start-line?>A newly-qualified driver’s licence shall be granted where the applicant <?new-line?>has passed a test of competence to drive subject to the following <?new-line?>prescribed conditions—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the newly-qualified driver’s licence will be valid for 12 months <?new-line?>from the date of issue;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>a holder of a newly-qualified driver’s licence may carry no <?new-line?>more than one passenger in a vehicle he is driving;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>the level of alcohol in the blood of a person driving while <?new-line?>holding a newly-qualified driver’s licence must not exceed 5 <?new-line?>micrograms in 100 millilitres of breath;</Text>
+</P3para>
+</P3>
+<?new-page?><P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>if a holder of a newly-qualified driver’s licence amasses more <?new-line?>than six penalty points the licence will be revoked and the <?new-line?>driver will be required to re-qualify under the tests of <?new-line?>competence specified in section 89 (tests of competence to <?new-line?>drive).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3C</Pnumber>
+<P2para>
+<Text><?start-line?>At the end of the twelve month period the newly-qualified driver’s <?new-line?>licence holder may apply for a full driving licence subject to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>submission of a prescribed certificate of completion by him of <?new-line?>further tests of competence, signed by an Approved Driving <?new-line?>Instructor. The competencies shall include motorway driving <?new-line?>and night time driving and such other competencies as the <?new-line?>Secretary of State may by order from time to time specify;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the period of the applicant’s newly-qualified driver’s licence <?new-line?>not having been extended by the police as a result of his <?new-line?>commission of any traffic offence.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>In section 11(2) (interpretation of sections 4 to 10), after ““the prescribed limit” <?new-line?>means, as the case may require—” insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<OrderedList Decoration="parens" Type="roman">
+<ListItem NumberOverride=" za">
+<Para>
+<Text><?start-line?>in the case of the holder of a newly-qualified driver’s <?new-line?>licence 5 micrograms in 100 millilitres of breath,</Text>
+</Para>
+</ListItem>
+</OrderedList>
+</Para>
+</ListItem>
+</UnorderedList>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00004">
+<Title><?start-line?>Short title, commencement and extent</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Act may be cited as the Graduated Driving Licence Scheme Act 2013.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>This Act will come into force on such day as the Secretary of State may by order <?new-line?>appoint</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>This Act does not extend to Northern Ireland.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Body>
+</Primary>
+</Legislation>

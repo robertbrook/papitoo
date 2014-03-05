@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>Employment Opportunities Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>16/1/2014</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 69" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="3" />
+<ukm:House Value="House of Commons" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsItem ContentRef="p00010">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Employment: unlawful prevention</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00011">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>National minimum wage opt out</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00012">
+<ContentsNumber>3</ContentsNumber>
+<ContentsTitle>Training wage</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00013">
+<ContentsNumber>4</ContentsNumber>
+<ContentsTitle>Low Pay Commission inquiry</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00014">
+<ContentsNumber>5</ContentsNumber>
+<ContentsTitle>Duties of Secretary of State</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00015">
+<ContentsNumber>6</ContentsNumber>
+<ContentsTitle>Existing contracts of employment</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00016">
+<ContentsNumber>7</ContentsNumber>
+<ContentsTitle>Interpretation</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00017">
+<ContentsNumber>8</ContentsNumber>
+<ContentsTitle>Financial provisions</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00018">
+<ContentsNumber>9</ContentsNumber>
+<ContentsTitle>Short title, commencement and extent</ContentsTitle>
+</ContentsItem>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Introduce more freedom, flexibility and opportunity for those seeking <?new-line?>employment in the public and private sectors; and for connected purposes.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<P1group id="p00010">
+<Title><?start-line?>Employment: unlawful prevention</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>No foreign national lawfully resident in the United Kingdom who has attained <?new-line?>an age above compulsory school age shall be prevented from engaging in <?new-line?>remunerated employment unless any of the conditions in subsections (2) to (5) <?new-line?>apply.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The first condition is that the person is a foreign national and only lawfully <?new-line?>resident by reason of a visitor’s visa.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The second condition is that the person is a foreign national whose most recent <?new-line?>application for entry into the United Kingdom has been refused.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The third condition is that the person is a foreign national whose most recent <?new-line?>application to stay in the United Kingdom has been refused.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>The fourth condition is that the foreign national is not in detention.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00011">
+<Title><?start-line?>National minimum wage opt out</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Any person who would otherwise qualify for entitlement to the national <?new-line?>minimum wage, as defined in the National Minimum Wage Act 1998, may <?new-line?>elect to opt out from such entitlement.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Any election to opt out under subsection (1) must be made by an employee in <?new-line?>writing to that person’s employer and signed by the employee and employer.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Any person who has elected to opt out of entitlement to the national minimum <?new-line?>wage in accordance with subsection (1) may withdraw such election by giving <?new-line?>notice to his employer in writing.</Text>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Any notice of withdrawal under subsection (3) shall take effect no earlier than <?new-line?>three months from the date that it is given unless such period of minimum <?new-line?>notice is waived by the employer.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>For the avoidance of doubt, nothing in this Act shall require a person to take <?new-line?>employment below the minimum wage and no person shall suffer any <?new-line?>detriment to their entitlement to national insurance benefits by reason of their <?new-line?>unwillingness to take employment below the minimum wage.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00012">
+<Title><?start-line?>Training wage</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Any person who would otherwise qualify for entitlement to the national <?new-line?>minimum wage, as defined in the National Minimum Wage Act 1998, shall not <?new-line?>be so entitled if he or she has entered into a written contract of employment <?new-line?>providing that his or her entitlement is to a training wage.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>A contract of employment providing a training wage must also include an <?new-line?>entitlement to training from the employer in skills relevant to the employment.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00013">
+<Title><?start-line?>Low Pay Commission inquiry</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<Text><?start-line?>The Low Pay Commission must consider and take evidence on the availability <?new-line?>of employment opportunities and the impact of the national minimum wage <?new-line?>on job creation and access to employment in all travel to work areas where the <?new-line?>average level of unemployment in the preceding year has been above the <?new-line?>national average, and must consider in the light of that assessment whether to <?new-line?>recommend that the minimum wage in any such area should be set at a level <?new-line?>below the national minimum wage.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00014">
+<Title><?start-line?>Duties of Secretary of State</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>If the Low Pay Commission, following an inquiry conducted under section 4, <?new-line?>recommends that the minimum wage operating in any area comprising one or <?new-line?>more travel to work areas should be set at a level below the national minimum <?new-line?>wage, the Secretary of State must make regulations to bring the <?new-line?>recommendation into effect.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The regulations must be made by statutory instrument and are subject to <?new-line?>annulment in pursuance of a resolution of either House of Parliament.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State must lay the regulations before Parliament within a <?new-line?>period of 3 months beginning with the day on which the Low Pay Commission <?new-line?>makes its recommendation.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The regulations may include provision amending, repealing, revoking or <?new-line?>disapplying existing statutory provision (whenever passed or made).</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00015">
+<Title><?start-line?>Existing contracts of employment</Title>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<Text><?start-line?>A decision to set a minimum wage in any area comprising one or more travel <?new-line?>to work areas below the national minimum wage must not affect existing <?new-line?>contracts of employment.</Text>
+</P1para>
+</P1>
+</P1group>
+<?new-page?><P1group id="p00016">
+<Title><?start-line?>Interpretation</Title>
+<P1>
+<Pnumber>7</Pnumber>
+<P1para>
+<Text><?start-line?>In this Act a “travel to work area” is an area so defined by the Office for <?new-line?>National Statistics.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00017">
+<Title><?start-line?>Financial provisions</Title>
+<P1>
+<Pnumber>8</Pnumber>
+<P1para>
+<Text><?start-line?><Emphasis>There shall be paid out of money provided by Parliament—</Emphasis></Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?><Emphasis>any expenditure incurred under or by virtue of this Act by a Minister of the <?new-line?>Crown or by a government department, and</Emphasis></Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?><Emphasis>any increase attributable to this Act in the sums payable under any other Act <?new-line?>out of money so provided.</Emphasis></Text>
+</P3para>
+</P3>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00018">
+<Title><?start-line?>Short title, commencement and extent</Title>
+<P1>
+<Pnumber>9</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Act may be cited as the Employment Opportunities Act 2014.</Text>
+</P2para>
+</P2>
+<P2 id="p00019">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>This Act comes into force at the end of the period of three months beginning <?new-line?>with the day on which it is passed.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>This Act extends to England and Wales, Scotland and Northern Ireland.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Body>
+</Primary>
+</Legislation>

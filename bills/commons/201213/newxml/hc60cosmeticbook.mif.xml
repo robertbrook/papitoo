@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>Cosmetic Surgery (Minimum Standards) Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>30/1/2013</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 60" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="2" />
+<ukm:House Value="House of Commons" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsItem ContentRef="p00008">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Implant registry</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00009">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>The Cosmetic Surgery Regulatory and Standards Authority</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00010">
+<ContentsNumber>3</ContentsNumber>
+<ContentsTitle>Prohibition of advertising cosmetic surgery and cosmetic intervention <?new-line?>procedures</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00011">
+<ContentsNumber>4</ContentsNumber>
+<ContentsTitle>Offences</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00012">
+<ContentsNumber>5</ContentsNumber>
+<ContentsTitle>Non-surgical cosmetic intervention procedures</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00013">
+<ContentsNumber>6</ContentsNumber>
+<ContentsTitle>Financial provisions</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00014">
+<ContentsNumber>7</ContentsNumber>
+<ContentsTitle>Short title, commencement and extent</ContentsTitle>
+</ContentsItem>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Establish minimum standards for the practice of cosmetic surgery, including <?new-line?>non-surgical procedures; and for connected purposes.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<P1group id="p00008">
+<Title><?start-line?>Implant registry</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>There shall be a body corporate known as the United Kingdom Implant <?new-line?>Registry (“the Registry”).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The Registry will record details of implants, including—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the date that the surgery occurred,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the manufacturer, the model,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>where and when the implant was manufactured,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>the details of the person who underwent the implant procedure,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>the name and location of the clinic where the surgical procedure was <?new-line?>undertaken,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>f</Pnumber>
+<P3para>
+<Text><?start-line?>the name of the clinic where the person who underwent the surgical <?new-line?>procedure received consultation services, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>g</Pnumber>
+<P3para>
+<Text><?start-line?>the name and details of the practitioner who carried out and oversaw <?new-line?>the surgical procedure.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Details of each implant will be updated to allow for monitoring of clinical <?new-line?>outcomes.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The information held by the Registry, except the name and address of the <?new-line?>person who underwent the surgical procedure, will be publicly available.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>The information described in subsection (2) will be available to the person who <?new-line?>underwent the surgical procedure or a medical practitioner on their behalf.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>The Registry may issue a safety warning about an implant, manufacturer or <?new-line?>practitioner.</Text>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>In the event of such a warning being issued the Registry will contact all the <?new-line?>persons affected.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00009">
+<Title><?start-line?>The Cosmetic Surgery Regulatory and Standards Authority</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>There shall be a body corporate known as the United Kingdom Cosmetic <?new-line?>Surgery Regulatory and Standards Authority (“OffCos”).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>All practitioners of cosmetic surgery will be required to register with OffCos.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>No practitioner not registered with OffCos shall undertake cosmetic surgery <?new-line?>and cosmetic intervention procedures.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>OffCos will be responsible for issuing licences to practitioners and for licensing <?new-line?>surgical premises, and may withdraw licences if it considers practitioners and <?new-line?>premises to be unfit.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>OffCos, in conjunction with the Care Quality Commission in England, the Care <?new-line?>and Social Services Inspectorate Wales, the Regulation and Quality <?new-line?>Improvement Authority in Northern Ireland, and the Care Commission in <?new-line?>Scotland, will be responsible for inspecting and licensing cosmetic surgery <?new-line?>practitioners and premises.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>OffCos will operate a financial guarantee scheme which practitioners will be <?new-line?>required to join.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00010">
+<Title><?start-line?>Prohibition of advertising cosmetic surgery and cosmetic intervention <?new-line?>procedures</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>A person who in the course of a business publishes a cosmetic surgery or <?new-line?>cosmetic intervention procedure advertisement, or causes one to be published, <?new-line?>in the United Kingdom is guilty of an offence.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>A person who in the course of a business prints, devises or distributes in the <?new-line?>United Kingdom a cosmetic surgery or cosmetic intervention procedure <?new-line?>advertisement which is published in the United Kingdom, or causes such a <?new-line?>cosmetic surgery or cosmetic intervention procedure advertisement to be so <?new-line?>printed, devised or distributed, is guilty of an offence.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Distributing a cosmetic surgery or cosmetic intervention procedure <?new-line?>advertisement includes transmitting it in electronic form, participating in <?new-line?>doing so, or providing the means of transmission.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00011">
+<Title><?start-line?>Offences</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<Text><?start-line?>A person guilty of an offence under section 2 or 3 is liable on summary <?new-line?>conviction, to imprisonment for a term not exceeding 6 months, or to a fine not <?new-line?>exceeding level 5 on the standard scale, or to both.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00012">
+<Title><?start-line?>Non-surgical cosmetic intervention procedures</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<Text><?start-line?>All non-surgical cosmetic intervention procedures, including practitioners and <?new-line?>products will be regulated and licensed by OffCos.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00013">
+<Title><?start-line?>Financial provisions</Title>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<Text><?start-line?><Emphasis>There is to be paid out of money provided by Parliament—</Emphasis></Text>
+<?new-page?><P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?><Emphasis>any expenditure incurred under or by virtue of this Act by the Secretary of <?new-line?>State, and</Emphasis></Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?><Emphasis>any increase attributable to this Act in the sums payable under any other Act <?new-line?>out of money so provided.</Emphasis></Text>
+</P3para>
+</P3>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00014">
+<Title><?start-line?>Short title, commencement and extent</Title>
+<P1>
+<Pnumber>7</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Act may be cited as the Cosmetic Surgery (Minimum Standards) Act 2013.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>This Act comes into force at the end of the period of 1 year beginning with the <?new-line?>day on which it is passed.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>This Act extends to England and Wales, and Scotland and Northern Ireland.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Body>
+</Primary>
+</Legislation>

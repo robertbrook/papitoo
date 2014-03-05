@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendments>
+   <header>
+      <billtitle>Gambling_Licensing_and_Advertising_(Bill61_R(g))</billtitle>
+      <headertext>AMENDMENT TO BE MOVED ON REPORT</headertext>
+   </header>
+   <clausenumber>After Clause 1</clausenumber>
+   <proposer>LORD CLEMENT-JONES</proposer>
+   <proposer>VISCOUNT ASTOR</proposer>
+   <proposer>LORD MANCROFT</proposer>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 1, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Facilities for remote gambling</quote>
+         <quote>(1) Section 235 of the Gambling Act 2005 (gaming machine) is amended as follows.</quote>
+         <quote>(2) In subsection (2)&#8212;</quote>
+         <IndentOne>(a) in paragraph (h)(ii), leave out &#8220;and&#8221;, and</IndentOne>
+         <IndentOne>(b) in paragraph (i)(iii), at the end insert &#8220;, and</IndentOne>
+         <IndentOne>&#8220;(j) a machine is not a gaming machine by reason only of the fact that it is remote gambling equipment (within the meaning of section 36) which is made available for use in a casino&#8221;.</IndentOne>
+         <quote>(3) After subsection (2) insert&#8212;</quote>
+         <quote>&#8220;(2A) The Secretary of State may make regulations providing for the nature of, and circumstances in which, remote gambling equipment to which subsection (2)(j) applies (a &#8220;casino remote terminal&#8221;) may be made available for use in a casino.</quote>
+         <quote>(2B) Regulations under subsection (2A) may, in particular, provide for&#8212;</quote>
+         <IndentOne>(a) a casino remote terminal to be constructed or adapted so as to&#8212;</IndentOne>
+         <IndentTwo>(i) only permit users to gain access to remote gambling facilities; and</IndentTwo>
+         <IndentTwo>(ii) not be capable of accepting or processing any form of payment; (other than any payment made by the user via an online account to the provider of the remote gambling facilities),</IndentTwo>
+         <IndentOne>(b) the maximum number of casino remote terminals which may be made available in a casino,</IndentOne>
+         <IndentOne>(c) the location within a casino where, and circumstances under which, a casino remote terminal may be used,</IndentOne>
+         <IndentOne>(d) any other matter.&#8221;.&#8221;</IndentOne>
+      </text>
+   </Amendment>
+</amendments>

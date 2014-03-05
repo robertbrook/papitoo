@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>Jobseekers (Back to Work Schemes) Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>14/3/2013</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 149" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="2" />
+<ukm:House Value="House of Commons" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Cover>
+<CoverTitle>EXPLANATORY NOTES</CoverTitle>
+<CoverPara><Text><?start-line?>Explanatory notes to the Bill, prepared by the Department for Work and Pensions, are <?new-line?>published separately as Bill 149—EN.</Text></CoverPara>
+<CoverTitle>EUROPEAN CONVENTION ON HUMAN RIGHTS</CoverTitle>
+<CoverPara><Text><?start-line?>Secretary Iain Duncan Smith has made the following statement under section 19(1)(a) <?new-line?>of the Human Rights Act 1998:</Text></CoverPara>
+
+<CoverPara><Text><?start-line?>In my view the provisions of the <?start-line?>Jobseekers (Back to Work Schemes) Bill<?start-line?> are <?new-line?>compatible with the Convention rights.</Text></CoverPara>
+</Cover><Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsItem ContentRef="p00003">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Regulations and notices requiring participation in a scheme</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00010">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>Extent, commencement and short title</ContentsTitle>
+</ContentsItem>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Make provision about the effect of certain provisions relating to participation <?new-line?>in a scheme designed to assist persons to obtain employment and about <?new-line?>notices relating to participation in such a scheme.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<P1group id="p00003">
+<Title><?start-line?>Regulations and notices requiring participation in a scheme</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<P2 id="p00004">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The 2011 Regulations are to be treated for all purposes as regulations that were <?new-line?>made under section 17A of the Jobseekers Act 1995 and other provisions <?new-line?>specified in the preamble to the 2011 Regulations and that came into force on <?new-line?>the day specified in the 2011 Regulations.</Text>
+</P2para>
+</P2>
+<P2 id="p00005">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The Employment, Skills and Enterprise Scheme mentioned in the 2011 <?new-line?>Regulations is to be treated as having been, until the coming into force of the <?new-line?>2013 Regulations, a scheme within section 17A(1) of the Jobseekers Act 1995.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The following are to be treated as having been, until the coming into force of <?new-line?>the 2013 Regulations, programmes of activities that are part of the <?new-line?>Employment, Skills and Enterprise Scheme—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the programmes described in regulation 3(2) to (8) of the 2013 <?new-line?>Regulations, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the programme known as the Community Action Programme,</Text>
+</P3para>
+</P3>
+<Text><?start-line?>and references to the scheme are to be read accordingly.</Text>
+</P2para>
+</P2>
+<P2 id="p00006">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>A notice given for the purposes of regulation 4(1) of the 2011 Regulations <?new-line?>(requirement to participate and notification) is to be treated as a notice that <?new-line?>complied with regulation 4(2)(c) (details of what a person is required to do by <?new-line?>way of participation in scheme) if it referred to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the Employment, Skills and Enterprise Scheme, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>a programme of activities treated under subsection (3) as part of the <?new-line?>scheme.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>A notice given for the purposes of regulation 4(1) of the 2011 Regulations is to <?new-line?>be treated as a notice that complied with regulation 4(2)(e) (information about </Text><?new-page?><?start-line?>  <Text>the consequences of failing to participate) if it described an effect on payments <?new-line?>of jobseeker’s allowance as a consequence or possible consequence of not <?new-line?>participating in the scheme or a programme of activities.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>Regulation 4(3) of the 2011 Regulations (notice of changes in what a person is <?new-line?>required to do by way of a participation in a scheme) is to be treated as if at all <?new-line?>times—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>it required the person in question to be notified only if the changes in <?new-line?>the requirements mentioned in regulation 4(2)(c) were such that the <?new-line?>details relating to those requirements specified in—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>a notice given to the person under regulation 4(1), or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>a notice given to the person under regulation 4(3) on an earlier <?new-line?>occasion,</Text>
+</P4para>
+</P4>
+<Text><?start-line?>were no longer accurate, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>it required the person to be notified only of such changes as made the <?new-line?>details inaccurate.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>A notice given for the purposes of regulation 4(1) of the Mandatory Work <?new-line?>Activity Scheme Regulations is to be treated as a notice that complied with <?new-line?>regulation 4(2)(d) (details of what a person is required to do by way of <?new-line?>participation in scheme) if it referred to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the Mandatory Work Activity Scheme, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>a placement described as Mandatory Work Activity.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>8</Pnumber>
+<P2para>
+<Text><?start-line?>A notice given for the purposes of regulation 4(1) of the Mandatory Work <?new-line?>Activity Scheme Regulations is to be treated as a notice that complied with <?new-line?>regulation 4(2)(f) (information about the consequences of failing to participate) <?new-line?>if it described an effect on payments of jobseeker’s allowance as a consequence <?new-line?>or possible consequence of not participating in the scheme or placement.</Text>
+</P2para>
+</P2>
+<P2 id="p00007">
+<Pnumber>9</Pnumber>
+<P2para>
+<Text><?start-line?>Regulation 4(3) of the Mandatory Work Activity Scheme Regulations is to be <?new-line?>treated as if at all times—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>it required the person in question to be notified only if the changes in <?new-line?>the requirements mentioned in regulation 4(2)(d) were such that the <?new-line?>details relating to those requirements specified in—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>a notice given to the person under regulation 4(1), or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>a notice given to the person under regulation 4(3) on an earlier <?new-line?>occasion,</Text>
+</P4para>
+</P4>
+<Text><?start-line?>were no longer accurate, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>it required the person to be notified only of such changes as made the <?new-line?>details inaccurate.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00008">
+<Pnumber>10</Pnumber>
+<P2para>
+<Text><?start-line?>The penalty provisions are to be treated (notwithstanding the amendments <?new-line?>made by the 2012 Regulations) as having effect after the relevant time as they <?new-line?>did before the relevant time, in relation to a failure to comply with the 2011 <?new-line?>Regulations or, as the case may be, the Mandatory Work Activity Scheme <?new-line?>Regulations that occurred or began to occur before the relevant time.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>11</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection <InternalLink id="i00001" Ref="p00008">(10)</InternalLink> and this subsection—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“the penalty provisions” means—</Text>
+<OrderedList Decoration="parens" Type="alpha">
+<ListItem>
+<Para>
+<Text><?start-line?>in the case of a failure to comply with the 2011 Regulations, the <?new-line?>provisions relating to the imposition of a penalty for such a <?new-line?>failure that had effect before the relevant time;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>in the case of a failure to comply with the Mandatory Work <?new-line?>Activity Scheme Regulations, the provisions relating to the </Text><?new-page?><?start-line?>  <Text>imposition of a penalty for such a failure that had effect before <?new-line?>the relevant time;</Text>
+</Para>
+</ListItem>
+</OrderedList>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“the relevant time” means the time at which the 2012 Regulations came <?new-line?>into force.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P2para>
+</P2>
+<P2>
+<Pnumber>12</Pnumber>
+<P2para>
+<Text><?start-line?>A penalty imposed on a person before or after the coming into force of this Act <?new-line?>for—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>failing to participate in a scheme within section 17A(1) of the Jobseekers <?new-line?>Act 1995, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>failing to comply with regulations under section 17A of that Act,</Text>
+</P3para>
+</P3>
+<Text><?start-line?>is to be treated as lawfully imposed if the only ground or grounds for treating <?new-line?>it as unlawfully imposed is or are removed by subsections <InternalLink id="i00002" Ref="p00004">(1)</InternalLink> to <InternalLink id="i00003" Ref="p00008">(10)</InternalLink>.</Text>
+</P2para>
+</P2>
+<P2 id="p00009">
+<Pnumber>13</Pnumber>
+<P2para>
+<Text><?start-line?>Subject to subsection <InternalLink id="i00004" Ref="p00008">(10)</InternalLink>, the 2011 Regulations are to be treated as having been <?new-line?>revoked by the 2013 Regulations on the coming into force of the 2013 <?new-line?>Regulations.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>14</Pnumber>
+<P2para>
+<Text><?start-line?>In this section—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“the 2011 Regulations” means the provisions known as the Jobseeker’s <?new-line?>Allowance (Employment, Skills and Enterprise Scheme) Regulations <?new-line?>2011 (<Citation id="c00101" Class="UnitedKingdomStatutoryInstrument" Year="2011" Number="0917">S.I. 2011/917</Citation>);</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“the 2012 Regulations” means the Jobseeker’s Allowance (Sanctions) <?new-line?>(Amendment) Regulations 2012 (<Citation id="c00102" Class="UnitedKingdomStatutoryInstrument" Year="2012" Number="2568">S.I. 2012/2568</Citation>);</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“the 2013 Regulations” means the Jobseeker’s Allowance (Schemes for <?new-line?>Assisting Persons to Obtain Employment) Regulations 2013 (S.I. 2013/<?new-line?>276);</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“the Mandatory Work Activity Scheme Regulations” means the <?new-line?>Jobseeker’s Allowance (Mandatory Work Activity Scheme) <?new-line?>Regulations 2011 (<Citation id="c00103" Class="UnitedKingdomStatutoryInstrument" Year="2011" Number="0688">S.I. 2011/688</Citation>).</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00010">
+<Title><?start-line?>Extent, commencement and short title</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Act extends to England and Wales and Scotland.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>This Act comes into force on the day on which it is passed.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>This Act may be cited as the Jobseekers (Back to Work Schemes) Act 2013.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Body>
+</Primary>
+</Legislation>

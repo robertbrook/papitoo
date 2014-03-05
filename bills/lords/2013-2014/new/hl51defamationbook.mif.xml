@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>Defamation (Parliamentary Proceedings) (Amendment) Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>11/10/2013</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 51" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="3" />
+<ukm:House Value="House of Lords" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Cover>
+<CoverTitle>EXPLANATORY NOTES</CoverTitle>
+<CoverPara><Text><?start-line?>Explanatory notes to the Bill, prepared by Lord Lester of Herne Hill, the Member in <?new-line?>charge of the Bill, are published separately as HL Bill 51—EN.</Text></CoverPara>
+</Cover><Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsItem ContentRef="p00006">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Reports etc. of Parliamentary matters protected by privilege</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00011">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>Parliamentary Papers Act 1840</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00012">
+<ContentsNumber>3</ContentsNumber>
+<ContentsTitle>Evidence concerning proceedings in Parliament</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00013">
+<ContentsNumber>4</ContentsNumber>
+<ContentsTitle>Short title, commencement and extent</ContentsTitle>
+</ContentsItem>
+<ContentsSchedules>
+<ContentsSchedule ContentRef="p00014">
+<ContentsNumber>Schedule</ContentsNumber>
+<ContentsTitle>Repeals</ContentsTitle>
+</ContentsSchedule>
+</ContentsSchedules>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Reform the law of liability in defamation proceedings for reports of <?new-line?>Parliamentary proceedings; and to repeal section 13 of the Defamation Act <?new-line?>1996.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<P1group id="p00006">
+<Title><?start-line?>Reports etc. of Parliamentary matters protected by privilege</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<Text><?start-line?>After section 6 of the Defamation Act 2013 insert the following—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Reports etc. of Parliamentary matters protected by privilege</Title>
+<P1>
+<Pnumber>6A</Pnumber>
+<P1para>
+<P2 id="p00007">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The following are privileged—</Text>
+<P3 id="p00008">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>a fair and accurate report of proceedings in Parliament;</Text>
+</P3para>
+</P3>
+<P3 id="p00009">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>a fair and accurate report of anything published by or on the <?new-line?>authority of Parliament; and</Text>
+</P3para>
+</P3>
+<P3 id="p00010">
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>a fair and accurate copy of, extract from or summary of <?new-line?>anything published by or on the authority of Parliament.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The court must stay any proceedings where the defendant shows <?new-line?>that—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the proceedings relate to the publication of anything that falls <?new-line?>within subsection <InternalLink id="i00001" Ref="p00007">(1)</InternalLink><InternalLink id="i00002" Ref="p00008">(a)</InternalLink>, <InternalLink id="i00003" Ref="p00009">(b)</InternalLink> or <InternalLink id="i00004" Ref="p00010">(c)</InternalLink>; or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the proceedings seek to prevent or postpone the making of any <?new-line?>such publication.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>This section also has effect in relation to the Welsh Assembly and the <?new-line?>Northern Ireland Assembly (and any reference to Parliament is to be <?new-line?>read as a reference to the Assembly in question).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The defence under this section is defeated if the claimant shows that the <?new-line?>defendant acted with malice in publishing the statement complained <?new-line?>of.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P1para>
+</P1>
+</P1group>
+<?new-page?><P1group id="p00011">
+<Title><?start-line?>Parliamentary Papers Act 1840</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<Text><?start-line?>After section 3 of the Parliamentary Papers Act 1840 insert the following—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Act not to affect the Defamation Act 2013</Title>
+<P1>
+<Pnumber>3A</Pnumber>
+<P1para>
+<Text><?start-line?>Nothing in this section shall be construed as affecting the application of <?new-line?>section 6 of the Defamation Act 2013.</Text>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00012">
+<Title><?start-line?>Evidence concerning proceedings in Parliament</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<Text><?start-line?>The enactments specified in the Schedule are repealed to the extent specified.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00013">
+<Title><?start-line?>Short title, commencement and extent</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Act may be cited as the Defamation (Parliamentary Proceedings) <?new-line?>(Amendment) Act 2013.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The provisions of this Act shall come into force on such day as the Secretary of <?new-line?>State may by order made by statutory instrument appoint.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>This Act extends to England and Wales.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Body>
+<?new-page?>
+<Schedules>
+<Schedule id="p00014" NumberFormat="default">
+<Number><?start-line?>Schedule</Number>
+<TitleBlock>
+<Title><?start-line?>Repeals</Title>
+</TitleBlock>
+<Reference>Section 3</Reference>
+<ScheduleBody>
+<Tabular Orientation="portrait">
+<table cols="2" xmlns="http://www.w3.org/1999/xhtml">
+<colgroup><col width="168" span="1" />
+
+<col width="246" span="1" />
+
+</colgroup>
+<thead>
+<tr><th colspan="1" rowspan="1">Short title and chapter</th><th colspan="1" rowspan="1"><?start-line?>Extent of repeal</th></tr>
+</thead>
+<tbody>
+<tr><!--1--><!--1--><td rowspan="5" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" colspan="1">Defamation Act 1996</td><!--1--><!--1--><td fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" colspan="1" rowspan="1"><?start-line?>Section 13.</td></tr>
+<tr><!--1--><!--1--><td fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" colspan="1" rowspan="1"><?start-line?>Section 15(3).</td></tr>
+<tr><!--2--><!--2--><!--2--><td fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" colspan="1" rowspan="1"><?start-line?>In section 18(1), the words “section 13 (evidence <?new-line?>concerning proceedings in Parliament),”.</td></tr>
+<tr><!--2--><!--2--><!--2--><td fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" colspan="1" rowspan="1"><?start-line?>In section 18(2), the words “section 13 (evidence <?new-line?>concerning proceedings in Parliament),”.</td></tr>
+<tr><!--2--><!--2--><!--2--><td fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" colspan="1" rowspan="1"><?start-line?>Section 18(3), the words “section 13 (evidence <?new-line?>concerning proceedings in Parliament)”.</td></tr>
+<tr><!--1--><!--1--><td fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" colspan="1" rowspan="1">Defamation Act 2013</td><!--1--><!--1--><td fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" colspan="1" rowspan="1"><?start-line?>Section 7(2).</td></tr>
+</tbody></table>
+</Tabular>
+</ScheduleBody>
+</Schedule>
+</Schedules>
+</Primary>
+</Legislation>

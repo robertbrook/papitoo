@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>Gender Equality (International Development) Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>5/9/2013</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 28" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="3" />
+<ukm:House Value="House of Commons" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Contents>
+<Rubric TemplateVersion="4.2.002" xmlns=""><Text xmlns="http://www.tso.co.uk/assets/namespace/legislation"><?start-line?>This corrected copy of the Bill is being published because of incorrect text in Clauses 1 and 3. It <?new-line?>is being issued free of charge to all known recipients of the original publication.</Text>
+
+<?new-line?>
+</Rubric><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsItem ContentRef="p00006">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Development assistance</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00007">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>Humanitarian assistance</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00008">
+<ContentsNumber>3</ContentsNumber>
+<ContentsTitle>Arrangements with persons or bodies providing assistance</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00009">
+<ContentsNumber>4</ContentsNumber>
+<ContentsTitle>Annual reporting</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00010">
+<ContentsNumber>5</ContentsNumber>
+<ContentsTitle>Short title, commencement and extent</ContentsTitle>
+</ContentsItem>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Promote gender equality in the provision by the Government of development <?new-line?>assistance and humanitarian assistance to countries outside the United <?new-line?>Kingdom, and for connected purposes.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<P1group id="p00006">
+<Title><?start-line?>Development assistance</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<Text><?start-line?>When the Secretary of State offers development assistance to any person or <?new-line?>body under the International Development Act 2002, he shall as a means of <?new-line?>reducing poverty have regard to the reduction of inequality between men and <?new-line?>women and between boys and girls, and to further sustainable development in <?new-line?>the social, economic and environmental circumstances for women, in one or <?new-line?>more countries outside the United Kingdom.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00007">
+<Title><?start-line?>Humanitarian assistance</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<Text><?start-line?>When providing assistance for the purpose of alleviating the effects of a natural <?new-line?>or man-made disaster or other emergency in a country outside the United <?new-line?>Kingdom, the Secretary of State shall have regard to the arrangements for <?new-line?>providing the assistance in recognition of the different needs of men and boys, <?new-line?>and women and girls, respectively.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00008">
+<Title><?start-line?>Arrangements with persons or bodies providing assistance</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<Text><?start-line?>When entering into arrangements with another person or body to provide <?new-line?>assistance under the International Development Act 2002, or offering grants, <?new-line?>loans or guarantees to such a person or body for such purposes, the Secretary <?new-line?>of State shall have regard to the principles in sections 1 and 2.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00009">
+<Title><?start-line?>Annual reporting</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<Text><?start-line?>In section 4(1) of the International Development (Reporting and Transparency) </Text><?new-page?><?start-line?>  <Text>Act 2006, after paragraph (d) add—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>what progress has been made in compliance with the Gender <?new-line?>Equality (International Development) Act 2013.</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00010">
+<Title><?start-line?>Short title, commencement and extent</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Act may be cited as the Gender Equality (International Development) Act <?new-line?>2013.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>This Act shall come into force on the expiry of two months beginning on the <?new-line?>day on which it is passed.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>This Act applies to England and Wales, Scotland and Northern Ireland.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Body>
+</Primary>
+</Legislation>

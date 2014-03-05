@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendments>
+   <header>
+      <billtitle>Water_(Bill88(a))</billtitle>
+      <headertext>AMENDMENT TO BE MOVED ON REPORT</headertext>
+   </header>
+   <clausenumber>After Clause 73</clausenumber>
+   <proposer>LORD HOWARD OF RISING</proposer>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 73, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Internal drainage boards: apportionment of drainage expenses</quote>
+         <quote>(1) The Land Drainage Act 1991 is amended as follows.</quote>
+         <quote>(2) In section 37 (apportionment of drainage expenses), at the end insert&#8212;</quote>
+         <IndentOne>&#8220;(f) in the case of&#8212;the Secretary of State may by order define an equivalent measure for valuing the land&#8221;.&#8221;</IndentOne>
+         <IndentTwo>(i) any land to which none of the paragraphs (a) to (d) applies and it is not possible to calculate a value under paragraph (e)(ii) as the relevant rating lists no longer exist or cannot be located, or</IndentTwo>
+         <IndentTwo>(ii) land to which one of paragraphs (a) to (c) does apply but for which the relevant rating lists no longer exist or cannot be located,</IndentTwo>
+         <IndentTwo>the Secretary of State may by order define an equivalent measure for valuing the land&#8221;.&#8221;</IndentTwo>
+      </text>
+   </Amendment>
+</amendments>

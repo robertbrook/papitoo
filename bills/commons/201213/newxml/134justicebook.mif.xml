@@ -1,0 +1,3248 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>Justice and Security Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>8/2/2013</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 134" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="2" />
+<ukm:House Value="House of Commons" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsPart>
+<ContentsNumber>Part 1</ContentsNumber>
+<ContentsTitle>Oversight of intelligence and security activities</ContentsTitle>
+<ContentsPblock>
+<ContentsTitle>Oversight by the Intelligence and Security Committee</ContentsTitle>
+<ContentsItem ContentRef="p00022">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>The Intelligence and Security Committee</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00024">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>Main functions of the ISC</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00029">
+<ContentsNumber>3</ContentsNumber>
+<ContentsTitle>Reports of the ISC</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00031">
+<ContentsNumber>4</ContentsNumber>
+<ContentsTitle>Sections 1 to 3: interpretation</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+<ContentsPblock>
+<ContentsTitle>Oversight by the Intelligence Services Commissioner</ContentsTitle>
+<ContentsItem ContentRef="p00032">
+<ContentsNumber>5</ContentsNumber>
+<ContentsTitle>Additional review functions of the Commissioner</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+</ContentsPart>
+<ContentsPart>
+<ContentsNumber>Part 2</ContentsNumber>
+<ContentsTitle>Disclosure of sensitive material</ContentsTitle>
+<ContentsPblock>
+<ContentsTitle>Closed material procedure: general</ContentsTitle>
+<ContentsItem ContentRef="p00035">
+<ContentsNumber>6</ContentsNumber>
+<ContentsTitle>Declaration permitting closed material applications in proceedings</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00042">
+<ContentsNumber>7</ContentsNumber>
+<ContentsTitle>Review and revocation of declaration under section 6</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00043">
+<ContentsNumber>8</ContentsNumber>
+<ContentsTitle>Determination by court of applications in section 6 proceedings</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00047">
+<ContentsNumber>9</ContentsNumber>
+<ContentsTitle>Appointment of special advocate</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00050">
+<ContentsNumber>10</ContentsNumber>
+<ContentsTitle>Saving for normal disclosure rules</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00051">
+<ContentsNumber>11</ContentsNumber>
+<ContentsTitle>General provision about section 6 proceedings</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00053">
+<ContentsNumber>12</ContentsNumber>
+<ContentsTitle>Sections 6 to 11: interpretation</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+<ContentsPblock>
+<ContentsTitle>Closed material procedure: immigration</ContentsTitle>
+<ContentsItem ContentRef="p00054">
+<ContentsNumber>13</ContentsNumber>
+<ContentsTitle>Certain exclusion, naturalisation and citizenship decisions</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+<ContentsPblock>
+<ContentsTitle>Closed material procedure: employment</ContentsTitle>
+<ContentsItem ContentRef="p00057">
+<ContentsNumber>14</ContentsNumber>
+<ContentsTitle>Use of intercept evidence in employment cases involving national security</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+<ContentsPblock>
+<ContentsTitle>“Norwich Pharmacal” and similar jurisdictions</ContentsTitle>
+<ContentsItem ContentRef="p00058">
+<ContentsNumber>15</ContentsNumber>
+<ContentsTitle>Disclosure proceedings</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00061">
+<ContentsNumber>16</ContentsNumber>
+<ContentsTitle>Review of certification</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+</ContentsPart>
+<ContentsPart>
+<ContentsNumber>Part 3</ContentsNumber>
+<ContentsTitle>General</ContentsTitle>
+<ContentsItem ContentRef="p00064">
+<ContentsNumber>17</ContentsNumber>
+<ContentsTitle>Consequential and transitional etc. provision</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00067">
+<ContentsNumber>18</ContentsNumber>
+<ContentsTitle>Commencement, extent and short title</ContentsTitle>
+</ContentsItem>
+</ContentsPart>
+<ContentsSchedules>
+<ContentsSchedule ContentRef="p00071">
+<ContentsNumber>Schedule 1</ContentsNumber>
+<ContentsTitle>The Intelligence and Security Committee of Parliament</ContentsTitle>
+</ContentsSchedule>
+<ContentsSchedule ContentRef="p00084">
+<ContentsNumber>Schedule 2</ContentsNumber>
+<ContentsTitle>Consequential provision</ContentsTitle>
+<ContentsPart>
+<ContentsNumber>Part 1</ContentsNumber>
+<ContentsTitle>Oversight of intelligence and security activities</ContentsTitle>
+</ContentsPart>
+<ContentsPart>
+<ContentsNumber>Part 2</ContentsNumber>
+<ContentsTitle>Closed material procedure</ContentsTitle>
+</ContentsPart>
+</ContentsSchedule>
+<ContentsSchedule ContentRef="p00098">
+<ContentsNumber>Schedule 3</ContentsNumber>
+<ContentsTitle>Transitional provision</ContentsTitle>
+<ContentsPart>
+<ContentsNumber>Part 1</ContentsNumber>
+<ContentsTitle>Oversight of intelligence and security activities</ContentsTitle>
+</ContentsPart>
+<ContentsPart>
+<ContentsNumber>Part 2</ContentsNumber>
+<ContentsTitle>Closed material procedure</ContentsTitle>
+</ContentsPart>
+<ContentsPart>
+<ContentsNumber>Part 3</ContentsNumber>
+<ContentsTitle>“Norwich Pharmacal” and similar jurisdictions</ContentsTitle>
+</ContentsPart>
+</ContentsSchedule>
+</ContentsSchedules>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+<?new-line?>[AS AMENDED IN PUBLIC BILL COMMITTEE]
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Provide for oversight of the Security Service, the Secret Intelligence Service, <?new-line?>the Government Communications Headquarters and other activities relating <?new-line?>to intelligence or security matters; to make provision about closed material <?new-line?>procedure in relation to certain civil proceedings; to prevent the making of <?new-line?>certain court orders for the disclosure of sensitive information; and for <?new-line?>connected purposes.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<Part>
+<Number><?start-line?>Part 1</Number>
+<Title><?start-line?>Oversight of intelligence and security activities</Title>
+<Pblock>
+<Title><?start-line?>Oversight by the Intelligence and Security Committee</Title>
+<P1group id="p00022">
+<Title><?start-line?>The Intelligence and Security Committee</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<P2 id="p00023">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>There is to be a body known as the Intelligence and Security Committee of <?new-line?>Parliament (in this Part referred to as “the ISC”).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The ISC is to consist of nine members who are to be drawn both from the <?new-line?>members of the House of Commons and from the members of the House of <?new-line?>Lords.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Each member of the ISC is to be appointed by the House of Parliament from <?new-line?>which the member is to be drawn.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>A person is not eligible to become a member of the ISC unless the person—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>is nominated for membership by the Prime Minister, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>is not a Minister of the Crown.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>Before deciding whether to nominate a person for membership, the Prime <?new-line?>Minister must consult the Leader of the Opposition.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>A member of the ISC is to be the Chair of the ISC chosen by its members.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>Schedule 1 (which makes further provision about the ISC) has effect.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00024">
+<Title><?start-line?>Main functions of the ISC</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<P2 id="p00025">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The ISC may examine or otherwise oversee the expenditure, administration, <?new-line?>policy and operations of—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the Security Service,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the Secret Intelligence Service, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>the Government Communications Headquarters.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00026">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The ISC may examine or otherwise oversee such other activities of Her <?new-line?>Majesty’s Government in relation to intelligence or security matters as are set <?new-line?>out in a memorandum of understanding.</Text>
+</P2para>
+</P2>
+<P2 id="p00027">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The ISC may, by virtue of subsection <InternalLink id="i00001" Ref="p00025">(1)</InternalLink> or <InternalLink id="i00002" Ref="p00026">(2)</InternalLink>, consider any particular <?new-line?>operational matter but only so far as—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the ISC and the Prime Minister are satisfied that the matter—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>is not part of any ongoing intelligence or security operation, and</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>is of significant national interest,</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the Prime Minister has asked the ISC to consider the matter, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>the ISC’s consideration of the matter is limited to the consideration of <?new-line?>information provided voluntarily to the ISC by—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>the Security Service,</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>the Secret Intelligence Service,</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text><?start-line?>the Government Communications Headquarters, or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>iv</Pnumber>
+<P4para>
+<Text><?start-line?>a government department.</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00028">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The ISC’s consideration of a particular operational matter under subsection <?new-line?>(3)(a) or (b) must, in the opinion of the ISC and the Prime Minister, be <?new-line?>consistent with any principles set out in, or other provision made by, a <?new-line?>memorandum of understanding.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>A memorandum of understanding under this section—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>may include other provision about the ISC or its functions which is not <?new-line?>of the kind envisaged in subsection <InternalLink id="i00003" Ref="p00026">(2)</InternalLink> or <InternalLink id="i00004" Ref="p00028">(4)</InternalLink>,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>must be agreed between the Prime Minister and the ISC, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>may be altered (or replaced with another memorandum) with the <?new-line?>agreement of the Prime Minister and the ISC.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>The ISC must publish a memorandum of understanding under this section and <?new-line?>lay a copy of it before Parliament.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00029">
+<Title><?start-line?>Reports of the ISC</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The ISC must make an annual report to Parliament on the discharge of its <?new-line?>functions.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The ISC may make such other reports to Parliament as it considers appropriate <?new-line?>concerning any aspect of its functions.</Text>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Before making a report to Parliament, the ISC must send it to the Prime <?new-line?>Minister.</Text>
+</P2para>
+</P2>
+<P2 id="p00030">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The ISC must exclude any matter from any report to Parliament if the Prime <?new-line?>Minister, after consultation with the ISC, considers that the matter would be <?new-line?>prejudicial to the continued discharge of the functions of the Security Service, <?new-line?>the Secret Intelligence Service, the Government Communications <?new-line?>Headquarters or any person carrying out activities falling within section 2<InternalLink id="i00005" Ref="p00026">(2)</InternalLink>.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>A report by the ISC to Parliament must contain a statement as to whether any <?new-line?>matter has been excluded from the report by virtue of subsection <InternalLink id="i00006" Ref="p00030">(4)</InternalLink>.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>The ISC must lay before Parliament any report made by it to Parliament.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>The ISC may make a report to the Prime Minister in relation to matters which <?new-line?>would be excluded by virtue of subsection <InternalLink id="i00007" Ref="p00030">(4)</InternalLink> if the report were made to <?new-line?>Parliament.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00031">
+<Title><?start-line?>Sections 1 to 3: interpretation</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<Text><?start-line?>In sections 1 to 3 and Schedule 1—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“government department” means a department of Her Majesty’s <?new-line?>Government but does not include—</Text>
+<OrderedList Decoration="parens" Type="alpha">
+<ListItem>
+<Para>
+<Text><?start-line?>the Security Service,</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>the Secret Intelligence Service, or</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>the Government Communications Headquarters,</Text>
+</Para>
+</ListItem>
+</OrderedList>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“Her Majesty’s forces” has the same meaning as in the Armed Forces Act <?new-line?>2006,</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“Her Majesty’s Government” means Her Majesty’s Government in the <?new-line?>United Kingdom,</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“Leader of the Opposition” has the same meaning as in the Ministerial and <?new-line?>other Salaries Act 1975,</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“Minister of the Crown” has the same meaning as in the Ministers of the <?new-line?>Crown Act 1975,</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“notice” means notice in writing.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+<Pblock>
+<Title><?start-line?>Oversight by the Intelligence Services Commissioner</Title>
+<P1group id="p00032">
+<Title><?start-line?>Additional review functions of the Commissioner</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<Text><?start-line?>After section 59 of the Regulation of Investigatory Powers Act 2000 <?new-line?>(Intelligence Services Commissioner) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Additional functions of the Intelligence Services Commissioner</Title>
+<P1>
+<Pnumber>59A</Pnumber>
+<P1para>
+<P2 id="p00033">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>So far as directed to do so by the Prime Minister and subject to <?new-line?>subsection <InternalLink id="i00008" Ref="p00034">(2)</InternalLink>, the Intelligence Services Commissioner must keep <?new-line?>under review the carrying out of any aspect of the functions of—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>an intelligence service,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>a head of an intelligence service, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>any part of Her Majesty’s forces, or of the Ministry of Defence, <?new-line?>so far as engaging in intelligence activities.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<?new-page?><P2 id="p00034">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Subsection <InternalLink id="i00009" Ref="p00033">(1)</InternalLink> does not apply in relation to anything which is required <?new-line?>to be kept under review by the Interception of Communications <?new-line?>Commissioner or under section 59.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The Prime Minister may give a direction under this section at the <?new-line?>request of the Intelligence Services Commissioner or otherwise.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Directions under this section may, for example, include directions to <?new-line?>the Intelligence Services Commissioner to keep under review the <?new-line?>implementation or effectiveness of particular policies of the head of an <?new-line?>intelligence service regarding the carrying out of any of the functions of <?new-line?>the intelligence service.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>The Prime Minister must publish, in a manner which the Prime <?new-line?>Minister considers appropriate, any direction under this section (and <?new-line?>any revocation of such a direction) except so far as it appears to the <?new-line?>Prime Minister that such publication would be contrary to the public <?new-line?>interest or prejudicial to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>national security,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the prevention or detection of serious crime,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>the economic well-being of the United Kingdom, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>the continued discharge of the functions of any public authority <?new-line?>whose activities include activities that are subject to review by <?new-line?>the Intelligence Services Commissioner.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>In this section “head”, in relation to an intelligence service, means—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in relation to the Security Service, the Director-General,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in relation to the Secret Intelligence Service, the Chief, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>in relation to GCHQ, the Director.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+</Part>
+<Part>
+<Number><?start-line?>Part 2</Number>
+<Title><?start-line?>Disclosure of sensitive material</Title>
+<Pblock>
+<Title><?start-line?>Closed material procedure: general</Title>
+<P1group id="p00035">
+<Title><?start-line?>Declaration permitting closed material applications in proceedings</Title>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<P2 id="p00036">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The court seised of relevant civil proceedings may make a declaration that the <?new-line?>proceedings are proceedings in which a closed material application may be <?new-line?>made to the court.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The court may make such a declaration—</Text>
+<P3 id="p00037">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>on the application of—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>the Secretary of State (whether or not the Secretary of State is a <?new-line?>party to the proceedings), or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>any party to the proceedings, or</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>of its own motion.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The court may make such a declaration if it considers that the following two <?new-line?>conditions are met.</Text>
+</P2para>
+</P2>
+<P2 id="p00038">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The first condition, in a case where the court is considering whether to make a <?new-line?>declaration on the application of the Secretary of State or of its own motion, is <?new-line?>that—</Text>
+<?new-page?><P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>a party to the proceedings (whether or not the Secretary of State) would <?new-line?>be required to disclose sensitive material in the course of the <?new-line?>proceedings to another person (whether or not another party to the <?new-line?>proceedings), or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>a party to the proceedings (whether or not the Secretary of State) would <?new-line?>be required to make such a disclosure were it not for one or more of the <?new-line?>following—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>the possibility of a claim for public interest immunity in relation <?new-line?>to the material,</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>the fact that there would be no requirement to disclose if the <?new-line?>person concerned chose not to rely on the material,</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text><?start-line?>section 17(1) of the Regulation of Investigatory Powers Act 2000 <?new-line?>(exclusion for intercept material),</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>iv</Pnumber>
+<P4para>
+<Text><?start-line?>any other enactment that would prevent the party from <?new-line?>disclosing the material but would not do so if the proceedings <?new-line?>were proceedings in relation to which there was a declaration <?new-line?>under this section.</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>The first condition, in a case where the court is considering whether to make a <?new-line?>declaration on the application of a party to the proceedings (other than the <?new-line?>Secretary of State), is that—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the applicant would be required to disclose sensitive material in the <?new-line?>course of the proceedings to another person (whether or not another <?new-line?>party to the proceedings), or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the applicant would be required to make such a disclosure were it not <?new-line?>for one or more of the following—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>the possibility of a claim for public interest immunity in relation <?new-line?>to the material,</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>the fact that there would be no requirement to disclose if the <?new-line?>applicant chose not to rely on the material,</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text><?start-line?>section 17(1) of the Regulation of Investigatory Powers Act 2000 <?new-line?>(exclusion for intercept material),</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>iv</Pnumber>
+<P4para>
+<Text><?start-line?>any other enactment that would prevent the applicant from <?new-line?>disclosing the material but would not do so if the proceedings <?new-line?>were proceedings in relation to which there was a declaration <?new-line?>under this section.</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>The second condition is that it is in the interests of the fair and effective <?new-line?>administration of justice in the proceedings to make a declaration.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>The two conditions are met if the court considers that they are met in relation <?new-line?>to any material that would be required to be disclosed in the course of the <?new-line?>proceedings (and an application under subsection (2)(a) need not be based on <?new-line?>all of the material that might meet the conditions).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>8</Pnumber>
+<P2para>
+<Text><?start-line?>A declaration under this section must identify the party or parties to the <?new-line?>proceedings who would be required to disclose the sensitive material (“a <?new-line?>relevant person”).</Text>
+</P2para>
+</P2>
+<P2 id="p00039">
+<Pnumber>9</Pnumber>
+<P2para>
+<Text><?start-line?>Rules of court may—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>provide for notification to the Secretary of State by a party to relevant <?new-line?>civil proceedings, or by the court concerned, of proceedings to which a <?new-line?>declaration under this section may be relevant,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>provide for a stay or sist of relevant civil proceedings (whether on an <?new-line?>application by a party to the proceedings or by the court concerned of </Text><?new-page?><?start-line?>  <Text>its own motion) where a person is considering whether to apply for a <?new-line?>declaration under this section,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>provide for the Secretary of State, if not a party to proceedings in <?new-line?>relation to which there is a declaration under this section or <?new-line?>proceedings for or about such a declaration, to be joined as a party to <?new-line?>the proceedings.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00040">
+<Pnumber>10</Pnumber>
+<P2para>
+<Text><?start-line?>Rules of court must make provision—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>requiring a person, before making an application under subsection <?new-line?>(2)(a), to give notice of the person’s intention to make an application to <?new-line?>every other person entitled to make such an application in relation to <?new-line?>the relevant civil proceedings,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>requiring the applicant to inform every other such person of the <?new-line?>outcome of the application.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00041">
+<Pnumber>11</Pnumber>
+<P2para>
+<Text><?start-line?>In this section—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“closed material application” means an application of the kind mentioned <?new-line?>in section 8<InternalLink id="i00010" Ref="p00045">(1)(a)</InternalLink>,</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“relevant civil proceedings” means any proceedings (other than <?new-line?>proceedings in a criminal cause or matter) before—</Text>
+<OrderedList Decoration="parens" Type="alpha">
+<ListItem>
+<Para>
+<Text><?start-line?>the High Court,</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>the Court of Appeal,</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>the Court of Session, or</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>the Supreme Court.</Text>
+</Para>
+</ListItem>
+</OrderedList>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“sensitive material” means material the disclosure of which would be <?new-line?>damaging to the interests of national security.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00042">
+<Title><?start-line?>Review and revocation of declaration under section 6</Title>
+<P1>
+<Pnumber>7</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This section applies where a court seised of relevant civil proceedings has <?new-line?>made a declaration under section 6.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The court must keep the declaration under review, and may at any time revoke <?new-line?>it if it considers that the declaration is no longer in the interests of the fair and <?new-line?>effective administration of justice in the proceedings.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The court must undertake a formal review of the declaration once the pre-trial <?new-line?>disclosure exercise in the proceedings has been completed, and must revoke it <?new-line?>if it considers that the declaration is no longer in the interests of the fair and <?new-line?>effective administration of justice in the proceedings.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The court may revoke a declaration under subsection (2) or (3)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>on the application of—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>the Secretary of State (whether or not the Secretary of State is a <?new-line?>party to the proceedings), or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>any party to the proceedings, or</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>of its own motion.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>In deciding for the purposes of subsection (2) or (3) whether a declaration <?new-line?>continues to be in the interests of the fair and effective administration of justice <?new-line?>in the proceedings, the court must consider all of the material that has been put <?new-line?>before it in the course of the proceedings (and not just the material on which <?new-line?>the decision to make the declaration was based).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>Rules of court must make provision—</Text>
+<?new-page?><P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>as to how a formal review is to be conducted under subsection (3),</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>as to when the pre-trial disclosure exercise is to be considered to have <?new-line?>been completed for the purposes of subsection (3).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00043">
+<Title><?start-line?>Determination by court of applications in section 6 proceedings</Title>
+<P1>
+<Pnumber>8</Pnumber>
+<P1para>
+<P2 id="p00044">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Rules of court relating to any relevant civil proceedings in relation to which <?new-line?>there is a declaration under section 6 (“section 6 proceedings”) must secure—</Text>
+<P3 id="p00045">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>that a relevant person has the opportunity to make an application to the <?new-line?>court for permission not to disclose material otherwise than to—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>the court,</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>any person appointed as a special advocate, and</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text><?start-line?>where the Secretary of State is not the relevant person but is a <?new-line?>party to the proceedings, the Secretary of State,</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>that such an application is always considered in the absence of every <?new-line?>other party to the proceedings (and every other party’s legal <?new-line?>representative),</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>that the court is required to give permission for material not to be <?new-line?>disclosed if it considers that the disclosure of the material would be <?new-line?>damaging to the interests of national security,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>that, if permission is given by the court not to disclose material, it must <?new-line?>consider requiring the relevant person to provide a summary of the <?new-line?>material to every other party to the proceedings (and every other <?new-line?>party’s legal representative),</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>that the court is required to ensure that such a summary does not <?new-line?>contain material the disclosure of which would be damaging to the <?new-line?>interests of national security.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Rules of court relating to section 6 proceedings must secure that provision to <?new-line?>the effect mentioned in subsection <InternalLink id="i00011" Ref="p00046">(3)</InternalLink> applies in cases where a relevant <?new-line?>person—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>does not receive the permission of the court to withhold material, but <?new-line?>elects not to disclose it, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>is required to provide another party to the proceedings with a <?new-line?>summary of material that is withheld, but elects not to provide the <?new-line?>summary.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00046">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The court must be authorised—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>if it considers that the material or anything that is required to be <?new-line?>summarised might adversely affect the relevant person’s case or <?new-line?>support the case of another party to the proceedings, to direct that the <?new-line?>relevant person—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>is not to rely on such points in that person’s case, or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>is to make such concessions or take such other steps as the court <?new-line?>may specify, or</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in any other case, to ensure that the relevant person does not rely on the <?new-line?>material or (as the case may be) on that which is required to be <?new-line?>summarised.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<?new-page?><P1group id="p00047">
+<Title><?start-line?>Appointment of special advocate</Title>
+<P1>
+<Pnumber>9</Pnumber>
+<P1para>
+<P2 id="p00048">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The appropriate law officer may appoint a person to represent the interests of <?new-line?>a party in any section 6 proceedings from which the party (and any legal <?new-line?>representative of the party) is excluded.</Text>
+</P2para>
+</P2>
+<P2 id="p00049">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>A person appointed under subsection <InternalLink id="i00012" Ref="p00048">(1)</InternalLink> is referred to in this section as <?new-line?>appointed as a “special advocate”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The “appropriate law officer” is—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in relation to proceedings in England and Wales, the Attorney General,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in relation to proceedings in Scotland, the Advocate General for <?new-line?>Scotland, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>in relation to proceedings in Northern Ireland, the Advocate General <?new-line?>for Northern Ireland.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>A person appointed as a special advocate is not responsible to the party to the <?new-line?>proceedings whose interests the person is appointed to represent.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>A person may be appointed as a special advocate only if—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in the case of an appointment by the Attorney General, the person has <?new-line?>a general qualification for the purposes of section 71 of the Courts and <?new-line?>Legal Services Act 1990,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in the case of an appointment by the Advocate General for Scotland, the <?new-line?>person is an advocate or a solicitor who has rights of audience in the <?new-line?>Court of Session or the High Court of Justiciary by virtue of section 25A <?new-line?>of the Solicitors (Scotland) Act 1980, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>in the case of an appointment by the Advocate General for Northern <?new-line?>Ireland, the person is a member of the Bar of Northern Ireland.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00050">
+<Title><?start-line?>Saving for normal disclosure rules</Title>
+<P1>
+<Pnumber>10</Pnumber>
+<P1para>
+<Text><?start-line?>Subject to sections 8, 9 and 11, rules of court relating to section 6 proceedings <?new-line?>must secure that the rules of disclosure otherwise applicable to those <?new-line?>proceedings continue to apply in relation to the disclosure of material by a <?new-line?>relevant person.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00051">
+<Title><?start-line?>General provision about section 6 proceedings</Title>
+<P1>
+<Pnumber>11</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>A person making rules of court relating to section 6 proceedings must have <?new-line?>regard to the need to secure that disclosures of information are not made where <?new-line?>they would be damaging to the interests of national security.</Text>
+</P2para>
+</P2>
+<P2 id="p00052">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Rules of court relating to section 6 proceedings may make provision—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>about the mode of proof and about evidence in the proceedings,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>enabling or requiring the proceedings to be determined without a <?new-line?>hearing,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>about legal representation in the proceedings,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>enabling the proceedings to take place without full particulars of the <?new-line?>reasons for decisions in the proceedings being given to a party to the <?new-line?>proceedings (or to any legal representative of that party),</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>enabling the court concerned to conduct proceedings in the absence of <?new-line?>any person, including a party to the proceedings (or any legal <?new-line?>representative of that party),</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>f</Pnumber>
+<P3para>
+<Text><?start-line?>about the functions of a person appointed as a special advocate,</Text>
+</P3para>
+</P3>
+<?new-page?><P3>
+<Pnumber>g</Pnumber>
+<P3para>
+<Text><?start-line?>enabling the court to give a party to the proceedings a summary of <?new-line?>evidence taken in the party’s absence.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection <InternalLink id="i00013" Ref="p00052">(2)</InternalLink> references to a party to the proceedings do not include the <?new-line?>relevant person concerned and (if the Secretary of State is not the relevant <?new-line?>person but is a party to the proceedings) the Secretary of State.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The following proceedings are to be treated as section 6 proceedings for the <?new-line?>purposes of sections 8 to 10, this section and section 12—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>proceedings on, or in relation to, an application for a declaration under <?new-line?>section 6;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>proceedings on, or in relation to, a decision of the court to make a <?new-line?>declaration under that section of its own motion.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>In proceedings treated as section 6 proceedings by virtue of subsection (4), a <?new-line?>relevant person, for the purposes of sections 8 to 10, this section and section 12, <?new-line?>is a person who would be required to disclose sensitive material in the course <?new-line?>of the proceedings.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00053">
+<Title><?start-line?>Sections 6 to 11: interpretation</Title>
+<P1>
+<Pnumber>12</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In sections 6 to 11 and this section—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“enactment” means an enactment whenever passed or made and <?new-line?>includes—</Text>
+<OrderedList Decoration="parens" Type="alpha">
+<ListItem>
+<Para>
+<Text><?start-line?>an enactment contained in this Act,</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>an enactment contained in subordinate legislation within the <?new-line?>meaning of the Interpretation Act 1978,</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>an enactment contained in, or in an instrument made under, an <?new-line?>Act of the Scottish Parliament,</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>an enactment contained in, or in an instrument made under, <?new-line?>Northern Ireland legislation, and</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>an enactment contained in, or in an instrument made under, a <?new-line?>Measure or Act of the National Assembly for Wales,</Text>
+</Para>
+</ListItem>
+</OrderedList>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“the Human Rights Convention” means the Convention within the <?new-line?>meaning of the Human Rights Act 1998 (see section 21(1) of that Act),</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“relevant civil proceedings” has the meaning given by section 6<InternalLink id="i00014" Ref="p00041">(11)</InternalLink>,</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“relevant person” has the meaning given by section 6(8) and includes any <?new-line?>person treated as a relevant person by any enactment,</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“section 6 proceedings” has the meaning given by section 8<InternalLink id="i00015" Ref="p00044">(1)</InternalLink> and <?new-line?>includes any proceedings treated as section 6 proceedings by any <?new-line?>enactment,</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“sensitive material” has the meaning given by section 6(11),</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“special advocate” has the meaning given by section 9<InternalLink id="i00016" Ref="p00049">(2)</InternalLink>,</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+<Text><?start-line?>and references to a party’s legal representative do not include a person <?new-line?>appointed as a special advocate.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Nothing in sections 6 to 11 and this section (or in any provision made by virtue <?new-line?>of them)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>restricts the power to make rules of court or the matters to be taken into <?new-line?>account when doing so,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>affects the common law rules as to the withholding, on grounds of <?new-line?>public interest immunity, of any material in any proceedings, or</Text>
+</P3para>
+</P3>
+<?new-page?><P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>is to be read as requiring a court or tribunal to act in a manner <?new-line?>inconsistent with Article 6 of the Human Rights Convention.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+<Pblock>
+<Title><?start-line?>Closed material procedure: immigration</Title>
+<P1group id="p00054">
+<Title><?start-line?>Certain exclusion, naturalisation and citizenship decisions</Title>
+<P1>
+<Pnumber>13</Pnumber>
+<P1para>
+<Text><?start-line?>After section 2B of the Special Immigration Appeals Commission Act 1997 <?new-line?>(appeals against certain deprivation of citizenship decisions) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Jurisdiction: review of certain exclusion decisions</Title>
+<P1>
+<Pnumber>2C</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Subsection <InternalLink id="i00017" Ref="p00055">(2)</InternalLink> applies in relation to any direction about the exclusion of <?new-line?>a non-EEA national from the United Kingdom which—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>is made by the Secretary of State wholly or partly on the ground <?new-line?>that the exclusion from the United Kingdom of the non-EEA <?new-line?>national is conducive to the public good,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>is not subject to a right of appeal, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>is certified by the Secretary of State as a direction that was made <?new-line?>wholly or partly in reliance on information which, in the <?new-line?>opinion of the Secretary of State, should not be made public—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>in the interests of national security,</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>in the interests of the relationship between the United <?new-line?>Kingdom and another country, or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text><?start-line?>otherwise in the public interest.</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00055">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The non-EEA national to whom the direction relates may apply to the <?new-line?>Special Immigration Appeals Commission to set aside the direction.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In determining whether the direction should be set aside, the <?new-line?>Commission must apply the principles which would be applied in <?new-line?>judicial review proceedings.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>If the Commission decides that the direction should be set aside, it may <?new-line?>make any such order, or give any such relief, as may be made or given <?new-line?>in judicial review proceedings.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>In this section—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“non-EEA national” means any person who is not a national of an <?new-line?>EEA state,</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+<Text><?start-line?>and references in this section to the Secretary of State are to the <?new-line?>Secretary of State acting in person.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Jurisdiction: review of certain naturalisation and citizenship decisions</Title>
+<P1>
+<Pnumber>2D</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Subsection <InternalLink id="i00018" Ref="p00056">(2)</InternalLink> applies in relation to any decision of the Secretary of <?new-line?>State which—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>is either—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>a refusal to issue a certificate of naturalisation under <?new-line?>section 6 of the British Nationality Act 1981 to an <?new-line?>applicant under that section, or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>a refusal to grant an application of the kind mentioned <?new-line?>in section 41A of that Act (applications to register an <?new-line?>adult or young person as a British citizen etc.), and</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<?new-page?><P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>is certified by the Secretary of State as a decision that was made <?new-line?>wholly or partly in reliance on information which, in the <?new-line?>opinion of the Secretary of State, should not be made public—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>in the interests of national security,</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>in the interests of the relationship between the United <?new-line?>Kingdom and another country, or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text><?start-line?>otherwise in the public interest.</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00056">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The applicant to whom the decision relates may apply to the Special <?new-line?>Immigration Appeals Commission to set aside the decision.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In determining whether the decision should be set aside, the <?new-line?>Commission must apply the principles which would be applied in <?new-line?>judicial review proceedings.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>If the Commission decides that the decision should be set aside, it may <?new-line?>make any such order, or give any such relief, as may be made or given <?new-line?>in judicial review proceedings.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+<Pblock>
+<Title><?start-line?>Closed material procedure: employment</Title>
+<P1group id="p00057">
+<Title><?start-line?>Use of intercept evidence in employment cases involving national security</Title>
+<P1>
+<Pnumber>14</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Section 18 of the Regulation of Investigatory Powers Act 2000 (exclusion of <?new-line?>intercepted communications etc. from legal proceedings: exceptions) is <?new-line?>amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (1), after paragraph (d) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>dza</Pnumber>
+<P3para>
+<Text><?start-line?>any proceedings before an employment tribunal, or (in <?new-line?>Northern Ireland) an industrial tribunal, where the applicant or <?new-line?>the applicant’s representatives are excluded for all or part of the <?new-line?>proceedings pursuant to—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>a direction to the tribunal by virtue of section 10(5)(b) or <?new-line?>(c) of the Employment Tribunals Act 1996 or (as the case <?new-line?>may be) Article 12(5)(b) or (c) of the Industrial Tribunals <?new-line?>(Northern Ireland) Order 1996 (<Citation id="c00101" Class="UnitedKingdomStatutoryInstrument" Year="1996" Number="1921" AlternativeNumber="N.I 18">S.I. 1996/1921 (N.I. 18)</Citation>) <?new-line?>(exclusion from Crown employment proceedings by <?new-line?>direction of Minister in interests of national security), or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>a determination of the tribunal by virtue of section 10(6) <?new-line?>of that Act or (as the case may be) Article 12(6) of that <?new-line?>Order (determination by tribunal in interests of national <?new-line?>security),</Text>
+</P4para>
+</P4>
+<Text><?start-line?>or any proceedings arising out of such proceedings;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>dzb</Pnumber>
+<P3para>
+<Text><?start-line?>any proceedings on an appeal under Article 80(2) of the Fair <?new-line?>Employment and Treatment (Northern Ireland) Order 1998 (S.I. <?new-line?>1998/3162 (N.I. 21)) where—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>the appeal relates to a claim of discrimination in <?new-line?>contravention of Part 3 of that Order (employment <?new-line?>cases) and to a certificate of the Secretary of State that the <?new-line?>act concerned was justified for the purpose of <?new-line?>safeguarding national security, and</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>a party to the appeal or the party’s representatives are <?new-line?>excluded for all or part of the proceedings by virtue of <?new-line?>section 91(4)(b) of the Northern Ireland Act 1998,</Text>
+</P4para>
+</P4>
+<?new-page?><Text><?start-line?>or any proceedings arising out of such proceedings;</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (2)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in the opening words, for “(db)” substitute “(dza)”,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>after “anything—” insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>zza</Pnumber>
+<P3para>
+<Text><?start-line?>in the case of proceedings falling within paragraph <?new-line?>(dza), to—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>the person who is or was the applicant in the <?new-line?>proceedings before the employment or <?new-line?>industrial tribunal, or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>any person who for the purposes of proceedings <?new-line?>so falling (but otherwise than by virtue of <?new-line?>appointment as a special advocate) represents <?new-line?>that person;</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3>
+<Pnumber>zzb</Pnumber>
+<P3para>
+<Text><?start-line?>in the case of proceedings falling within paragraph <?new-line?>(dzb), to—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>any person who is or was excluded from all or <?new-line?>part of the proceedings on appeal under Article <?new-line?>80(2) of the Fair Employment and Treatment <?new-line?>(Northern Ireland) Order 1998, or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>any person who for the purposes of proceedings <?new-line?>so falling (but otherwise than by virtue of <?new-line?>appointment as a special advocate) represents <?new-line?>that person;</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+<Pblock>
+<Title><?start-line?>“Norwich Pharmacal” and similar jurisdictions</Title>
+<P1group id="p00058">
+<Title><?start-line?>Disclosure proceedings</Title>
+<P1>
+<Pnumber>15</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This section applies where, by way of civil proceedings, a person (“A”) seeks <?new-line?>the disclosure of information by another person (“B”) on the grounds that—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>wrongdoing by another person (“C”) has, or may have, occurred,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>B was involved with the carrying out of the wrongdoing (whether <?new-line?>innocently or not), and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>the disclosure is reasonably necessary to enable redress to be obtained <?new-line?>or a defence to be relied on in connection with the wrongdoing.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>A court may not, in exercise of its residual disclosure jurisdiction, order the <?new-line?>disclosure of information sought (whether that disclosure would be to A or to <?new-line?>another person) if the information is sensitive information.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>“Sensitive information” means information—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>held by an intelligence service,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>obtained from, or held on behalf of, an intelligence service,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>derived in whole or part from information obtained from, or held on <?new-line?>behalf of, an intelligence service,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>relating to an intelligence service, or</Text>
+</P3para>
+</P3>
+<P3 id="p00059">
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>specified or described in a certificate issued by the Secretary of State, in <?new-line?>relation to the proceedings, as information which B should not be <?new-line?>ordered to disclose.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<?new-page?><P2 id="p00060">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State may issue a certificate under subsection <InternalLink id="i00019" Ref="p00059">(3)(e)</InternalLink> only if the <?new-line?>Secretary of State considers that it would be contrary to the public interest for <?new-line?>B to disclose—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the information,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>whether the information exists, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>whether B has the information.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>For the purposes of subsection <InternalLink id="i00020" Ref="p00060">(4)</InternalLink> a disclosure is contrary to the public interest <?new-line?>if it would cause damage—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>to the interests of national security, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>to the interests of the international relations of the United Kingdom.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>In this section—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“enactment” means an enactment whenever passed or made and includes <?new-line?>an enactment contained in—</Text>
+<OrderedList Decoration="parens" Type="alpha">
+<ListItem>
+<Para>
+<Text><?start-line?>an Act of the Scottish Parliament,</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>Northern Ireland legislation, or</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>a Measure or Act of the National Assembly for Wales,</Text>
+</Para>
+</ListItem>
+</OrderedList>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“Her Majesty’s forces” has the same meaning as in the Armed Forces Act <?new-line?>2006,</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“information” includes—</Text>
+<OrderedList Decoration="parens" Type="alpha">
+<ListItem>
+<Para>
+<Text><?start-line?>information contained in any form of document or stored in any <?new-line?>other way, and</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>alleged information,</Text>
+</Para>
+</ListItem>
+</OrderedList>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“intelligence service” means—</Text>
+<OrderedList Decoration="parens" Type="alpha">
+<ListItem>
+<Para>
+<Text><?start-line?>the Security Service,</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>the Secret Intelligence Service,</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>the Government Communications Headquarters, or</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>any part of Her Majesty’s forces, or of the Ministry of Defence, <?new-line?>which engages in intelligence activities,</Text>
+</Para>
+</ListItem>
+</OrderedList>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“obtained” means obtained directly or indirectly,</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“residual disclosure jurisdiction” means any jurisdiction to order the <?new-line?>disclosure of information which is not specifically conferred as such a <?new-line?>jurisdiction by or under an enactment.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>This section—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>enables the Secretary of State to issue a certificate under subsection <?new-line?><InternalLink id="i00021" Ref="p00059">(3)(e)</InternalLink> where the Secretary of State is B as it enables the Secretary of State <?new-line?>to issue such a certificate where another person is B, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>does not restrict any other right or privilege that the Secretary of State <?new-line?>can claim in order to resist an application for the disclosure of <?new-line?>information.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00061">
+<Title><?start-line?>Review of certification</Title>
+<P1>
+<Pnumber>16</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Where the Secretary of State has issued a certificate under section 15<InternalLink id="i00022" Ref="p00059">(3)(e)</InternalLink> in <?new-line?>relation to proceedings, any party to the proceedings may apply to the relevant <?new-line?>court to set aside the decision on the ground in subsection <InternalLink id="i00023" Ref="p00062">(2)</InternalLink>.</Text>
+</P2para>
+</P2>
+<P2 id="p00062">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>That ground is that the Secretary of State ought not to have determined, in <?new-line?>relation to the information specified or described in the certificate, that a <?new-line?>disclosure by B as mentioned in section 15<InternalLink id="i00024" Ref="p00060">(4)</InternalLink> would be contrary to the public <?new-line?>interest.</Text>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In determining whether the decision to issue the certificate should be set aside <?new-line?>on the ground in subsection <InternalLink id="i00025" Ref="p00062">(2)</InternalLink>, the relevant court must apply the principles <?new-line?>which would be applied in judicial review proceedings.</Text>
+</P2para>
+</P2>
+<P2 id="p00063">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Proceedings arising by virtue of this section are to be treated as section 6 <?new-line?>proceedings for the purposes of sections 8 to 12.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>Sections 8 to 12 apply in relation to proceedings treated as section 6 <?new-line?>proceedings by subsection <InternalLink id="i00026" Ref="p00063">(4)</InternalLink> as if—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the Secretary of State were the relevant person, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the references to the interests of national security in sections 8 and 11 <?new-line?>were references to the interests of national security or the interests of <?new-line?>the international relations of the United Kingdom.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>In this section “relevant court” means—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>if the court seised of the proceedings in relation to which the certificate <?new-line?>has been issued is a county court, the High Court,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>if the court seised of those proceedings is the sheriff, the Court of <?new-line?>Session, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>in any other case, the court seised of those proceedings.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+</Part>
+<Part>
+<Number><?start-line?>Part 3</Number>
+<Title><?start-line?>General</Title>
+<P1group id="p00064">
+<Title><?start-line?>Consequential and transitional etc. provision</Title>
+<P1>
+<Pnumber>17</Pnumber>
+<P1para>
+<P2 id="p00065">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Schedules 2 and 3 (which make consequential and transitional provision) have <?new-line?>effect.</Text>
+</P2para>
+</P2>
+<P2 id="p00066">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State may by order made by statutory instrument make such <?new-line?>transitional, transitory or saving provision as the Secretary of State considers <?new-line?>appropriate in connection with the coming into force of any provision of this <?new-line?>Act.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00067">
+<Title><?start-line?>Commencement, extent and short title</Title>
+<P1>
+<Pnumber>18</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The following provisions—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>section 1 and Schedule 1,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>sections 2 to 16,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>section 17<InternalLink id="i00027" Ref="p00065">(1)</InternalLink> (except so far as relating to paragraph <InternalLink id="i00028" Ref="p00102">4</InternalLink> of Schedule 3),</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>Schedule 2, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>Schedule 3 (other than paragraph <InternalLink id="i00029" Ref="p00102">4</InternalLink> of that Schedule),</Text>
+</P3para>
+</P3>
+<Text><?start-line?>come into force on such day as the Secretary of State may by order made by <?new-line?>statutory instrument appoint; and different days may be appointed for <?new-line?>different purposes.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The following provisions—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>section 17<InternalLink id="i00030" Ref="p00065">(1)</InternalLink> so far as relating to paragraph <InternalLink id="i00031" Ref="p00102">4</InternalLink> of Schedule 3,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>paragraph <InternalLink id="i00032" Ref="p00102">4</InternalLink> of Schedule 3,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>section 17<InternalLink id="i00033" Ref="p00066">(2)</InternalLink>, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>this section,</Text>
+</P3para>
+</P3>
+<Text><?start-line?>come into force on the day on which this Act is passed.</Text>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Subject to subsections <InternalLink id="i00034" Ref="p00068">(4)</InternalLink> to <InternalLink id="i00035" Ref="p00070">(6)</InternalLink>, this Act extends to England and Wales, <?new-line?>Scotland and Northern Ireland.</Text>
+</P2para>
+</P2>
+<P2 id="p00068">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>In Schedule 2—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the amendments of the Senior Courts Act 1981 extend to England and <?new-line?>Wales only,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the amendments of the Equality Act 2006 and the Equality Act 2010 <?new-line?>extend to England and Wales and Scotland only, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>the amendment of the Race Relations (Northern Ireland) Order 1997 <?new-line?>extends to Northern Ireland only.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00069">
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>Her Majesty may by Order in Council provide for section 13 and paragraph 9 <?new-line?>of Schedule 2 to extend, with or without modifications, to any of the Channel <?new-line?>Islands or to the Isle of Man.</Text>
+</P2para>
+</P2>
+<P2 id="p00070">
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>An Order under subsection <InternalLink id="i00036" Ref="p00069">(5)</InternalLink> may, in particular, include (with or without <?new-line?>modifications) transitional provision of the kind permitted by paragraph <InternalLink id="i00037" Ref="p00102">4</InternalLink> of <?new-line?>Schedule 3.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>This Act may be cited as the Justice and Security Act 2013.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Part>
+</Body>
+<?new-page?>
+<Schedules>
+<Title><?start-line?>SCHEDULES</Title>
+<Schedule id="p00071" NumberFormat="default">
+<Number><?start-line?>SCHEDULE 1</Number>
+<TitleBlock>
+<Title><?start-line?>The Intelligence and Security Committee of Parliament</Title>
+</TitleBlock>
+<Reference>Section 1(7)</Reference>
+<ScheduleBody>
+<P1group>
+<Title><?start-line?>Tenure of office</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<P2 id="p00072">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Subject as follows, a person appointed as a member of the ISC during a <?new-line?>Parliament holds office for the duration of that Parliament.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>A member of the ISC vacates office if—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the person ceases to be a member of the House of Parliament by <?new-line?>virtue of which the person is a member of the ISC,</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the person becomes a Minister of the Crown, or</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>a resolution for the person’s removal is passed in the House of <?new-line?>Parliament by virtue of which the person is a member of the ISC.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>A member of the ISC may resign at any time by notice given to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the Chair of the ISC, or</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in the case of the member who is the Chair of the ISC, the Speaker of <?new-line?>the House of Parliament by virtue of which the person is a member <?new-line?>of the ISC.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>A person who ceases to be a member of the ISC is eligible for reappointment.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>Section 1(2) does not affect the validity of anything done between the <?new-line?>occurrence of a vacancy and the vacancy being filled.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>Anything which, immediately before the end of a Parliament, is in the <?new-line?>process of being done or omitted to be done by or in relation to the ISC may <?new-line?>be continued by or in relation to the ISC in the new Parliament.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>Anything done or omitted to be done by or in relation to the ISC in a <?new-line?>Parliament (or treated as so done or omitted) is, if in force or effective <?new-line?>immediately before the end of that Parliament, to have effect as if done or <?new-line?>omitted by or in relation to the ISC in the new Parliament so far as that is <?new-line?>required for continuing its effect in that Parliament.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Procedure</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The ISC may determine its own procedure; but this is subject to sub-<?new-line?>paragraphs <InternalLink id="i00038" Ref="p00073">(2)</InternalLink> to <InternalLink id="i00039" Ref="p00076">(6)</InternalLink>.</Text>
+</P2para>
+</P2>
+<P2 id="p00073">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>If on any matter there is an equality of voting among the members of the ISC, <?new-line?>the Chair of the ISC has a second or casting vote.</Text>
+</P2para>
+</P2>
+<P2 id="p00074">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The Chair of the ISC may appoint another member of the ISC to act, in the <?new-line?>Chair’s absence, as the chair of the ISC at any meeting of it.</Text>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>A person appointed under sub-paragraph <InternalLink id="i00040" Ref="p00074">(3)</InternalLink> does not enjoy the right <?new-line?>conferred on the Chair of the ISC by sub-paragraph <InternalLink id="i00041" Ref="p00073">(2)</InternalLink>.</Text>
+</P2para>
+</P2>
+<P2 id="p00075">
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>The quorum of the ISC is three.</Text>
+</P2para>
+</P2>
+<P2 id="p00076">
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>Any oath taken by a witness before the ISC may be administered by the <?new-line?>Chair of the ISC (or, in the Chair’s absence, by a person appointed under <?new-line?>sub-paragraph (3)).</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Access to information</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This paragraph applies to information requested by the ISC in the exercise <?new-line?>of its functions that—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>does not relate to any particular operational matter, or</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>relates to a particular operational matter that the ISC is considering <?new-line?>under section 2(3)(a) or (b).</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>If the Director-General of the Security Service, the Chief of the Secret <?new-line?>Intelligence Service or the Director of the Government Communications <?new-line?>Headquarters is asked by the ISC to disclose the information, then, as to the <?new-line?>whole or any part of the information which is sought, that person must <?new-line?>either—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>arrange for it to be made available to the ISC subject to and in <?new-line?>accordance with a memorandum of understanding under section 2, <?new-line?>or</Text>
+
+</P3para></P3>
+<P3 id="p00077">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>inform the ISC that the information cannot be disclosed because the <?new-line?>Secretary of State has decided that it should not be disclosed.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>If the ISC asks a government department or any part of a government <?new-line?>department to disclose the information, then, as to the whole or any part of <?new-line?>the information which is sought, the relevant Minister of the Crown must <?new-line?>either—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>arrange for it to be made available to the ISC subject to and in <?new-line?>accordance with a memorandum of understanding under section 2, <?new-line?>or</Text>
+
+</P3para></P3>
+<P3 id="p00078">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>inform the ISC that the information cannot be disclosed because the <?new-line?>Secretary of State has decided that it should not be disclosed.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State may decide under sub-paragraph <InternalLink id="i00042" Ref="p00077">(2)(b)</InternalLink> or <InternalLink id="i00043" Ref="p00078">(3)(b)</InternalLink> that <?new-line?>information should not be disclosed only if the Secretary of State considers <?new-line?>that—</Text>
+<P3 id="p00079">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>it is—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>sensitive information (as defined in paragraph 4), and</Text>
+
+</P4para></P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>information which, in the interests of national security, <?new-line?>should not be disclosed to the ISC, or</Text>
+
+</P4para></P4>
+
+</P3para></P3>
+<P3 id="p00080">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>it is information of such a nature that, if the Secretary of State were <?new-line?>requested to produce it before a Departmental Select Committee of <?new-line?>the House of Commons, the Secretary of State would consider (on <?new-line?>grounds which were not limited to national security) it proper not to <?new-line?>do so.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>In deciding for the purposes of sub-paragraph <InternalLink id="i00044" Ref="p00080">(4)(b)</InternalLink> whether it would be <?new-line?>proper not to disclose information, the Secretary of State must have regard <?new-line?>to any guidance issued by a Minister of the Crown or a government </Text><?new-page?><?start-line?>  <Text>department concerning the provision of evidence by civil servants to Select <?new-line?>Committees.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>The disclosure of information to the ISC in accordance with sub-paragraph <?new-line?>(2) is to be regarded for the purposes of the Security Service Act 1989 or the <?new-line?>Intelligence Services Act 1994 as necessary for the proper discharge of the <?new-line?>functions of the Security Service, the Secret Intelligence Service or (as the <?new-line?>case may be) the Government Communications Headquarters.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>In this paragraph “relevant Minister of the Crown”, in relation to a request <?new-line?>for information, means—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>such Minister of the Crown as is identified, for the purposes of <?new-line?>requests of that description, in a memorandum of understanding <?new-line?>under section 2, or</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>if no Minister of the Crown is so identified, any Minister of the <?new-line?>Crown.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Sensitive information</Title>
+<P1 id="p00081">
+<Pnumber>4</Pnumber>
+<P1para>
+<Text><?start-line?>The following information is sensitive information for the purposes of <?new-line?>paragraph <InternalLink id="i00045" Ref="p00079">3(4)(a)</InternalLink>—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>information which might lead to the identification of, or provide <?new-line?>details of, sources of information, other assistance or operational <?new-line?>methods available to—</Text>
+<P4 id="p00082">
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>the Security Service,</Text>
+
+</P4para></P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>the Secret Intelligence Service,</Text>
+
+</P4para></P4>
+<P4>
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text><?start-line?>the Government Communications Headquarters, or</Text>
+
+</P4para></P4>
+<P4 id="p00083">
+<Pnumber>iv</Pnumber>
+<P4para>
+<Text><?start-line?>any part of a government department, or any part of Her <?new-line?>Majesty’s forces, which is engaged in intelligence or security <?new-line?>activities,</Text>
+
+</P4para></P4>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>information about particular operations which have been, are being <?new-line?>or are proposed to be undertaken in pursuance of any of the <?new-line?>functions of the persons mentioned in paragraph <InternalLink id="i00046" Ref="p00082">(a)(i)</InternalLink> to <InternalLink id="i00047" Ref="p00083">(iv)</InternalLink>,</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>information provided by, or by an agency of, the Government of a <?new-line?>country or territory outside the United Kingdom where that <?new-line?>Government does not consent to the disclosure of the information.</Text>
+
+</P3para></P3>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Publication of information received in private</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This paragraph applies to information received by the ISC in private in <?new-line?>connection with the exercise of its functions.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The ISC—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>may only publish the information by way of a report under section <?new-line?>3, and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>must not disclose the information to any person if the ISC considers <?new-line?>that there is a risk that the person will publish it.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The restrictions on publication and disclosure of information in sub-<?new-line?>paragraph (2) do not apply if—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>publication or disclosure is necessary for the ISC to comply with any <?new-line?>enactment or rule of law, or</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the information has on an earlier occasion been disclosed to the <?new-line?>public, in circumstances which do not contravene—</Text>
+<?new-page?><P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>sub-paragraph (2), or</Text>
+
+</P4para></P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>any other enactment or rule of law prohibiting or restricting <?new-line?>the disclosure of information.</Text>
+
+</P4para></P4>
+
+</P3para></P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Protection for witnesses</Title>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<Text><?start-line?>Evidence given by a person who is a witness before the ISC may not be used <?new-line?>against the person in any criminal, civil or disciplinary proceedings, unless <?new-line?>the evidence was given in bad faith.</Text>
+</P1para>
+</P1>
+</P1group>
+</ScheduleBody>
+</Schedule>
+<Schedule id="p00084" NumberFormat="default">
+<Number><?start-line?>SCHEDULE 2</Number>
+<TitleBlock>
+<Title><?start-line?>Consequential provision</Title>
+</TitleBlock>
+<Reference>Section 17(1)</Reference>
+<ScheduleBody>
+<Part>
+<Number><?start-line?>Part 1</Number>
+<Title><?start-line?>Oversight of intelligence and security activities</Title>
+<P1group>
+<Title><?start-line?>Intelligence Services Act <Citation id="c00102" Class="UnitedKingdomPublicGeneralAct" Year="1994" Number="0013">1994 (c. 13)</Citation></Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<Text><?start-line?>The following provisions of the Intelligence Services Act 1994 are repealed—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>section 10 (the Intelligence and Security Committee),</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>section 11(1)(c) (the definition of “Minister of the Crown”), and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>Schedule 3 (further provision about the Intelligence and Security <?new-line?>Committee).</Text>
+
+</P3para></P3>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Data Protection Act <Citation id="c00103" Class="UnitedKingdomPublicGeneralAct" Year="1998" Number="0029">1998 (c. 29)</Citation></Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<Text><?start-line?>In section 63A of the Data Protection Act 1998 (application to Parliament)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in subsection (2), after “Commons,” insert “other than where they are <?new-line?>determined by or on behalf of the Intelligence and Security <?new-line?>Committee of Parliament,”, and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in subsection (3), after “Lords,” insert “other than where they are <?new-line?>determined by or on behalf of the Intelligence and Security <?new-line?>Committee of Parliament,”.</Text>
+
+</P3para></P3>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Northern Ireland Act <Citation id="c00104" Class="UnitedKingdomPublicGeneralAct" Year="1998" Number="0047">1998 (c. 47)</Citation></Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<Text><?start-line?>In section 69B(1)(a) of the Northern Ireland Act 1998 (disregarding notice of <?new-line?>the Northern Ireland Human Rights Commission where it requires the <?new-line?>disclosure of sensitive information) for “paragraph 4 of Schedule 3 to the <?new-line?>Intelligence Services Act <Citation id="c00105" Class="UnitedKingdomPublicGeneralAct" Year="1994" Number="0013">1994 (c. 13)</Citation>” substitute “paragraph <InternalLink id="i00048" Ref="p00081">4</InternalLink> of Schedule 1 <?new-line?>to the Justice and Security Act 2013”.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Regulation of Investigatory Powers Act <Citation id="c00106" Class="UnitedKingdomPublicGeneralAct" Year="2000" Number="0023">2000 (c. 23)</Citation></Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<Text><?start-line?>In section 60(1) of the Regulation of Investigatory Powers Act 2000 (duty to <?new-line?>disclose documents and provide information to the Intelligence Services <?new-line?>Commissioner) for “section 59” substitute “sections 59 and 59A”.</Text>
+</P1para>
+</P1>
+</P1group>
+<?new-page?><P1group>
+<Title><?start-line?>Freedom of Information Act <Citation id="c00107" Class="UnitedKingdomPublicGeneralAct" Year="2000" Number="0036">2000 (c. 36)</Citation></Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Freedom of Information Act 2000 is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In section 23 (information supplied by, or relating to, bodies dealing with <?new-line?>security matters), in subsection (3), at the end insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>o</Pnumber>
+<P3para>
+<Text><?start-line?>the Intelligence and Security Committee of Parliament.</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In Part 1 of Schedule 1 (Public Authorities; General)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in paragraph 2, after paragraph (d) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="schedule" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>information held by the Intelligence and Security <?new-line?>Committee of Parliament.</Text>
+
+</P3para></P3>
+</BlockAmendment>
+<AppendText>;</AppendText>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in paragraph 3, after paragraph (d) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="schedule" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>information held by the Intelligence and Security <?new-line?>Committee of Parliament.</Text>
+
+</P3para></P3>
+</BlockAmendment>
+
+</P3para></P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Equality Act <Citation id="c00108" Class="UnitedKingdomPublicGeneralAct" Year="2006" Number="0003">2006 (c. 3)</Citation></Title>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<Text><?start-line?>In paragraph 14(1)(a) of Schedule 2 to the Equality Act 2006 (disregarding <?new-line?>notice of the Commission for Equality and Human Rights where it requires <?new-line?>the disclosure of sensitive information) for “paragraph 4 of Schedule 3 to the <?new-line?>Intelligence Services Act <Citation id="c00109" Class="UnitedKingdomPublicGeneralAct" Year="1994" Number="0013">1994 (c. 13)</Citation>” substitute “paragraph <InternalLink id="i00049" Ref="p00081">4</InternalLink> of Schedule 1 <?new-line?>to the Justice and Security Act 2013”.</Text>
+</P1para>
+</P1>
+</P1group>
+</Part>
+<Part>
+<Number><?start-line?>Part 2</Number>
+<Title><?start-line?>Closed material procedure</Title>
+<P1group>
+<Title><?start-line?>Judicature (Northern Ireland) Act <Citation id="c00110" Class="UnitedKingdomPublicGeneralAct" Year="1978" Number="0023">1978 (c. 23)</Citation></Title>
+<P1 id="p00085">
+<Pnumber>7</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Section 62 of the Judicature (Northern Ireland) Act 1978 (trial with and <?new-line?>without jury) is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (2)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>at the end of paragraph (c), the word “or” is repealed, and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>after paragraph (c) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>ca</Pnumber>
+<P3para>
+<Text><?start-line?>will involve section 6 proceedings; or</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>.</AppendText>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>After subsection (4) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>4A</Pnumber>
+<P2para>
+<Text><?start-line?>An action in the High Court which by virtue of subsection (1) or (4) <?new-line?>is being, or is to be, tried with a jury may, at any stage in the <?new-line?>proceedings, be tried without a jury if the court concerned—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>is of opinion that the action involves, or will involve, section <?new-line?>6 proceedings; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in its discretion orders the action to be tried without a jury.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4B</Pnumber>
+<P2para>
+<Text><?start-line?>Where the court makes an order under subsection (4A)(b), it may <?new-line?>make such other orders as it considers appropriate (including an <?new-line?>order dismissing the jury).</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>After subsection (7) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>8</Pnumber>
+<P2para>
+<Text><?start-line?>In this section “section 6 proceedings” has the meaning given by <?new-line?>section 12(1) of the Justice and Security Act 2013 (certain civil <?new-line?>proceedings in which closed material applications may be made).</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<?new-page?><P1group>
+<Title><?start-line?>Senior Courts Act <Citation id="c00111" Class="UnitedKingdomPublicGeneralAct" Year="1981" Number="0054">1981 (c. 54)</Citation></Title>
+<P1 id="p00086">
+<Pnumber>8</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Section 69 of the Senior Courts Act 1981 (trial by jury) is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (1), at the end, insert “or unless the court is of opinion that the <?new-line?>trial will involve section 6 proceedings”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>After subsection (3) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>3A</Pnumber>
+<P2para>
+<Text><?start-line?>An action in the Queen’s Bench Division which by virtue of <?new-line?>subsection (1) or (3) is being, or is to be, tried with a jury may, at any <?new-line?>stage in the proceedings, be tried without a jury if the court <?new-line?>concerned—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>is of opinion that the action involves, or will involve, section <?new-line?>6 proceedings, and</Text>
+</P3para>
+</P3>
+<P3 id="p00087">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in its discretion orders the action to be tried without a jury.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00088">
+<Pnumber>3B</Pnumber>
+<P2para>
+<Text><?start-line?>Where the court makes an order under subsection <InternalLink id="i00050" Ref="p00087">(3A)(b)</InternalLink>, it may <?new-line?>make such other orders as it considers appropriate (including an <?new-line?>order dismissing the jury).</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (4) for “(3)” substitute “<InternalLink id="i00051" Ref="p00088">(3B)</InternalLink>”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>After subsection (5) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>In this section “section 6 proceedings” has the meaning given by <?new-line?>section 12(1) of the Justice and Security Act 2013 (certain civil <?new-line?>proceedings in which closed material applications may be made).</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Special Immigration Appeals Commission Act <Citation id="c00112" Class="UnitedKingdomPublicGeneralAct" Year="1997" Number="0068">1997 (c. 68)</Citation></Title>
+<P1 id="p00089">
+<Pnumber>9</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Special Immigration Appeals Commission Act 1997 is amended as <?new-line?>follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>After section 6 (appointment of person to represent appellant’s interests) <?new-line?>insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Procedure in relation to jurisdiction under sections 2C and 2D</Title>
+<P1>
+<Pnumber>6A</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Sections 5 and 6 apply in relation to reviews under section 2C or 2D <?new-line?>as they apply in relation to appeals under section 2 or 2B.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Accordingly—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>references to appeals are to be read as references to reviews <?new-line?>(and references to appeals under section 2 or 2B are to be read <?new-line?>as references to reviews under section 2C or 2D), and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>references to an appellant are to be read as references to an <?new-line?>applicant under section 2C(2) or (as the case may be) 2D(2).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>After section 7(2) (appeals from the Commission) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>2A</Pnumber>
+<P2para>
+<Text><?start-line?>Where the Commission has made a final determination of a review <?new-line?>under section 2C or 2D, any party to the review may bring an appeal <?new-line?>against that determination to the appropriate appeal court.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Race Relations (Northern Ireland) Order 1997 (<Citation id="c00113" Class="UnitedKingdomStatutoryInstrument" Year="1997" Number="0869" AlternativeNumber="N.I 6">S.I. 1997/869 (N.I.6)</Citation>)</Title>
+<P1 id="p00090">
+<Pnumber>10</Pnumber>
+<P1para>
+<Text><?start-line?>In Article 54A of the Race Relations (Northern Ireland) Order 1997 (claims </Text><?new-page?><?start-line?>  <Text>under Article 20A in immigration cases), at the end, insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>This Article applies in relation to reviews under section 2D of the <?new-line?>1997 Act as it applies in relation to appeals under that Act.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Regulation of Investigatory Powers Act <Citation id="c00114" Class="UnitedKingdomPublicGeneralAct" Year="2000" Number="0023">2000 (c. 23)</Citation></Title>
+<P1 id="p00091">
+<Pnumber>11</Pnumber>
+<P1para>
+<P2 id="p00092">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Section 18 of the Regulation of Investigatory Powers Act 2000 (exclusion of <?new-line?>intercepted communications etc. from legal proceedings: exceptions) is <?new-line?>amended as follows.</Text>
+</P2para>
+</P2>
+<P2 id="p00093">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (1)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>at the end of paragraph (e), the word “or” is repealed, and</Text>
+
+</P3para></P3>
+<P3 id="p00094">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>after paragraph (f) insert</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double" PartialRefs="p10015"><Text id="p10015">, or</Text>
+<P3>
+<Pnumber>g</Pnumber>
+<P3para>
+<Text><?start-line?>any section 6 proceedings within the meaning given <?new-line?>by section 12(1) of the Justice and Security Act 2013 <?new-line?>(certain civil proceedings in which closed material <?new-line?>applications may be made).</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (2)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in the opening words, for “(f)” substitute “(g)”,</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in paragraph (a)—</Text>
+<P4 id="p00095">
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>in sub-paragraph (i), after “appellant” insert “or (as the case <?new-line?>may be) applicant”,</Text>
+
+</P4para></P4>
+<P4 id="p00096">
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>in sub-paragraph (ii), after “appellant” insert “or applicant”, <?new-line?>and</Text>
+
+</P4para></P4>
+<P4>
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text><?start-line?>at the end, the word “or” is repealed, and</Text>
+
+</P4para></P4>
+
+</P3para></P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>after paragraph (b) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>in the case of proceedings falling within paragraph <?new-line?>(g) where the only relevant person is the Secretary of <?new-line?>State, to—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>a person, other than the Secretary of State, <?new-line?>who is or was a party to the proceedings; or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>any person who for the purposes of the <?new-line?>proceedings (but otherwise than by virtue of <?new-line?>appointment as a special advocate) represents <?new-line?>a person falling within sub-paragraph (i); or</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>in the case of proceedings falling within paragraph <?new-line?>(g) where the Secretary of State is not the only <?new-line?>relevant person or is not a relevant person but is a <?new-line?>party to the proceedings, to—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>a person, other than the relevant person <?new-line?>concerned or the Secretary of State, who is or <?new-line?>was a party to the proceedings; or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>any person who for the purposes of the <?new-line?>proceedings (but otherwise than by virtue of <?new-line?>appointment as a special advocate) represents <?new-line?>a person falling within sub-paragraph (i).</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</BlockAmendment>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>After subsection (2) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>2A</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (2)(c) and (d) “relevant person”, in relation to <?new-line?>proceedings falling within subsection (1)(g), has the meaning given <?new-line?>by section 12(1) of the Justice and Security Act 2013.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<?new-page?><P1group>
+<Title><?start-line?>Equality Act <Citation id="c00115" Class="UnitedKingdomPublicGeneralAct" Year="2010" Number="0015">2010 (c. 15)</Citation></Title>
+<P1 id="p00097">
+<Pnumber>12</Pnumber>
+<P1para>
+<Text><?start-line?>In section 115 of the Equality Act 2010 (immigration cases), at the end, <?new-line?>insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>8</Pnumber>
+<P2para>
+<Text><?start-line?>This section applies in relation to reviews under section 2D of the <?new-line?>Special Immigration Appeals Commission Act 1997 as it applies in <?new-line?>relation to appeals under the immigration provisions.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P1para>
+</P1>
+</P1group>
+</Part>
+</ScheduleBody>
+</Schedule>
+<Schedule id="p00098" NumberFormat="default">
+<Number><?start-line?>SCHEDULE 3</Number>
+<TitleBlock>
+<Title><?start-line?>Transitional provision</Title>
+</TitleBlock>
+<Reference>Section 17(1)</Reference>
+<ScheduleBody>
+<Part>
+<Number><?start-line?>Part 1</Number>
+<Title><?start-line?>Oversight of intelligence and security activities</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The persons who, immediately before the coming into force of section 1<InternalLink id="i00052" Ref="p00023">(1)</InternalLink>, <?new-line?>were members of the previous Intelligence and Security Committee become, <?new-line?>on the coming into force of section 1<InternalLink id="i00053" Ref="p00023">(1)</InternalLink>, members of the new Intelligence and <?new-line?>Security Committee.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The person who, immediately before the coming into force of section 1<InternalLink id="i00054" Ref="p00023">(1)</InternalLink>, <?new-line?>was the Chairman of the previous Intelligence and Security Committee <?new-line?>becomes, on the coming into force of section 1<InternalLink id="i00055" Ref="p00023">(1)</InternalLink>, the Chair of the new <?new-line?>Intelligence and Security Committee.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The new Intelligence and Security Committee may have access to <?new-line?>documents or other information provided or belonging to the previous <?new-line?>Intelligence and Security Committee.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>In this paragraph—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“the new Intelligence and Security Committee” means the Intelligence <?new-line?>and Security Committee of Parliament established under section 1 of <?new-line?>this Act,</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“the previous Intelligence and Security Committee” means the <?new-line?>Intelligence and Security Committee established under section 10 of <?new-line?>the Intelligence Services Act 1994.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</Part>
+<Part>
+<Number><?start-line?>Part 2</Number>
+<Title><?start-line?>Closed material procedure</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<Text><?start-line?>Sections 6 to 12, and paragraphs <InternalLink id="i00056" Ref="p00085">7</InternalLink>, <InternalLink id="i00057" Ref="p00086">8</InternalLink> and <InternalLink id="i00058" Ref="p00091">11</InternalLink> of Schedule 2 (other than <?new-line?>paragraph <InternalLink id="i00059" Ref="p00095">11(3)(b)(i)</InternalLink> and <InternalLink id="i00060" Ref="p00096">(ii)</InternalLink>), apply in relation to proceedings begun, but <?new-line?>not finally determined, before the coming into force of section 6 (in addition <?new-line?>to proceedings begun on or after the coming into force of that section).</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<P2 id="p00099">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The first time after the passing of this Act that rules of court are made in <?new-line?>exercise of the powers conferred by sections 6 to 12 in relation to proceedings <?new-line?>in England and Wales or in Northern Ireland before a court of a particular <?new-line?>description, the rules (together with any related rules of court) may be made <?new-line?>by the Lord Chancellor instead of by the person who would otherwise make <?new-line?>them.</Text>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Sub-paragraph <InternalLink id="i00061" Ref="p00099">(1)</InternalLink> does not apply to rules of court in relation to proceedings <?new-line?>before the Supreme Court.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Before making rules of court under sub-paragraph <InternalLink id="i00062" Ref="p00099">(1)</InternalLink>, the Lord Chancellor <?new-line?>must consult—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in relation to rules applicable to proceedings in England and Wales, <?new-line?>the Lord Chief Justice of England and Wales, and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in relation to rules applicable to proceedings in Northern Ireland, the <?new-line?>Lord Chief Justice of Northern Ireland.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>But the Lord Chancellor is not required to undertake any other consultation <?new-line?>before making the rules.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>A requirement to consult under sub-paragraph (3) may be satisfied by <?new-line?>consultation that took place wholly or partly before the passing of this Act.</Text>
+</P2para>
+</P2>
+<P2 id="p00100">
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>Rules of court made by the Lord Chancellor under sub-paragraph <InternalLink id="i00063" Ref="p00092">(1)</InternalLink>—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>must be laid before Parliament, and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>if not approved by a resolution of each House before the end of 40 <?new-line?>days beginning with the day on which they were made, cease to have <?new-line?>effect at the end of that period.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>In determining that period of 40 days no account is to be taken of any time <?new-line?>during which Parliament is dissolved or prorogued or during which both <?new-line?>Houses are adjourned for more than 4 days.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>8</Pnumber>
+<P2para>
+<Text><?start-line?>If rules cease to have effect in accordance with sub-paragraph <InternalLink id="i00064" Ref="p00100">(6)</InternalLink>—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>that does not affect anything done in previous reliance on the rules, <?new-line?>and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>sub-paragraph <InternalLink id="i00065" Ref="p00099">(1)</InternalLink> applies again as if the rules had not been made.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>9</Pnumber>
+<P2para>
+<Text><?start-line?>The following provisions do not apply to rules of court made by the Lord <?new-line?>Chancellor under this paragraph—</Text>
+<P3 id="p00101">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>section 3(6) of the Civil Procedure Act 1997 (Parliamentary <?new-line?>procedure for civil procedure rules),</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>section 56(1), (2) and (4) of the Judicature (Northern Ireland) Act 1978 <?new-line?>(statutory rules procedure).</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>10</Pnumber>
+<P2para>
+<Text><?start-line?>Until the coming into force of section 85 of the Courts Act 2003, the reference <?new-line?>in sub-paragraph <InternalLink id="i00066" Ref="p00101">(9)(a)</InternalLink> to section 3(6) of the Civil Procedure Act 1997 is to <?new-line?>be read as a reference to section 3(2) of that Act.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>11</Pnumber>
+<P2para>
+<Text><?start-line?>In this paragraph “related rules of court” means rules of court that—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>are contained in the same instrument as the rules mentioned in sub-<?new-line?>paragraph <InternalLink id="i00067" Ref="p00099">(1)</InternalLink>, and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>relate specifically to the same kind of proceedings as those rules.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+<P1 id="p00102">
+<Pnumber>4</Pnumber>
+<P1para>
+<P2 id="p00103">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>An order under section 17<InternalLink id="i00068" Ref="p00066">(2)</InternalLink> may, in particular, make provision about the <?new-line?>application of section 13, and paragraphs <InternalLink id="i00069" Ref="p00089">9</InternalLink>, <InternalLink id="i00070" Ref="p00090">10</InternalLink> and <InternalLink id="i00071" Ref="p00097">12</InternalLink> of Schedule 2, to any <?new-line?>direction or decision of the Secretary of State which—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>is of a kind falling within section 2C(1)(a) and (b) or (as the case may <?new-line?>be) 2D(1)(a) of the Special Immigration Appeals Commission Act <?new-line?>1997, and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>was made before the section 13 commencement day.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Provision of the kind mentioned in sub-paragraph <InternalLink id="i00072" Ref="p00103">(1)</InternalLink> may, in particular, <?new-line?>provide for—</Text>
+<?new-page?><P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the Secretary of State to certify under section 2C(1)(c) or (as the case <?new-line?>may be) 2D(1)(b) of the Special Immigration Appeals Commission <?new-line?>Act 1997, on or after the section 13 commencement day, any direction <?new-line?>or decision falling within sub-paragraph <InternalLink id="i00073" Ref="p00103">(1)</InternalLink>,</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the termination of any judicial review proceedings, or proceedings <?new-line?>on appeal from such proceedings, which relate to a direction or <?new-line?>decision which is so certified (whether such proceedings began <?new-line?>before, on or after the section 13 commencement day).</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In this paragraph “the section 13 commencement day” means the day on <?new-line?>which section 13 comes into force.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</Part>
+<Part>
+<Number><?start-line?>Part 3</Number>
+<Title><?start-line?>“Norwich Pharmacal” and similar jurisdictions</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<Text><?start-line?>Sections 15 and 16 apply in relation to proceedings begun, but not finally <?new-line?>determined, before the coming into force of section 15 (in addition to <?new-line?>proceedings begun on or after the coming into force of that section).</Text>
+</P1para>
+</P1>
+</Part>
+</ScheduleBody>
+</Schedule>
+</Schedules>
+</Primary>
+</Legislation>

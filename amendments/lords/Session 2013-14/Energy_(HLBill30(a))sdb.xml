@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendments>
+   <header>
+      <billtitle>Energy_(Bill30(a))</billtitle>
+      <headertext>AMENDMENTS TO BE MOVED IN GRAND COMMITTEE</headertext>
+   </header>
+   <clausenumber>After Clause 132</clausenumber>
+   <proposer>BARONESS FINLAY OF LLANDAFF</proposer>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 132, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Carbon burning appliance: audible alarm systems</quote>
+         <IndentOne>The Secretary of State has the power to regulate and shall make regulations to provide that no person shall undertake work on a carbon burning appliance within a domestic property without advising the occupier and any person responsible to fit an audible alarm system certified to EN 50291 standard or its equivalent successor certification, and of the importance of proper and regular maintenance, and check any existing alarms to ensure they are in date and functioning correctly.&#8221;</IndentOne>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 132, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Installation of energy efficiency measures and indoor air pollution</quote>
+         <IndentOne>The Secretary of State shall have the powers to enforce that no person shall replace or install energy efficiency measures which alter the air tightness of a building, where a fuel burning appliance is situated, without installing an alarm for detecting carbon monoxide gas; or where a carbon monoxide alarm already exists, checking it to ensure it is in date and functioning correctly.&#8221;</IndentOne>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 132, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Detecting carbon monoxide gas</quote>
+         <IndentOne>The Secretary of State after consultation with the Health and Safety Executive, shall make regulations to provide that&#8212;</IndentOne>
+         <IndentOne>(a) no person shall replace or install a meter or a smart meter in any premises unless he is equipped with a personal alarm monitor for detecting carbon monoxide gas;</IndentOne>
+         <IndentOne>(b) where a person replaces or installs a meter or a smart meter he shall ensure that&#8212;</IndentOne>
+         <IndentTwo>(i) if the personal alarm monitor sounds during a visit to a property a record is kept of&#8212;acarbon monoxide found, if any,bthe date of the test,cthe name of the First Call Operative and their Gas Safe Register number or relevant OFTEC/HETAS equivalent,dand the postal address of the property and kept by the corresponding Gas Distribution Network;</IndentTwo>
+         <IndentTwo>(ii) the occupier and any person responsible are advised to fit an audible alarm system certified to EN 50291 standard or its equivalent successor certification, and of the importance of proper and regular maintenance, and check any existing alarms to ensure they are in date and functioning correctly.&#8221;</IndentTwo>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 132, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Amendment to The Gas Safety (Installation and Use) Regulations 1998 for Carbon Monoxide Safety</quote>
+         <quote>(1) The Secretary of State may by regulations amend The Gas Safety (Installation and Use) Regulations 1998.</quote>
+         <quote>(2) After paragraph (3)(c) of Regulation 36 insert&#8212;</quote>
+         <IndentOne>&#8220;(a) provide a carbon monoxide alarm where any carbon burning appliance is fitted, certified to EN 50291 standard or its equivalent successor certification, and at intervals of not more than 12 months to check alarms to ensure they are in date and functioning correctly; and retain proof of purchase of any alarm for the period of the alarms&#8217; advertised lifetime.&#8221;&#8221;</IndentOne>
+      </text>
+   </Amendment>
+</amendments>
