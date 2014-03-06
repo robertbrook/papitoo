@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Questions>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>1</Number>
+      <Member>
+         <B>Paul Blomfield</B>
+      </Member>
+      <Constituency>Sheffield Central</Constituency>
+      <Department>Deputy Prime Minister</Department>
+      <Text>What his policy is on third party campaign expenditure.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900468</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>2</Number>
+      <Member>
+         <B>Lindsay Roy</B>
+      </Member>
+      <Constituency>Glenrothes</Constituency>
+      <Department>Deputy Prime Minister</Department>
+      <Text>What steps his Office is taking to improve the completeness and accuracy of the Electoral Register.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900469</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>3</Number>
+      <Member>
+         <B>Andrew Selous</B>
+      </Member>
+      <Constituency>South West Bedfordshire</Constituency>
+      <Department>Deputy Prime Minister</Department>
+      <Text>What his policy is on the level of fees paid to returning officers.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900471</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>4</Number>
+      <Member>
+         <B>David Mowat</B>
+      </Member>
+      <Constituency>Warrington South</Constituency>
+      <Department>Deputy Prime Minister</Department>
+      <Text>What steps his Office is taking to reduce the number of spoilt postal ballot papers.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900472</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>5</Number>
+      <Member>
+         <B>Simon Hughes</B>
+      </Member>
+      <Constituency>Bermondsey and Old Southwark</Constituency>
+      <Department>Deputy Prime Minister</Department>
+      <Text>What progress the Government has made in reviewing the law on the funding of political parties; and if he will make a statement.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900474</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>6</Number>
+      <Member>
+         <B>Andrew George</B>
+      </Member>
+      <Constituency>St Ives</Constituency>
+      <Department>Deputy Prime Minister</Department>
+      <Text>What recent assessment he has made of the need for reforms to party funding.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900475</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>7</Number>
+      <Member>
+         <B>Lorely Burt</B>
+      </Member>
+      <Constituency>Solihull</Constituency>
+      <Department>Deputy Prime Minister</Department>
+      <Text>What assessment he has made of the implementation of the City Deal for Greater Birmingham and Solihull.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900476</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>8</Number>
+      <Member>
+         <B>Mr Michael McCann</B>
+      </Member>
+      <Constituency>East Kilbride, Strathaven and Lesmahagow</Constituency>
+      <Department>Deputy Prime Minister</Department>
+      <Text>If he will make it his policy that the House of Lords be reduced in number.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900478</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>9</Number>
+      <Member>
+         <B>Nick Smith</B>
+      </Member>
+      <Constituency>Blaenau Gwent</Constituency>
+      <Department>Deputy Prime Minister</Department>
+      <Text>What steps his Office is taking to improve the completeness and accuracy of the Electoral Register.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900479</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>10</Number>
+      <Member>
+         <B>Simon Wright</B>
+      </Member>
+      <Constituency>Norwich South</Constituency>
+      <Department>Deputy Prime Minister</Department>
+      <Text>What progress has been made on a City Deal for Norwich.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900480</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>11</Number>
+      <Member>
+         <B>Huw Irranca-Davies</B>
+      </Member>
+      <Constituency>Ogmore</Constituency>
+      <Department>Deputy Prime Minister</Department>
+      <Text>What his policy is on House of Lords reform.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900481</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>12</Number>
+      <Member>
+         <B>Laura Sandys</B>
+      </Member>
+      <Constituency>South Thanet</Constituency>
+      <Department>Deputy Prime Minister</Department>
+      <Text>What steps he has taken to devolve power from central government.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900482</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>T1</Number>
+      <Member>
+         <B>Martin Vickers</B>
+      </Member>
+      <Constituency>Cleethorpes</Constituency>
+      <Department>Deputy Prime Minister</Department>
+      <Text>If he will make a statement on his departmental responsibilities.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900483</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>T2</Number>
+      <Member>
+         <B>Mr Dominic Raab</B>
+      </Member>
+      <Constituency>Esher and Walton</Constituency>
+      <Department>Deputy Prime Minister</Department>
+      <Text>If he will make a statement on his departmental responsibilities.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900484</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>T3</Number>
+      <Member>
+         <B>Debbie Abrahams</B>
+      </Member>
+      <Constituency>Oldham East and Saddleworth</Constituency>
+      <Department>Deputy Prime Minister</Department>
+      <Text>If he will make a statement on his departmental responsibilities.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900485</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>T4</Number>
+      <Member>
+         <B>Harriett Baldwin</B>
+      </Member>
+      <Constituency>West Worcestershire</Constituency>
+      <Department>Deputy Prime Minister</Department>
+      <Text>If he will make a statement on his departmental responsibilities.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900486</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>T5</Number>
+      <Member>
+         <B>Luciana Berger</B>
+      </Member>
+      <Constituency>Liverpool, Wavertree</Constituency>
+      <Department>Deputy Prime Minister</Department>
+      <Text>If he will make a statement on his departmental responsibilities.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900487</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>T6</Number>
+      <Member>
+         <B>Annette Brooke</B>
+      </Member>
+      <Constituency>Mid Dorset and North Poole</Constituency>
+      <Department>Deputy Prime Minister</Department>
+      <Text>If he will make a statement on his departmental responsibilities.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900488</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>T7</Number>
+      <Member>
+         <B>Andrew George</B>
+      </Member>
+      <Constituency>St Ives</Constituency>
+      <Department>Deputy Prime Minister</Department>
+      <Text>If he will make a statement on his departmental responsibilities.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900489</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>T8</Number>
+      <Member>
+         <B>Stephen Gilbert</B>
+      </Member>
+      <Constituency>St Austell and Newquay</Constituency>
+      <Department>Deputy Prime Minister</Department>
+      <Text>If he will make a statement on his departmental responsibilities.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900490</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>T9</Number>
+      <Member>
+         <B>Mr Philip Hollobone</B>
+      </Member>
+      <Constituency>Kettering</Constituency>
+      <Department>Deputy Prime Minister</Department>
+      <Text>If he will make a statement on his departmental responsibilities.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900491</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>T10</Number>
+      <Member>
+         <B>Yvonne Fovargue</B>
+      </Member>
+      <Constituency>Makerfield</Constituency>
+      <Department>Deputy Prime Minister</Department>
+      <Text>If he will make a statement on his departmental responsibilities.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900492</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>T11</Number>
+      <Member>
+         <B>Mrs Emma Lewell-Buck</B>
+      </Member>
+      <Constituency>South Shields</Constituency>
+      <Department>Deputy Prime Minister</Department>
+      <Text>If he will make a statement on his departmental responsibilities.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900493</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>T12</Number>
+      <Member>
+         <B>Kelvin Hopkins</B>
+      </Member>
+      <Constituency>Luton North</Constituency>
+      <Department>Deputy Prime Minister</Department>
+      <Text>If he will make a statement on his departmental responsibilities.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900494</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>T13</Number>
+      <Member>
+         <B>Andrew Stephenson</B>
+      </Member>
+      <Constituency>Pendle</Constituency>
+      <Department>Deputy Prime Minister</Department>
+      <Text>If he will make a statement on his departmental responsibilities.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900495</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>T14</Number>
+      <Member>
+         <B>Huw Irranca-Davies</B>
+      </Member>
+      <Constituency>Ogmore</Constituency>
+      <Department>Deputy Prime Minister</Department>
+      <Text>If he will make a statement on his departmental responsibilities.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900496</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>T15</Number>
+      <Member>
+         <B>Rehman Chishti</B>
+      </Member>
+      <Constituency>Gillingham and Rainham</Constituency>
+      <Department>Deputy Prime Minister</Department>
+      <Text>If he will make a statement on his departmental responsibilities.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900497</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>1</Number>
+      <Member>
+         <B>Andy Sawford</B>
+      </Member>
+      <Constituency>Corby</Constituency>
+      <Department>Attorney General</Department>
+      <Text>What recent discussions he has had with the Director of Public Prosecutions on increasing the number of prosecutions for rape and domestic violence.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900458</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>2</Number>
+      <Member>
+         <B>Bridget Phillipson</B>
+      </Member>
+      <Constituency>Houghton and Sunderland South</Constituency>
+      <Department>Attorney General</Department>
+      <Text>What recent discussions he has had with the Director of Public Prosecutions on tackling myths and stereotypes about victims of child abuse and rape.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900459</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>3</Number>
+      <Member>
+         <B>Stephen Metcalfe</B>
+      </Member>
+      <Constituency>South Basildon and East Thurrock</Constituency>
+      <Department>Attorney General</Department>
+      <Text>What steps the Crown Prosecution Service is taking to ensure that adequate provision is made to support vulnerable witnesses in sexual abuse or domestic violence cases.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900460</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>4</Number>
+      <Member>
+         <B>Mr Andy Slaughter</B>
+      </Member>
+      <Constituency>Hammersmith</Constituency>
+      <Department>Attorney General</Department>
+      <Text>If he will discuss with the Director of Public Prosecutions ways of limiting public expenditure on exit payouts at the Crown Prosecution Service.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900461</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>5</Number>
+      <Member>
+         <B>Rehman Chishti</B>
+      </Member>
+      <Constituency>Gillingham and Rainham</Constituency>
+      <Department>Attorney General</Department>
+      <Text>What recent discussions he has had with the Director of Public Prosecutions on the prosecution of cases involving allegations of domestic violence.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900462</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>6</Number>
+      <Member>
+         <B>Gareth Johnson</B>
+      </Member>
+      <Constituency>Dartford</Constituency>
+      <Department>Attorney General</Department>
+      <Text>On how many occasions during the last 12 months his Department has referred a criminal sentence to the Court of Appeal for review on the grounds that it was unduly lenient.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900463</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>7</Number>
+      <Member>
+         <B>Neil Parish</B>
+      </Member>
+      <Constituency>Tiverton and Honiton</Constituency>
+      <Department>Attorney General</Department>
+      <Text>What steps the Crown Prosecution Service is taking to ensure that adequate provision is made to support vulnerable witnesses in sexual abuse or domestic violence cases.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900464</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>8</Number>
+      <Member>
+         <B>Peter Aldous</B>
+      </Member>
+      <Constituency>Waveney</Constituency>
+      <Department>Attorney General</Department>
+      <Text>What recent discussions he has had with the Director of Public Prosecutions on the prosecution of cases involving allegations of domestic violence.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900465</UIN>
+   </Question>
+   <Question>
+      <Type>O</Type>
+      <Ballot>1</Ballot>
+      <NamedDay>0</NamedDay>
+      <Number>9</Number>
+      <Member>
+         <B>Caroline Nokes</B>
+      </Member>
+      <Constituency>Romsey and Southampton North</Constituency>
+      <Department>Attorney General</Department>
+      <Text>What steps the Director of Public Prosecutions is taking to raise awareness amongst prosecutors of how to deal with cases of human trafficking; and what assessment he has made of whether current legislation is being used to prosecute such cases effectively.</Text>
+      <RegisteredInterest>0</RegisteredInterest>
+      <UIN>900467</UIN>
+   </Question>
+</Questions>

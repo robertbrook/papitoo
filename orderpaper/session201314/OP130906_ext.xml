@@ -1,0 +1,1151 @@
+<op>
+   <head>
+      <Date>6 September 2013</Date>
+      <DoW>Friday</DoW>
+      <OBIssueNumber>44</OBIssueNumber>
+      <FBIssueNumber> </FBIssueNumber>
+      <WHIssueNumber> </WHIssueNumber>
+   </head>
+   <body>
+      <p class="DocumentTitle">
+         <span class="tab"> </span>
+         <span class="SittingDate"/>
+         <span class="SittingDate">Friday 6 September 2013</span> Order Paper No.44: Part 1</p>
+      <SittingDate>Friday 6 September 2013</SittingDate>
+      <p class="ChamberSummaryHeading">Summary Agenda: CHAMBER</p>
+      <TableWrapper>
+         <table frame="none">
+            <tgroup cols="2">
+               <colspec colname="1" colwidth="24*"/>
+               <colspec colname="2" colwidth="76*"/>
+               <tbody>
+                  <row>
+                     <entry>
+                        <SummaryAgendaItemTiming>9.30am</SummaryAgendaItemTiming>
+                     </entry>
+                     <entry>
+                        <SummaryAgendaItemText>Prayers</SummaryAgendaItemText>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <SummaryAgendaItemTiming>Afterwards</SummaryAgendaItemTiming>
+                     </entry>
+                     <entry>
+                        <SummaryAgendaItemText>
+                           <span class="MainBusinessItem">Private</span>
+                           <span class="MainBusinessItem"> Members’ Bills: Second Readings</span>
+                        </SummaryAgendaItemText>
+                        <SummaryAgendaItemText>(Note: If proceedings on the first Bill end before 2.30pm, the second Bill and, possibly, subsequent Bills may be debated in the time remaining. After 2.30pm, only those Bills which are unopposed may make further progress.)</SummaryAgendaItemText>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <SummaryAgendaItemTiming>Until 3.00pm or for half an hour</SummaryAgendaItemTiming>
+                     </entry>
+                     <entry>
+                        <SummaryAgendaItemText>Adjournment Debate: Reconsideration of Work Capability Assessment decisions</SummaryAgendaItemText>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </TableWrapper>
+      <TableWrapper>
+         <table frame="all">
+            <tgroup cols="1">
+               <colspec colname="1" colwidth="100*"/>
+               <tbody>
+                  <row>
+                     <entry>
+                        <p class="ContentsHeading">CONTENTS</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p class="PartContentsHeading">Part 1: Business Today</p>
+                        <p class="ContentsItem">3<span class="tab"> </span>Chamber</p>
+                        <p class="ContentsItem">5<span class="tab"> </span>Written Statements</p>
+                        <p class="ContentsItem">6<span class="tab"> </span>Committee reports published today</p>
+                        <p class="ContentsItem">7<span class="tab"> </span>Announcements</p>
+                        <p class="PartContentsHeading">Part 2: Future Business</p>
+                        <p class="ContentsItem">10<span class="tab"> </span>A. Calendar of Business</p>
+                        <p class="ContentsItem">23<span class="tab"> </span>B. Remaining Orders and Notices</p>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </TableWrapper>
+      <p class="NotesTag">Notes:</p>
+      <p class="NotesText">Items marked [R] indicates that a Member has declared a relevant interest.</p>
+      <p class="BusinessTodayChamberHeading">BUSINESS TODAY: CHAMBER</p>
+      <OrderofBusinessItemTiming>9.30am Prayers</OrderofBusinessItemTiming>
+      <OrderofBusinessItemTiming>Followed by</OrderofBusinessItemTiming>
+      <MainBusiness>
+         <p class="BusinessSub-SectionHeading">BUSINESS OF THE DAY</p>
+         <item type="private">
+            <itemNumber>1</itemNumber>
+            <itemTitle>deep sea mining Bill: Second Reading</itemTitle>
+            <runonUntilFull>Until 2.30pm (Standing Order No. 11(2)(b))</runonUntilFull>
+            <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Sheryll Murray</span>
+            </p>
+            <p class="NotesTag">Notes:</p>
+            <p class="NotesText">If proceedings on this Bill end before 2.30pm, the second Bill and, possibly, subsequent Bills may be debated in the time remaining. After 2.30pm, only those Bills which are unopposed may make further progress.</p>
+         </item>
+         <item type="private">
+            <itemNumber>2</itemNumber>
+            <itemTitle>United Kingdom Corporate and Individual Tax and Financial Transparency Bill: Second Reading</itemTitle>
+            <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Michael Meacher</span>
+            </p>
+         </item>
+         <item type="private">
+            <itemNumber>3</itemNumber>
+            <itemTitle>Face Coverings (Prohibition) Bill: Second Reading</itemTitle>
+            <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Philip Hollobone</span>
+            </p>
+         </item>
+         <item type="private">
+            <itemNumber>4</itemNumber>
+            <itemTitle>National Service Bill: Second Reading</itemTitle>
+            <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Philip Hollobone</span>
+            </p>
+         </item>
+         <item type="private">
+            <itemNumber>5</itemNumber>
+            <itemTitle>European Communities Act 1972 (Repeal) Bill: Second Reading</itemTitle>
+            <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Philip Hollobone</span>
+            </p>
+         </item>
+         <item type="private">
+            <itemNumber>6</itemNumber>
+            <itemTitle>Local Government (Review of Decisions) Bill: Second Reading</itemTitle>
+            <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Charlie Elphicke</span>
+            </p>
+         </item>
+         <item type="private">
+            <itemNumber>7</itemNumber>
+            <itemTitle>Specialist Printing Equipment and Materials (Offences) Bill: Second Reading</itemTitle>
+            <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Charlie Elphicke</span>
+            </p>
+         </item>
+         <item type="private">
+            <itemNumber>8</itemNumber>
+            <itemTitle>Local Government (Miscellaneous Provisions) Act 1982 (Amendment) Bill: Second Reading</itemTitle>
+            <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Dan Rogerson</span>
+            </p>
+         </item>
+         <item type="private">
+            <itemTitle>ADJOURNMENT</itemTitle>
+            <p class="AdjournmentProposedSubject">
+               <img href="OP%20button.gif" alt="OP button"/>
+               <span class="tab"> </span>Proposed subject: <B>Reconsideration of Work Capability Assessment decisions</B> 
+               <span class="UprightBrackets">(</span>Sheila Gilmore<span class="UprightBrackets">)</span>.</p>
+            <runonUntilFull>Debate may continue until 3.00pm or for half an hour (whichever is later) (Standing Order No. <standingOrder>9(7)</standingOrder>)</runonUntilFull>
+         </item>
+      </MainBusiness>
+      <p class="WrittenMinisterialStatementsHeading">WRITTEN STATEMENTS</p>
+      <p class="BusinessSub-SectionHeading">Statements to be made today</p>
+      <MinisterialStatement number="1">
+         <StatementTitle>Secretary of State for Culture, Media and Sport</StatementTitle>
+         <StatementText>Public Sector Equality Duty Review</StatementText>
+      </MinisterialStatement>
+      <MinisterialStatement number="2">
+         <StatementTitle>Secretary of State for Environment, Food and Rural Affairs</StatementTitle>
+         <StatementText>Water Bill: Publication of Draft Flood Insurance Clauses</StatementText>
+      </MinisterialStatement>
+      <MinisterialStatement number="3">
+         <StatementTitle>Secretary of State for the Home Department</StatementTitle>
+         <StatementText>Domestic violence and abuse–Thematic review of the police response across England and Wales</StatementText>
+      </MinisterialStatement>
+      <MinisterialStatement number="4">
+         <StatementTitle>Secretary of State for the Home Department</StatementTitle>
+         <StatementText>Statement of Changes in Immigration Rules</StatementText>
+      </MinisterialStatement>
+      <MinisterialStatement number="5">
+         <StatementTitle>Secretary of State for Justice</StatementTitle>
+         <StatementText>Judicial Review</StatementText>
+      </MinisterialStatement>
+      <p class="NotesTag">Notes:</p>
+      <p class="NotesText">Texts of Written Statements are available from the Vote Office and on the internet at <span class="WebAddress">http://www.parliament.uk/business/publications/hansard/commons/todays-written-statements/.</span>
+      </p>
+      <p class="CommitteeReportsPublishedTodayHeading">COMMITTEE REPORTS PUBLISHED TODAY</p>
+      <p class="BusinessSub-SectionHeading">Political and Constitutional Reform</p>
+      <p class="CommitteeReportTitle">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>8th Report: Parliament’s role in conflict decisions, <span class="CommitteeReportNumber">HC </span>
+         <span class="CommitteeReportNumber">649</span>
+      </p>
+      <p class="ReportTimeofPublication">Time of publication: <span class="TimeofPublicationTag">00.01</span>
+         <span class="TimeofPublicationTag">am</span>
+      </p>
+      <p class="BusinessSub-SectionHeading">Public Administration</p>
+      <p class="CommitteeReportTitle">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>8th Report: Truth to power: how Civil Service reform can succeed, <span class="CommitteeReportNumber">HC </span>
+         <span class="CommitteeReportNumber">74</span>
+      </p>
+      <p class="ReportTimeofPublication">Time of publication: <span class="TimeofPublicationTag">00</span>
+         <span class="TimeofPublicationTag">.01am</span>
+      </p>
+      <p class="BusinessSub-SectionHeading">WORK AND PENSIONS</p>
+      <p class="CommitteeReportTitle">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>2nd Special Report: Can the Work Programme work for all users? Government Response to the Committee’s First Report of Session 2013-14, <span class="CommitteeReportNumber">HC </span>
+         <span class="CommitteeReportNumber">627</span>
+      </p>
+      <p class="ReportTimeofPublication">Time of publication: <span class="TimeofPublicationTag">11</span>
+         <span class="TimeofPublicationTag">.0</span>
+         <span class="TimeofPublicationTag">0</span>
+         <span class="TimeofPublicationTag">am</span>
+      </p>
+      <p class="AnnouncementsHeading">ANNOUNCEMENTS</p>
+      <p class="BusinessSub-SectionHeading">FORTHCOMING END OF DAY ADJOURNMENT DEBATES</p>
+      <p class="AnnouncementItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Tuesday 8 October to Monday 14 October</p>
+      <p class="AnnouncementText">Applications should be made in writing to the Table Office by 7.00pm or rise of the House, whichever is the earlier, on Wednesday 11 September. The Ballot will take place on Thursday 12 September.</p>
+      <p class="BusinessSub-SectionHeading">FUTURE DEPARTMENTS ANSWERING IN WESTMINSTER HALL</p>
+      <p class="AnnouncementItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Tuesday 8 October and Wednesday 9 October</p>
+      <p class="AnnouncementText">Applications for General or Short Debates should be made in writing to the Table Office by 7.00pm or the rise of the House, whichever is the earlier, on Tuesday 10 September. The Ballot will take place on Wednesday 11 September.</p>
+      <p class="AnnouncementText">The following Departments will answer:</p>
+      <p class="AnnouncementText">Attorney General; Cabinet Office; Culture, Media and Sport; Deputy Prime Minister; Education; Energy and Climate Change; Foreign and Commonwealth Office; Home Office; Northern Ireland; Women and Equalities; Work and Pensions</p>
+      <p class="AnnouncementItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Monday 14 October and Monday 28 October</p>
+      <p class="AnnouncementText">The following Departments will answer:</p>
+      <p class="AnnouncementText">Business, Innovation and Skills; Communities and Local Government; Defence; Environment, Food and Rural Affairs; Health; International Development; Justice; Leader of the House; Scotland; Transport; Treasury; Wales</p>
+      <p class="AnnouncementItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Monday 21 October</p>
+      <p class="AnnouncementText">The following Departments will answer:</p>
+      <p class="AnnouncementText">Attorney General; Cabinet Office; Culture, Media and Sport; Deputy Prime Minister; Education; Energy and Climate Change; Foreign and Commonwealth Office; Home Office; Northern Ireland; Women and Equalities; Work and Pensions</p>
+      <p class="BusinessSub-SectionHeading">Notices of Meetings of General Committees</p>
+      <p class="BusinessListItem">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>The Northern Ireland Grand Committee will meet on Monday 9 September at 2.30pm to consider the matter of peace and progress in Northern Ireland: next steps in building a prosperous and united community.</p>
+      <p class="BusinessListItem">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>A Public Bill Committee will meet on Tuesday 10 September at 2.00pm and Wednesday 11 September at 8.55am and 2.00pm further to consider the European Union (Referendum) Bill.</p>
+      <p class="BusinessListItem">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>The First Delegated Legislation Committee will meet on Tuesday 10 September at 8.55am to consider the draft Legal Aid (Information about Financial Resources) (Amendment) Regulations 2013.</p>
+      <p class="BusinessListItem">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>The Second Delegated Legislation Committee will meet on Tuesday 10 September at 8.55am to consider the draft Armed Forces Act (Continuation) Order 2013 and the draft Armed Forces (Alcohol Limits for Prescribed Safety-Critical Duties) Regulations 2013.</p>
+      <p class="BusinessListItem">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>The Third Delegated Legislation Committee will meet on Tuesday 10 September at 2.30pm to consider the draft Health and Social Care Act 2012 (Consequential Amendments) (No. 2) Order 2013.</p>
+      <p class="BusinessListItem">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>The Fourth Delegated Legislation Committee will meet on Tuesday 10 September at 2.30pm to consider the draft Court of Appeal (Recording and Broadcasting) Order 2013.</p>
+      <p class="BusinessListItem">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>The Fifth Delegated Legislation Committee will meet on Wednesday 11 September at 2.30pm to consider the draft Public Bodies (Abolition of Victims’ Advisory Panel) Order 2013.</p>
+      <p class="BusinessListItem">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>The Sixth Delegated Legislation Committee will meet on Thursday 12 September at 11.30am to consider the draft European Parliamentary Elections (Amendment) Regulations 2013.</p>
+      <p class="BusinessListItem">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>The Seventh Delegated Legislation Committee will meet on Thursday 12 September at 11.30am to consider the Civil Procedure (Amendment No. 4) Rules 2013 (S.I., 2013 No. 1412).</p>
+      <p class="BusinessListItem">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>The Eighth Delegated Legislation Committee will meet on Wednesday 11 September at 2.30pm to consider the draft Jobseeker’s Allowance (Domestic Violence) (Amendment) Regulations 2013.</p>
+      <p class="DocumentTitle">
+         <span class="tab"> </span>
+         <span class="SittingDate"/>
+         <span class="SittingDate">Friday 6 September 2013</span> Order Paper No.44: Part 2</p>
+      <SittingDate>Friday 6 September 2013</SittingDate>
+      <p class="FutureBusinessHeading">FUTURE BUSINESS</p>
+      <p class="FutureBusinessIntroHeading">A. <span class="tab"> </span>CALENDAR OF BUSINESS</p>
+      <p class="FutureBusinessIntroText">Business in either Chamber may be changed, and further business added, up to the rising of the House on the day before it is to be taken, and is therefore provisional.</p>
+      <p class="FutureBusinessIntroText">Government items of business in this section have nominally been set down for today, but are expected to be taken on the dates stated.</p>
+      <p class="FutureBusinessIntroHeading">B. <span class="tab"> </span>REMAINING ORDERS AND NOTICES</p>
+      <p class="FutureBusinessIntroText">Business in this section has not yet been scheduled for a specific date. It has been nominally set down for today but is not expected to be taken today.</p>
+      <p class="FutureBusinessSectionHeading">
+         <span class="tab"> </span>A. CALENDAR OF BUSINESS</p>
+      <p class="SectionNotice">Business in either Chamber may be changed, and further business added, up to the rising of the House on the day before it is to be taken, and is therefore provisional.</p>
+      <p class="FutureBusinessSub-SectionHeading">
+         <span class="tab"> </span>MONDAY 9 SEPTEMBER</p>
+      <p class="FutureBusinessItemGroupHeading">CHAMBER</p>
+      <p class="FutureBusinessItemHeadingwithTiming">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>2.30pm<span class="tab"> </span>Questions to the Secretary of State for Education</p>
+      <p class="FutureBusinessItemHeadingwithTiming">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>3.15pm<span class="tab"> </span>Topical Questions to the Secretary of State for Education</p>
+      <p class="FutureBusinessDebateTimingRubric">Afterwards</p>
+      <p class="FutureBusinessItemHeadingwithTiming">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>The Prime Minister will propose an Humble Address and Message on the occasion of the Birth of His Royal Highness Prince George of Cambridge</p>
+      <p class="FutureBusinessItemHeading">BIRTH OF PRINCE GEORGE OF CAMBRIDGE (HUMBLE ADDRESS)</p>
+      <Member>The Prime Minister</Member>
+      <BillMotionText>That an humble Address be presented to Her Majesty offering the congratulations of this House to Her Majesty, His Royal Highness the Duke of Edinburgh, Their Royal Highnesses the Prince of Wales and the Duchess of Cornwall and Their Royal Highnesses the Duke and Duchess of Cambridge on the birth of Prince George; and signifying to Her Majesty the great pleasure given to the House by this happy event.</BillMotionText>
+      <p class="FutureBusinessItemHeading">BIRTH OF PRINCE GEORGE OF CAMBRIDGE (MESSAGE)</p>
+      <Member>The Prime Minister</Member>
+      <BillMotionText>That a Message be sent to Their Royal Highnesses the Duke and Duchess of Cambridge, to offer the congratulations of this House on the birth of Prince George and expressing the warm wishes of the House for his good health and happiness.</BillMotionText>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Bill: Consideration in Committee (Day 1)</p>
+      <p class="NotesTag">Relevant documents:</p>
+      <p class="NotesText">Seventh Report from the Political and Constitutional Reform Committee, Session 2013-14, on the Government’s Lobbying Bill, HC 601</p>
+      <p class="NotesText">First Report from the Committee on Standards, Session 2013-14, on the Government’s Lobbying Bill, HC 638</p>
+      <p class="FutureBusinessItemGroupNotesTag">Notes:</p>
+      <p class="NotesText">See amendment paper pages 615-50 (also available on the documents webpage for the Bill).</p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Adjournment debate</p>
+      <BillMotionText>Spousal visas: <span class="PresenterSponsor">Andrew Percy</span>
+      </BillMotionText>
+      <p class="FutureBusinessItemGroupHeading">WESTMINSTER HALL</p>
+      <p class="FutureBusinessWHItemHeadingwithTiming0">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>
+         <span class="FutureBusinessItemTiming">4.30p</span>
+         <span class="FutureBusinessItemTiming">m</span>
+         <span class="tab"> </span>E-petition related to age-related tax allowances: <span class="PresenterSponsor">Kelvin Hopkins</span>
+      </p>
+      <p class="FutureBusinessItemGroupNotesTag">Notes:</p>
+      <p class="NotesText">The subject for this debate was determined by the Backbench Business Committee.</p>
+      <p class="NotesText">The sitting will last for three hours. The sitting will be suspended and time added if divisions take place in the main Chamber (Standing Order No. <standingOrder>10(1)</standingOrder>).</p>
+      <p class="FutureBusinessSub-SectionHeading">
+         <span class="tab"> </span>TUESDAY 10 SEPTEMBER</p>
+      <p class="FutureBusinessItemGroupHeading">CHAMBER</p>
+      <p class="FutureBusinessItemHeadingwithTiming">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>11.30am<span class="tab"> </span>Questions to Mr Chancellor of the Exchequer</p>
+      <p class="FutureBusinessItemHeadingwithTiming">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>12.15pm<span class="tab"> </span>Topical Questions to Mr Chancellor of the Exchequer</p>
+      <p class="FutureBusinessDebateTimingRubric">Afterwards</p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Access to Mental Health Services: Ten Minute Rule Motion</p>
+      <Member>Mr Michael Thornton</Member>
+      <BillMotionText>That leave be given to bring in a Bill to provide for establishing maximum waiting times and establishing standards for access to evidence-based psychological therapies for those with mental health problems; and for connected purposes.</BillMotionText>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Bill: Consideration in Committee (Day 2)</p>
+      <p class="NotesTag">Relevant documents:</p>
+      <p class="NotesText">Seventh Report from the Political and Constitutional Reform Committee, Session 2013-14, on the Government’s Lobbying Bill, HC 601</p>
+      <p class="NotesText">First Report from the Committee on Standards, Session 2013-14, on the Government’s Lobbying Bill, HC 638</p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Adjournment debate</p>
+      <BillMotionText>Landfill tax liability at Blanefield Printworks: <span class="PresenterSponsor">Mrs Anne McGuire</span>
+      </BillMotionText>
+      <p class="FutureBusinessItemGroupHeading">WESTMINSTER HALL</p>
+      <p class="FutureBusinessWHItemHeadingwithTiming0">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>
+         <span class="FutureBusinessItemTiming">9.30am</span>
+         <span class="tab"> </span>Sexual entertainment licence exemptions: <span class="PresenterSponsor">Stephen Gilbert</span>
+      </p>
+      <p class="FutureBusinessWHItemHeadingwithTiming0">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>
+         <span class="FutureBusinessItemTiming">11.00am</span>
+         <span class="tab"> </span>Governance of local authority pension funds: <span class="PresenterSponsor">Mark Field</span>
+      </p>
+      <p class="NotesTag">Notes:</p>
+      <p class="NotesText">The sitting will be suspended from 11.30am to 2.30pm.</p>
+      <p class="FutureBusinessWHItemHeadingwithTiming0">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>
+         <span class="FutureBusinessItemTiming">2.30pm</span>
+         <span class="tab"> </span>Future of the Climate Change Act 2008: <span class="PresenterSponsor">David T. C. Davies</span>
+      </p>
+      <p class="FutureBusinessWHItemHeadingwithTiming0">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>
+         <span class="FutureBusinessItemTiming">4.00pm</span>
+         <span class="tab"> </span>First World War centenary commemorations: <span class="PresenterSponsor">Gareth Johnson</span>
+      </p>
+      <p class="FutureBusinessWHItemHeadingwithTiming0">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>
+         <span class="FutureBusinessItemTiming">4.30pm</span>
+         <span class="tab"> </span>Future of the Royal Mercian and Lancastrian Yeomanry: <span class="PresenterSponsor">Ian Austin</span>
+      </p>
+      <p class="FutureBusinessSub-SectionHeading">
+         <span class="tab"> </span>WEDNESDAY 11 SEPTEMBER</p>
+      <p class="FutureBusinessItemGroupHeading">CHAMBER</p>
+      <p class="FutureBusinessItemHeadingwithTiming">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>11.30am<span class="tab"> </span>Questions to the Secretary of State for Scotland</p>
+      <p class="FutureBusinessItemHeadingwithTiming">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>12 noon<span class="tab"> </span>Questions to the Prime Minister</p>
+      <p class="FutureBusinessDebateTimingRubric">Afterwards</p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Medical Innovation (No. 2): Ten Minute Rule Motion</p>
+      <Member>Michael Ellis</Member>
+      <BillMotionText>That leave be given to bring in a Bill to make provision about innovation in medical treatment.</BillMotionText>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Bill: Conclusion of Consideration in Committee</p>
+      <p class="NotesTag">Relevant documents:</p>
+      <p class="NotesText">Seventh Report from the Political and Constitutional Reform Committee, Session 2013-14, on the Government’s Lobbying Bill, HC 601</p>
+      <p class="NotesText">First Report from the Committee on Standards, Session 2013-14, on the Government’s Lobbying Bill, HC 638</p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>The Chairman of Ways and Means has named Opposed Private Business for Consideration</p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Adjournment debate</p>
+      <BillMotionText>The future of Public Health England at Porton Down: <span class="PresenterSponsor">John Glen</span>
+      </BillMotionText>
+      <p class="FutureBusinessItemGroupHeading">WESTMINSTER HALL</p>
+      <p class="FutureBusinessWHItemHeadingwithTiming0">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>
+         <span class="FutureBusinessItemTiming">9.30am</span>
+         <span class="tab"> </span>Future of the Armed Forces Parliamentary Scheme: <span class="PresenterSponsor">Mr James Gray</span>
+      </p>
+      <p class="FutureBusinessWHItemHeadingwithTiming0">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>
+         <span class="FutureBusinessItemTiming">11.00am</span>
+         <span class="tab"> </span>Planning policy and National Parks: <span class="PresenterSponsor">Simon Hart</span>
+      </p>
+      <p class="NotesTag">Notes:</p>
+      <p class="NotesText">The sitting will be suspended from 11.30am to 2.30pm.</p>
+      <p class="FutureBusinessWHItemHeadingwithTiming0">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>
+         <span class="FutureBusinessItemTiming">2.30pm</span>
+         <span class="tab"> </span>Human rights in the Commonwealth: <span class="PresenterSponsor">Sarah Champion</span>
+      </p>
+      <p class="FutureBusinessWHItemHeadingwithTiming0">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>
+         <span class="FutureBusinessItemTiming">4.00pm</span>
+         <span class="tab"> </span>Payments to satellite information services: <span class="PresenterSponsor">Mr Gerry Sutcliffe</span>
+      </p>
+      <p class="FutureBusinessWHItemHeadingwithTiming0">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>
+         <span class="FutureBusinessItemTiming">4.30pm</span>
+         <span class="tab"> </span>Regeneration in Brierfield and Nelson: <span class="PresenterSponsor">Andrew Stephenson</span>
+      </p>
+      <p class="FutureBusinessSub-SectionHeading">
+         <span class="tab"> </span>THURSDAY 12 SEPTEMBER</p>
+      <p class="FutureBusinessItemGroupHeading">CHAMBER</p>
+      <p class="FutureBusinessItemHeadingwithTiming">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>9.30am<span class="tab"> </span>Questions to the Secretary of State for Transport</p>
+      <p class="FutureBusinessItemHeadingwithTiming">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>10.05am<span class="tab"> </span>Topical Questions to the Secretary of State for Transport</p>
+      <p class="FutureBusinessItemHeadingwithTiming">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>10.15am<span class="tab"> </span>Questions to the Leader of the House and House of Commons Commission</p>
+      <p class="FutureBusinessDebateTimingRubric">Afterwards</p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Backbench Business</p>
+      <p class="FutureBusinessItemHeading">CHILD PROTECTION IN THE UK</p>
+      <Member>Tim Loughton</Member>
+      <Member>Ann Coffey</Member>
+      <BillMotionText>That this House has considered child protection in the UK.</BillMotionText>
+      <p class="FutureBusinessItemHeading">EMPLOYMENT RIGHTS</p>
+      <Member>Mr Michael Meacher</Member>
+      <Member>Andy Sawford</Member>
+      <BillMotionText>That this House has considered employment rights.</BillMotionText>
+      <p class="NotesTag">Notes:</p>
+      <p class="NotesText">The subjects for both debates were determined by the Backbench Business Committee.</p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Adjournment debate</p>
+      <BillMotionText>Political situation in Colombia: <span class="PresenterSponsor">Robert Flello</span>
+      </BillMotionText>
+      <p class="FutureBusinessItemGroupHeading">WESTMINSTER HALL</p>
+      <p class="FutureBusinessWHItemHeadingwithTiming0">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>
+         <span class="FutureBusinessItemTiming">1.30pm</span>
+         <span class="tab"> </span>UK Trade and Investment: <span class="PresenterSponsor">Daniel Kawczynski</span>
+      </p>
+      <p class="FutureBusinessItemGroupNotesTag">Notes:</p>
+      <p class="NotesText">The subject for this debate was determined by the Backbench Business Committee.</p>
+      <p class="NotesText">The sitting will last for three hours. The sitting will be suspended and time added if divisions take place in the main Chamber (Standing Order No. <standingOrder>10(1)</standingOrder>).</p>
+      <p class="NotesText">Subject proposed to be raised on a Motion for the Adjournment, moved by a Minister.</p>
+      <p class="FutureBusinessSub-SectionHeading">
+         <span class="tab"> </span>FRIDAY 13 SEPTEMBER</p>
+      <p class="FutureBusinessItemGroupHeading">CHAMBER</p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Citizenship (Armed Forces) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Jonathan Lord</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Delivery Surcharges (Transparency for Consumers) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Sir Robert Smith</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Prisons (Drug Testing) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Margot James</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Gender Equality (International Development) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr William Cash</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Education (Information Sharing) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Andrew Selous</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Sexual Impropriety in Employment Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Christopher Chope</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>House of Lords (Maximum Membership) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Christopher Chope</span>
+      </p>
+      <p class="NotesTag">Notes:</p>
+      <p class="NotesText">Queen’s Consent to be signified on Second Reading.</p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>EU Membership (Audit of Costs and Benefits) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Christopher Chope</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Executive Pay and Remuneration Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Thomas Docherty</span>
+      </p>
+      <p class="FutureBusinessDebateTimingRubric">Afterwards</p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Adjournment debate</p>
+      <BillMotionText>G20 membership reform: <span class="PresenterSponsor">Henry Smith</span>
+      </BillMotionText>
+      <p class="FutureBusinessSub-SectionHeading">
+         <span class="tab"> </span>TUESDAY 8 OCTOBER</p>
+      <p class="FutureBusinessItemGroupHeading">CHAMBER</p>
+      <p class="FutureBusinessItemHeadingwithTiming">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>2.30pm<span class="tab"> </span>Questions to the Secretary of State for Justice</p>
+      <p class="FutureBusinessItemHeadingwithTiming">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>3.15pm<span class="tab"> </span>Topical Questions to the Secretary of State for Justice</p>
+      <p class="FutureBusinessDebateTimingRubric">Afterwards</p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Freedom of Information (Private Healthcare Companies): Ten Minute Rule Motion</p>
+      <Member>Grahame M. Morris</Member>
+      <BillMotionText>That leave be given to bring in a Bill to amend the Freedom of Information Act 2000 to apply to private healthcare companies; and for connected purposes.</BillMotionText>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Bill: Remaining Stages (Day 1)</p>
+      <p class="FutureBusinessSub-SectionHeading">
+         <span class="tab"> </span>WEDNESDAY 9 OCTOBER</p>
+      <p class="FutureBusinessItemGroupHeading">CHAMBER</p>
+      <p class="FutureBusinessItemHeadingwithTiming">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>11.30am<span class="tab"> </span>Questions to the Secretary of State for Wales</p>
+      <p class="FutureBusinessItemHeadingwithTiming">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>12 noon<span class="tab"> </span>Questions to the Prime Minister</p>
+      <p class="FutureBusinessDebateTimingRubric">Afterwards</p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Coroners and Justice (Amendment): Ten Minute Rule Motion</p>
+      <Member>Sir Paul Beresford</Member>
+      <BillMotionText>That leave be given to bring in a Bill to amend section 62 of the Coroners and Justice Act 2009 so as to apply additionally to the possession of pornographic written material about children; to make consequential amendments to the Act; and for connected purposes.</BillMotionText>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Bill: Conclusion of Remaining Stages</p>
+      <p class="FutureBusinessSub-SectionHeading">
+         <span class="tab"> </span>THURSDAY 10 OCTOBER</p>
+      <p class="FutureBusinessItemGroupHeading">CHAMBER</p>
+      <p class="FutureBusinessItemHeadingwithTiming">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>9.30am<span class="tab"> </span>Questions to the Secretary of State for Environment, Food and Rural Affairs</p>
+      <p class="FutureBusinessItemHeadingwithTiming">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>10.05am<span class="tab"> </span>Topical Questions to the Secretary of State for Environment, Food and Rural Affairs</p>
+      <p class="FutureBusinessItemHeadingwithTiming">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>10.15am<span class="tab"> </span>Questions to the Church Commissioners, the Public Accounts Commission and the Speaker’s Committee on the Electoral Commission</p>
+      <p class="FutureBusinessDebateTimingRubric">Afterwards</p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Backbench Business</p>
+      <p class="NotesTag">Notes:</p>
+      <p class="NotesText">Business to be nominated by the Backbench Business Committee.</p>
+      <p class="FutureBusinessSub-SectionHeading">
+         <span class="tab"> </span>TUESDAY 15 OCTOBER</p>
+      <p class="FutureBusinessItemGroupHeading">CHAMBER</p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Statutory Instruments Act 1946 (Amendment): Ten Minute Rule Motion</p>
+      <Member>Jeremy Corbyn</Member>
+      <BillMotionText>That leave be given to bring in a Bill to amend the Statutory Instruments Act 1946.</BillMotionText>
+      <p class="NotesTag">Notes:</p>
+      <p class="NotesText">This is normally used as a holding title.</p>
+      <p class="FutureBusinessSub-SectionHeading">
+         <span class="tab"> </span>WEDNESDAY 16 OCTOBER</p>
+      <p class="FutureBusinessItemGroupHeading">CHAMBER</p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Gibraltar (Maritime Protection): Ten Minute Rule Motion</p>
+      <Member>David Morris</Member>
+      <BillMotionText>That leave be given to bring in a Bill to make provision to protect the seas around Gibraltar; and for connected purposes.</BillMotionText>
+      <p class="FutureBusinessSub-SectionHeading">
+         <span class="tab"> </span>FRIDAY 18 OCTOBER</p>
+      <p class="FutureBusinessItemGroupHeading">CHAMBER</p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>House of Lords Reform (No. 2) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Dan Byles</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Drug Driving (Assessment of Drug Misuse) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Graham Evans</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Property Blight Compensation Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mrs Caroline Spelman</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Local Government (Religious Etc. Observances) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Dr Matthew Offord</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>United Kingdom (Withdrawal from the European Union) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Christopher Chope</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Asylum (Time Limit) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Christopher Chope</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Foreign Nationals (Access to Public Services) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Christopher Chope</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Railways Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Caroline Lucas</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Letting Agents (Competition, Choice and Standards) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">John Healey</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Withdrawal from the European Convention on Human Rights and Removal of Alleged Terrorists Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Peter Bone</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Romanian and Bulgarian Accession (Labour Restriction) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Peter Bone</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Office of the Deputy Prime Minister (Abolition) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Peter Bone</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Representation of the People Act 1981 (Amendment) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Thomas Docherty</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Parental Bereavement Leave (Statutory Entitlement) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Tom Harris</span>
+      </p>
+      <p class="FutureBusinessSub-SectionHeading">
+         <span class="tab"> </span>FRIDAY 25 OCTOBER</p>
+      <p class="FutureBusinessItemGroupHeading">CHAMBER</p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Private Landlords and Letting and Managing Agents (Regulation) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Sir Alan Meale</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Graduated Driving Licence Scheme Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Justin Tomlinson</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Communication Support (Deafness) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Sir Malcolm Bruce</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Young Offenders (Parental Responsibility) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Philip Hollobone</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Foreign National Offenders (Exclusion from the United Kingdom) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Philip Hollobone</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Asylum Seekers (Return to Nearest Safe Country) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Philip Hollobone</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>High Cost Credit Bill: Adjourned Debate on Second Reading [12 July]</p>
+      <BillMotionText>And a Motion being made, that the Bill be now read a second time.</BillMotionText>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Paul Blomfield</span>
+      </p>
+      <p class="FutureBusinessSub-SectionHeading">
+         <span class="tab"> </span>FRIDAY 1 NOVEMBER</p>
+      <p class="FutureBusinessItemGroupHeading">CHAMBER</p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Apprenticeships and Skills (Public Procurement Contracts) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Andrew Gwynne</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Communications (Unsolicited Telephone Calls and Texts) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mike Crockart</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Department of Energy and Climate Change (Abolition) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Peter Bone</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Married Couples (Tax Allowance) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Peter Bone</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Charitable Status for Religious Institutions Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Peter Bone</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Football Governance Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Damian Collins</span>
+      </p>
+      <p class="FutureBusinessSub-SectionHeading">
+         <span class="tab"> </span>FRIDAY 8 NOVEMBER</p>
+      <p class="FutureBusinessItemGroupHeading">CHAMBER</p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Residential Roads (Adoption by Local Highways Authorities) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Philip Hollobone</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Margaret Thatcher Day Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Peter Bone</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Planning Regulations (Removal of Provisions in Respect of Gypsies and Travellers) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Philip Hollobone</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Slavery Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Peter Bone</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Young Apprenticeships Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Dominic Raab</span>
+      </p>
+      <p class="FutureBusinessSub-SectionHeading">
+         <span class="tab"> </span>FRIDAY 22 NOVEMBER</p>
+      <p class="FutureBusinessItemGroupHeading">CHAMBER</p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Equality and Diversity (Reform) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Philip Hollobone</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Sentencing Escalator Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Philip Hollobone</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Leasehold Reform (Amendment) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Philip Hollobone</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>BBC Licence Fee (Civil Debt) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Philip Hollobone</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Smoking (Private Members’ Clubs) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Philip Hollobone</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Drink Driving (Repeat Offenders) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Rehman Chishti</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Child Maltreatment Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Mark Williams</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Victims and Survivors (Northern Ireland) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr </span>
+         <span class="PresenterSponsor">Jeffrey M. Donaldson</span>
+      </p>
+      <p class="FutureBusinessSub-SectionHeading">
+         <span class="tab"> </span>FRIDAY 29 NOVEMBER</p>
+      <p class="FutureBusinessItemGroupHeading">CHAMBER</p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Foreign Aid Ring-Fencing (Abolition) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Peter Bone</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Same Sex Marriage (Referendum) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Peter Bone</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Wind Farm Subsidies (Abolition) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Peter Bone</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>BBC Privatisation Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Peter Bone</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Prime Minister (Replacement) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Peter Bone</span>
+      </p>
+      <p class="FutureBusinessSub-SectionHeading">
+         <span class="tab"> </span>FRIDAY 17 JANUARY 2014</p>
+      <p class="FutureBusinessItemGroupHeading">CHAMBER</p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Benefit Entitlement (Restriction) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Christopher Chope</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Illegal Immigrants (Criminal Sanctions) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Christopher Chope</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Collection of Nationality Data Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Christopher Chope</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Control of Offshore Wind Turbines Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Christopher Chope</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Employment Opportunities Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Christopher Chope</span>
+      </p>
+      <p class="FutureBusinessSub-SectionHeading">
+         <span class="tab"> </span>FRIDAY 24 JANUARY 2014</p>
+      <p class="FutureBusinessItemGroupHeading">CHAMBER</p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Armed Forces (Prevention of Discrimination) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Thomas Docherty</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Train Companies (Minimum Fares) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Thomas Docherty</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Lobbyists (Registration of Code of Conduct) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Thomas Docherty</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>International Development (Official Development Assistance Target) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Thomas Docherty</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Jobs Guarantee Scheme (Research) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Thomas Docherty</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Gangmasters Licensing Authority (Extension of Powers) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Andy Sawford</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Zero Hours Contracts Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Andy Sawford</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Electoral Register (Access to Public Services) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Siobhain McDonagh</span>
+      </p>
+      <p class="FutureBusinessSub-SectionHeading">
+         <span class="tab"> </span>FRIDAY 28 FEBRUARY 2014</p>
+      <p class="FutureBusinessItemGroupHeading">CHAMBER</p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Prisoners (Completion of Custodial Sentences) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Philip Hollobone</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Fishing Grounds and Territorial Waters (Repatriation) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Philip Hollobone</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>School Governing Bodies (Adverse Weather Conditions) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Philip Hollobone</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Capital Punishment Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Philip Hollobone</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Government Departments (Amalgamation of Scotland Office, Wales Office and Northern Ireland Office) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Mr Philip Hollobone</span>
+      </p>
+      <p class="FutureBusinessItemHeading">
+         <img href="OP%20button.gif" alt="OP button"/>
+         <span class="tab"> </span>Selective Licensing (Housing Standards) Bill: Second Reading</p>
+      <p class="MemberinCharge0">Member in Charge: <span class="PresenterSponsor">Graham Jones</span>
+      </p>
+      <p class="FutureBusinessBSectionHeading">
+         <span class="tab"> </span>B. REMAINING ORDERS AND NOTICES</p>
+      <p class="FutureBusinessBSectionNote">Business in this section has not yet been scheduled for a specific date. It has therefore been set down formally to be taken in the Chamber today but is not expected to be taken today.</p>
+      <p class="FutureBusinessBItemHeading">1.<span class="tab"> </span>PUBLIC BODIES</p>
+      <Member>Secretary Chris Grayling</Member>
+      <BillMotionText>That the draft Public Bodies (Abolition of Victims’ Advisory Panel) Order 2013, which was laid before this House on 25 April 2013, in the last Session of Parliament, be approved.</BillMotionText>
+      <p class="FutureBusinessBItemHeading">2. <span class="tab"> </span>GAMBLING (LICENSING AND ADVERTISING) BILL: SECOND READING</p>
+      <p class="NotesTag">Relevant documents:</p>
+      <p class="NotesText">Sixth Report from the Culture, Media and Sport Committee, Session 2012-13, Pre-legislative scrutiny of the draft Gambling (Licensing and Advertising) Bill, HC 905</p>
+      <p class="NotesTag">Notes:</p>
+      <p class="NotesText">The Northern Ireland Assembly has passed a Legislative Consent Resolution in respect of this Bill. Copies of the Resolution are available in the Vote Office.</p>
+      <p class="FutureBusinessBItemHeading">3. <span class="tab"> </span>GAMBLING (LICENSING AND ADVERTISING) BILL: WAYS AND MEANS</p>
+      <Member>Greg Clark</Member>
+      <BillMotionText>That, for the purposes of any Act resulting from the Gambling (Licensing and Advertising) Bill, it is expedient to authorise an extension of the cases in which:</BillMotionText>
+      <p class="MotionNumberedParagraph">(1) a penalty may be imposed under section 121 of the Gambling Act 2005, and</p>
+      <p class="MotionNumberedParagraph">(2) a levy may be imposed under section 123 of that Act.</p>
+      <p class="FutureBusinessBItemHeading">4. <span class="tab"> </span>PUBLIC BODIES</p>
+      <Member>Secretary Patrick McLoughlin</Member>
+      <BillMotionText>That the draft Public Bodies (Abolition of BRB (Residuary) Limited) Order 2013, which was laid before this House on 15 May, be approved.</BillMotionText>
+      <p class="FutureBusinessBItemHeading">5. <span class="tab"> </span>LEGAL AID AND ADVICE</p>
+      <Member>Secretary Chris Grayling</Member>
+      <BillMotionText>That the draft Legal Aid (Information about Financial Resources) (Amendment) Regulations 2013, which were laid before this House on 20 May, be approved.</BillMotionText>
+      <p class="FutureBusinessBItemHeading">6. <span class="tab"> </span>PENSIONS</p>
+      <Member>Secretary Philip Hammond</Member>
+      <BillMotionText>That the draft Armed Forces and Reserve Forces (Compensation Scheme) (Consequential Provisions: Primary Legislation) (Northern Ireland) Order 2013, which was laid before this House on 27 June, be approved.</BillMotionText>
+      <p class="FutureBusinessBItemHeading">7. <span class="tab"> </span>WATER BILL: SECOND READING</p>
+      <p class="FutureBusinessBItemHeading">8. <span class="tab"> </span>DEFENCE</p>
+      <Member>Secretary Philip Hammond</Member>
+      <BillMotionText>That the draft Armed Forces (Alcohol Limits for Prescribed Safety-Critical Duties) Regulations 2013, which were laid before this House on 1 July, be approved.</BillMotionText>
+      <p class="FutureBusinessBItemHeading">9. <span class="tab"> </span>AGE-RELATED PAYMENTS</p>
+      <Member>Sajid Javid</Member>
+      <BillMotionText>That the draft Age-Related Payments Regulations 2013, which were laid before this House on 1 July, be approved.</BillMotionText>
+      <p class="FutureBusinessBItemHeading">10. <span class="tab"> </span>DEFENCE</p>
+      <Member>Secretary Philip Hammond</Member>
+      <BillMotionText>That the draft Armed Forces Act (Continuation) Order 2013, which was laid before this House on 2 July, be approved.</BillMotionText>
+      <p class="FutureBusinessBItemHeading">11. <span class="tab"> </span>NATIONAL HEALTH SERVICE</p>
+      <Member>Secretary Jeremy Hunt</Member>
+      <BillMotionText>That the draft National Health Service (Licence Exemptions, etc.) Regulations 2013, which were laid before this House on 4 July, be approved.</BillMotionText>
+      <p class="FutureBusinessBItemHeading">12. <span class="tab"> </span>NATIONAL HEALTH SERVICE</p>
+      <Member>Secretary Jeremy Hunt</Member>
+      <BillMotionText>That the draft Health and Social Care Act 2012 (Consequential Amendments) (No. 2) Order 2013, which was laid before this House on 5 July, be approved.</BillMotionText>
+      <p class="FutureBusinessBItemHeading">13. <span class="tab"> </span>SENIOR COURTS</p>
+      <Member>Secretary Chris Grayling</Member>
+      <BillMotionText>That the draft Court of Appeal (Recording and Broadcasting) Order 2013, which was laid before this House on 8 July, be approved.</BillMotionText>
+      <p class="FutureBusinessBItemHeading">14. <span class="tab"> </span>REPRESENTATION OF THE PEOPLE</p>
+      <Member>The Deputy Prime Minister</Member>
+      <BillMotionText>That the draft European Parliamentary Elections (Amendment) Regulations 2013, which were laid before this House on 9 July, be approved.</BillMotionText>
+      <p class="FutureBusinessBItemHeading">15. <span class="tab"> </span>OFFENDER REHABILITATION BILL [LORDS]: SECOND READING</p>
+      <p class="FutureBusinessBItemHeading">16. <span class="tab"> </span>OFFENDER REHABILITATION BILL: MONEY RESOLUTION</p>
+      <Member>Greg Clark</Member>
+      <BillMotionText>That, for the purposes of any Act resulting from the Offender Rehabilitation Bill, it is expedient to authorise the payment out of money provided by Parliament of any increase attributable to the Act in the sums payable under any other Act out of money so provided.</BillMotionText>
+      <p class="NotesTag">Notes:</p>
+      <p class="NotesText">Queen’s Recommendation signified.</p>
+      <p class="FutureBusinessBItemHeading">17. <span class="tab"> </span>PENSIONS BILL: REPORT STAGE</p>
+      <BillMotionText>As amended in the Public Bill Committee, to be considered.</BillMotionText>
+      <p class="NotesTag">Notes:</p>
+      <p class="NotesText">Queen’s Consent to be signified on Third Reading.</p>
+      <p class="NotesText">See amendment paper page 591 (also available on the documents webpage for the Bill)</p>
+      <p class="FutureBusinessBItemHeading">18. <span class="tab"> </span>TAXES</p>
+      <Member>Mr David Gauke</Member>
+      <BillMotionText>That the draft International Tax Enforcement (Marshall Islands) Order 2013, which was laid before this House on 16 July, be approved.</BillMotionText>
+      <p class="NotesTag">Notes:</p>
+      <p class="NotesText">The Instrument has not yet been considered by the Select Committee on Statutory Instruments.</p>
+      <p class="FutureBusinessBItemHeading">19. <span class="tab"> </span>CORPORATION TAX</p>
+      <Member>Mr David Gauke</Member>
+      <BillMotionText>That the draft Double Taxation Relief (China) Order 2013, which was laid before this House on 16 July, be approved.</BillMotionText>
+      <p class="NotesTag">Notes:</p>
+      <p class="NotesText">The Instrument has not yet been considered by the Select Committee on Statutory Instruments.</p>
+      <p class="FutureBusinessBItemHeading">20. <span class="tab"> </span>CORPORATION TAX</p>
+      <Member>Mr David Gauke</Member>
+      <BillMotionText>That the draft Double Taxation Relief and International Tax Enforcement (Brunei Darussalam) Order 2013, which was laid before this House on 16 July, be approved.</BillMotionText>
+      <p class="NotesTag">Notes:</p>
+      <p class="NotesText">The Instrument has not yet been considered by the Select Committee on Statutory Instruments.</p>
+      <p class="FutureBusinessBItemHeading">21. <span class="tab"> </span>CAPITAL GAINS TAX</p>
+      <Member>Mr David Gauke</Member>
+      <BillMotionText>That the draft Double Taxation Relief and International Tax Enforcement (Spain) Order 2013, which was laid before this House on 16 July, be approved.</BillMotionText>
+      <p class="NotesTag">Notes:</p>
+      <p class="NotesText">The Instrument has not yet been considered by the Select Committee on Statutory Instruments.</p>
+      <p class="FutureBusinessBItemHeading">22. <span class="tab"> </span>CAPITAL GAINS TAX</p>
+      <Member>Mr David Gauke</Member>
+      <BillMotionText>That the draft Double Taxation Relief International Tax Enforcement (India) Order 2013, which was laid before this House on 16 July, be approved.</BillMotionText>
+      <p class="NotesTag">Notes:</p>
+      <p class="NotesText">The Instrument has not yet been considered by the Select Committee on Statutory Instruments.</p>
+      <p class="FutureBusinessBItemHeading">23. <span class="tab"> </span>REPRESENTATION OF THE PEOPLE</p>
+      <Member>The Deputy Prime Minister</Member>
+      <BillMotionText>That the draft Representation of the People (Ballot Paper) Regulations 2013, which were laid before this House on 16 July, be approved.</BillMotionText>
+      <p class="NotesTag">Notes:</p>
+      <p class="NotesText">The Instrument has not yet been considered by the Joint Committee on Statutory Instruments.</p>
+      <p class="FutureBusinessBItemHeading">24. <span class="tab"> </span>REPRESENTATION OF THE PEOPLE</p>
+      <Member>The Deputy Prime Minister</Member>
+      <BillMotionText>That the draft Political Parties, Elections and Referendums (Civil Sanctions) (Amendment) Order 2013, which was laid before this House on 16 July, be approved.</BillMotionText>
+      <p class="NotesTag">Notes:</p>
+      <p class="NotesText">The Instrument has not yet been considered by the Joint Committee on Statutory Instruments.</p>
+      <p class="FutureBusinessBItemHeading">25. <span class="tab"> </span>ANTI-SOCIAL BEHAVIOUR, CRIME AND POLICING BILL: REPORT STAGE</p>
+      <BillMotionText>As amended in the Public Bill Committee, to be considered.</BillMotionText>
+      <p class="NotesTag">Notes:</p>
+      <p class="NotesText">See amendment paper pages 585, 587 and 589-90 (also available on the documents webpage for the Bill)</p>
+      <p class="FutureBusinessBItemHeading">26. <span class="tab"> </span>NORTHERN IRELAND (MISCELLANEOUS PROVISIONS) BILL: REPORT STAGE</p>
+      <BillMotionText>Not amended in the Public Bill Committee, to be considered.</BillMotionText>
+      <p class="FutureBusinessBItemHeading">27. <span class="tab"> </span>ENTERPRISE</p>
+      <Member>Secretary Vince Cable</Member>
+      <BillMotionText>That the draft Enterprise and Regulatory Reform (Designation of the UK Green Investment Bank) Order 2013, which was laid before this House on 17 July, be approved.</BillMotionText>
+      <p class="NotesTag">Notes:</p>
+      <p class="NotesText">The Instrument has not yet been considered by the Joint Committee on Statutory Instruments.</p>
+      <p class="FutureBusinessBItemHeading">28. <span class="tab"> </span>DEFENCE</p>
+      <Member>Secretary Philip Hammond</Member>
+      <BillMotionText>That the draft Armed Forces (Remission of Fines) Order 2013, which was laid before this House on 17 July, be approved.</BillMotionText>
+      <p class="NotesTag">Notes:</p>
+      <p class="NotesText">The Instrument has not yet been considered by the Joint Committee on Statutory Instruments.</p>
+      <p class="FutureBusinessBItemHeading">29. <span class="tab"> </span>REPRESENTATION OF THE PEOPLE</p>
+      <Member>The Deputy Prime Minister</Member>
+      <BillMotionText>That the Representation of the People (England and Wales) (Description of Electoral Registers and Amendment) Regulations 2013, dated 30 December 1899, a copy of which was laid before this House on 17 July, be approved.</BillMotionText>
+      <p class="NotesTag">Notes:</p>
+      <p class="NotesText">The Instrument has not yet been considered by the Joint Committee on Statutory Instruments.</p>
+      <p class="FutureBusinessBItemHeading">30. <span class="tab"> </span>REPRESENTATION OF THE PEOPLE</p>
+      <Member>The Deputy Prime Minister</Member>
+      <BillMotionText>That the draft Electoral Registration and Administration Act 2013 (Transitional Provisions) Order 2013, which was laid before this House on 17 July, be approved.</BillMotionText>
+      <p class="NotesTag">Notes:</p>
+      <p class="NotesText">The Instrument has not yet been considered by the Joint Committee on Statutory Instruments.</p>
+      <p class="FutureBusinessBItemHeading">31. <span class="tab"> </span>HIGH SPEED RAIL (PREPARATION) BILL: REPORT STAGE</p>
+      <BillMotionText>As amended in the Public Bill Committee, to be considered.</BillMotionText>
+      <p class="FutureBusinessBItemHeading">32. <span class="tab"> </span>PUBLIC BODIES</p>
+      <Member>Secretary Maria Miller</Member>
+      <BillMotionText>That the draft Public Bodies (Modifications of Functions of OFCOM) Order 2013, which was laid before this House on 18 July, be approved.</BillMotionText>
+      <p class="NotesTag">Notes:</p>
+      <p class="NotesText">The Instrument has not yet been considered by the Joint Committee on Statutory Instruments.</p>
+      <p class="FutureBusinessBItemHeading">33. <span class="tab"> </span>REPRESENTATION OF THE PEOPLE, NORTHERN IRELAND</p>
+      <Member>Secretary Theresa Villiers</Member>
+      <BillMotionText>That the draft European Parliamentary Elections (Northern Ireland) (Amendment) Regulations 2013, which were laid before this House on 18 July, be approved.</BillMotionText>
+      <p class="NotesTag">Notes:</p>
+      <p class="NotesText">The Instrument has not yet been considered by the Joint Committee on Statutory Instruments.</p>
+      <p class="FutureBusinessBItemHeading">34. <span class="tab"> </span>REPRESENTATION OF THE PEOPLE, SCOTLAND</p>
+      <Member>Mr Secretary Moore</Member>
+      <BillMotionText>That the draft Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013, which were laid before this House on 18 July, be approved.</BillMotionText>
+      <p class="NotesTag">Notes:</p>
+      <p class="NotesText">The Instrument has not yet been considered by the Joint Committee on Statutory Instruments.</p>
+      <p class="FutureBusinessBItemHeading">35. <span class="tab"> </span>VALUE ADDED TAX</p>
+      <Member>Mr David Gauke</Member>
+      <BillMotionText>That the Value Added Tax (Education) Order 2013 (S.I., 2013, No. 1897), dated 30 July 2013, a copy of which was laid before this House on 30 July, be approved.</BillMotionText>
+      <p class="NotesTag">Notes:</p>
+      <p class="NotesText">The Instrument has not yet been considered by the Select Committee on Statutory Instruments.</p>
+      <p class="FutureBusinessBItemHeading">36. <span class="tab"> </span>MESOTHELIOMA BILL [LORDS]: SECOND READING</p>
+      <p class="FutureBusinessBItemHeading">37. <span class="tab"> </span>MESOTHELIOMA BILL [LORDS]: MONEY RESOLUTION</p>
+      <Member>Greg Clark</Member>
+      <BillMotionText>That, for the purposes of any Act resulting from the Mesothelioma Bill [Lords], it is expedient to authorise the payment out of money provided by Parliament of any expenditure incurred under or by virtue of the Act by the Secretary of State.</BillMotionText>
+      <p class="NotesTag">Notes:</p>
+      <p class="NotesText">Queen’s recommendation signified.</p>
+      <p class="FutureBusinessBItemHeading">38. <span class="tab"> </span>MESOTHELIOMA BILL [LORDS]: WAYS AND MEANS RESOLUTION</p>
+      <Member>Greg Clark</Member>
+      <BillMotionText>That, for the purposes of any Act resulting from the Mesothelioma Bill [Lords], it is expedient to authorise the imposition of a levy on active insurers to meet the costs of the Diffuse Mesothelioma Payment Scheme.</BillMotionText>
+      <p class="FutureBusinessBItemHeading">39. <span class="tab"> </span>LOCAL AUDIT AND ACCOUNTABILITY BILL [LORDS]: SECOND READING</p>
+      <p class="FutureBusinessBItemHeading">40. <span class="tab"> </span>LOCAL AUDIT AND ACCOUNTABILITY BILL [LORDS]: MONEY RESOLUTION</p>
+      <Member>Greg Clark</Member>
+      <BillMotionText>That, for the purposes of any Act resulting from the Local Audit and Accountability Bill [Lords], it is expedient to authorise the payment out of money provided by Parliament of:</BillMotionText>
+      <p class="MotionNumberedParagraph">(1) any expenditure incurred by a Minister of the Crown or the Comptroller and Auditor General in consequence of the Act; and</p>
+      <p class="MotionNumberedParagraph">(2) any increase attributable to the Act in the sums payable under any other Act out of money so provided.</p>
+      <p class="NotesTag">Notes:</p>
+      <p class="NotesText">Queen’s recommendation signified.</p>
+      <p class="FutureBusinessBItemHeading">41. <span class="tab"> </span>LOCAL AUDIT AND ACCOUNTABILITY BILL [LORDS]: WAYS AND MEANS RESOLUTION</p>
+      <Member>Greg Clark</Member>
+      <BillMotionText>That, for the purposes of any Act resulting from the Local Audit and Accountability Bill [Lords], it is expedient to authorise:</BillMotionText>
+      <p class="MotionNumberedParagraph">(1) the charging of fees in connection with the recognition of qualifications and supervisory bodies and of periodical fees to be paid by recognised qualifying and supervisory bodies, and</p>
+      <p class="MotionNumberedParagraph">(2) the payment of sums into the Consolidated Fund.</p>
+      <p class="FutureBusinessBItemHeading">42. <span class="tab"> </span>SOCIAL SECURITY</p>
+      <Member>Secretary Iain Duncan Smith</Member>
+      <BillMotionText>That the draft Jobseeker’s Allowance (Domestic Violence) (Amendment) Regulations 2013, which were laid before this House on 8 July, be approved.</BillMotionText>
+      <p class="NotesTag">Notes:</p>
+      <p class="NotesText">The Instrument has not yet been considered by the Joint Committee on Statutory Instruments.</p>
+      <p class="FutureBusinessBItemHeading">43. <span class="tab"> </span>BACKBENCH BUSINESS (AMENDMENT OF STANDING ORDERS)</p>
+      <Member>Mr Charles Walker</Member>
+      <BillMotionText>That:</BillMotionText>
+      <p class="MotionNumberedParagraph">(1) Standing Order No. 152J (Backbench Business Committee) be amended in line 23, at the end, to add ‘and to hear representations from Members of the House in public’;</p>
+      <p class="MotionNumberedParagraph">(2) Standing Order No. 14 (Arrangement of public business) be amended in line 50, at the end, by adding the words ‘Provided that the figure of thirty-five days shall be increased by one day for each week the House shall sit in a session in excess of a year’;</p>
+      <p class="MotionNumberedParagraph">(3) the following new Standing Order be made:</p>
+      <BillMotionText>‘Allocation of time to backbench business</BillMotionText>
+      <BillMotionSubText>(1) Where proceedings to be taken as backbench business have been determined by the Backbench Business Committee in accordance with paragraph (8) of Standing Order No. 14 (Arrangement of public business), a motion may be made on behalf of that Committee at the commencement of those proceedings by the chair or another member of the committee allocating time to the proceedings; and the question on any such motion shall be put forthwith.</BillMotionSubText>
+      <BillMotionSubText>(2) A motion under paragraph (1)–</BillMotionSubText>
+      <p class="MotionSub-Sub-Paragraph">(a) shall be in the terms of a resolution of the Backbench Business Committee reported to the House in accordance with paragraph (9) of Standing Order No. 152J (Backbench Business Committee);</p>
+      <p class="MotionSub-Sub-Paragraph">(b) may not provide for any proceedings to be taken after the expiration of the time for opposed business other than the decisions on any questions necessary to dispose of the backbench business, such questions to include the questions on any amendment selected by the Speaker which may then be moved.</p>
+      <p class="MotionSub-Sub-Paragraph">(c) may provide that Standing Order No. 41A (Deferred divisions) shall not apply to the backbench business.’</p>
+      <p class="MotionNumberedParagraph">(4) Standing Order No. 152J (Backbench Business Committee) be amended in line 42, at the end, by adding the words:</p>
+      <BillMotionSubText>‘(9) The Committee shall report to the House any resolution which it makes about the allocation of time to proceedings to be taken as backbench business on a day allotted under paragraph (4) of Standing Order No. 14 (Arrangement of public business), provided that such a resolution is agreed without a division.’</BillMotionSubText>
+      <p class="FutureBusinessBItemHeading">44. <span class="tab"> </span>EXPLANATORY STATEMENTS ON AMENDMENTS TO BILLS</p>
+      <Member>Mr Charles Walker</Member>
+      <Member>Mr Andrew Lansley</Member>
+      <Member>Tom Brake</Member>
+      <Member>Ms Angela Eagle</Member>
+      <Member>Thomas Docherty</Member>
+      <BillMotionText>That this House approves the recommendation contained in paragraph 21 of the Procedure Committee’s Fourth Report of Session 2012-13, Explanatory statements on amendments, HC 979, noting that the Public Bill Office will assist Members as required in the preparation of such statements.</BillMotionText>
+      <p class="AmendmentNumber">Amendment (a)</p>
+      <p class="AmendmentSponsor">Caroline Lucas</p>
+      <p class="AmendmentSponsor">Mr Michael Meacher</p>
+      <p class="AmendmentSponsor">Dame Joan Ruddock</p>
+      <p class="AmendmentSponsor">Zac Goldsmith</p>
+      <p class="AmendmentSponsor">Dr Sarah Wollaston</p>
+      <p class="AmendmentSponsor">Mr Graham Allen</p>
+      <BillMotionSubText>Line 1, leave out from ‘House’ to ‘noting’ in line 3 and insert ‘notes the recommendation contained in paragraph 21 of the Procedure Committee’s Fourth Report of Session 2012-13, Explanatory statements on amendments, HC 979; and resolves that explanatory statements on amendments be mandatory, subject to guidelines to be issued under the authority of the Chair’.</BillMotionSubText>
+   </body>
+</op>
