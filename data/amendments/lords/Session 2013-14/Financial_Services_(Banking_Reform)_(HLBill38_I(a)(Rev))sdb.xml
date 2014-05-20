@@ -1,0 +1,1676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendments>
+   <header>
+      <billtitle>Financial_Services_(Banking_Reform)_(Bill38_I(a)(Rev))</billtitle>
+      <headertext>AMENDMENTS TO BE MOVED IN COMMITTEE</headertext>
+      <headertext>[Supplementary to the Revised Marshalled List]</headertext>
+   </header>
+   <clausenumber>After Clause 12</clausenumber>
+   <proposer>LORD DEIGHTON</proposer>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <HeadingTwo>&#8220;Part 5</HeadingTwo>
+         <HeadingTwo>Regulation of payment systems</HeadingTwo>
+         <quote> Overview</quote>
+         <quote>(1) This Part contains provision for the establishment of a new body (the &#8220;Payment Systems Regulator&#8221;) to exercise functions in relation to payment systems.</quote>
+         <quote>(2) Section (The Payment Systems RegulatorThe Payment Systems Regulator) provides for the establishment of the Payment Systems Regulator.</quote>
+         <quote>(3) Sections (Meaning of &#8220;payment system&#8221;Meaning of &#8220;payment system&#8221;) and (Participants in payment systems Participants in payment systems etcetc) contain definitions of &#8220;payment system&#8221; and related terms.</quote>
+         <quote>(4) Sections (Designation ordersDesignation orders) to (Revocation of designation ordersRevocation of designation orders) make provision about designating a payment system as a regulated payment system.</quote>
+         <quote>(5) Sections (Regulator&#8217;s general duties in relation to payment systemsRegulator&#8217;s general duties in relation to payment systems) to (Regulatory principlesRegulatory principles) contain provision about the general duties of the Payment Systems Regulator under this Part.</quote>
+         <quote>(6) Sections (DirectionsDirections) to (Amendments relating to Regulator&#8217;s competition Amendments relating to Regulator&#8217;s competition powerspowers) confer various regulatory and competition functions on the Payment Systems Regulator.</quote>
+         <quote>(7) Sections (Complaints by representative bodiesComplaints by representative bodies) to (Complaints: guidanceComplaints: guidance) contain provision about the making of complaints to the Payment Systems Regulator.</quote>
+         <quote>(8) Sections (Meaning of &#8220;compliance failure&#8221;Meaning of &#8220;compliance failure&#8221;) to (Enforcement of requirement to Enforcement of requirement to dispose of interest in payment systemdispose of interest in payment system) contain provision about enforcement and appeals.</quote>
+         <quote>(9) Sections (Power to obtain information or documentsPower to obtain information or documents) to (ReportsReports) contain supplementary powers.</quote>
+         <quote>(10) Sections (Duty of regulators to ensure co-ordinated exercise of functionsDuty of regulators to ensure co-ordinated exercise of functions) to (Power of PRA to require Regulator to refrain from specified actionPower of PRA to require Regulator to refrain from specified action) contain provision about the Payment Systems Regulator&#8217;s relationship with other regulators.</quote>
+         <quote>(11) Sections (Regulator&#8217;s general duty to consultRegulator&#8217;s general duty to consult) to (Competition scrutinyCompetition scrutiny) contain provision about consultation, accountability and oversight.</quote>
+         <quote>(12) Sections (Relationship with Part 8 of the Payment Services Regulations 2009Relationship with Part 8 of the Payment Services Regulations 2009) to (InterpretationInterpretation) contain miscellaneous and supplemental provision.&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;The Payment Systems Regulator</quote>
+         <quote>(1) The FCA must establish a body corporate to exercise the functions conferred on the body by or under this Part.</quote>
+         <quote>(2) The body established under subsection (1) is referred to in this Part as the Payment Systems Regulator.</quote>
+         <quote>(3) The FCA must take such steps as are necessary to ensure that the Payment Systems Regulator is, at all times, capable of exercising the functions referred to in subsection (1).</quote>
+         <quote>(4) In complying with the duty imposed by subsection (3) the FCA may, in particular&#8212; </quote>
+         <IndentOne>(a) provide staff to the Payment Systems Regulator, and</IndentOne>
+         <IndentOne>(b) provide services to the Payment Systems Regulator which the FCA considers would facilitate the exercise of any of those functions.</IndentOne>
+         <quote>(5) Schedule (The Payment Systems RegulatorThe Payment Systems Regulator) (which contains further provision about the Payment Systems Regulator) has effect.&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Meaning of &#8220;payment system&#8221;</quote>
+         <quote>(1) In this Part &#8220;payment system&#8221; means a system which is operated by one or more persons in the course of business for the purpose of enabling persons to make transfers of funds, and includes a system which is designed to facilitate the transfer of funds using another payment system.</quote>
+         <quote>(2) But &#8220;payment system&#8221; does not include&#8212;</quote>
+         <IndentOne>(a) any arrangements for the physical movement of cash;</IndentOne>
+         <IndentOne>(b) a system which does not make any provision for the transfer of funds by payers, or to recipients, in the United Kingdom;</IndentOne>
+         <IndentOne>(c) a securities settlement system operated by a person approved under regulations under section 785 of the Companies Act 2006 (provision enabling procedures for evidencing and transferring title);</IndentOne>
+         <IndentOne>(d) a system operated by a recognised clearing house;</IndentOne>
+         <IndentOne>(e) any other system whose primary purpose is not that of enabling persons to transfer funds.</IndentOne>
+         <quote>(3) In this section&#8212;</quote>
+         <quote>&#8220;recognised clearing house&#8221; has the meaning given by section 285(1) of FSMA 2000;</quote>
+         <quote>&#8220;securities settlement system&#8221; means a computer-based system, and procedures, which enable title to units of a security to be evidenced and transferred without a written instrument, and which facilitate supplementary and incidental matters.</quote>
+         <quote>(4) The Treasury may by order amend this section so as to&#8212;</quote>
+         <IndentOne>(a) add descriptions of systems or arrangements that are not to be regarded as payment systems, or</IndentOne>
+         <IndentOne>(b) vary or remove any such description.&#8221;</IndentOne>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Participants in payment systems etc</quote>
+         <quote>(1) This section applies for the purposes of this Part.</quote>
+         <quote>(2) The following persons are &#8220;participants&#8221; in a payment system&#8212;</quote>
+         <IndentOne>(a) the operator of the payment system (see subsection (3));</IndentOne>
+         <IndentOne>(b) any infrastructure provider (see subsection (4));</IndentOne>
+         <IndentOne>(c) any payment service provider (see subsection (5)).</IndentOne>
+         <IndentOne>(But see also subsection (8).)(But see also subsection (8).)</IndentOne>
+         <quote>(3) &#8220;Operator&#8221;, in relation to a payment system, means any person with responsibility under the system for managing or operating it; and any reference to the operation of a payment system includes a reference to its management.</quote>
+         <quote>(4) &#8220;Infrastructure provider&#8221;, in relation to a payment system, means any person who provides or controls any part of the infrastructure used for the purposes of operating the payment system.</quote>
+         <quote>(5) &#8220;Payment service provider&#8221;, in relation to a payment system, means any person who provides services to persons who are not participants in the system for the purposes of enabling the transfer of funds using the payment system.</quote>
+         <quote>(6) A payment service provider has &#8220;direct access&#8221; to a payment system if the payment service provider is able to provide services for the purposes of enabling the transfer of funds using the payment system as a result of arrangements made between the payment service provider and the operator of the payment system.</quote>
+         <quote>(7) Any reference to participation in a payment system is to be read in accordance with this section, and in particular&#8212;</quote>
+         <IndentOne>(a) in the case of an operator of a payment system, includes a reference to developing the system, and</IndentOne>
+         <IndentOne>(b) in the case of a payment service provider with direct access to a payment system, includes a reference to entering into an agreement with a person to enable the person to become a payment service provider in relation to the system.</IndentOne>
+         <quote>(8) The Bank of England is not to be regarded as a participant of any kind in any payment system.&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Designation orders</quote>
+         <quote>(1) The Treasury may by order (a &#8220;designation order&#8221;) designate a payment system as a regulated payment system for the purposes of this Part.</quote>
+         <quote>(2) A designation order must specify in as much detail as is reasonably practicable the arrangements that constitute the payment system.&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Designation criteria</quote>
+         <quote>(1) The Treasury may make a designation order in respect of a payment system only if they are satisfied that any deficiencies in the design of the system, or any disruption of its operation, would be likely to have serious consequences for those who use, or are likely to use, the services provided by the system.</quote>
+         <quote>(2) In considering whether to make a designation order in respect of a payment system, the Treasury must have regard to&#8212;</quote>
+         <IndentOne>(a) the number and value of the transactions that the system presently processes or is likely to process in the future,</IndentOne>
+         <IndentOne>(b) the nature of the transactions that the system presently processes or is likely to process in the future,</IndentOne>
+         <IndentOne>(c) whether those transactions or their equivalent could be handled by other payment systems, and</IndentOne>
+         <IndentOne>(d) the relationship between the system and other payment systems.&#8221;</IndentOne>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Procedure</quote>
+         <quote>(1) Before making a designation order in respect of a payment system the Treasury must&#8212;</quote>
+         <IndentOne>(a) consult the Payment Systems Regulator and, if the system is a recognised inter-bank payment system, the Bank of England,</IndentOne>
+         <IndentOne>(b) notify the operator of the system, and</IndentOne>
+         <IndentOne>(c) consider any representations made.</IndentOne>
+         <quote>(2) In considering whether to make a designation order in respect of a payment system, the Treasury may rely on information provided by&#8212; </quote>
+         <IndentOne>(a) the Bank of England,</IndentOne>
+         <IndentOne>(b) the FCA,</IndentOne>
+         <IndentOne>(c) the PRA, or</IndentOne>
+         <IndentOne>(d) the Payment Systems Regulator.&#8221;</IndentOne>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Amendment of designation order</quote>
+         <quote>(1) The Treasury may amend a designation order.</quote>
+         <quote>(2) Before amending a designation order made in respect of a payment system, the Treasury must&#8212;</quote>
+         <IndentOne>(a) consult the Payment Systems Regulator and, if the payment system is a recognised inter-bank payment system, the Bank of England,</IndentOne>
+         <IndentOne>(b) notify the operator of the payment system, and</IndentOne>
+         <IndentOne>(c) consider any representations made.</IndentOne>
+         <quote>(3) The Treasury must consider any request by the operator of a regulated payment system for the amendment of its designation order.&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Revocation of designation orders</quote>
+         <quote>(1) The Treasury may revoke a designation order.</quote>
+         <quote>(2) The Treasury must revoke a designation order if they are not satisfied that the criteria in section (Designation criteriaDesignation criteria) are met in respect of the payment system to which the order relates.</quote>
+         <quote>(3) Before revoking a designation order made in respect of a payment system, the Treasury must&#8212;</quote>
+         <IndentOne>(a) consult the Payment Systems Regulator and, if the payment system is a recognised inter-bank payment system, the Bank of England,</IndentOne>
+         <IndentOne>(b) notify the operator of the payment system, and</IndentOne>
+         <IndentOne>(c) consider any representations made.</IndentOne>
+         <quote>(4) The Treasury must consider any request by the operator of a regulated payment system for the revocation of its designation order.&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Regulator&#8217;s general duties in relation to payment systems</quote>
+         <quote>(1) In discharging its general functions relating to payment systems the Payment Systems Regulator must, so far as is reasonably possible, act in a way which advances one or more of its payment systems objectives.</quote>
+         <quote>(2) The payment systems objectives of the Payment Systems Regulator are&#8212;</quote>
+         <IndentOne>(a) the competition objective (see section (The competition objectiveThe competition objective)),</IndentOne>
+         <IndentOne>(b) the innovation objective (see section (The innovation objectiveThe innovation objective)), and</IndentOne>
+         <IndentOne>(c) the service-user objective (see section (The service-user objectiveThe service-user objective)).</IndentOne>
+         <quote>(3) In discharging its general functions relating to payment systems the Payment Systems Regulator must have regard to&#8212;</quote>
+         <IndentOne>(a) the importance of maintaining the stability of, and confidence in, the UK financial system,</IndentOne>
+         <IndentOne>(b) the importance of payment systems in relation to the performance of functions by the Bank of England in its capacity as a monetary authority, and</IndentOne>
+         <IndentOne>(c) the regulatory principles in section (Regulatory principlesRegulatory principles).</IndentOne>
+         <quote>(4) The general functions of the Payment Systems Regulator relating to payment systems are&#8212;</quote>
+         <IndentOne>(a) its function of giving general directions under section (DirectionsDirections) (considered as a whole),</IndentOne>
+         <IndentOne>(b) its functions in relation to the giving of general guidance under section (GuidanceGuidance) (considered as a whole), and</IndentOne>
+         <IndentOne>(c) its function of determining the general policy and principles by reference to which it performs particular functions.&#8221;</IndentOne>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;The competition objective</quote>
+         <quote>(1) The competition objective is to promote effective competition in&#8212; </quote>
+         <IndentOne>(a) the market for payment systems, and</IndentOne>
+         <IndentOne>(b) the markets for services provided by payment systems,</IndentOne>
+         <IndentOne>in the interests of those who use, or are likely to use, services provided by in the interests of those who use, or are likely to use, services provided by payment systems.payment systems.</IndentOne>
+         <quote>(2) The reference in subsection (1) to promoting effective competition includes, in particular, promoting effective competition&#8212;</quote>
+         <IndentOne>(a) between different operators of payment systems,</IndentOne>
+         <IndentOne>(b) between different payment service providers, and</IndentOne>
+         <IndentOne>(c) between different infrastructure providers.</IndentOne>
+         <quote>(3) The matters to which the Payment Systems Regulator may have regard in considering the effectiveness of competition in a market mentioned in subsection (1) include&#8212;</quote>
+         <IndentOne>(a) the needs of different persons who use, or may use, services provided by payment systems,</IndentOne>
+         <IndentOne>(b) the ease with which persons who may wish to use those services can do so,</IndentOne>
+         <IndentOne>(c) the ease with which persons who obtain those services can change the person from whom they obtain them,</IndentOne>
+         <IndentOne>(d) the needs of different payment service providers or persons who wish to become payment service providers,</IndentOne>
+         <IndentOne>(e) the ease with which payment service providers, or persons who wish to become payment service providers, can provide services using payment systems,</IndentOne>
+         <IndentOne>(f) the ease with which payment service providers can change the payment system they use to provide their services,</IndentOne>
+         <IndentOne>(g) the needs of different infrastructure providers or persons who wish to become infrastructure providers,</IndentOne>
+         <IndentOne>(h) the ease with which infrastructure providers, or persons who wish to become infrastructure providers, can provide infrastructure for the purposes of operating payment systems,</IndentOne>
+         <IndentOne>(i) the needs of different operators of payment systems,</IndentOne>
+         <IndentOne>(j) the ease with which operators of payment systems can change the infrastructure used to operate the payment systems,</IndentOne>
+         <IndentOne>(k) the level and structure of fees, charges or other costs associated with participation in payment systems,</IndentOne>
+         <IndentOne>(l) the ease with which new entrants can enter the market,</IndentOne>
+         <IndentOne>(m) how far competition is contributing to the development of efficient and effective infrastructure for the purposes of operating payment systems,</IndentOne>
+         <IndentOne>(n) how far competition is encouraging innovation.&#8221;</IndentOne>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;The innovation objective</quote>
+         <quote>(1) The innovation objective is to promote the development of, and innovation in, payment systems in the interests of those who use, or are likely to use, services provided by payment systems, with a view to improving the quality, efficiency and economy of payment systems.</quote>
+         <quote>(2) The reference in subsection (1) to promoting the development of, and innovation in, payment systems includes, in particular, a reference to promoting the development of, and innovation in, infrastructure to be used for the purposes of operating payment systems.&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;The service-user objective</quote>
+         <IndentOne>The service-user objective is to ensure that payment systems are operated and developed in a way that takes account of, and promotes, the interests of those who use, or are likely to use, services provided by payment systems.&#8221;</IndentOne>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Regulatory principles</quote>
+         <quote>(none) The regulatory principles referred to in section (Regulator&#8217;s general duties in Regulator&#8217;s general duties in relation to payment systemsrelation to payment systems)(3)(c) are as follows&#8212;</quote>
+         <IndentOne>(a) the need to use the resources of the Payment Systems Regulator in the most efficient and economic way;</IndentOne>
+         <IndentOne>(b) the principle that a burden or restriction which is imposed on a person, or on the carrying on of an activity, should be proportionate to the benefits, considered in general terms, which are expected to result from the imposition of that burden or restriction;</IndentOne>
+         <IndentOne>(c) the desirability of sustainable growth in the economy of the United Kingdom in the medium or long term;</IndentOne>
+         <IndentOne>(d) the general principle that those who use services provided by payment systems should take responsibility for their decisions;</IndentOne>
+         <IndentOne>(e) the responsibilities of the senior management of persons subject to requirements imposed by or under this Part, including those affecting persons who use services provided by payment systems, in relation to compliance with those requirements;</IndentOne>
+         <IndentOne>(f) the desirability where appropriate of the Payment Systems Regulator exercising its functions in a way that recognises differences in the nature of, and objectives of, businesses carried on by different persons subject to requirements imposed by or under this Part;</IndentOne>
+         <IndentOne>(g) the desirability in appropriate cases of the Payment Systems Regulator publishing information relating to persons on whom requirements are imposed by or under this Part, or requiring such persons to publish information, as a means of contributing to the advancement by the Payment Systems Regulator of its payment systems objectives;</IndentOne>
+         <IndentOne>(h) the principle that the Payment Systems Regulator should exercise its functions as transparently as possible.&#8221;</IndentOne>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Directions</quote>
+         <quote>(1) The Payment Systems Regulator may give directions in writing to participants in regulated payment systems.</quote>
+         <quote>(2) A direction given to a participant in a regulated payment system may&#8212; </quote>
+         <IndentOne>(a) require or prohibit the taking of specified action in relation to the system;</IndentOne>
+         <IndentOne>(b) set standards to be met in relation to the system.</IndentOne>
+         <quote>(3) A direction under this section may apply&#8212;</quote>
+         <IndentOne>(a) generally,</IndentOne>
+         <IndentOne>(b) in relation to all operators, all infrastructure providers or all payment service providers, or</IndentOne>
+         <IndentOne>(c) in relation to specified persons or persons of a specified description.</IndentOne>
+         <quote>(4) The Payment Systems Regulator must publish any direction given under this section that applies as mentioned in subsection (3)(a) or (b).</quote>
+         <quote>(5) A direction under this section that applies as mentioned in subsection (3)(a) is referred to in this Part as a &#8220;general direction&#8221;.&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;System rules</quote>
+         <quote>(1) The Payment Systems Regulator may require the operator of a regulated payment system&#8212;</quote>
+         <IndentOne>(a) to establish rules for the operation of the system;</IndentOne>
+         <IndentOne>(b) to change the rules in a specified way or so as to achieve a specified purpose;</IndentOne>
+         <IndentOne>(c) to notify the Payment Systems Regulator of any proposed change to the rules;</IndentOne>
+         <IndentOne>(d) not to change the rules without the approval of the Payment Systems Regulator.</IndentOne>
+         <quote>(2) A requirement under subsection (1)(c) or (d) may be general or specific.&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Power to require access to payment systems</quote>
+         <quote>(1) This section applies where a person (&#8220;the applicant&#8221;) applies for an order under this section.</quote>
+         <quote>(2) The Payment Systems Regulator may by order require the operator of a regulated payment system to enable the applicant to become a payment service provider in relation to the system.</quote>
+         <quote>(3) The Payment Systems Regulator may by order require any payment service provider with direct access to a regulated payment system to enter into an agreement with the applicant to enable the applicant to become a payment service provider in relation to the system.</quote>
+         <quote>(4) An order under this section may provide for the applicant to become a payment service provider in relation to a payment system&#8212;</quote>
+         <IndentOne>(a) for a period specified in the order;</IndentOne>
+         <IndentOne>(b) on terms and conditions specified in the order.&#8221;</IndentOne>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Variation of agreements relating to payment systems</quote>
+         <quote>(1) This section applies to the following agreements&#8212;</quote>
+         <IndentOne>(a) any agreement made between the operator of a regulated payment system and a payment service provider;</IndentOne>
+         <IndentOne>(b) any agreement made between a payment service provider with direct access to a regulated payment system and another person for the purpose of enabling that other person to become a payment service provider in relation to the system;</IndentOne>
+         <IndentOne>(c) any agreement concerning fees or charges payable in connection with&#8212; </IndentOne>
+         <IndentTwo>(i) participation in a regulated payment system, or</IndentTwo>
+         <IndentTwo>(ii) the use of services provided by a regulated payment system.</IndentTwo>
+         <quote>(2) The Payment Systems Regulator may, on the application of a party to an agreement to which this section applies, vary the agreement by&#8212;</quote>
+         <IndentOne>(a) varying any of the fees or charges payable under the agreement, or</IndentOne>
+         <IndentOne>(b) in the case of an agreement within subsection (1)(a) or (b), varying any other terms and conditions relating to the payment service provider&#8217;s participation in the payment system.</IndentOne>
+         <quote>(3) In the case of an agreement within subsection (1)(b), the reference in subsection (2)(b) to the payment service provider is to the payment service provider which does not have direct access to the payment system.</quote>
+         <quote>(4) The power under this section to vary any fee or charge includes power to specify a maximum fee or charge.</quote>
+         <quote>(5) If the Payment Systems Regulator varies an agreement under this section, the agreement has effect subject to the variation.&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Power to require disposal of interest in payment system</quote>
+         <quote>(1) The Payment Systems Regulator may require a person who has an interest in the operator of a regulated payment system to dispose of all or part of that interest.</quote>
+         <quote>(2) The power conferred by subsection (1) may be exercised only if the Payment Systems Regulator is satisfied that, if the power is not exercised, there is likely to be a restriction or distortion of competition in&#8212;</quote>
+         <IndentOne>(a) the market for payment systems, or</IndentOne>
+         <IndentOne>(b) a market for services provided by payment systems.</IndentOne>
+         <quote>(3) The Payment Systems Regulator may not exercise the power conferred by subsection (1) without the consent of the Treasury.</quote>
+         <quote>(4) If the Payment Systems Regulator decides to exercise the power conferred by subsection (1) in relation to a person who has an interest in the operator of a regulated payment system&#8212; </quote>
+         <IndentOne>(a) the Payment Systems Regulator must notify the relevant competition authorities (see subsection (5)), and</IndentOne>
+         <IndentOne>(b) the relevant competition authorities may not take any action in relation to the person that would require the person to dispose of all or part of that interest.</IndentOne>
+         <quote>(5) The relevant competition authorities are&#8212;</quote>
+         <IndentOne>(a) the Secretary of State,</IndentOne>
+         <IndentOne>(b) the Competition and Markets Authority, and</IndentOne>
+         <IndentOne>(c) the FCA.&#8221;</IndentOne>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;The Regulator&#8217;s functions under Part 4 of the Enterprise Act 2002</quote>
+         <quote>(1) The functions to which this subsection applies (&#8220;the concurrent functions&#8221;) are to be concurrent functions of the Payment Systems Regulator and the Competition and Markets Authority (&#8220;the CMA&#8221;).</quote>
+         <quote>(2) Subsection (1) applies to the functions of the CMA under Part 4 of the Enterprise Act 2002 (market investigations), so far as those functions&#8212;</quote>
+         <IndentOne>(a) are exercisable by the CMA Board (within the meaning of Schedule 4 to the Enterprise and Regulatory Reform Act 2013), and</IndentOne>
+         <IndentOne>(b) relate to participation in payment systems.</IndentOne>
+         <quote>(3) But subsection (1) does not apply to functions under the following sections of the Enterprise Act 2002&#8212;</quote>
+         <IndentOne>(none) section 166 (duty to maintain register of undertakings and orders);</IndentOne>
+         <IndentOne>(none) section 171 (duty to publish guidance).</IndentOne>
+         <quote>(4) So far as is necessary for the purposes of, or in connection with, subsections (1) and (2)&#8212; </quote>
+         <IndentOne>(a) references in Part 4 of the Enterprise Act 2002 to the CMA (including references in provisions of that Act applied by that Part) are to be read as including references to the Payment Systems Regulator,</IndentOne>
+         <IndentOne>(b) references in that Part to section 5 of that Act are to be read as including references to section (Information relating to Regulator&#8217;s Information relating to Regulator&#8217;s competition functionscompetition functions) of this Act, and</IndentOne>
+         <IndentOne>(c) references in that Part to consumers are to be read as including references to any person who uses, or is likely to use, services provided by payment systems in the course of a business carried on by the person.</IndentOne>
+         <quote>(5) But subsection (4) does not apply&#8212;</quote>
+         <IndentOne>(a) in relation to section 166 or 171 of that Act, or</IndentOne>
+         <IndentOne>(b) where the context otherwise requires.</IndentOne>
+         <quote>(6) Section 130A of the Enterprise Act 2002 is to have effect in relation to the Payment Systems Regulator by virtue of subsections (1) and (2) as if&#8212;</quote>
+         <IndentOne>(a) in subsection (2)(a) of that section, the reference to the acquisition or supply of goods or services of one or more than one description in the United Kingdom were a reference to the participation in payment systems used to provide services in the United Kingdom, and</IndentOne>
+         <IndentOne>(b) in subsection (2)(b) of that section, the reference to the extent to which steps can and should be taken were a reference to the extent to which steps that might include steps under Part 4 of that Act can and should be taken.&#8221;</IndentOne>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Restrictions on exercise of functions under Part 4 of the Enterprise Act 2002</quote>
+         <quote>(1) Before the CMA or the Payment Systems Regulator first exercises any of the concurrent functions in relation to any matter, it must consult the other.</quote>
+         <quote>(2) Neither the CMA nor the Payment Systems Regulator may exercise any of the concurrent functions in relation to any matter if any of those functions have been exercised in relation to that matter by the other.</quote>
+         <quote>(3) In subsections (1) and (2) &#8220;the concurrent functions&#8221; has the same meaning as in section (The Regulator&#8217;s functions under Part 4 of the Enterprise Act 2002The Regulator&#8217;s functions under Part 4 of the Enterprise Act 2002).</quote>
+         <quote>(4) Before the FCA or the Payment Systems Regulator first exercises any of the concurrent functions in relation to any matter, it must consult the other.</quote>
+         <quote>(5) Neither the FCA nor the Payment Systems Regulator may exercise any of the concurrent functions in relation to any matter if any of those functions have been exercised in relation to that matter by the other.</quote>
+         <quote>(6) In subsections (4) and (5) &#8220;the concurrent functions&#8221;&#8212; </quote>
+         <IndentOne>(a) in relation to the Payment Systems Regulator, has the same meaning as in section (The Regulator&#8217;s functions under Part 4 of the The Regulator&#8217;s functions under Part 4 of the Enterprise Act 2002Enterprise Act 2002), and</IndentOne>
+         <IndentOne>(b) in relation to the FCA, means the functions which by virtue of section 234J of FSMA 2000 are concurrent functions of the FCA and the CMA.</IndentOne>
+         <quote>(7) In this section &#8220;the CMA&#8221; means the Competition and Markets Authority.&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;The Regulator&#8217;s functions under the Competition Act 1998</quote>
+         <quote>(1) The functions to which this subsection applies (&#8220;the concurrent functions&#8221;) are to be concurrent functions of the Payment Systems Regulator and the Competition and Markets Authority (&#8220;the CMA&#8221;).</quote>
+         <quote>(2) Subsection (1) applies to the functions of the CMA under the provisions of Part 1 of the Competition Act 1998, so far as relating to any of the following that relate to participation in payment systems&#8212; </quote>
+         <IndentOne>(a) agreements, decisions or concerted practices of the kind mentioned in section 2(1) of that Act,</IndentOne>
+         <IndentOne>(b) conduct of the kind mentioned in section 18(1) of that Act,</IndentOne>
+         <IndentOne>(c) agreements, decisions or concerted practices of the kind mentioned in Article 101(1) of the Treaty on the Functioning of the European Union, and</IndentOne>
+         <IndentOne>(d) conduct which amounts to abuse of the kind mentioned in Article 102 of the Treaty on the Functioning of the European Union.</IndentOne>
+         <quote>(3) But subsection (1) does not apply to functions under the following sections of that Act&#8212;</quote>
+         <IndentOne>(none) section 31D(1) to (6) (duty to publish guidance);</IndentOne>
+         <IndentOne>(none) section 38(1) to (6) (duty to publish guidance about penalties);</IndentOne>
+         <IndentOne>(none) section 40B(1) to (4) (duty to publish statement of policy on penalties);</IndentOne>
+         <IndentOne>(none) section 51 (rules).</IndentOne>
+         <quote>(4) So far as necessary for the purposes of, or in connection with, the provisions of subsections (1) and (2), references to the CMA in Part 1 of the Competition Act 1998 are to be read as including references to the Payment Systems Regulator.</quote>
+         <quote>(5) But subsection (4) does not apply&#8212;</quote>
+         <IndentOne>(a) in relation to sections 31D(1) to (6), 38(1) to (6), 40B(1) to (4), 51, 52(6) and (8) and 54 of that Act, or</IndentOne>
+         <IndentOne>(b) where the context otherwise requires.&#8221;</IndentOne>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Duty to consider exercise of powers under Competition Act 1998</quote>
+         <quote>(1) Before exercising any powers within subsection (2), the Payment Systems Regulator must consider whether it would be more appropriate to proceed under the Competition Act 1998.</quote>
+         <quote>(2) The powers referred to in subsection (1) are&#8212;</quote>
+         <IndentOne>(a) its power to give a direction under section (DirectionsDirections) (apart from the power to give a general direction);</IndentOne>
+         <IndentOne>(b) its power to impose a requirement under section (System rulesSystem rules) (apart from the power to impose a requirement on all operators of regulated payment systems);</IndentOne>
+         <IndentOne>(c) its powers under sections (Power to require access to payment systemsPower to require access to payment systems), (Variation of agreements relating to payment systemsVariation of agreements relating to payment systems) and (Power to Power to require disposal of interest in payment systemrequire disposal of interest in payment system).</IndentOne>
+         <quote>(3) The Payment Systems Regulator must not exercise the power if it considers that it would be more appropriate to proceed under the Competition Act 1998.&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Provision of information and assistance to a CMA group</quote>
+         <quote>(1) For the purpose of assisting a CMA group in carrying out a relevant investigation, the Payment Systems Regulator must give the CMA group&#8212; </quote>
+         <IndentOne>(a) any relevant information which it has in its possession, and</IndentOne>
+         <IndentOne>(b) any other assistance which the CMA group may reasonably require in relation to any matters falling within the scope of the investigation.</IndentOne>
+         <quote>(2) A &#8220;relevant investigation&#8221; is an investigation carried out on a reference made by the Payment Systems Regulator under section 131 of the Enterprise Act 2002 by virtue of section (The Regulator&#8217;s functions under Part The Regulator&#8217;s functions under Part 4 of the Enterprise Act 20024 of the Enterprise Act 2002).</quote>
+         <quote>(3) &#8220;Relevant information&#8221;, in relation to a relevant investigation, is information&#8212; </quote>
+         <IndentOne>(a) which relates to matters falling within the scope of the investigation, and</IndentOne>
+         <IndentOne>(b) which&#8212;</IndentOne>
+         <IndentTwo>(i) is requested by the CMA group for the purpose of the investigation, or</IndentTwo>
+         <IndentTwo>(ii) in the opinion of the Payment Systems Regulator, it would be appropriate to give to the CMA group for that purpose.</IndentTwo>
+         <quote>(4) A CMA group, in carrying out a relevant investigation, must take into account any information given to it under this section.</quote>
+         <quote>(5) In this section &#8220;CMA group&#8221; has the same meaning as in Schedule 4 to the Enterprise and Regulatory Reform Act 2013.&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Information relating to Regulator&#8217;s competition functions</quote>
+         <quote>(1) For the purpose of the functions conferred on it by sections (Power to require Power to require disposal of interest in payment systemdisposal of interest in payment system) to (Provision of information and assistance Provision of information and assistance to a CMA groupto a CMA group) the Payment Systems Regulator is to have the function of keeping under review&#8212;</quote>
+         <IndentOne>(a) the market for payment systems, and</IndentOne>
+         <IndentOne>(b) the markets for services provided by payment systems.</IndentOne>
+         <quote>(2) The function conferred by subsection (1) is to be carried out with a view to (among other things) ensuring that the Payment Systems Regulator has sufficient information to take informed decisions and to carry out its other functions effectively.&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Exclusion of general duties</quote>
+         <quote>(1) Section (Regulator&#8217;s general duties in relation to payment systemsRegulator&#8217;s general duties in relation to payment systems) (the Payment Systems Regulator&#8217;s general duties) does not apply in relation to anything done by the Payment Systems Regulator in the carrying out of its functions by virtue of sections (The Regulator&#8217;s functions under Part 4 of the The Regulator&#8217;s functions under Part 4 of the Enterprise Act 2002Enterprise Act 2002) to (Provision of information and assistance to a CMA Provision of information and assistance to a CMA groupgroup).</quote>
+         <quote>(2) But in the carrying out of any functions by virtue of sections (The The Regulator&#8217;s functions under Part 4 of the Enterprise Act 2002Regulator&#8217;s functions under Part 4 of the Enterprise Act 2002) to (Provision of Provision of information and assistance to a CMA groupinformation and assistance to a CMA group), the Payment Systems Regulator may have regard to any of the matters in respect of which a duty is imposed by section (Regulator&#8217;s general duties in relation to payment systemsRegulator&#8217;s general duties in relation to payment systems) if it is a matter to which the Competition and Markets Authority is entitled to have regard in the carrying out of those functions.&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Supplementary provision</quote>
+         <quote>(1) If any question arises as to whether, by virtue of sections (The Regulator&#8217;s The Regulator&#8217;s functions under Part 4 of the Enterprise Act 2002functions under Part 4 of the Enterprise Act 2002) and (The Regulator&#8217;s functions The Regulator&#8217;s functions under the Competition Act 1998under the Competition Act 1998), any functions fall to be, or are capable of being, carried out by the Payment Systems Regulator in relation to any particular case, that question is to be referred to, and determined by, the Treasury.</quote>
+         <quote>(2) No objection is to be taken to anything done under the Competition Act 1998 or Part 4 of the Enterprise Act 2002 by or in relation to the Payment Systems Regulator on the ground that it should have been done by or in relation to the Competition and Markets Authority.&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Amendments relating to Regulator&#8217;s competition powers</quote>
+         <quote>(1) In section 9E of the Company Directors Disqualification Act 1986 (interpretation of sections 9A to 9D), in subsection (2), after paragraph (f) insert&#8212;</quote>
+         <IndentOne>&#8220;(g) the Payment Systems Regulator established under section (The Payment Systems RegulatorThe Payment Systems Regulator) of the Financial Services (Banking Reform) Act 2013.&#8221;</IndentOne>
+         <quote>(2) In section 54 of the Competition Act 1998 (regulators), in subsection (1), omit the &#8220;and&#8221; at the end of paragraph (g) and after paragraph (h) insert&#8212;</quote>
+         <IndentOne>&#8220;(i) the Payment Systems Regulator established under section (The Payment Systems RegulatorThe Payment Systems Regulator) of the Financial Services (Banking Reform) Act 2013.&#8221;</IndentOne>
+         <quote>(3) In section 136 of the Enterprise Act 2002 (investigations and reports on market investigation references)&#8212;</quote>
+         <IndentOne>(a) in subsection (7), at the end insert&#8212;</IndentOne>
+         <IndentOne>&#8220;(j) in relation to the Payment Systems Regulator, section (The Regulator&#8217;s functions under Part 4 of the The Regulator&#8217;s functions under Part 4 of the Enterprise Act 2002Enterprise Act 2002) of the Financial Services (Banking Reform) Act 2013.&#8221;;</IndentOne>
+         <IndentOne>(b) in subsection (8), for &#8220;or Monitor&#8221; substitute &#8220;, Monitor or the Payment Systems Regulator.&#8221;;</IndentOne>
+         <IndentOne>(c) at the end insert&#8212;</IndentOne>
+         <quote>&#8220;(10) In this section &#8220;the Payment Systems Regulator&#8221; means the body established under section (The Payment Systems The Payment Systems RegulatorRegulator) of the Financial Services (Banking Reform) Act 2013.&#8221;</quote>
+         <quote>(4) In section 52(4) of the Enterprise and Regulatory Reform Act 2013 (power to remove concurrent competition functions of sectoral regulators), after paragraph (f) insert&#8212;</quote>
+         <IndentOne>&#8220;(g) the Payment Systems Regulator established under section (The Payment Systems RegulatorThe Payment Systems Regulator) of the Financial Services (Banking Reform) Act 2013.&#8221;</IndentOne>
+         <quote>(5) In Schedule 4 to the Enterprise and Regulatory Reform Act 2013 (the Competition and Markets Authority), in paragraph 16 (concurrency report), at the end of sub-paragraph (7) insert&#8212;</quote>
+         <IndentOne>&#8220;(h) the Payment Systems Regulator established under section (The Payment Systems RegulatorThe Payment Systems Regulator) of the Financial Services (Banking Reform) Act 2013.&#8221;&#8221;</IndentOne>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Complaints by representative bodies</quote>
+         <quote>(1) A designated representative body may make a complaint to the Payment Systems Regulator that a feature, or combination of features, of a market in the United Kingdom for services provided by payment systems is, or appears to be, significantly damaging the interests of those who use, or are likely to use, those services (&#8220;service-users&#8221;).</quote>
+         <quote>(2) &#8220;Designated representative body&#8221; means a body designated by the Treasury by order.</quote>
+         <quote>(3) The Treasury&#8212;</quote>
+         <IndentOne>(a) may designate a body only if it appears to them to represent the interests of service-users of any description, and</IndentOne>
+         <IndentOne>(b) must publish in such manner as they think fit (and may from time to time vary) criteria to be applied by them in determining whether to make or revoke a designation.</IndentOne>
+         <quote>(4) The reference in subsection (1) to a feature of a market in the United Kingdom for services provided by payment systems is a reference to&#8212;</quote>
+         <IndentOne>(a) the structure of the market concerned or any aspect of that structure,</IndentOne>
+         <IndentOne>(b) any conduct (whether or not in the market concerned) of one or more than one person who supplies or acquires services in the market concerned, or</IndentOne>
+         <IndentOne>(c) any conduct relating to the market concerned of customers of any person who supplies or acquires services,</IndentOne>
+         <IndentOne>and &#8220;conduct&#8221; includes any failure to act (whether or not intentional) and and &#8220;conduct&#8221; includes any failure to act (whether or not intentional) and any other unintentional conduct.any other unintentional conduct.</IndentOne>
+         <quote>(5) In this section &#8220;market in the United Kingdom&#8221; includes a market which operates only in a part of the United Kingdom.</quote>
+         <quote>(6) In section 234C of FSMA 2000 (complaints by consumer bodies), after subsection (1) insert&#8212;</quote>
+         <quote>&#8220;(1A) But a complaint may not be made to the FCA under this section if it is a complaint which could be made to the Payment Systems Regulator by a designated representative body under section (Complaints by representative bodiesComplaints by representative bodies) of the Financial Services (Banking Reform) Act 2013 (complaints by representative bodies).</quote>
+         <IndentOne>&#8220;Designated representative body&#8221; and &#8220;the Payment Systems &#8220;Designated representative body&#8221; and &#8220;the Payment Systems Regulator&#8221; have the same meaning in this subsection as they have Regulator&#8221; have the same meaning in this subsection as they have in that section.&#8221;&#8221;in that section.&#8221;&#8221;</IndentOne>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Response by Regulator</quote>
+         <quote>(1) The Payment Systems Regulator must within 90 days after the day on which it receives a complaint under section (Complaints by representative Complaints by representative bodiesbodies) publish a response stating how it proposes to deal with the complaint, and in particular&#8212;</quote>
+         <IndentOne>(a) whether it has decided to take any action, or to take no action, and</IndentOne>
+         <IndentOne>(b) if it has decided to take action, what action it proposes to take.</IndentOne>
+         <quote>(2) The response must&#8212;</quote>
+         <IndentOne>(a) include a copy of the complaint, and</IndentOne>
+         <IndentOne>(b) state the Payment Systems Regulator&#8217;s reasons for its proposals.</IndentOne>
+         <quote>(3) The Treasury may by order amend subsection (1) by substituting any period for the period for the time being specified there.&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Complaints: guidance</quote>
+         <quote>(1) The guidance given by the Payment Systems Regulator under section (GuidanceGuidance)&#8212;</quote>
+         <IndentOne>(a) must include guidance about the presentation of a reasoned case for a complaint under section (Complaints by representative bodiesComplaints by representative bodies), and</IndentOne>
+         <IndentOne>(b) may include guidance about any other matters that appear to the Payment Systems Regulator to be appropriate for the purposes of that section.</IndentOne>
+         <quote>(2) Guidance given in accordance with subsection (1) is to be treated as general guidance for the purposes of this Part.&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Meaning of &#8220;compliance failure&#8221;</quote>
+         <IndentOne>In this Part &#8220;compliance failure&#8221; means a failure by a participant in a regulated payment system to&#8212;</IndentOne>
+         <IndentOne>(a) comply with a direction given under section (DirectionsDirections), or</IndentOne>
+         <IndentOne>(b) comply with a requirement imposed under section (System rulesSystem rules) or (Power to require access to payment systemsPower to require access to payment systems).&#8221;</IndentOne>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Publication of compliance failures etc</quote>
+         <quote>(1) The Payment Systems Regulator may publish details of a compliance failure by a participant in a regulated payment system.</quote>
+         <quote>(2) The Payment Systems Regulator may publish details of a sanction imposed under section (PenaltiesPenalties).&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Penalties</quote>
+         <quote>(1) The Payment Systems Regulator may require a participant in a regulated payment system to pay a penalty in respect of a compliance failure.</quote>
+         <quote>(2) A penalty&#8212;</quote>
+         <IndentOne>(a) must be paid to the Payment Systems Regulator, and</IndentOne>
+         <IndentOne>(b) may be enforced by the Payment Systems Regulator as a debt.</IndentOne>
+         <quote>(3) The Payment Systems Regulator must prepare a statement of the principles which it will apply in determining&#8212;</quote>
+         <IndentOne>(a) whether to impose a penalty, and</IndentOne>
+         <IndentOne>(b) the amount of a penalty.</IndentOne>
+         <quote>(4) The Payment Systems Regulator must&#8212;</quote>
+         <IndentOne>(a) publish the statement on its website,</IndentOne>
+         <IndentOne>(b) send a copy to the Treasury,</IndentOne>
+         <IndentOne>(c) review the statement from time to time and revise it if necessary (and paragraphs (a) and (b) apply to a revision), and</IndentOne>
+         <IndentOne>(d) in applying the statement to a compliance failure, apply the version in force when the compliance failure occurred.&#8221;</IndentOne>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Warning notices</quote>
+         <quote>(1) Before imposing a sanction on any person the Payment Systems Regulator must&#8212;</quote>
+         <IndentOne>(a) give the person a notice in writing (a &#8220;warning notice&#8221;),</IndentOne>
+         <IndentOne>(b) give the person at least 21 days to make representations,</IndentOne>
+         <IndentOne>(c) consider any representations made, and</IndentOne>
+         <IndentOne>(d) as soon as is reasonably practicable, give the person a notice in writing stating whether or not it intends to impose the sanction.</IndentOne>
+         <quote>(2) In subsection (1) any reference to imposing a sanction is a reference to&#8212;</quote>
+         <IndentOne>(a) publishing details under section (Publication of compliance failures Publication of compliance failures etcetc)(1), or</IndentOne>
+         <IndentOne>(b) requiring the payment of a penalty under section (PenaltiesPenalties).&#8221;</IndentOne>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Injunctions</quote>
+         <quote>(1) If, on the application of the Payment Systems Regulator, the court is satisfied&#8212;</quote>
+         <IndentOne>(a) that there is a reasonable likelihood that there will be a compliance failure, or</IndentOne>
+         <IndentOne>(b) that there has been a compliance failure and there is a reasonable likelihood that it will continue or be repeated,</IndentOne>
+         <IndentOne>the court may make an order restraining the conduct constituting the the court may make an order restraining the conduct constituting the failure.failure.</IndentOne>
+         <quote>(2) If, on the application of the Payment Systems Regulator, the court is satisfied&#8212;</quote>
+         <IndentOne>(a) that there has been a compliance failure by a participant in a regulated payment system, and</IndentOne>
+         <IndentOne>(b) that there are steps which could be taken for remedying the failure,</IndentOne>
+         <IndentOne>the court may make an order requiring the participant, and anyone else the court may make an order requiring the participant, and anyone else who appears to have been knowingly concerned in the failure, to take such who appears to have been knowingly concerned in the failure, to take such steps as the court may direct to remedy it.steps as the court may direct to remedy it.</IndentOne>
+         <quote>(3) If, on the application of the Payment Systems Regulator, the court is satisfied&#8212;</quote>
+         <IndentOne>(a) that there may have been a compliance failure by a participant in a regulated payment system, or</IndentOne>
+         <IndentOne>(b) that a person may have been knowingly concerned in a compliance failure,</IndentOne>
+         <IndentOne>the court may make an order restraining the participant or the person (as the court may make an order restraining the participant or the person (as the case may be) from dealing with any assets which it is satisfied the the case may be) from dealing with any assets which it is satisfied the participant or person is reasonably likely to deal with.participant or person is reasonably likely to deal with.</IndentOne>
+         <quote>(4) The jurisdiction conferred by this section is exercisable&#8212;</quote>
+         <IndentOne>(a) in England and Wales and Northern Ireland, by the High Court, and</IndentOne>
+         <IndentOne>(b) in Scotland, by the Court of Session.</IndentOne>
+         <quote>(5) In this section&#8212;</quote>
+         <IndentOne>(a) references to an order restraining anything are, in Scotland, to be read as references to an interdict prohibiting that thing,</IndentOne>
+         <IndentOne>(b) references to remedying a failure include mitigating its effect, and</IndentOne>
+         <IndentOne>(c) references to dealing with assets include disposing of them.&#8221;</IndentOne>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Appeals: general</quote>
+         <quote>(1) A person who is affected by any of the following decisions of the Payment Systems Regulator may appeal against the decision&#8212; </quote>
+         <IndentOne>(a) a decision to give a direction under section (DirectionsDirections) (other than a general direction),</IndentOne>
+         <IndentOne>(b) a decision to impose a requirement under section (System rulesSystem rules) (other than a requirement imposed on all operators of regulated payment systems),</IndentOne>
+         <IndentOne>(c) a decision to exercise its power under section (Power to require access Power to require access to payment systemsto payment systems), (Variation of agreements relating to payment Variation of agreements relating to payment systemssystems) or (Power to require disposal of interest in payment systemPower to require disposal of interest in payment system),</IndentOne>
+         <IndentOne>(d) a decision to impose a sanction.</IndentOne>
+         <quote>(2) In subsection (1) the reference to imposing a sanction is a reference to&#8212;</quote>
+         <IndentOne>(a) publishing details under section (Publication of compliance failures Publication of compliance failures etcetc)(1), or</IndentOne>
+         <IndentOne>(b) requiring the payment of a penalty under section (PenaltiesPenalties).</IndentOne>
+         <quote>(3) If the decision is a CAT-appealable decision, the appeal must be made to the Competition Appeal Tribunal in accordance with section (Appeals to Appeals to Competition Appeal TribunalCompetition Appeal Tribunal).</quote>
+         <quote>(4) A &#8220;CAT-appealable decision&#8221; means&#8212;</quote>
+         <IndentOne>(a) a decision to give a direction under section (DirectionsDirections),</IndentOne>
+         <IndentOne>(b) a decision to impose a requirement under section (System rulesSystem rules), or</IndentOne>
+         <IndentOne>(c) a decision to publish details under section (Publication of compliance Publication of compliance failures etcfailures etc)(1).</IndentOne>
+         <quote>(5) If the decision is a decision to impose a penalty on the person under section (PenaltiesPenalties), the appeal must be made to the Competition Appeal Tribunal in accordance with section (Appeals in relation to penaltiesAppeals in relation to penalties).</quote>
+         <quote>(6) If the decision is a CMA-appealable decision, the appeal must be made to the Competition and Markets Authority (&#8220;the CMA&#8221;) in accordance with section (Appeals to Competition and Markets AuthorityAppeals to Competition and Markets Authority).</quote>
+         <quote>(7) A &#8220;CMA-appealable decision&#8221; means&#8212;</quote>
+         <IndentOne>(a) a decision to impose a requirement under section (Power to require Power to require access to payment systemsaccess to payment systems),</IndentOne>
+         <IndentOne>(b) a decision to vary an agreement under section (Variation of Variation of agreements relating to payment systemsagreements relating to payment systems), or</IndentOne>
+         <IndentOne>(c) a decision to impose a requirement under section (Power to require Power to require disposal of interest in payment systemdisposal of interest in payment system).</IndentOne>
+         <quote>(8) The permission of the CMA is required for an appeal to be made in accordance with section (Appeals to Competition and Markets AuthorityAppeals to Competition and Markets Authority).</quote>
+         <quote>(9) The CMA may refuse permission for an appeal only if&#8212;</quote>
+         <IndentOne>(a) the appeal is made for reasons that are trivial or vexatious, or</IndentOne>
+         <IndentOne>(b) the appeal has no reasonable prospect of success.&#8221;</IndentOne>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Appeals to Competition Appeal Tribunal</quote>
+         <quote>(1) This section applies where a person is appealing to the Competition Appeal Tribunal (&#8220;the Tribunal&#8221;) against a CAT-appealable decision.</quote>
+         <quote>(2) The means of making an appeal is by sending the Tribunal a notice of appeal in accordance with Tribunal rules.</quote>
+         <quote>(3) The notice of appeal must be sent within the period specified, in relation to the decision appealed against, in those rules.</quote>
+         <quote>(4) In determining an appeal made in accordance with this section, the Tribunal must apply the same principles as would be applied by a court on an application for judicial review.</quote>
+         <quote>(5) The Tribunal must either&#8212;</quote>
+         <IndentOne>(a) dismiss the appeal, or</IndentOne>
+         <IndentOne>(b) quash the whole or part of the decision to which the appeal relates.</IndentOne>
+         <quote>(6) If the Tribunal quashes the whole or part of a decision, it may refer the matter back to the Payment Systems Regulator with a direction to reconsider and make a new decision in accordance with its ruling.</quote>
+         <quote>(7) The Tribunal may not direct the Payment Systems Regulator to take any action which it would not otherwise have the power to take in relation to the decision.</quote>
+         <quote>(8) The effect of a decision to publish details under section (Publication of Publication of compliance failures etccompliance failures etc)(1) is suspended by the making of an appeal against the decision (and the details may not be published until the appeal has been determined).</quote>
+         <quote>(9) The effect of any other CAT-appealable decision is not suspended by the making of an appeal against the decision.</quote>
+         <quote>(10) In this section and section (Appeals in relation to penaltiesAppeals in relation to penalties) &#8220;Tribunal rules&#8221; means rules under section 15 of the Enterprise Act 2002.&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Appeals in relation to penalties</quote>
+         <quote>(1) This section applies where a person is appealing to the Competition Appeal Tribunal (&#8220;the Tribunal&#8221;) against a decision to impose a penalty under section (PenaltiesPenalties).</quote>
+         <quote>(2) The person may appeal against&#8212;</quote>
+         <IndentOne>(a) the imposition of the penalty,</IndentOne>
+         <IndentOne>(b) the amount of the penalty, or</IndentOne>
+         <IndentOne>(c) any date by which the penalty, or any part of it, is required to be paid.</IndentOne>
+         <quote>(3) The means of making an appeal is by sending the Tribunal a notice of appeal in accordance with Tribunal rules.</quote>
+         <quote>(4) The notice of appeal must be sent within the period specified, in relation to the decision appealed against, in those rules.</quote>
+         <quote>(5) The Tribunal may do any of the following&#8212;</quote>
+         <IndentOne>(a) uphold the penalty;</IndentOne>
+         <IndentOne>(b) set aside the penalty;</IndentOne>
+         <IndentOne>(c) substitute for the penalty a penalty of an amount decided by the Tribunal;</IndentOne>
+         <IndentOne>(d) vary any date by which the penalty, or any part of it, is required to be paid.</IndentOne>
+         <quote>(6) If an appeal is made in accordance with this section, the penalty is not required to be paid until the appeal has been determined.</quote>
+         <quote>(7) Subsections (2), (5) and (6) do not restrict the power to make Tribunal rules; and those subsections are subject to Tribunal rules.</quote>
+         <quote>(8) Except as provided by this section, the validity of the penalty may not be questioned by any legal proceedings whatever.</quote>
+         <quote>(9) In the case of an appeal made in accordance with this section, a decision of the Tribunal has the same effect as, and may be enforced in the same manner as, a decision of the Payment Systems Regulator.&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Appeals to Competition and Markets Authority</quote>
+         <quote>(1) This section applies where a person is appealing to the Competition and Markets Authority (&#8220;the CMA&#8221;) against a CMA-appealable decision.</quote>
+         <quote>(2) In determining the appeal the CMA must have regard, to the same extent as is required of the Payment Systems Regulator, to the matters to which the Payment Systems Regulator must have regard in discharging its functions under this Part.</quote>
+         <quote>(3) In determining the appeal the CMA&#8212;</quote>
+         <IndentOne>(a) may have regard to any matter to which the Payment Systems Regulator was not able to have regard in relation to the decision, but</IndentOne>
+         <IndentOne>(b) must not, in the exercise of that power, have regard to any matter to which the Payment Systems Regulator would not have been entitled to have regard in reaching its decision had it had the opportunity of doing so.</IndentOne>
+         <quote>(4) The CMA must either&#8212;</quote>
+         <IndentOne>(a) dismiss the appeal, or</IndentOne>
+         <IndentOne>(b) quash the whole or part of the decision to which the appeal relates.</IndentOne>
+         <quote>(5) The CMA may act as mentioned in subsection (4)(b) only to the extent that it is satisfied that the decision was wrong on one or more of the following grounds&#8212;</quote>
+         <IndentOne>(a) that the Payment Systems Regulator failed properly to have regard to any matter mentioned in subsection (2);</IndentOne>
+         <IndentOne>(b) that the Payment Systems Regulator failed to give the appropriate weight to any matter mentioned in subsection (2);</IndentOne>
+         <IndentOne>(c) that the decision was based, wholly or partly, on an error of fact;</IndentOne>
+         <IndentOne>(d) that the decision was wrong in law.</IndentOne>
+         <quote>(6) If the CMA quashes the whole or part of a decision, it may either&#8212;</quote>
+         <IndentOne>(a) refer the matter back to the Payment Systems Regulator with a direction to reconsider and make a new decision in accordance with its ruling, or</IndentOne>
+         <IndentOne>(b) substitute its own decision for that of the Payment Systems Regulator.</IndentOne>
+         <quote>(7) The CMA may not direct the Payment Systems Regulator to take any action which it would not otherwise have the power to take in relation to the decision.</quote>
+         <quote>(8) Schedule (Procedure for appeals to the CMAProcedure for appeals to the CMA) contains further provision about the making of appeals in accordance with this section.&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Enforcement of requirement to dispose of interest in payment system</quote>
+         <quote>(1) A requirement imposed under section (Power to require disposal of interest in Power to require disposal of interest in payment systempayment system) is enforceable by civil proceedings brought by the Payment Systems Regulator for an injunction or for interdict or for any other appropriate relief or remedy.</quote>
+         <quote>(2) Civil proceedings may not be brought to enforce a requirement imposed under that section unless&#8212;</quote>
+         <IndentOne>(a) the time for bringing an appeal against the decision to impose the requirement has expired and no appeal has been brought within that time, or</IndentOne>
+         <IndentOne>(b) the person on whom the requirement was imposed has within that time brought such an appeal and the appeal has been dismissed or withdrawn.&#8221;</IndentOne>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Power to obtain information or documents</quote>
+         <quote>(1) The Payment Systems Regulator may by notice in writing require a person to provide information or documents&#8212;</quote>
+         <IndentOne>(a) which the Payment Systems Regulator thinks will help the Treasury in determining whether to make a designation order, or</IndentOne>
+         <IndentOne>(b) which the Payment Systems Regulator otherwise requires in connection with its functions under this Part.</IndentOne>
+         <quote>(2) In particular, a notice under subsection (1) may require a participant in a regulated payment system to notify the Payment Systems Regulator if events of a specified kind occur.</quote>
+         <quote>(3) A notice under subsection (1) may require information or documents to be provided&#8212;</quote>
+         <IndentOne>(a) in a specified form or manner;</IndentOne>
+         <IndentOne>(b) at a specified time;</IndentOne>
+         <IndentOne>(c) in respect of a specified period.</IndentOne>
+         <quote>(4) The Payment Systems Regulator may disclose information obtained by virtue of this section to&#8212;</quote>
+         <IndentOne>(a) the Treasury;</IndentOne>
+         <IndentOne>(b) the Bank of England;</IndentOne>
+         <IndentOne>(c) the FCA;</IndentOne>
+         <IndentOne>(d) the PRA;</IndentOne>
+         <IndentOne>(e) the Office of Communications;</IndentOne>
+         <IndentOne>(f) an authority in a country or territory outside the United Kingdom that exercises functions similar to those of the Treasury, the Bank of England, the FCA, the PRA or the Payment Systems Regulator in relation to payment systems;</IndentOne>
+         <IndentOne>(g) the European Commission;</IndentOne>
+         <IndentOne>(h) the European Central Bank;</IndentOne>
+         <IndentOne>(i) the Bank for International Settlements.</IndentOne>
+         <quote>(5) Subsection (4)&#8212;</quote>
+         <IndentOne>(a) overrides any requirement to keep information in confidence, and</IndentOne>
+         <IndentOne>(b) is without prejudice to any other power to disclose information.</IndentOne>
+         <quote>(6) The Treasury may by regulations permit the disclosure of information obtained by virtue of this section to a specified person.</quote>
+         <quote>(7) The Payment Systems Regulator may publish information obtained by virtue of this section.</quote>
+         <quote>(8) The Treasury may make regulations about the manner and extent of publication under subsection (7).</quote>
+         <quote>(9) In subsection (4)(f) the reference to payment systems is to be read as if subsection (2)(b) of section (Meaning of &#8220;payment system&#8221;Meaning of &#8220;payment system&#8221;) were omitted.&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Reports by skilled persons</quote>
+         <quote>(1) The Payment Systems Regulator may&#8212;</quote>
+         <IndentOne>(a) require a person who is a participant in a regulated payment system (&#8220;the relevant participant&#8221;) to provide the Payment Systems Regulator with a report on any matter relating to the system (&#8220;the matter concerned&#8221;), or</IndentOne>
+         <IndentOne>(b) appoint a person to provide the Payment Systems Regulator with a report on the matter concerned.</IndentOne>
+         <quote>(2) The power conferred by subsection (1)(a) is exercisable by giving the relevant participant a notice in writing.</quote>
+         <quote>(3) When acting under subsection (1)(a), the Payment Systems Regulator may require the report to be in a form specified in the notice.</quote>
+         <quote>(4) The Payment Systems Regulator must give written notice of an appointment under subsection (1)(b) to the relevant participant.</quote>
+         <quote>(5) A person appointed to make a report under this section&#8212;</quote>
+         <IndentOne>(a) must be a person appearing to the Payment Systems Regulator to have the skills necessary to make a report on the matter concerned, and</IndentOne>
+         <IndentOne>(b) where the appointment is to be made by the relevant participant, must be a person nominated or approved by the Payment Systems Regulator.</IndentOne>
+         <quote>(6) It is the duty of&#8212;</quote>
+         <IndentOne>(a) the relevant participant, and</IndentOne>
+         <IndentOne>(b) any person who is providing (or who has at any time provided) services to the relevant participant in relation to the matter concerned,</IndentOne>
+         <IndentOne>to give the person appointed to prepare a report all such assistance as the to give the person appointed to prepare a report all such assistance as the appointed person may reasonably require.appointed person may reasonably require.</IndentOne>
+         <quote>(7) The obligation imposed by subsection (6) is enforceable, on the application of the Payment Systems Regulator, by an injunction or, in Scotland, by an order for specific performance under section 45 of the Court of Session Act 1988.</quote>
+         <quote>(8) The Payment Systems Regulator may direct the relevant participant to pay any expenses incurred by the Payment Systems Regulator in relation to an appointment under subsection (1)(b).&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Appointment of persons to conduct investigations</quote>
+         <quote>(1) If it considers that it is desirable to do so in order to advance any of its payment systems objectives, the Payment Systems Regulator may appoint one or more competent persons to conduct an investigation on its behalf into the nature, conduct or state of the business of any participant in a regulated payment system.</quote>
+         <quote>(2) If it appears to the Payment Systems Regulator that there are circumstances suggesting that there may have been a compliance failure, the Payment Systems Regulator may appoint one or more competent persons to conduct an investigation on its behalf.&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Investigations: general</quote>
+         <quote>(1) This section applies if the Payment Systems Regulator appoints one or more competent persons (&#8220;investigators&#8221;) under section (Appointment of Appointment of persons to conduct investigationspersons to conduct investigations) to conduct an investigation on its behalf.</quote>
+         <quote>(2) The Payment Systems Regulator must give written notice of the appointment of an investigator to the person who is the subject of the investigation.</quote>
+         <quote>(3) Subsections (2) and (9) do not apply if&#8212; </quote>
+         <IndentOne>(a) the Payment Systems Regulator believes that the notice required by subsection (2) or (9) would be likely to result in the investigation being frustrated, or</IndentOne>
+         <IndentOne>(b) the investigator is appointed under subsection (2) of section (Appointment of persons to conduct investigationsAppointment of persons to conduct investigations).</IndentOne>
+         <quote>(4) A notice under subsection (2) must&#8212; </quote>
+         <IndentOne>(a) specify the provision under which the investigator was appointed, and</IndentOne>
+         <IndentOne>(b) state the reason for the appointment.</IndentOne>
+         <quote>(5) Nothing prevents the Payment Systems Regulator from appointing as an investigator&#8212;</quote>
+         <IndentOne>(a) a member of its staff, or</IndentOne>
+         <IndentOne>(b) a member of staff of the FCA.</IndentOne>
+         <quote>(6) An investigator who conducts an investigation must make a report of the investigation to the Payment Systems Regulator.</quote>
+         <quote>(7) The Payment Systems Regulator may, by a direction to an investigator, control&#8212; </quote>
+         <IndentOne>(a) the scope of the investigation,</IndentOne>
+         <IndentOne>(b) the period during which the investigation is to be conducted,</IndentOne>
+         <IndentOne>(c) the conduct of the investigation, and</IndentOne>
+         <IndentOne>(d) the reporting of the investigation.</IndentOne>
+         <quote>(8) A direction may, in particular&#8212; </quote>
+         <IndentOne>(a) confine the investigation to particular matters;</IndentOne>
+         <IndentOne>(b) extend the investigation to additional matters;</IndentOne>
+         <IndentOne>(c) require the investigator to discontinue the investigation or to take only those steps that are specified in the direction;</IndentOne>
+         <IndentOne>(d) require the investigator to make such interim reports as are so specified.</IndentOne>
+         <quote>(9) If there is a change in the scope or conduct of the investigation and, in the opinion of the Payment Systems Regulator, the person who is the subject of the investigation is likely to be significantly prejudiced by not being made aware of it, that person must be given written notice of the change.&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Powers of persons appointed under section (Appointment of persons to conduct investigations)</quote>
+         <quote>(1) An investigator may require any person within subsection (2) &#8212; </quote>
+         <IndentOne>(a) to attend before the investigator at a specified time and place and answer questions, or</IndentOne>
+         <IndentOne>(b) otherwise to provide any information which the investigator requires.</IndentOne>
+         <quote>(2) The persons referred to in subsection (1) are&#8212;</quote>
+         <IndentOne>(a) the person who is the subject of the investigation (&#8220;the person under investigation&#8221;);</IndentOne>
+         <IndentOne>(b) any person connected with the person under investigation;</IndentOne>
+         <IndentOne>(c) in the case of an investigation into whether there has been a compliance failure, any person who in the investigator&#8217;s opinion is or may be able to give information which is or may be relevant to the investigation.</IndentOne>
+         <quote>(3) An investigator may also require any person to produce at a specified time and place any specified documents or documents of a specified description.</quote>
+         <quote>(4) A requirement under subsection (1) or (3) may be imposed only so far as the investigator concerned reasonably considers the question, provision of information or production of the document to be relevant to the purposes of the investigation.</quote>
+         <quote>(5) In the case of an investigation into whether there has been a compliance failure, the investigator may also require any person falling within subsection (2)(c) to give the investigator all assistance in connection with the investigation which the person is reasonably able to give.</quote>
+         <quote>(6) For the purposes of this section, a person is connected with the person under investigation (&#8220;A&#8221;) if the person is or has at any relevant time been&#8212; </quote>
+         <IndentOne>(a) a member of A&#8217;s group,</IndentOne>
+         <IndentOne>(b) a controller of A, or</IndentOne>
+         <IndentOne>(c) a partnership of which A is a member.</IndentOne>
+         <quote>(7) In this section&#8212;</quote>
+         <quote>&#8220;controller&#8221; has the same meaning as in FSMA 2000 (see section 422 of that Act);</quote>
+         <quote>&#8220;group&#8221; has the same meaning as in FSMA 2000 (see section 421 of that Act);</quote>
+         <quote>&#8220;investigator&#8221; means a person conducting an investigation under section (Appointment of persons to conduct investigationsAppointment of persons to conduct investigations);</quote>
+         <quote>&#8220;specified&#8221; means specified in a notice in writing.&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Information and documents: supplemental provisions</quote>
+         <quote>(1) In this section &#8220;relevant document&#8221; means a document produced in response to a requirement imposed under section (Power to obtain Power to obtain information or documentsinformation or documents) or (Powers of persons appointed under section Powers of persons appointed under section (Appointment of persons to conduct investigations)(Appointment of persons to conduct investigations)).</quote>
+         <quote>(2) In a case where&#8212; </quote>
+         <IndentOne>(a) the Payment Systems Regulator has power under section (Power to Power to obtain information or documentsobtain information or documents), or an investigator has power under section (Powers of persons appointed under section (Appointment of Powers of persons appointed under section (Appointment of persons to conduct investigations)persons to conduct investigations)), to require a person to produce a document, but</IndentOne>
+         <IndentOne>(b) it appears that the document is in the possession of another person,</IndentOne>
+         <IndentOne>the power may be exercised in relation to that other person.the power may be exercised in relation to that other person.</IndentOne>
+         <quote>(3) Any person to whom a relevant document is produced may&#8212; </quote>
+         <IndentOne>(a) take copies or extracts from the document, or</IndentOne>
+         <IndentOne>(b) require the person producing the document, or any relevant person (see subsection (4)), to provide an explanation of the document.</IndentOne>
+         <quote>(4) &#8220;Relevant person&#8221;, in relation to a person who is required to produce a document, means a person who&#8212; </quote>
+         <IndentOne>(a) has been or is or is proposed to be a director or controller of that person,</IndentOne>
+         <IndentOne>(b) has been or is an auditor of that person,</IndentOne>
+         <IndentOne>(c) has been or is an actuary, accountant or lawyer appointed or instructed by that person, or</IndentOne>
+         <IndentOne>(d) has been or is an employee of that person.</IndentOne>
+         <quote>(5) A relevant document may be retained for so long as the person to whom it is produced considers that it is necessary to retain it (rather than copies of it) for the purposes for which the document was requested.</quote>
+         <quote>(6) If the person to whom a relevant document is produced has reasonable grounds for believing&#8212; </quote>
+         <IndentOne>(a) that the document may have to be produced for the purposes of any legal proceedings, and</IndentOne>
+         <IndentOne>(b) that it might otherwise be unavailable for those purposes,</IndentOne>
+         <IndentOne>it may be retained until the proceedings are concluded.it may be retained until the proceedings are concluded.</IndentOne>
+         <quote>(7) If a person who is required under section (Power to obtain information or Power to obtain information or documentsdocuments) or (Powers of persons appointed under section (Appointment of Powers of persons appointed under section (Appointment of persons to conduct investigations)persons to conduct investigations)) to produce a document fails to do so, the Payment Systems Regulator or an investigator may require the person to state, to the best of the person&#8217;s knowledge and belief, where the document is.</quote>
+         <quote>(8) A lawyer may be required under section (Power to obtain information or Power to obtain information or documentsdocuments), (Powers of persons appointed under section (Appointment of persons Powers of persons appointed under section (Appointment of persons to conduct investigations)to conduct investigations)) or this section to provide the name and address of a client.</quote>
+         <quote>(9) A person may not be required under section (Power to obtain information or Power to obtain information or documentsdocuments), (Powers of persons appointed under section (Appointment of persons Powers of persons appointed under section (Appointment of persons to conduct investigations)to conduct investigations)) or this section to disclose information or produce a document in respect of which the person owes an obligation of confidence as a result of carrying on the business of banking unless&#8212; </quote>
+         <IndentOne>(a) the person is the person under investigation or a member of that person&#8217;s group;</IndentOne>
+         <IndentOne>(b) the person to whom the obligation of confidence is owed is the person under investigation or a member of that person&#8217;s group;</IndentOne>
+         <IndentOne>(c) the person to whom the obligation of confidence is owed consents to the disclosure or production, or</IndentOne>
+         <IndentOne>(d) the imposing on the person of a requirement with respect to such information or document has been specifically authorised by the Payment Systems Regulator.</IndentOne>
+         <quote>(10) If a person claims a lien on a document, its production under section (Power Power to obtain information or documentsto obtain information or documents) or (Powers of persons appointed under Powers of persons appointed under section (Appointment of persons to conduct investigations)section (Appointment of persons to conduct investigations)) does not affect the lien.</quote>
+         <quote>(11) In this section&#8212;</quote>
+         <quote>&#8220;controller&#8221; has the same meaning as in FSMA 2000 (see section 422 of that Act);</quote>
+         <quote>&#8220;group&#8221; has the same meaning as in FSMA 2000 (see section 421 of that Act);</quote>
+         <quote>&#8220;investigator&#8221; means a person appointed under section (Appointment Appointment of persons to conduct investigationsof persons to conduct investigations).&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Admissibility of statements made to investigators</quote>
+         <quote>(1) A statement made to an investigator by a person in compliance with an information requirement is admissible in evidence in any proceedings, so long as it also complies with any requirements governing the admissibility of evidence in the circumstances in question.</quote>
+         <quote>(2) But in criminal proceedings in which that person is charged with an offence to which this subsection applies&#8212;</quote>
+         <IndentOne>(a) no evidence relating to the statement may be adduced by or on behalf of the prosecution, and</IndentOne>
+         <IndentOne>(b) no question relating to the statement may be asked by or on behalf of the prosecution,</IndentOne>
+         <IndentOne>unless evidence relating to the statement is adduced, or a question relating unless evidence relating to the statement is adduced, or a question relating to it is asked, in the proceedings by or on behalf of that person.to it is asked, in the proceedings by or on behalf of that person.</IndentOne>
+         <quote>(3) Subsection (2) applies to any offence other than&#8212; </quote>
+         <IndentOne>(a) an offence under section (Enforcement of information and investigation Enforcement of information and investigation powerspowers)(6);</IndentOne>
+         <IndentOne>(b) an offence under section 5 of the Perjury Act 1911 (false statements made otherwise than on oath);</IndentOne>
+         <IndentOne>(c) an offence under section 44(2) of the Criminal Law (Consolidation) (Scotland) Act 1995 (false statements made otherwise than on oath);</IndentOne>
+         <IndentOne>(d) an offence under Article 10 of the Perjury (Northern Ireland) Order 1979.</IndentOne>
+         <quote>(4) In this section&#8212;</quote>
+         <quote>&#8220;information requirement&#8221; means a requirement imposed by an investigator under section (Powers of persons appointed under section Powers of persons appointed under section (Appointment of persons to conduct investigations)(Appointment of persons to conduct investigations)) or (Information and Information and documents: supplemental provisionsdocuments: supplemental provisions);</quote>
+         <quote>&#8220;investigator&#8221; means a person appointed under section (Appointment Appointment of persons to conduct investigationsof persons to conduct investigations).&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Entry of premises under warrant</quote>
+         <quote>(1) A justice of the peace may issue a warrant under this section if satisfied on information on oath given by or on behalf of the Payment Systems Regulator or an investigator that there are reasonable grounds for believing that the first or second set of conditions is satisfied.</quote>
+         <quote>(2) The first set of conditions is&#8212;</quote>
+         <IndentOne>(a) that a person on whom an information requirement has been imposed has failed (wholly or in part) to comply with it, and</IndentOne>
+         <IndentOne>(b) that on the premises specified in the warrant&#8212; </IndentOne>
+         <IndentTwo>(i) there are documents which have been required, or</IndentTwo>
+         <IndentTwo>(ii) there is information which has been required.</IndentTwo>
+         <quote>(3) In this section &#8220;information requirement&#8221; means&#8212; </quote>
+         <IndentOne>(a) a requirement imposed by the Payment Systems Regulator under section (Power to obtain information or documentsPower to obtain information or documents) or (Information and Information and documents: supplemental provisiondocuments: supplemental provision), or</IndentOne>
+         <IndentOne>(b) a requirement imposed by an investigator under section (Powers of Powers of persons appointed under section (Appointment of persons to conduct persons appointed under section (Appointment of persons to conduct investigations)investigations)) or (Information and documents: supplemental Information and documents: supplemental provisionsprovisions).</IndentOne>
+         <quote>(4) The second set of conditions is&#8212; </quote>
+         <IndentOne>(a) that the premises specified in the warrant are premises of a participant in a regulated payment system,</IndentOne>
+         <IndentOne>(b) that there are on the premises documents or information in relation to which an information requirement could be imposed, and</IndentOne>
+         <IndentOne>(c) that if such a requirement were to be imposed&#8212; </IndentOne>
+         <IndentTwo>(i) it would not be complied with, or</IndentTwo>
+         <IndentTwo>(ii) the documents or information to which it related would be removed, tampered with or destroyed.</IndentTwo>
+         <quote>(5) A warrant under this section authorises a constable&#8212;</quote>
+         <IndentOne>(a) to enter the premises specified in the warrant,</IndentOne>
+         <IndentOne>(b) to search the premises and take possession of any documents or information appearing to be documents or information of a kind in respect of which a warrant under this section was issued (&#8220;the relevant kind&#8221;) or to take, in relation to any such documents or information, any other steps which may appear to be necessary for preserving them or preventing interference with them,</IndentOne>
+         <IndentOne>(c) to take copies of, or extracts from, any documents or information appearing to be of the relevant kind,</IndentOne>
+         <IndentOne>(d) to require any person on the premises to provide an explanation of any document or information appearing to be of the relevant kind or to state where it may be found, and</IndentOne>
+         <IndentOne>(e) to use such force as may be reasonably necessary.</IndentOne>
+         <quote>(6) A warrant under this section may be executed by any constable.</quote>
+         <quote>(7) The warrant may authorise persons to accompany any constable who is executing it.</quote>
+         <quote>(8) The powers in subsection (5) may be exercised by a person who&#8212;</quote>
+         <IndentOne>(a) is authorised by the warrant to accompany a constable, and</IndentOne>
+         <IndentOne>(b) exercises those powers in the company of, and under the supervision of, a constable.</IndentOne>
+         <quote>(9) In England and Wales, sections 15(5) to (8) and 16(3) to (12) of the Police and Criminal Evidence Act 1984 (execution of search warrants and safeguards) apply to warrants issued under this section.</quote>
+         <quote>(10) In Northern Ireland, Articles 17(5) to (8) and 18(3) to (12) of the Police and Criminal Evidence (Northern Ireland) Order 1989 apply to warrants issued under this section.</quote>
+         <quote>(11) This section has effect in relation to Scotland as if&#8212; </quote>
+         <IndentOne>(a) for any reference to a justice of the peace there were substituted a reference to a justice of the peace or a sheriff, and</IndentOne>
+         <IndentOne>(b) for any reference to information on oath there were substituted a reference to evidence on oath.</IndentOne>
+         <quote>(12) In this section &#8220;investigator&#8221; means a person appointed under section (Appointment of persons to conduct investigationsAppointment of persons to conduct investigations).&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Retention of documents taken under section (Entry of premises under warrant)</quote>
+         <quote>(1) Any document of which possession is taken under section (Entry of premises Entry of premises under warrantunder warrant) (&#8220;a seized document&#8221;) may be retained so long as it is necessary to retain it (rather than copies of it) in the circumstances.</quote>
+         <quote>(2) A person claiming to be the owner of a seized document may apply to a magistrates&#8217; court or (in Scotland) the sheriff for an order for the delivery of the document to the person appearing to the court or sheriff to be the owner.</quote>
+         <quote>(3) If on an application under subsection (2) the court or (in Scotland) the sheriff cannot ascertain who is the owner of the seized document the court or sheriff (as the case may be) may make such order as the court or sheriff thinks fit.</quote>
+         <quote>(4) An order under subsection (2) or (3) does not affect the right of any person to take legal proceedings against any person in possession of a seized document for the recovery of the document.</quote>
+         <quote>(5) Any right to bring proceedings (as described in subsection (4)) may only be exercised within 6 months of the date of the order made under subsection (2) or (3).&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Enforcement of information and investigation powers</quote>
+         <quote>(1) If a person other than an investigator (&#8220;the defaulter&#8221;) fails to comply with a requirement imposed under any of sections (Power to obtain information or Power to obtain information or documentsdocuments) to (Entry of premises under warrantEntry of premises under warrant), the person imposing the requirement may certify that fact in writing to the court.</quote>
+         <quote>(2) If the court is satisfied that the defaulter failed without reasonable excuse to comply with the requirement, it may deal with the defaulter (and in the case of a body corporate, any director or other officer of the body) as if that person were in contempt.</quote>
+         <quote>(3) In subsection (2) &#8220;officer&#8221;, in relation to a limited liability partnership, means a member of the limited liability partnership.</quote>
+         <quote>(4) A person who knows or suspects that an investigation is being or is likely to be conducted under section (Appointment of persons to conduct Appointment of persons to conduct investigationsinvestigations) is guilty of an offence if the person&#8212;</quote>
+         <IndentOne>(a) falsifies, conceals, destroys or otherwise disposes of a document which the person knows or suspects is or would be relevant to such an investigation, or</IndentOne>
+         <IndentOne>(b) causes or permits the falsification, concealment, destruction or disposal of such a document.</IndentOne>
+         <quote>(5) It is a defence for a person charged with an offence under subsection (4) to show that the person had no intention of concealing facts disclosed by the documents from the investigator.</quote>
+         <quote>(6) A person is guilty of an offence if the person, in purported compliance with a requirement imposed under any of sections (Power to obtain information or Power to obtain information or documentsdocuments) to (Entry of premises under warrantEntry of premises under warrant)&#8212; </quote>
+         <IndentOne>(a) provides information which the person knows to be false or misleading in a material particular, or</IndentOne>
+         <IndentOne>(b) recklessly provides information which is false or misleading in a material particular.</IndentOne>
+         <quote>(7) A person guilty of an offence under subsection (4) or (6) is liable&#8212; </quote>
+         <IndentOne>(a) on summary conviction&#8212; </IndentOne>
+         <IndentTwo>(i) in England and Wales, to imprisonment for a term not exceeding 12 months (or 6 months, if the offence was committed before the commencement of section 154(1) of the Criminal Justice Act 2003) or a fine, or both;</IndentTwo>
+         <IndentTwo>(ii) in Scotland, to imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum, or both;</IndentTwo>
+         <IndentTwo>(iii) in Northern Ireland, to imprisonment for a term not exceeding 6 months or a fine not exceeding the statutory maximum, or both;</IndentTwo>
+         <IndentOne>(b) on conviction on indictment, to imprisonment for a term not exceeding 2 years or a fine, or both.</IndentOne>
+         <quote>(8) Any person who intentionally obstructs the exercise of any rights conferred by a warrant under section (Entry of premises under warrantEntry of premises under warrant) is guilty of an offence and liable on summary conviction&#8212; </quote>
+         <IndentOne>(a) in England and Wales, to imprisonment for a term not exceeding 51 weeks (or 3 months, if the offence was committed before the commencement of section 280(2) of the Criminal Justice Act 2003) or a fine, or both;</IndentOne>
+         <IndentOne>(b) in Scotland, to imprisonment for a term not exceeding 3 months or a fine not exceeding level 5 on the standard scale, or both;</IndentOne>
+         <IndentOne>(c) in Northern Ireland, to imprisonment for a term not exceeding 3 months or a fine not exceeding level 5 on the standard scale, or both.</IndentOne>
+         <quote>(9) In this section&#8212; </quote>
+         <quote>&#8220;court&#8221; means the High Court or, in Scotland, the Court of Session;</quote>
+         <quote>&#8220;investigator&#8221; means a person appointed under section (Appointment Appointment of persons to conduct investigationsof persons to conduct investigations).&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Guidance</quote>
+         <quote>(1) The Payment Systems Regulator may give guidance consisting of such information and advice as it considers appropriate&#8212;</quote>
+         <IndentOne>(a) with respect to the operation of specified provisions of this Part;</IndentOne>
+         <IndentOne>(b) with respect to any other matter relating to its functions under this Part;</IndentOne>
+         <IndentOne>(c) with respect to any other matters about which it appears to the Payment Systems Regulator to be desirable to give information or advice.</IndentOne>
+         <quote>(2) Guidance given by the Payment Systems Regulator under this section must include guidance about how it intends to advance its payment systems objectives in discharging its functions under this Part in relation to different categories of payment system or participants in payment systems.</quote>
+         <quote>(3) In this Part &#8220;general guidance&#8221; means guidance given by the Payment Systems Regulator under this section which&#8212;</quote>
+         <IndentOne>(a) is given&#8212; </IndentOne>
+         <IndentTwo>(i) to persons generally,</IndentTwo>
+         <IndentTwo>(ii) to participants in payment systems, or regulated payment systems, generally, or</IndentTwo>
+         <IndentTwo>(iii) to a class of participant in a payment system or regulated payment system,</IndentTwo>
+         <IndentOne>(b) is intended to have continuing effect, and</IndentOne>
+         <IndentOne>(c) is given in writing or other legible form.</IndentOne>
+         <quote>(4) The Payment Systems Regulator may give financial or other assistance to persons giving information or advice of a kind which the Payment Systems Regulator could give under this section.</quote>
+         <quote>(5) The Payment Systems Regulator may&#8212;</quote>
+         <IndentOne>(a) publish its guidance,</IndentOne>
+         <IndentOne>(b) offer copies of its published guidance for sale at a reasonable price, and</IndentOne>
+         <IndentOne>(c) if it gives guidance in response to a request made by any person, make a reasonable charge for that guidance.&#8221;</IndentOne>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Reports</quote>
+         <quote>(none) If it considers that it is desirable to do so in order to advance any of its payment systems objectives, the Payment Systems Regulator may prepare and publish a report into any matter which it considers relevant to the exercise of its functions under this Part.&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Duty of regulators to ensure co-ordinated exercise of functions</quote>
+         <quote>(1) The following are regulators for the purposes of this section&#8212;</quote>
+         <IndentOne>(a) the Payment Systems Regulator;</IndentOne>
+         <IndentOne>(b) the Bank of England;</IndentOne>
+         <IndentOne>(c) the FCA;</IndentOne>
+         <IndentOne>(d) the PRA.</IndentOne>
+         <quote>(2) The regulators must co-ordinate the exercise of their relevant functions (see subsection (5)) with a view to ensuring&#8212;</quote>
+         <IndentOne>(a) that each regulator consults every other regulator (where not otherwise required to do so) in connection with any proposed exercise of a relevant function in a way that may have a material adverse effect on the advancement by that other regulator of any of its objectives;</IndentOne>
+         <IndentOne>(b) that where appropriate each regulator obtains information and advice from every other regulator in connection with the exercise of its relevant functions in relation to matters of common regulatory interest in cases where the other regulator may be expected to have relevant information or relevant expertise.</IndentOne>
+         <quote>(3) The duty in subsection (2) applies only to the extent that compliance with the duty&#8212;</quote>
+         <IndentOne>(a) is compatible with the advancement by each regulator of any of its objectives, and</IndentOne>
+         <IndentOne>(b) does not impose a burden on the regulators that is disproportionate to the benefits of compliance.</IndentOne>
+         <quote>(4) A function conferred on a regulator relates to matters of common regulatory interest if&#8212;</quote>
+         <IndentOne>(a) another regulator exercises similar or related functions in relation to the same persons,</IndentOne>
+         <IndentOne>(b) another regulator exercises functions which relate to different persons but relate to similar subject-matter, or</IndentOne>
+         <IndentOne>(c) its exercise could affect the advancement by another regulator of any of its objectives.</IndentOne>
+         <quote>(5) &#8220;Relevant functions&#8221; means&#8212;</quote>
+         <IndentOne>(a) in relation to the Payment Systems Regulator, its functions under this Part;</IndentOne>
+         <IndentOne>(b) in relation to the Bank of England, its functions under Part 5 of the Banking Act 2009 (inter-bank payment systems);</IndentOne>
+         <IndentOne>(c) in relation to the FCA, the functions conferred on it by or under FSMA 2000 (see section 1A(6) of that Act);</IndentOne>
+         <IndentOne>(d) in relation to the PRA, the functions conferred on it by or under FSMA 2000 (see section 2A(6) of that Act).</IndentOne>
+         <quote>(6) &#8220;Objectives&#8221; means&#8212;</quote>
+         <IndentOne>(a) in relation to the Payment Systems Regulator, its payment systems objectives;</IndentOne>
+         <IndentOne>(b) in relation to the Bank of England, its Financial Stability Objective under section 2A of the Bank of England Act 1998;</IndentOne>
+         <IndentOne>(c) in relation to the FCA, its strategic objective and operational objectives under section 1B of FSMA 2000;</IndentOne>
+         <IndentOne>(d) in relation to the PRA, its general objective under section 2B of that Act.&#8221;</IndentOne>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Memorandum of understanding</quote>
+         <quote>(1) The following are regulators for the purposes of this section&#8212;</quote>
+         <IndentOne>(a) the Payment Systems Regulator;</IndentOne>
+         <IndentOne>(b) the Bank of England;</IndentOne>
+         <IndentOne>(c) the FCA;</IndentOne>
+         <IndentOne>(d) the PRA.</IndentOne>
+         <quote>(2) The regulators must prepare and maintain a memorandum which describes in general terms&#8212;</quote>
+         <IndentOne>(a) the role of each regulator in relation to the exercise of relevant functions which relate to matters of common regulatory interest, and</IndentOne>
+         <IndentOne>(b) how the regulators intend to comply with section (Duty of regulators Duty of regulators to ensure co-ordinated exercise of functionsto ensure co-ordinated exercise of functions) in relation to the exercise of such functions.</IndentOne>
+         <quote>(3) The regulators must review the memorandum at least once in each calendar year.</quote>
+         <quote>(4) The regulators must give the Treasury a copy of the memorandum and any revised memorandum.</quote>
+         <quote>(5) The Treasury must lay before Parliament a copy of any document received by them under this section.</quote>
+         <quote>(6) The regulators must ensure that the memorandum as currently in force is published in the way appearing to them to be best calculated to bring it to the attention of the public.</quote>
+         <quote>(7) The memorandum need not relate to any aspect of compliance with section (Duty of regulators to ensure co-ordinated exercise of functionsDuty of regulators to ensure co-ordinated exercise of functions) if the regulators consider&#8212;</quote>
+         <IndentOne>(a) that publication of information about that aspect would be against the public interest, or</IndentOne>
+         <IndentOne>(b) that that aspect is a technical or operational matter not affecting the public.</IndentOne>
+         <quote>(8) In this section&#8212;</quote>
+         <IndentOne>(a) the reference in subsection (2)(a) to matters of common regulatory interest is to be read in accordance with section (Duty of regulators to Duty of regulators to ensure co-ordinated exercise of functionsensure co-ordinated exercise of functions)(4), and</IndentOne>
+         <IndentOne>(b) references to relevant functions are to be read in accordance with section (Duty of regulators to ensure co-ordinated exercise of Duty of regulators to ensure co-ordinated exercise of functionsfunctions)(5).&#8221;</IndentOne>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Power of Bank to require Regulator to refrain from specified action</quote>
+         <quote>(1) Where the first, second and third conditions are met, the Bank of England may give a direction under this section to the Payment Systems Regulator.</quote>
+         <quote>(2) The first condition is that the Payment Systems Regulator is proposing to exercise any of its powers under this Part in relation to a participant in a regulated payment system.</quote>
+         <quote>(3) The second condition is that the Bank of England is of the opinion that the exercise of the power in the manner proposed may&#8212;</quote>
+         <IndentOne>(a) threaten the stability of the UK financial system,</IndentOne>
+         <IndentOne>(b) have serious consequences for business or other interests in the United Kingdom, or</IndentOne>
+         <IndentOne>(c) have an adverse effect on the Bank&#8217;s ability to act in its capacity as a monetary authority.</IndentOne>
+         <quote>(4) The third condition is that the Bank of England is of the opinion that the giving of the direction is necessary in order to avoid the possible consequence falling within subsection (3).</quote>
+         <quote>(5) A direction under this section is a direction requiring the Payment Systems Regulator not to exercise the power or not to exercise it in a specified manner.</quote>
+         <quote>(6) The direction may be expressed to have effect during a specified period or until revoked.</quote>
+         <quote>(7) The Payment Systems Regulator is not required to comply with a direction under this section if or to the extent that in the opinion of the Payment Systems Regulator compliance would be incompatible with any EU obligation or any other international obligation of the United Kingdom.&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Power of FCA to require Regulator to refrain from specified action</quote>
+         <quote>(1) Where the first, second and third conditions are met, the FCA may give a direction under this section to the Payment Systems Regulator.</quote>
+         <quote>(2) The first condition is that the Payment Systems Regulator is proposing to exercise any of its powers under this Part in relation to a participant in a regulated payment system. </quote>
+         <quote>(3) The second condition is that the FCA is of the opinion that the exercise of the power in the manner proposed may have an adverse effect on the ability of the FCA to comply with its duty under section 1B(1) of FSMA 2000 (FCA&#8217;s general duties).</quote>
+         <quote>(4) The third condition is that the FCA is of the opinion that the giving of the direction is necessary in order to avoid the possible consequence falling within subsection (3).</quote>
+         <quote>(5) A direction under this section is a direction requiring the Payment Systems Regulator not to exercise the power or not to exercise it in a specified manner.</quote>
+         <quote>(6) The direction may be expressed to have effect during a specified period or until revoked.</quote>
+         <quote>(7) The Payment Systems Regulator is not required to comply with a direction under this section if or to the extent that in the opinion of the Payment Systems Regulator compliance would be incompatible with any EU obligation or any other international obligation of the United Kingdom.&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Power of PRA to require Regulator to refrain from specified action</quote>
+         <quote>(1) Where the first, second and third conditions are met, the PRA may give a direction under this section to the Payment Systems Regulator.</quote>
+         <quote>(2) The first condition is that the Payment Systems Regulator is proposing to exercise any of its powers under this Part in relation to&#8212; </quote>
+         <IndentOne>(a) a class of PRA-authorised persons, or</IndentOne>
+         <IndentOne>(b) a particular PRA-authorised person.</IndentOne>
+         <quote>(3) The second condition is that the PRA is of the opinion that the exercise of the power in the manner proposed may&#8212;</quote>
+         <IndentOne>(a) threaten the stability of the UK financial system,</IndentOne>
+         <IndentOne>(b) result in the failure of a PRA-authorised person in a way that would have an adverse effect on the stability of the UK financial system, or</IndentOne>
+         <IndentOne>(c) have an adverse effect on the ability of the PRA to comply with its duty under section 2B(1) of FSMA 2000 (the PRA&#8217;s general objective).</IndentOne>
+         <quote>(4) The third condition is that the PRA is of the opinion that the giving of the direction is necessary in order to avoid the possible consequence falling within subsection (3).</quote>
+         <quote>(5) A direction under this section is a direction requiring the Payment Systems Regulator not to exercise the power or not to exercise it in a specified manner.</quote>
+         <quote>(6) The direction may be expressed to have effect during a specified period or until revoked.</quote>
+         <quote>(7) The Payment Systems Regulator is not required to comply with a direction under this section if or to the extent that in the opinion of the Payment Systems Regulator compliance would be incompatible with any EU obligation or any other international obligation of the United Kingdom.</quote>
+         <quote>(8) The reference in subsection (3)(b) to the &#8220;failure&#8221; of a PRA-authorised person is to be read in accordance with section 2J(3) and (4) of FSMA 2000.</quote>
+         <quote>(9) In this section &#8220;PRA-authorised person&#8221; has the same meaning as in FSMA 2000 (see section 2B(5) of that Act).&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Regulator&#8217;s general duty to consult</quote>
+         <quote>(1) The Payment Systems Regulator must make and maintain effective arrangements for consulting relevant persons on&#8212; </quote>
+         <IndentOne>(a) the extent to which its general policies and practices are consistent with its general duties under section (Regulator&#8217;s general duties in Regulator&#8217;s general duties in relation to payment systemsrelation to payment systems), and</IndentOne>
+         <IndentOne>(b) how its payment systems objectives may best be achieved.</IndentOne>
+         <quote>(2) The following are &#8220;relevant persons&#8221; for the purposes of this section&#8212;</quote>
+         <IndentOne>(a) participants in regulated payment systems, and</IndentOne>
+         <IndentOne>(b) those who use, or are likely to use, services provided by regulated payment systems.</IndentOne>
+         <quote>(3) Arrangements under this section must include the establishment and maintenance of one or more panels of persons to represent the interests of relevant persons.</quote>
+         <quote>(4) Where the Payment Systems Regulator establishes a panel under subsection (3), it must appoint one of the members of the panel to be its chair.</quote>
+         <quote>(5) The Treasury&#8217;s approval is required for the appointment or dismissal of the chair of a panel established under subsection (3).</quote>
+         <quote>(6) The Payment Systems Regulator must&#8212; </quote>
+         <IndentOne>(a) consider representations that are made to it in accordance with arrangements made under this section, and</IndentOne>
+         <IndentOne>(b) from time to time publish, in such manner as it thinks fit, responses to the representations.&#8221;</IndentOne>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Consultation by the Regulator in relation to generally applicable requirements</quote>
+         <quote>(1) In this section references to imposing a generally applicable requirement are to&#8212;</quote>
+         <IndentOne>(a) giving a general direction, or</IndentOne>
+         <IndentOne>(b) imposing a requirement under section (System rulesSystem rules) that applies to all operators of regulated payment systems,</IndentOne>
+         <IndentOne>and references to the requirement are to be read accordingly.and references to the requirement are to be read accordingly.</IndentOne>
+         <quote>(2) Before imposing a generally applicable requirement, the Payment Systems Regulator must&#8212;</quote>
+         <IndentOne>(a) consult the Bank of England, the FCA and the PRA, and</IndentOne>
+         <IndentOne>(b) after doing so, publish a draft of the proposed requirement in the way appearing to the Payment Systems Regulator to be best calculated to bring it to the attention of the public.</IndentOne>
+         <quote>(3) The draft must be accompanied by&#8212;</quote>
+         <IndentOne>(a) a cost benefit analysis,</IndentOne>
+         <IndentOne>(b) an explanation of the purpose of the proposed requirement,</IndentOne>
+         <IndentOne>(c) an explanation of the Payment Systems Regulator&#8217;s reasons for believing that imposing the requirement is compatible with its duties under section (Regulator&#8217;s general duties in relation to payment Regulator&#8217;s general duties in relation to payment systemssystems), and</IndentOne>
+         <IndentOne>(d) notice that representations about the proposed requirement may be made to the Payment Systems Regulator within a specified time.</IndentOne>
+         <quote>(4) Before imposing the proposed requirement the Payment Systems Regulator must have regard to any representations made to it in accordance with subsection (3)(d).</quote>
+         <quote>(5) If the Payment Systems Regulator proposes to impose the requirement, it must publish an account, in general terms, of&#8212;</quote>
+         <IndentOne>(a) the representations made to it in accordance with subsection (3)(d), and</IndentOne>
+         <IndentOne>(b) its response to them.</IndentOne>
+         <quote>(6) If the requirement differs from the draft published under subsection (2)(b) in a way which is, in the opinion of the Payment Systems Regulator, significant the Payment Systems Regulator must (in addition to complying with subsection (5)) publish details of the difference together with a cost benefit analysis.</quote>
+         <quote>(7) For the purposes of this section a &#8220;cost benefit analysis&#8221; is&#8212;</quote>
+         <IndentOne>(a) an analysis of the costs together with an analysis of the benefits that will arise&#8212;</IndentOne>
+         <IndentTwo>(i) if the proposed requirement is imposed, or</IndentTwo>
+         <IndentTwo>(ii) if subsection (6) applies, from the requirement imposed, and</IndentTwo>
+         <IndentOne>(b) subject to subsection (8), an estimate of those costs and of those benefits.</IndentOne>
+         <quote>(8) If, in the opinion of the Payment Systems Regulator&#8212;</quote>
+         <IndentOne>(a) the costs or benefits referred to in subsection (7) cannot reasonably be estimated, or</IndentOne>
+         <IndentOne>(b) it is not reasonably practicable to produce an estimate,</IndentOne>
+         <IndentOne>the cost benefit analysis need not estimate them, but must include a the cost benefit analysis need not estimate them, but must include a statement of the Payment Systems Regulator&#8217;s opinion and an explanation statement of the Payment Systems Regulator&#8217;s opinion and an explanation of it.of it.</IndentOne>
+         <quote>(9) The Payment Systems Regulator may charge a reasonable fee for providing a person with a copy of a draft published under subsection (2)(b).</quote>
+         <quote>(10) Subsections (2)(b) and (3) to (6) do not apply if the Payment Systems Regulator considers that the delay involved in complying with them would be prejudicial to the interests of those who use, or are likely to use, services provided by regulated payment systems.</quote>
+         <quote>(11) Subsections (3)(a) and (6) do not apply if the Payment Systems Regulator considers that, making the appropriate comparison&#8212;</quote>
+         <IndentOne>(a) there will be no increase in costs, or</IndentOne>
+         <IndentOne>(b) there will be an increase in costs but the increase will be of minimal significance.</IndentOne>
+         <quote>(12) In subsection (11) the &#8220;appropriate comparison&#8221; means&#8212;</quote>
+         <IndentOne>(a) in relation to subsection (3)(a), a comparison between the overall position if the requirement is imposed and the overall position if it is not imposed;</IndentOne>
+         <IndentOne>(b) in relation to subsection (6), a comparison between the overall position after the imposing of the requirement and the overall position before it was imposed.&#8221;</IndentOne>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Independent inquiries</quote>
+         <quote>(1) Section 68 of the Financial Services Act 2012 (cases in which Treasury may arrange independent inquiries) is amended as follows.</quote>
+         <quote>(2) In subsection (1), for &#8220;two&#8221; substitute &#8220;three&#8221;.</quote>
+         <quote>(3) After subsection (3) insert&#8212;</quote>
+         <quote>&#8220;(3A) The third case is where it appears to the Treasury that&#8212;</quote>
+         <IndentOne>(a) events have occurred in relation to a regulated payment system which caused or risked causing significant damage to business or other interests throughout the United Kingdom, and</IndentOne>
+         <IndentOne>(b) those events might not have occurred, or the threat or damage might have been reduced, but for a serious failure in&#8212;</IndentOne>
+         <IndentTwo>(i) the system established by Part 5 of the Financial Services (Banking Reform) Act 2013 for the regulation of payment systems, or</IndentTwo>
+         <IndentTwo>(ii) the operation of that system.&#8221;</IndentTwo>
+         <quote>(4) In section 83(1) (interpretation), after the definition of &#8220;regulated activity&#8221; insert&#8212;</quote>
+         <quote>&#8220;&#8220;regulated payment system&#8221; has the same meaning as in Part 5 of the Financial Services (Banking Reform) Act 2013 (see section (InterpretationInterpretation) of that Act);&#8221;.&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Investigations into regulatory failure</quote>
+         <quote>(1) Part 5 of the Financial Services Act 2012 (inquiries and investigations) is amended as follows.</quote>
+         <quote>(2) After section 76 insert&#8212;</quote>
+         <quote>&#8220;76A Duty of Payment Systems Regulator to investigate and report on possible regulatory failure</quote>
+         <quote>(1) Subsection (3) applies where it appears to the Payment Systems Regulator that&#8212;</quote>
+         <IndentOne>(a) events have occurred in relation to a regulated payment system which had or could have had a significant adverse effect on effective competition in the interests of&#8212;</IndentOne>
+         <IndentTwo>(i) participants in the payment system, or</IndentTwo>
+         <IndentTwo>(ii) those who use, or are likely to use, the services provided by the payment system, and</IndentTwo>
+         <IndentOne>(b) those events might not have occurred, or the adverse effect might have been reduced, but for a serious failure in&#8212;</IndentOne>
+         <IndentTwo>(i) the system established by Part 5 of the Financial Services (Banking Reform) Act 2013 for the regulation of payment systems, or</IndentTwo>
+         <IndentTwo>(ii) the operation of that system.</IndentTwo>
+         <quote>(2) Subsection (3) also applies where the Treasury direct the Payment Systems Regulator that it appears to the Treasury that the conditions in subsection (1) are met in relation to specified events.</quote>
+         <quote>(3) The Payment Systems Regulator must carry out an investigation into the events and the circumstances surrounding them and report to the Treasury on the result of the investigation.</quote>
+         <quote>(4) Subsection (3) does not apply by virtue of subsection (1) if the Treasury direct the Payment Systems Regulator that it is not required to carry out an investigation into the events concerned.</quote>
+         <quote>(5) In this section &#8220;participant&#8221;, in relation to a regulated payment system, has the same meaning as in Part 5 of the Financial Services (Banking Reform) Act 2013 (see section (Participants in payment Participants in payment systems etcsystems etc) of that Act).&#8221;</quote>
+         <quote>(5) In section 77 (power of Treasury to require FCA or PRA to undertake investigation)&#8212; </quote>
+         <IndentOne>(a) in subsection (1)(a), for &#8220;either regulator&#8221; substitute &#8220;a regulator&#8221;;</IndentOne>
+         <IndentOne>(b) in subsection (3), omit the &#8220;or&#8221; at the end of paragraph (b) and after paragraph (c) insert &#8220;, or</IndentOne>
+         <IndentOne>(d) a regulated payment system.&#8221;;</IndentOne>
+         <IndentOne>(c) the heading of that section becomes &#8220;Power of Treasury to require Power of Treasury to require regulator to undertake investigationregulator to undertake investigation&#8221;.</IndentOne>
+         <quote>(6) In section 78 (conduct of investigation), in subsection (1), for &#8220;or 74&#8221; substitute &#8220;, 74 or 76A&#8221;.</quote>
+         <quote>(7) In section 79 (conclusion of investigation), for &#8220;or 74&#8221; substitute &#8220;, 74 or 76A&#8221;.</quote>
+         <quote>(8) In section 80 (statements of policy), in subsection (1)(a), for &#8220;or 74&#8221; substitute &#8220;, 74 or 76A&#8221;.</quote>
+         <quote>(9) In section 81 (publication of directions), in subsection (1), after paragraph (b) insert&#8212;</quote>
+         <IndentOne>&#8220;(ba) section 76A(4);&#8221;.</IndentOne>
+         <quote>(10) In section 83(1) (interpretation)&#8212;</quote>
+         <IndentOne>(a) after the definition of &#8220;listed securities&#8221; insert&#8212;</IndentOne>
+         <quote>&#8220;&#8220;the Payment Systems Regulator&#8221; means the body established under section (The Payment Systems The Payment Systems RegulatorRegulator) of the Financial Services (Banking Reform) Act 2013;&#8221;;</quote>
+         <IndentOne>(b) in the definition of &#8220;regulator&#8221;, for &#8220;or the PRA&#8221; substitute &#8220;, the PRA or the Payment Systems Regulator&#8221;.&#8221;</IndentOne>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Competition scrutiny</quote>
+         <quote>(1) Chapter 4 of Part 9A of FSMA 2000 (competition scrutiny) applies to the Payment Systems Regulator&#8217;s practices and regulating provisions in relation to payment systems as it applies to the FCA&#8217;s practices and regulating provisions within the meaning of that Chapter.</quote>
+         <quote>(2) In subsection (1)&#8212; </quote>
+         <IndentOne>(a) the reference to the Payment Systems Regulator&#8217;s practices in relation to payment systems is a reference to practices adopted by it in the exercise of functions under this Part, and</IndentOne>
+         <IndentOne>(b) the reference to the Payment Systems Regulator&#8217;s regulating provisions in relation to payment systems is a reference to the following&#8212; </IndentOne>
+         <IndentTwo>(i) any general directions given under section (DirectionsDirections);</IndentTwo>
+         <IndentTwo>(ii) any requirements imposed under section (System rulesSystem rules) on all operators of regulated payment systems;</IndentTwo>
+         <IndentTwo>(iii) any guidance given under section (GuidanceGuidance).&#8221;</IndentTwo>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Relationship with Part 8 of the Payment Services Regulations 2009</quote>
+         <quote>(1) The Payment Systems Regulator may not exercise any power under this Part for the purposes of enabling a relevant person to obtain access to, or otherwise participate in, a payment system if the payment system is one to which Part 8 of the Payment Services Regulations 2009 (S.I. 2009/209) does not apply.</quote>
+         <quote>(2) A person is a &#8220;relevant person&#8221; for the purposes of subsection (1) if regulation 97 of the Payment Services Regulations 2009 (prohibition on restrictive rules on access to payment systems) applies in relation to access to, or participation in, a payment system by the person.&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Exemption from liability in damages for FCA and PRA</quote>
+         <quote>(1) In paragraph 25 of Schedule 1ZA to FSMA 2000 (FCA&#8217;s exemption from liability in damages), after sub-paragraph (1) insert&#8212;</quote>
+         <quote>&#8220;(1A) In sub-paragraph (1) the reference to the FCA&#8217;s functions includes its functions under Part 5 of the Financial Services (Banking Reform) Act 2013 (regulation of payment systems).&#8221;</quote>
+         <quote>(2) In paragraph 33 of Schedule 1ZB to FSMA 2000 (PRA&#8217;s exemption from liability in damages), after sub-paragraph (1) insert&#8212;</quote>
+         <quote>&#8220;(1A) In sub-paragraph (1) the reference to the PRA&#8217;s functions includes its functions under Part 5 of the Financial Services (Banking Reform) Act 2013 (regulation of payment systems).&#8221;</quote>
+         <quote>(3) For provision conferring immunity from liability in damages on the Bank of England in respect of its functions, see section 244 of the Banking Act 2009.&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 12, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Interpretation</quote>
+         <quote>(1) In this Part&#8212;</quote>
+         <quote>&#8220;compliance failure&#8221; has the meaning given by section (Meaning of Meaning of &#8220;compliance failure&#8221;&#8220;compliance failure&#8221;);</quote>
+         <quote>&#8220;designation order&#8221; has the meaning given by section (Designation Designation ordersorders);</quote>
+         <quote>&#8220;direct access&#8221;, in relation to a payment system, is to be read in accordance with section (Participants in payment systems etc)Participants in payment systems etc)(6);</quote>
+         <quote>&#8220;document&#8221; includes information recorded in any form and, in relation to information recorded otherwise than in legible form, references to its production include references to producing a copy of the information in legible form or in a form from which it can readily be produced in visible and legible form;</quote>
+         <quote>&#8220;general direction&#8221; has the meaning given by section (DirectionsDirections)(5);</quote>
+         <quote>&#8220;general guidance&#8221; has the meaning given by section (GuidanceGuidance)(3);</quote>
+         <quote>&#8220;infrastructure provider&#8221;, in relation to a payment system, has the meaning given by section (Participants in payment systems etc)Participants in payment systems etc)(4);</quote>
+         <quote>&#8220;operator&#8221;, in relation to a payment system, has the meaning given by section (Participants in payment systems etc)Participants in payment systems etc)(3);</quote>
+         <quote>&#8220;participant&#8221;, in relation to a payment system, has the meaning given by section (Participants in payment systems etc)Participants in payment systems etc) (and references to participation in a payment system are to be read in accordance with that section);</quote>
+         <quote>&#8220;payment service provider&#8221;, in relation to a payment system, has the meaning given by section (Participants in payment systems etc)Participants in payment systems etc)(5);</quote>
+         <quote>&#8220;payment system&#8221; has the meaning given by section (Meaning of Meaning of &#8220;payment system&#8221;&#8220;payment system&#8221;);</quote>
+         <quote>&#8220;recognised inter-bank payment system&#8221; means an inter-bank payment system (within the meaning of Part 5 of the Banking Act 2009) specified as a recognised system for the purposes of that Part;</quote>
+         <quote>&#8220;regulated payment system&#8221; means a payment system designated as a regulated payment system by a designation order;</quote>
+         <quote>&#8220;the UK financial system&#8221; has the meaning given by section 1I of FSMA 2000.</quote>
+         <quote>(2) References in this Part to the Payment Systems Regulator&#8217;s payment systems objectives are to be read in accordance with section (Regulator&#8217;s Regulator&#8217;s general duties in relation to payment systemsgeneral duties in relation to payment systems)(2).</quote>
+         <quote>(3) References in this Part to the Bank of England&#8217;s capacity as a monetary authority are to be read in accordance with section 244 of the Banking Act 2009.&#8221;</quote>
+      </text>
+   </Amendment>
+   <clausenumber>Clause 17</clausenumber>
+   <proposer>LORD DEIGHTON</proposer>
+   <clausetext>[In substitution for Amendment 133]</clausetext>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> Clause 17, page 28, line 38, leave out subsections (2) and (3) and insert&#8212;</quote>
+         <quote>&#8220;(2) A statutory instrument containing an order or regulations under this Act is subject to annulment in pursuance of a resolution of either House of Parliament, unless&#8212;</quote>
+         <IndentOne>(a) the instrument contains only provision made under section 21 (commencement), or</IndentOne>
+         <IndentOne>(b) the instrument is required by subsection (4) or any other enactment to be laid in draft before, and approved by a resolution of, each House.</IndentOne>
+         <quote>(3) Subsection (4) applies to a statutory instrument that contains (with or without other provisions)&#8212;</quote>
+         <IndentOne>(a) regulations under section 8 (building societies: power to make provision about ring-fencing);</IndentOne>
+         <IndentOne>(b) an order under section (Meaning of &#8220;payment system&#8221;Meaning of &#8220;payment system&#8221;)(4) (meaning of &#8220;payment system&#8221;);</IndentOne>
+         <IndentOne>(c) an order under section (Power to make further consequential Power to make further consequential amendmentsamendments) (power to make further consequential amendments) that amends or repeals primary legislation;</IndentOne>
+         <IndentOne>(d) an order under paragraph 6 of Schedule (Conduct of FMI Conduct of FMI administrationadministration) (conduct of FMI administration).</IndentOne>
+         <quote>(4) A statutory instrument to which this subsection applies may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.</quote>
+         <quote>(5) In subsection (3)(c) &#8220;primary legislation&#8221; means&#8212;</quote>
+         <IndentOne>(a) an Act of Parliament,</IndentOne>
+         <IndentOne>(b) an Act of the Scottish Parliament,</IndentOne>
+         <IndentOne>(c) a Measure or Act of the National Assembly for Wales, or</IndentOne>
+         <IndentOne>(d) Northern Ireland legislation.&#8221;</IndentOne>
+      </text>
+   </Amendment>
+   <clausenumber>Before Schedule 2</clausenumber>
+   <proposer>LORD DEIGHTON</proposer>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> Before Schedule 2, insert the following new Schedule&#8212;</quote>
+         <HeadingTwo>&#8220;The Payment Systems Regulator</HeadingTwo>
+         <HeadingTwo>Introductory</HeadingTwo>
+         <quote>1 In this Schedule&#8212; </quote>
+         <IndentOne>(a) &#8220;the Regulator&#8221; means the Payment Systems Regulator;</IndentOne>
+         <IndentOne>(b) references to the functions of the Regulator are to functions conferred on it by or under this Part.</IndentOne>
+         <HeadingTwo>Constitution</HeadingTwo>
+         <quote>2 (1) The constitution of the Regulator must provide for it to have a board whose members are the directors of the Regulator.</quote>
+         <quote>(2) The board is to consist of the following members&#8212;</quote>
+         <IndentOne>(a) a member to chair it, appointed by the FCA with the approval of the Treasury;</IndentOne>
+         <IndentOne>(b) a member to be the Managing Director, appointed by the FCA with the approval of the Treasury;</IndentOne>
+         <IndentOne>(c) one or more other members appointed by the FCA.</IndentOne>
+         <quote>(3) The persons who may be appointed under sub-paragraph (2) include persons who are members of the FCA&#8217;s governing body.</quote>
+         <quote>(4) A person may be appointed under sub-paragraph (2) only if the person has knowledge or experience which is likely to be relevant to the exercise by the Regulator of its functions.</quote>
+         <quote>(5) A person appointed under sub-paragraph (2)(a) or (b) is liable to removal from office by the FCA (acting with the approval of the Treasury).</quote>
+         <quote>(6) A person appointed under sub-paragraph (2)(c) is liable to removal from office by the FCA.</quote>
+         <HeadingTwo>Status</HeadingTwo>
+         <quote>3 (1) The Regulator is not to be regarded as exercising functions on behalf of the Crown.</quote>
+         <quote>(2) The officers and staff of the Regulator are not to be regarded as Crown servants.</quote>
+         <HeadingTwo>Budget</HeadingTwo>
+         <quote>4 (1) The Regulator must adopt an annual budget which has been approved by the FCA.</quote>
+         <quote>(2) The budget must be adopted&#8212;</quote>
+         <IndentOne>(a) in the case of the Regulator&#8217;s first financial year, as soon as reasonably practicable after it is established, and</IndentOne>
+         <IndentOne>(b) in the case of each subsequent financial year, before the start of the financial year.</IndentOne>
+         <quote>(3) The Regulator may, with the approval of the FCA, vary the budget for a financial year at any time after its adoption.</quote>
+         <quote>(4) Before adopting or varying a budget, the Regulator must consult&#8212;</quote>
+         <IndentOne>(a) the Treasury, and</IndentOne>
+         <IndentOne>(b) such other persons (if any) as the Regulator considers appropriate.</IndentOne>
+         <quote>(5) The Regulator must publish each budget, and each variation of a budget, in the way it considers appropriate.</quote>
+         <HeadingTwo>Arrangements for discharging functions</HeadingTwo>
+         <quote>5 (1) The Regulator may make arrangements for any of its functions to be discharged by&#8212; </quote>
+         <IndentOne>(a) a committee, sub-committee, officer or member of staff of the Regulator;</IndentOne>
+         <IndentOne>(b) an officer or member of staff of the FCA.</IndentOne>
+         <IndentOne>This is subject to sub-paragraphs (2) to (4).This is subject to sub-paragraphs (2) to (4).</IndentOne>
+         <quote>(2) In exercising any functions within sub-paragraph (3), the Regulator must act through its board.</quote>
+         <quote>(3) The functions referred to in sub-paragraph (2) are&#8212;</quote>
+         <IndentOne>(a) giving general directions under section (DirectionsDirections);</IndentOne>
+         <IndentOne>(b) imposing requirements under section (System rulesSystem rules) that apply to all operators of regulated payment systems.</IndentOne>
+         <quote>(4) The function of issuing general guidance may not be discharged by an officer or member of staff of the Regulator or of the FCA.</quote>
+         <HeadingTwo>Annual plan</HeadingTwo>
+         <quote>6 (1) The Regulator must in respect of each of its financial years prepare an annual plan which has been approved by the FCA.</quote>
+         <quote>(2) The plan must be prepared&#8212;</quote>
+         <IndentOne>(a) in the case of the Regulator&#8217;s first financial year, as soon as reasonably practicable after it is established, and</IndentOne>
+         <IndentOne>(b) in the case of each subsequent financial year, before the start of the financial year.</IndentOne>
+         <quote>(3) The Regulator may, with the approval of the FCA, vary the plan in respect of a financial year at any time after its preparation.</quote>
+         <quote>(4) An annual plan in respect of a financial year must set out&#8212;</quote>
+         <IndentOne>(a) the aims of the Regulator for the year,</IndentOne>
+         <IndentOne>(b) how the extent to which each of those aims is met is to be determined,</IndentOne>
+         <IndentOne>(c) the relative priorities of each of those aims, and</IndentOne>
+         <IndentOne>(d) how its resources are to be allocated among the activities to be carried on in connection with the discharge of its functions.</IndentOne>
+         <quote>(5) In sub-paragraph (4) references to aims for a financial year include aims for a longer period that includes that year.</quote>
+         <quote>(6) Before preparing or varying an annual plan, the Regulator must consult&#8212;</quote>
+         <IndentOne>(a) the Treasury, and</IndentOne>
+         <IndentOne>(b) such other persons (if any) as the Regulator considers appropriate.</IndentOne>
+         <quote>(7) The Regulator must publish each annual plan, and each variation of an annual plan, in the way it considers appropriate.</quote>
+         <HeadingTwo>Annual report</HeadingTwo>
+         <quote>7 (1) At least once a year, the Regulator must make a report to the FCA in relation to the discharge of its functions.</quote>
+         <quote>(2) The report must&#8212;</quote>
+         <IndentOne>(a) set out the extent to which the Regulator has met its aims and priorities for the period covered by the report,</IndentOne>
+         <IndentOne>(b) set out the extent to which the Regulator has advanced its payment systems objectives,</IndentOne>
+         <IndentOne>(c) include a copy of its latest accounts, and</IndentOne>
+         <IndentOne>(d) comply with any requirement specified in rules made by the FCA.</IndentOne>
+         <quote>(3) The Regulator must publish each report in the way it considers appropriate.</quote>
+         <quote>(4) Nothing in this paragraph requires the Regulator to make a report at any time in the period of 12 months beginning with its establishment.</quote>
+         <quote>(5) The Treasury may&#8212;</quote>
+         <IndentOne>(a) require the Regulator to comply with any provision of the Companies Act 2006 about accounts and their audit which would not otherwise apply to it, or</IndentOne>
+         <IndentOne>(b) direct that any provision of that Act about accounts and their audit is to apply to the Regulator with such modifications as are specified in the direction, whether or not the provision would otherwise apply to it.</IndentOne>
+         <quote>(6) Compliance with any requirement under sub-paragraph (5)(a) or (b) is enforceable by injunction or, in Scotland, an order for specific performance under section 45 of the Court of Session Act 1988.</quote>
+         <quote>(7) Proceedings under sub-paragraph (6) may be brought only by the Treasury.</quote>
+         <quote>(8) The FCA&#8217;s power to make rules under sub-paragraph (2)(d) is to be treated as if it were a power of the FCA to make rules under FSMA 2000 (and rules made under sub-paragraph (2)(d) are to be treated accordingly).</quote>
+         <HeadingTwo>Audit of accounts</HeadingTwo>
+         <quote>8 (1) The Regulator must send a copy of its annual accounts to the Comptroller and Auditor General and the Treasury as soon as is reasonably practicable.</quote>
+         <quote>(2) The Comptroller and Auditor General must&#8212;</quote>
+         <IndentOne>(a) examine, certify and report on accounts received under this paragraph, and</IndentOne>
+         <IndentOne>(b) send a copy of the certified accounts and the report to the Treasury.</IndentOne>
+         <quote>(3) The Treasury must lay the copy of the certified accounts and the report before Parliament.</quote>
+         <quote>(4) The Regulator must send a copy of the certified accounts and the report to the FCA.</quote>
+         <quote>(5) Except as provided for by paragraph 7(5), the Regulator is exempt from the requirements of Part 16 of the Companies Act 2006 (audit) and its balance sheet must contain a statement to that effect.</quote>
+         <quote>(6) In this paragraph &#8220;annual accounts&#8221; has the meaning given by section 471 of the Companies Act 2006.</quote>
+         <HeadingTwo>Funding</HeadingTwo>
+         <quote>9 (1) In this paragraph &#8220;the relevant costs&#8221; means&#8212;</quote>
+         <IndentOne>(a) the expenses incurred, or expected to be incurred, by the Regulator in connection with the discharge of its functions,</IndentOne>
+         <IndentOne>(b) the expenses incurred by the FCA in establishing the Regulator,</IndentOne>
+         <IndentOne>(c) any other expenses incurred by the FCA in connection with the discharge of its functions under this Part, and</IndentOne>
+         <IndentOne>(d) any expenses incurred, or expected to be incurred, by the FCA in connection with the discharge of the Regulator&#8217;s functions by an officer or member of staff of the FCA under arrangements made under paragraph 5.</IndentOne>
+         <IndentOne>For the purposes of paragraph (b) it does not matter when the expenses For the purposes of paragraph (b) it does not matter when the expenses were incurred.were incurred.</IndentOne>
+         <quote>(2) For the purpose of meeting the relevant costs the FCA may make rules requiring participants in regulated payment systems to pay to the FCA specified amounts or amounts calculated in a specified way.</quote>
+         <quote>(3) Before making any rules under sub-paragraph (2) the FCA must consult the Treasury.</quote>
+         <quote>(4) The amounts to be paid under the rules may include a component to cover the expenses of the FCA in collecting the payments (&#8220;collection costs&#8221;).</quote>
+         <quote>(5) The FCA must pay to the Regulator the amounts that it receives under the rules, apart from the following amounts (which it may keep)&#8212;</quote>
+         <IndentOne>(a) amounts in respect of expenses falling within sub-paragraph (1)(b) to (d);</IndentOne>
+         <IndentOne>(b) amounts in respect of its collection costs.</IndentOne>
+         <quote>(6) In this paragraph &#8220;specified&#8221; means specified in the rules.</quote>
+         <quote>(7) The FCA&#8217;s power to make rules under this paragraph is to be treated as if it were a power of the FCA to make rules under FSMA 2000 (and rules made under this paragraph are to be treated accordingly).</quote>
+         <HeadingTwo>Penalty receipts</HeadingTwo>
+         <quote>10 (1) The Regulator must in respect of each of its financial years pay to the Treasury any amounts received by it during the year by way of penalties imposed under section (PenaltiesPenalties).</quote>
+         <quote>(2) The Treasury may give directions to the Regulator as to how it is to comply with its duty under sub-paragraph (1).</quote>
+         <quote>(3) The directions may in particular&#8212;</quote>
+         <IndentOne>(a) specify the time when any payment is required to be made to the Treasury, and</IndentOne>
+         <IndentOne>(b) require the Regulator to provide the Treasury at specified times with information relating to penalties that the Regulator has imposed under section (PenaltiesPenalties).</IndentOne>
+         <quote>(4) The Treasury must pay into the Consolidated Fund any sums received by them under this paragraph.</quote>
+         <HeadingTwo>Records</HeadingTwo>
+         <quote>11 The Regulator must maintain satisfactory arrangements for&#8212;</quote>
+         <IndentOne>(a) recording decisions made in the exercise of its functions, and</IndentOne>
+         <IndentOne>(b) the safe-keeping of those records which it considers ought to be preserved.</IndentOne>
+         <HeadingTwo>Exemption from liability in damages</HeadingTwo>
+         <quote>12 (1) None of the following is to be liable in damages for anything done or omitted in the discharge, or purported discharge, of the Regulator&#8217;s functions&#8212;</quote>
+         <IndentOne>(a) the Regulator;</IndentOne>
+         <IndentOne>(b) any person (&#8220;P&#8221;) who is, or is acting as, an officer or member of staff of the Regulator;</IndentOne>
+         <IndentOne>(c) any person who could be held vicariously liable for things done or omitted by P, but only in so far as the liability relates to P&#8217;s conduct.</IndentOne>
+         <quote>(2) If the Regulator has made arrangements under paragraph 5 for any of its functions to be discharged by an officer or member of staff of the FCA, references in sub-paragraph (1) to a person who is an officer or member of staff of the Regulator include references to the officer or member of staff of the FCA.</quote>
+         <quote>(3) Anything done or omitted by a person mentioned in sub-paragraph (1)(b) or (c) while acting, or purporting to act, as a result of an appointment under section (Reports by skilled personsReports by skilled persons) or (Appointment of Appointment of persons to conduct investigationspersons to conduct investigations) is to be taken for the purposes of sub-paragraph (1) to have been done or omitted in the discharge or (as the case may be) purported discharge of the Regulator&#8217;s functions.</quote>
+         <quote>(4) Sub-paragraph (1) does not apply&#8212;</quote>
+         <IndentOne>(a) if the act or omission is shown to have been in bad faith, or</IndentOne>
+         <IndentOne>(b) so as to prevent an award of damages made in respect of an act or omission on the ground that the act or omission was unlawful as a result of section 6(1) of the Human Rights Act 1998.&#8221;</IndentOne>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> Before Schedule 2, insert the following new Schedule&#8212;</quote>
+         <HeadingTwo>&#8220;Procedure for appeals to the CMA</HeadingTwo>
+         <HeadingTwo>Functions of CMA to be discharged by group</HeadingTwo>
+         <quote>1 Except where specified otherwise in this Schedule, the functions of the CMA with respect to an appeal are to be carried out on behalf of the CMA by a group constituted for the purpose by the chair of the CMA under Schedule 4 to the Enterprise and Regulatory Reform Act 2013.</quote>
+         <quote>2 (1) Schedule 4 to the Enterprise and Regulatory Reform Act 2013 is amended as follows.</quote>
+         <quote>(2) In paragraph 35(1) (membership of CMA panel), after paragraph (c) insert&#8212;</quote>
+         <IndentOne>&#8220;(ca) at least one person (a &#8220;payment systems panel member&#8221;) appointed to the CMA panel under paragraph 1(1)(b) for the purpose of being available for selection as a member of a group constituted to carry out functions on behalf of the CMA with respect to an appeal made in accordance with section (Appeals to Appeals to Competition and Markets AuthorityCompetition and Markets Authority) of the Financial Services (Banking Reform) Act 2013 (a &#8220;specialist payment systems group&#8221;);&#8221;.</IndentOne>
+         <quote>(3) In paragraph 38 (membership of CMA groups), after sub-paragraph (5) insert&#8212;</quote>
+         <IndentOne>&#8220;(5A) In the case of a specialist payment systems group, the group must include at least one payment systems member.&#8221;</IndentOne>
+         <quote>(4) In paragraph 48 (performance of functions of chair with respect to constitution etc of CMA group), in sub-paragraph (4)(c), at the end insert&#8212;</quote>
+         <IndentTwo>&#8220;(v) Schedule (Procedure for appeals to the CMAProcedure for appeals to the CMA) to the Financial Services (Banking Reform) Act 2013.&#8221;</IndentTwo>
+         <HeadingTwo>Application for permission to bring appeal</HeadingTwo>
+         <quote>3 (1) An application for permission to bring an appeal may be made only by sending a notice to the CMA requesting the permission.</quote>
+         <quote>(2) An application for permission to appeal must be accompanied by all such information as may be required by appeal rules.</quote>
+         <quote>(3) Appeal rules may require information contained in an application for permission to appeal to be verified by a statement of truth.</quote>
+         <quote>(4) A person who applies for permission to bring an appeal in accordance with this paragraph is referred to in this Schedule as the appellant.</quote>
+         <quote>(5) The appellant must send the Payment Systems Regulator&#8212; </quote>
+         <IndentOne>(a) a copy of the application for permission to appeal at the same time as it is sent to the CMA, and</IndentOne>
+         <IndentOne>(b) such other information as may be required by appeal rules.</IndentOne>
+         <quote>(6) The CMA&#8217;s decision whether to grant permission to appeal is to be taken by an authorised member of the CMA.</quote>
+         <quote>(7) Before the authorised member decides whether to grant permission under this paragraph, the Payment Systems Regulator must be given an opportunity of making representations or observations, in accordance with paragraph 5(2).</quote>
+         <quote>(8) The CMA&#8217;s decision on an application for permission must be made&#8212; </quote>
+         <IndentOne>(a) where the Payment Systems Regulator makes representations or observations in accordance with paragraph 5(2), before the end of 10 working days beginning with the first working day after the day on which those representations or observations are received;</IndentOne>
+         <IndentOne>(b) in any other case, before the end of 14 working days beginning with the first working day after the day on which the application for permission was received.</IndentOne>
+         <quote>(9) The grant of permission may be made subject to conditions, which may include&#8212; </quote>
+         <IndentOne>(a) conditions which limit the matters that are to be considered on the appeal in question;</IndentOne>
+         <IndentOne>(b) conditions for the purpose of expediting the determination of the appeal;</IndentOne>
+         <IndentOne>(c) conditions requiring the appeal to be considered together with other appeals (including appeals relating to different matters or decisions and appeals brought by different persons).</IndentOne>
+         <quote>(10) Where a decision is made to grant or to refuse an application for permission, an authorised member of the CMA must notify the decision, giving reasons, to the following persons&#8212;</quote>
+         <IndentOne>(a) the appellant, and</IndentOne>
+         <IndentOne>(b) the Payment Systems Regulator.</IndentOne>
+         <quote>(11) A decision of the CMA under this paragraph must be published, in such manner as an authorised member of the CMA considers appropriate, as soon as reasonably practicable after it is made.</quote>
+         <quote>(12) The CMA may exclude from publication under sub-paragraph (11) any information which it is satisfied is&#8212; </quote>
+         <IndentOne>(a) commercial information, the disclosure of which would, or might in the CMA&#8217;s opinion, significantly harm the legitimate business interests of an undertaking to which it relates, or</IndentOne>
+         <IndentOne>(b) information relating to the private affairs of an individual, the disclosure of which would, or might in the CMA&#8217;s opinion, significantly harm the individual&#8217;s interests.</IndentOne>
+         <HeadingTwo>Suspension of decision</HeadingTwo>
+         <quote>4 (1) The CMA may direct that, pending the determination of an appeal against a decision of the Payment Systems Regulator&#8212;</quote>
+         <IndentOne>(a) the decision is not to have effect, or</IndentOne>
+         <IndentOne>(b) the decision is not to have effect to such extent as may be specified in the direction.</IndentOne>
+         <quote>(2) The power to give a direction under this paragraph is exercisable only where&#8212; </quote>
+         <IndentOne>(a) an application for its exercise has been made by the appellant at the same time as the appellant made an application in accordance with paragraph 3 for permission to bring an appeal against a decision of the Payment Systems Regulator,</IndentOne>
+         <IndentOne>(b) the Payment Systems Regulator has been given an opportunity of making representations or observations, in accordance with paragraph 5(2), and</IndentOne>
+         <IndentOne>(c) the balance of convenience does not otherwise require effect to be given to the decision pending that determination.</IndentOne>
+         <quote>(3) The CMA&#8217;s decision on an application for a direction under this paragraph must be made&#8212; </quote>
+         <IndentOne>(a) where the Payment Systems Regulator makes representations or observations in accordance with paragraph 5(2), before the end of 10 working days beginning with the first working day after the day on which those representations or observations are received;</IndentOne>
+         <IndentOne>(b) in any other case, before the end of 14 working days beginning with the first working day following the day on which the application under sub-paragraph (2)(a) is received.</IndentOne>
+         <quote>(4) The appellant must send the Payment Systems Regulator a copy of the application for a direction under this paragraph at the same time as it is sent to the CMA.</quote>
+         <quote>(5) The CMA&#8217;s decision whether to give a direction is to be taken by an authorised member of the CMA.</quote>
+         <quote>(6) A direction under this paragraph must be&#8212; </quote>
+         <IndentOne>(a) given by an authorised member of the CMA, and</IndentOne>
+         <IndentOne>(b) published, in such manner as an authorised member of the CMA considers appropriate, as soon as reasonably practicable after it is given.</IndentOne>
+         <quote>(7) Sub-paragraph (12) of paragraph 3 applies to the publication of a direction under sub-paragraph (6) of this paragraph as it applies to the publication of a decision under sub-paragraph (11) of that paragraph.</quote>
+         <HeadingTwo>Time limit for representations and observations by the Regulator</HeadingTwo>
+         <quote>5 (1) Sub-paragraph (2) applies where the Payment Systems Regulator wishes to make representations or observations to the CMA in relation to&#8212; </quote>
+         <IndentOne>(a) an application for permission to bring an appeal under paragraph 3;</IndentOne>
+         <IndentOne>(b) an application for a direction under paragraph 4.</IndentOne>
+         <quote>(2) The Payment Systems Regulator must make the representations or observations in writing before the end of 10 working days beginning with the first working day after the day on which it received a copy of the application under paragraph 3(5) or 4(4) (as the case may be).</quote>
+         <quote>(3) Sub-paragraph (4) applies where an application for permission to bring an appeal has been granted and the Payment Systems Regulator wishes to make representations or observations to the CMA in relation to&#8212; </quote>
+         <IndentOne>(a) the Payment Systems Regulator&#8217;s reasons for the decision in relation to which the appeal is being brought;</IndentOne>
+         <IndentOne>(b) any grounds on which that appeal is being brought against that decision.</IndentOne>
+         <quote>(4) The Payment Systems Regulator must make the representations or observations in writing before the end of 15 working days beginning with the first working day after the day on which permission to bring the appeal was granted.</quote>
+         <quote>(5) The Payment Systems Regulator must send a copy of the representations and observations it makes under this paragraph to the appellant.</quote>
+         <HeadingTwo>Consideration and determination of appeal by group</HeadingTwo>
+         <quote>6 (1) A group constituted by the chair of the CMA under Schedule 4 to the Enterprise and Regulatory Reform Act 2013 for the purpose of carrying out functions of the CMA with respect to an appeal must consist of three members of the CMA panel.</quote>
+         <quote>(2) A decision of the group is effective if, and only if&#8212; </quote>
+         <IndentOne>(a) all the members of the group are present when it is made, and</IndentOne>
+         <IndentOne>(b) at least two members of the group are in favour of the decision.</IndentOne>
+         <HeadingTwo>Time limits for determining appeal</HeadingTwo>
+         <quote>7 (1) The CMA must determine an appeal within the period of 6 months beginning with the permission date.</quote>
+         <quote>(2) If&#8212;</quote>
+         <IndentOne>(a) the CMA has received representations on the timing of the determination from a party to the appeal, and</IndentOne>
+         <IndentOne>(b) it is satisfied that there are special reasons why the determination cannot be made within the period specified in sub-paragraph (1),</IndentOne>
+         <IndentOne>the CMA must determine the appeal within the period specified by it, the CMA must determine the appeal within the period specified by it, which must not be longer than the period of 7 months beginning with the which must not be longer than the period of 7 months beginning with the permission date.permission date.</IndentOne>
+         <quote>(3) In a case where sub-paragraph (2) applies, the CMA must also&#8212;</quote>
+         <IndentOne>(a) inform the parties to the appeal of the time limit for determining the appeal, and</IndentOne>
+         <IndentOne>(b) publish that time limit in such manner as it considers appropriate for the purpose of bringing it to the attention of any other persons likely to be affected by the determination.</IndentOne>
+         <quote>(4) In this paragraph the &#8220;permission date&#8221; is the date on which the CMA gave permission to bring the appeal in accordance with section (Appeals: Appeals: generalgeneral)(8).</quote>
+         <HeadingTwo>Matters to be considered on appeal</HeadingTwo>
+         <quote>8 (1) The CMA, if it thinks it necessary to do so for the purpose of securing the determination of an appeal within the period provided for by paragraph 7, may disregard&#8212;</quote>
+         <IndentOne>(a) any or all matters raised by an appellant that were not raised by that appellant at the time of the relevant application, and</IndentOne>
+         <IndentOne>(b) any or all matters raised by the Payment Systems Regulator that were not contained in representations or observations made for the purposes of the appeal in accordance with paragraph 5.</IndentOne>
+         <quote>(2) In this paragraph &#8220;relevant application&#8221; means an application under paragraph 3 or 4.</quote>
+         <HeadingTwo>Production of documents etc</HeadingTwo>
+         <quote>9 (1) For the purposes of this Schedule, the CMA may by notice&#8212;</quote>
+         <IndentOne>(a) require a person to produce to the CMA the documents specified or otherwise identified in the notice;</IndentOne>
+         <IndentOne>(b) require any person who carries on a business to supply to the CMA such estimates, forecasts, returns or other information as may be specified or described in the notice in relation to that business.</IndentOne>
+         <quote>(2) The power to require the production of a document, or the supply of any estimate, forecast, return or other information, is a power to require its production or, as the case may be, supply&#8212; </quote>
+         <IndentOne>(a) at the time and place specified in the notice, and</IndentOne>
+         <IndentOne>(b) in a legible form.</IndentOne>
+         <quote>(3) No person is to be compelled under this paragraph to produce a document or supply an estimate, forecast, return or other information which the person could not be compelled to produce in civil proceedings in the High Court or Court of Session.</quote>
+         <quote>(4) An authorised member of the CMA may, for the purpose of the exercise of the functions of the CMA, make arrangements for copies to be taken of a document produced or an estimate, forecast, return or other information supplied to it under this paragraph.</quote>
+         <quote>(5) A notice for the purposes of this paragraph&#8212;</quote>
+         <IndentOne>(a) may be issued on the CMA&#8217;s behalf by an authorised member of the CMA;</IndentOne>
+         <IndentOne>(b) must include information about the possible consequences of not complying with the notice (as set out in paragraph 13).</IndentOne>
+         <HeadingTwo>Oral hearings</HeadingTwo>
+         <quote>10 (1) For the purposes of this Schedule an oral hearing may be held, and evidence may be taken on oath&#8212;</quote>
+         <IndentOne>(a) by a person considering an application for permission to bring an appeal under paragraph 3,</IndentOne>
+         <IndentOne>(b) by a person considering an application for a direction under paragraph 4, or</IndentOne>
+         <IndentOne>(c) by a group with the function of determining an appeal;</IndentOne>
+         <IndentOne>and, for that purpose, such a person or group may administer oaths.and, for that purpose, such a person or group may administer oaths.</IndentOne>
+         <quote>(2) The CMA may by notice require a person&#8212; </quote>
+         <IndentOne>(a) to attend at a time and place specified in the notice, and</IndentOne>
+         <IndentOne>(b) at that time and place, to give evidence to a person or group mentioned in sub-paragraph (1).</IndentOne>
+         <quote>(3) At any oral hearing the person or group conducting the hearing may&#8212; </quote>
+         <IndentOne>(a) require the appellant or the Payment Systems Regulator, if present at the hearing, to give evidence or to make representations or observations, or</IndentOne>
+         <IndentOne>(b) require a person attending the hearing as a representative of the appellant or of the Payment Systems Regulator to make representations or observations.</IndentOne>
+         <quote>(4) A person who gives oral evidence at the hearing may be cross-examined by or on behalf of any party to the appeal.</quote>
+         <quote>(5) If the appellant, the Payment Systems Regulator, or the appellant&#8217;s or Payment Systems Regulator&#8217;s representative is not present at a hearing&#8212; </quote>
+         <IndentOne>(a) there is no requirement to give notice to that person under sub-paragraph (2), and</IndentOne>
+         <IndentOne>(b) the person or group conducting the hearing may determine the application or appeal without hearing that person&#8217;s evidence, representations or observations.</IndentOne>
+         <quote>(6) No person is to be compelled under this paragraph to give evidence which the person could not be compelled to give in civil proceedings in the High Court or Court of Session.</quote>
+         <quote>(7) Where a person is required under this paragraph to attend at a place more than 10 miles from the person&#8217;s place of residence, an authorised member of the CMA must arrange for the person to be paid the necessary expenses of attendance.</quote>
+         <quote>(8) A notice for the purposes of this paragraph may be issued on the CMA&#8217;s behalf by an authorised member of the CMA.</quote>
+         <HeadingTwo>Written statements</HeadingTwo>
+         <quote>11 (1) The CMA may by notice require a person to produce a written statement with respect to a matter specified in the notice to&#8212; </quote>
+         <IndentOne>(a) a person who is considering, or is to consider, an application for a direction under paragraph 4, or</IndentOne>
+         <IndentOne>(b) a group with the function of determining an appeal.</IndentOne>
+         <quote>(2) The power to require the production of a written statement includes power&#8212;</quote>
+         <IndentOne>(a) to specify the time and place at which it is to be produced, and</IndentOne>
+         <IndentOne>(b) to require it to be verified by a statement of truth;</IndentOne>
+         <IndentOne>and a statement required to be so verified must be disregarded unless it and a statement required to be so verified must be disregarded unless it is so verified.is so verified.</IndentOne>
+         <quote>(3) No person is to be compelled under this paragraph to produce a written statement with respect to any matter about which the person could not be compelled to give evidence in civil proceedings in the High Court or Court of Session.</quote>
+         <quote>(4) A notice for the purposes of this paragraph may be issued on the CMA&#8217;s behalf by an authorised member of the CMA.</quote>
+         <HeadingTwo>Expert advice</HeadingTwo>
+         <quote>12 Where permission to bring an appeal is granted under paragraph 3, the CMA may commission expert advice with respect to any matter raised by a party to the appeal.</quote>
+         <HeadingTwo>Defaults in relation to evidence</HeadingTwo>
+         <quote>13 (1) If a person (&#8220;the defaulter&#8221;)&#8212; </quote>
+         <IndentOne>(a) fails to comply with a notice issued or other requirement imposed under paragraph 9, 10 or 11,</IndentOne>
+         <IndentOne>(b) in complying with a notice under paragraph 11, makes a statement that is false in any material particular, or</IndentOne>
+         <IndentOne>(c) in providing information verified in accordance with a statement of truth required by appeal rules, provides information that is false in a material particular,</IndentOne>
+         <IndentOne>an authorised member of the CMA may certify that fact to the court.an authorised member of the CMA may certify that fact to the court.</IndentOne>
+         <quote>(2) If the court is satisfied that the defaulter failed without reasonable excuse to comply with the notice or other requirement, or made the false statement, or provided the false information, it may deal with the defaulter (and in the case of a body corporate, any director or other officer of the body) as if that person were in contempt.</quote>
+         <quote>(3) In sub-paragraph (2) &#8220;officer&#8221;, in relation to a limited liability partnership, means a member of the limited liability partnership.</quote>
+         <quote>(4) In this paragraph &#8220;court&#8221; means&#8212;</quote>
+         <IndentOne>(a) the High Court, or</IndentOne>
+         <IndentOne>(b) in Scotland, the Court of Session.</IndentOne>
+         <quote>14 (1) A person who wilfully alters, suppresses or destroys a document which the person has been required to produce under paragraph 9 is guilty of an offence.</quote>
+         <quote>(2) A person guilty of an offence under this paragraph is liable&#8212; </quote>
+         <IndentOne>(a) on summary conviction&#8212; </IndentOne>
+         <IndentTwo>(i) in England and Wales, to imprisonment for a term not exceeding 12 months (or 6 months, if the offence was committed before the commencement of section 154(1) of the Criminal Justice Act 2003) or a fine, or both;</IndentTwo>
+         <IndentTwo>(ii) in Scotland, to imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum, or both;</IndentTwo>
+         <IndentTwo>(iii) in Northern Ireland, to imprisonment for a term not exceeding 6 months or a fine not exceeding the statutory maximum, or both;</IndentTwo>
+         <IndentOne>(b) on conviction on indictment, to imprisonment for a term not exceeding 2 years or a fine, or both.</IndentOne>
+         <HeadingTwo>Determination of appeal by CMA</HeadingTwo>
+         <quote>15 (1) A determination by the CMA on an appeal&#8212; </quote>
+         <IndentOne>(a) must be contained in an order made by the CMA;</IndentOne>
+         <IndentOne>(b) must set out the reasons for the determination;</IndentOne>
+         <IndentOne>(c) takes effect at the time specified in the order or determined in accordance with provision made in the order;</IndentOne>
+         <IndentOne>(d) must be notified by the CMA to the parties to the appeal;</IndentOne>
+         <IndentOne>(e) must be published by the CMA&#8212; </IndentOne>
+         <IndentTwo>(i) as soon as reasonably practicable after the determination is made;</IndentTwo>
+         <IndentTwo>(ii) in such manner as the CMA considers appropriate for the purpose of bringing the determination to the attention of any person likely to be affected by it (other than a party to the appeal).</IndentTwo>
+         <quote>(2) The CMA may exclude from publication under sub-paragraph (1)(e) any information which it is satisfied is&#8212; </quote>
+         <IndentOne>(a) commercial information, the disclosure of which would, or might in the CMA&#8217;s opinion, significantly harm the legitimate business interests of an undertaking to which it relates, or</IndentOne>
+         <IndentOne>(b) information relating to the private affairs of an individual, the disclosure of which would, or might in the CMA&#8217;s opinion, significantly harm the individual&#8217;s interests.</IndentOne>
+         <quote>(3) The Payment Systems Regulator must take such steps as it considers necessary for it to comply with an order of the CMA made by virtue of sub-paragraph (1)(a).</quote>
+         <quote>(4) The steps must be taken&#8212;</quote>
+         <IndentOne>(a) if a time is specified in (or is to be determined in accordance with) the order, within that time;</IndentOne>
+         <IndentOne>(b) in any other case, within a reasonable time.</IndentOne>
+         <HeadingTwo>Appeal rules</HeadingTwo>
+         <quote>16 (1) The CMA Board may make rules of procedure regulating the conduct and disposal of appeals.</quote>
+         <quote>(2) Those rules may include provision supplementing the provisions of this Schedule in relation to any application, notice, hearing, power or requirement for which this Schedule provides; and that provision may, in particular, impose time limits or other restrictions on&#8212;</quote>
+         <IndentOne>(a) the taking of evidence at an oral hearing, or</IndentOne>
+         <IndentOne>(b) the making of representations or observations at such a hearing.</IndentOne>
+         <quote>(3) The CMA Board must publish rules made under this paragraph in such manner as it considers appropriate for the purpose of bringing them to the attention of those likely to be affected by them.</quote>
+         <quote>(4) Before making rules under this paragraph, the CMA Board must consult such persons as it considers appropriate.</quote>
+         <quote>(5) Rules under this paragraph may make different provision for different cases.</quote>
+         <HeadingTwo>Costs</HeadingTwo>
+         <quote>17 (1) A group that determines an appeal must make an order requiring the payment to the CMA of the costs incurred by the CMA in connection with the appeal.</quote>
+         <quote>(2) An order under sub-paragraph (1) must require those costs to be paid&#8212; </quote>
+         <IndentOne>(a) where the appeal is allowed in full, by the Payment Systems Regulator;</IndentOne>
+         <IndentOne>(b) where the appeal is dismissed in full, by the appellant;</IndentOne>
+         <IndentOne>(c) where the appeal is partially allowed, by one or more parties in such proportions as the CMA considers appropriate in all the circumstances.</IndentOne>
+         <quote>(3) The group that determines an appeal may also make such order as it thinks fit for requiring a party to the appeal to make payments to another party in respect of costs reasonably incurred by that other party in connection with the appeal.</quote>
+         <quote>(4) A person who is required by an order under this paragraph to pay a sum to another person must comply with the order before the end of the period of 28 days beginning with the day after the making of the order.</quote>
+         <quote>(5) Sums required to be paid by an order under this paragraph but not paid within the period mentioned in sub-paragraph (4) are to bear interest at such rate as may be determined in accordance with provision contained in the order.</quote>
+         <quote>(6) Any costs payable by virtue of an order under this paragraph and any interest that has not been paid may be recovered as a civil debt by the person in whose favour the order is made.</quote>
+         <HeadingTwo>Interpretation</HeadingTwo>
+         <quote>18 (1) In this Schedule&#8212;</quote>
+         <IndentOne>&#8220;appeal&#8221; means an appeal made in accordance with section (Appeals Appeals to Competition and Markets Authorityto Competition and Markets Authority);</IndentOne>
+         <IndentOne>&#8220;appeal rules&#8221; means rules of procedure under paragraph 16;</IndentOne>
+         <IndentOne>&#8220;authorised member of the CMA&#8221;&#8212;</IndentOne>
+         <IndentTwo>(a) in relation to a power exercisable in connection with an appeal in respect of which a group has been constituted by the chair of the CMA under Schedule 4 to the Enterprise and Regulatory Reform Act 2013, means a member of that group who has been authorised by the chair of the CMA to exercise that power;</IndentTwo>
+         <IndentTwo>(b) in relation to a power exercisable in connection with an application for permission to bring an appeal, or otherwise in connection with an appeal in respect of which a group has not been so constituted by the chair of the CMA, means&#8212;</IndentTwo>
+         <IndentTwo>(i) any member of the CMA Board who is also a member of the CMA panel, or</IndentTwo>
+         <IndentTwo>(ii) any member of the CMA panel authorised by the Treasury (whether generally or specifically) to exercise the power in question;</IndentTwo>
+         <IndentOne>&#8220;CMA&#8221; means the Competition and Markets Authority;</IndentOne>
+         <IndentOne>&#8220;CMA Board&#8221; and &#8220;CMA panel&#8221; have the same meaning as in Schedule 4 to the Enterprise and Regulatory Reform Act 2013;</IndentOne>
+         <IndentOne>&#8220;group&#8221; means a group selected in accordance with paragraph 6;</IndentOne>
+         <IndentOne>&#8220;statement of truth&#8221;, in relation to the production of a statement or provision of information by a person, means a statement that the person believes the facts stated in the statement or information to be true;</IndentOne>
+         <IndentOne>&#8220;working day&#8221; means any day other than&#8212;</IndentOne>
+         <IndentTwo>(a) Saturday or Sunday;</IndentTwo>
+         <IndentTwo>(b) Christmas Day or Good Friday;</IndentTwo>
+         <IndentTwo>(c) a day which is a bank holiday under the Banking and Financial Dealings Act 1971 in any part of the United Kingdom.</IndentTwo>
+         <quote>(2) References in this Schedule to a party to an appeal are references to&#8212; </quote>
+         <IndentOne>(a) the appellant, or</IndentOne>
+         <IndentOne>(b) the Payment Systems Regulator.&#8221;</IndentOne>
+      </text>
+   </Amendment>
+</amendments>

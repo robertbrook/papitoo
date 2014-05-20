@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>Relationship, Drug and Alcohol Education (Curriculum) Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>26/2/2013</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 73" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="2" />
+<ukm:House Value="House of Commons" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsItem ContentRef="p00003">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Personal, social and health education in maintained schools</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00004">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>Short title, commencement and extent</ContentsTitle>
+</ContentsItem>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Require the Secretary of State to make provision to include relationship, drug <?new-line?>and alcohol education in the national curriculum; and for connected purposes.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<P1group id="p00003">
+<Title><?start-line?>Personal, social and health education in maintained schools</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In section 84(3) of the Education Act 2002 (curriculum foundation subjects for <?new-line?>the first, second and third key stages), after paragraph (g) there is inserted—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>ga</Pnumber>
+<P3para>
+<Text><?start-line?>personal, social and health education.</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In section 85(4) of the Education Act 2002 (curriculum foundation subjects for <?new-line?>the fourth key stage), at the end there is inserted “, and</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>personal, social and health education.</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In section 74(1) of the Education and Inspections Act 2006, which (when <?new-line?>brought into force) will substitute a new section 85 in the Education Act 2002, <?new-line?>in subsection (4) of that substituted section (foundation subjects for the fourth <?new-line?>key stage), at the end there is inserted “, and</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>personal, social and health education.</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Before section 86 of the Education Act 2002 there is inserted—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Personal, social and health education</Title>
+<P1>
+<Pnumber>85B</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>For the purposes of this Part, personal, social and health education <?new-line?>(“PSHE”) shall comprise—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>education about alcohol and tobacco;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>information about illegal recreational drugs and new <?new-line?>psychoactive substances;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>education about emotional health and well-being;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>sex and relationship education, including information about <?new-line?>same-sex relationships, sexual violence, domestic violence and <?new-line?>sexual consent;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>education about individual safety.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The National Curriculum for England is not required to specify <?new-line?>attainment targets or assessment arrangements for PSHE (and section <?new-line?>84(1) has effect accordingly).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State for Education shall set out guidance to schools <?new-line?>and colleges to ensure that a coherent approach to personal, social, <?new-line?>health and economic education is developed, including between <?new-line?>primary and secondary schools.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>It is the duty of the governing body and head teacher of any school in <?new-line?>which PSHE is provided in pursuance of this Part to secure that <?new-line?>guidance issued under subsection (3) is followed and principles set out <?new-line?>in subsections (5) to (7) are complied with.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>The first principle is that information presented in the course of <?new-line?>providing PSHE should be accurate and balanced.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>The second principle is that PSHE should be taught in a way that—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>is appropriate to the ages of the pupils concerned and to their <?new-line?>religious and cultural backgrounds, and also</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>reflects a reasonable range of religious, cultural and other <?new-line?>perspectives.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>The third principle is that PSHE should be taught in a way that—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>endeavours to promote equality,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>encourages acceptance of diversity, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>emphasises the importance of both rights and responsibilities.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>8</Pnumber>
+<P2para>
+<Text><?start-line?>In the exercise of their functions under this Part so far as relating to <?new-line?>PSHE, a local authority, governing body or head teacher shall have <?new-line?>regard to any guidance issued from time to time by the Secretary of <?new-line?>State.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00004">
+<Title><?start-line?>Short title, commencement and extent</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Act may be cited as the Relationship, Drug and Alcohol Education <?new-line?>(Curriculum) Act 2013.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>This Act comes into force at the end of the period of one month beginning with <?new-line?>the day on which it is passed.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>This Act does not extend to Scotland and Northern Ireland.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Body>
+</Primary>
+</Legislation>

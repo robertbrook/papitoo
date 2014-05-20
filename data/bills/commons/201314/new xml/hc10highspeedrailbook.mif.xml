@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>High Speed Rail (Preparation) Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>13/5/2013</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 10" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="3" />
+<ukm:House Value="House of Commons" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Cover>
+<CoverTitle>EXPLANATORY NOTES</CoverTitle>
+<CoverPara><Text><?start-line?>Explanatory notes to the Bill, prepared by the Department for Transport, are <?new-line?>published separately as Bill 10—EN.</Text></CoverPara>
+<CoverTitle>EUROPEAN CONVENTION ON HUMAN RIGHTS</CoverTitle>
+<CoverPara><Text><?start-line?>Secretary Patrick McLoughlin has made the following statement under section <?new-line?>19(1)(a) of the Human Rights Act 1998:</Text></CoverPara>
+
+<CoverPara><Text><?start-line?>In my view the provisions of the High Speed Rail (Preparation) Bill are compatible <?new-line?>with the Convention rights.</Text></CoverPara>
+</Cover><Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsItem ContentRef="p00004">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Preparatory expenditure</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00008">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>Financial reports</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00012">
+<ContentsNumber>3</ContentsNumber>
+<ContentsTitle>Extent, commencement and short title</ContentsTitle>
+</ContentsItem>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Make provision authorising expenditure in preparation for a high speed <?new-line?>railway transport network.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<P1group id="p00004">
+<Title><?start-line?>Preparatory expenditure</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<P2 id="p00005">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?><Emphasis>The Secretary of State may, with the approval of the Treasury, incur expenditure in <?new-line?>preparation for a high speed railway transport network.</Emphasis></Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The network referred to in subsection <InternalLink id="i00001" Ref="p00005">(1)</InternalLink> is a network which—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>involves the construction of railway lines connecting at least—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>London,</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>Birmingham,</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>the East Midlands,</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>Sheffield,</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>Leeds, and</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>Manchester, and</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>connects with the existing railway transport network.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00006">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The expenditure which may be incurred under subsection <InternalLink id="i00002" Ref="p00005">(1)</InternalLink> includes <?new-line?>expenditure on—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>preparation for the construction of any railway line and any other <?new-line?>infrastructure proposed to be included at any time in the network <?new-line?>referred to in subsection <InternalLink id="i00003" Ref="p00005">(1)</InternalLink>, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>preparation for the provision of services as part of that network.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The expenditure mentioned in subsection <InternalLink id="i00004" Ref="p00006">(3)</InternalLink> includes expenditure incurred—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>on pre-construction activity (such as surveying and design),</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in acquiring property, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>in providing compensation in respect of property likely to be affected.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>In this Act, references to incurring expenditure include incurring liabilities.</Text>
+</P2para>
+</P2>
+<?new-page?><P2 id="p00007">
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?><Emphasis>Expenditure incurred under this section is to be defrayed out of money provided by <?new-line?>Parliament.</Emphasis></Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00008">
+<Title><?start-line?>Financial reports</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State must prepare a report on expenditure under section 1 in <?new-line?>relation to each financial year.</Text>
+</P2para>
+</P2>
+<P2 id="p00009">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Each report must contain details of—</Text>
+<P3 id="p00010">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>expenditure incurred under section 1 during the financial year to which <?new-line?>the report relates;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>total expenditure incurred under section 1 up to the end of that year;</Text>
+</P3para>
+</P3>
+<P3 id="p00011">
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>sums or assets received in that year in connection with expenditure <?new-line?>incurred under section 1.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In this section, “financial year” means—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the period beginning with the day on which this Act is passed and <?new-line?>ending with 31 March 2015, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>each subsequent period of 12 months.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State must lay each report under this section before <?new-line?>Parliament as soon as is reasonably practicable after the end of the financial <?new-line?>year to which it relates.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>No report is required in relation to a financial year in which there is nothing to <?new-line?>record under subsection <InternalLink id="i00005" Ref="p00010">(2)(a)</InternalLink> and <InternalLink id="i00006" Ref="p00011">(c)</InternalLink>.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00012">
+<Title><?start-line?>Extent, commencement and short title</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Act extends to England and Wales and to Scotland.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>This Act comes into force on the day on which it is passed.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>This Act may be cited as the High Speed Rail (Preparation) Act 2013.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Body>
+</Primary>
+</Legislation>

@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>Communications (Unsolicited Telephone Calls and Texts) Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>23/10/2013</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 21" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="3" />
+<ukm:House Value="House of Commons" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Cover>
+<CoverTitle>EXPLANATORY NOTES</CoverTitle>
+<CoverPara><Text><?start-line?>Explanatory notes to the Bill, prepared by Mike Crockart, the Member in charge of <?new-line?>the Bill, are published separately as Bill 21—EN.</Text></CoverPara>
+</Cover><Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsItem ContentRef="p00007">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Interpretation</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00008">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>Amendment of the Regulations</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00009">
+<ContentsNumber>3</ContentsNumber>
+<ContentsTitle>Power to make further provision by order</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00010">
+<ContentsNumber>4</ContentsNumber>
+<ContentsTitle>Guidance about inappropriate direct marketing</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00011">
+<ContentsNumber>5</ContentsNumber>
+<ContentsTitle>Amendment of the Communications Act 2003</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00012">
+<ContentsNumber>6</ContentsNumber>
+<ContentsTitle>Short title, commencement and extent</ContentsTitle>
+</ContentsItem>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Reduce the incidence of unsolicited telephone calls and texts received by <?new-line?>consumers; and for connected purposes.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<P1group id="p00007">
+<Title><?start-line?>Interpretation</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<Text><?start-line?>In this Act “the Regulations” means the Privacy and Electronic <?new-line?>Communications (EC Directive) Regulations 2003 (<Citation id="c00101" Class="UnitedKingdomStatutoryInstrument" Year="2003" Number="2426">S.I. 2003/2426</Citation>).</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00008">
+<Title><?start-line?>Amendment of the Regulations</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Regulations are amended as set out in subsections (2) to (5).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?new-line?>After regulation 20(5) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>(5A) A subscriber will not have given notification to a caller for the <?new-line?>purpose of paragraph (5) unless that notification is given directly to the <?new-line?>caller by the subscriber and not obtained by the caller via another person.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>After regulation 21(4) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?> (4A) A subscriber will not have given notification to a caller for the <?new-line?>purpose of paragraph (4) unless that notification is given directly to the <?new-line?>caller by the subscriber and not obtained by the caller via another person.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>After regulation 24 insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Collection of personal data for direct marketing purposes</Title>
+<P1>
+<Pnumber>24A</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Except in the circumstances referred to in paragraph (2) a person shall <?new-line?>not collect, nor instigate the collection of, personal data from a data <?new-line?>subject if at the time of collection the person knew or ought reasonably <?new-line?>to have known that the personal data would be used—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>by any person for the purpose of direct marketing via an <?new-line?>automated calling system;</Text>
+</P3para>
+</P3>
+<?new-page?><P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>by any person for the purpose of direct marketing via facsimile <?new-line?>machine;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>by another person for the purpose of direct marketing by <?new-line?>electronic mail; or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>for one or more of the purposes in paragraphs (1)(a), (1)(b) or <?new-line?>(1)(c), even if at the time of collection it was not known precisely <?new-line?>which of those purposes the personal data would be used for.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The circumstances referred to in paragraph (1) are where, at the time <?new-line?>the person collects the personal data, he obtains the necessary consent <?new-line?>from the data subject to use the personal data.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The necessary consent referred to in paragraph (2) is—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the consent required by regulation 19(2), where paragraph <?new-line?>(1)(a) applies;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the consent required by regulation 20(2), where paragraph <?new-line?>(1)(b) applies;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>the consent required by regulation 22(2), where paragraph (1)(c) <?new-line?>applies; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>the consent required by each of regulations 19(2), 20(2) and <?new-line?>22(2) where paragraph (1)(d) applies.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Consent and notification</Title>
+<P1>
+<Pnumber>24B</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This regulation applies to any consent or notification that is required <?new-line?>for the purpose of regulation 19(2), 20(2), 20(5), 21(4) or 22(2).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Consent or notification persists for the time being only if—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the marketer has not been informed, expressly or implicitly, <?new-line?>that the consent or notification has been withdrawn;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the marketer is not aware of any other circumstances suggesting <?new-line?>that the consent or notification does not persist for the time <?new-line?>being; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>where the marketer obtained the consent or notification via a <?new-line?>third party, the person who gave the consent or notification did <?new-line?>so less than 1 year ago.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In this regulation “marketer” means a person who carries out or <?new-line?>instigates an activity for direct marketing purposes in reliance on any <?new-line?>consent or notification.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Inappropriate direct marketing</Title>
+<P1>
+<Pnumber>24C</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>A person shall neither transmit, nor instigate the transmission of—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>communications comprising recorded matter by means of an <?new-line?>automated calling or communications system;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>unsolicited communications by means of a facsimile machine; <?new-line?>or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>unsolicited communications by means of electronic mail</Text>
+</P3para>
+</P3>
+<Text><?start-line?>for the purpose of inappropriate direct marketing.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>A person shall neither use, nor instigate the use of, a public electronic <?new-line?>communications service to make or attempt to make unsolicited calls <?new-line?>for the purpose of inappropriate direct marketing.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>In Schedule 1—</Text>
+<?new-page?><P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in paragraph 1(b) for “the words “or distress” shall be omitted” <?new-line?>substitute “for the words “damage or distress” there shall be <?new-line?>substituted the words “annoyance, inconvenience or anxiety””;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>at the end of paragraph 4(a) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>(2A) If an information notice requires a person to furnish the <?new-line?>Commissioner with information about any consent or notification that the <?new-line?>person was required to obtain in order to comply with a relevant <?new-line?>requirement, and the person does not furnish sufficient information to <?new-line?>show that he obtained the requisite consent or notification, the <?new-line?>Commissioner may rely on this fact in deciding whether he is satisfied <?new-line?>that the person has contravened a relevant requirement for the purpose of <?new-line?>section 40(1).</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>(2B) For the purpose of subsection (2A), unless the Commissioner decides <?new-line?>otherwise, a person will not furnish sufficient information to show that he <?new-line?>obtained the requisite consent or notification by demonstrating that he <?new-line?>obtained the requisite consent or notification via a third party, unless he <?new-line?>also—</Text>
+<OrderedList Decoration="parens" Type="alpha">
+<ListItem>
+<Para>
+<Text><?start-line?> informs the Commissioner of the identity of the third party; and</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?> furnishes   sufficient   information   to   show   that   the  requisite <?new-line?>consent or notification was in fact obtained by the third party or by <?new-line?>another identified person.</Text>
+</Para>
+</ListItem>
+</OrderedList>
+</Para>
+</ListItem>
+</UnorderedList>
+</BlockAmendment>
+<AppendText>;</AppendText>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>after paragraph 8A(a)(ii) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="schedule" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>iii</Pnumber>
+<P2para>
+<Text><?start-line?>for “substantial damage or substantial distress” there shall be <?new-line?>substituted “annoyance, inconvenience or anxiety”</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+<AppendText>;</AppendText>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>for paragraph 8A(b) substitute—</Text>
+<BlockAmendment TargetClass="primary" Context="schedule" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>b</Pnumber>
+<P2para>
+<Text><?start-line?>in subsection (3)—</Text>
+<P3>
+<Pnumber>i</Pnumber>
+<P3para>
+<Text><?start-line?>for “data controller” there shall be substituted <?new-line?>“person”;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>ii</Pnumber>
+<P3para>
+<Text><?start-line?>for “substantial damage or substantial distress” there <?new-line?>shall be substituted “annoyance, inconvenience or <?new-line?>anxiety”</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00009">
+<Title><?start-line?>Power to make further provision by order</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State may by order specify criteria that must be met before a <?new-line?>person may rely on any consent or notification for the purpose of complying <?new-line?>with regulation 19, 20, 21 or 22 of the Regulations.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Without prejudice to the generality of subsection (1), an order under subsection <?new-line?>(1) may—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>include a requirement that specified information be given to a person <?new-line?>about any aspect of that person‘s consent or notification;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>include a requirement that the information referred to in subsection <?new-line?>(2)(a) be given in plain language; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>specify measures that a person must take, where that person has <?new-line?>obtained consent or notification via a third party, to ensure that the <?new-line?>consent or notification has been collected in such a way that it may be <?new-line?>relied upon for the purpose of complying with the Regulations.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<?new-page?><P1group id="p00010">
+<Title><?start-line?>Guidance about inappropriate direct marketing</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Commissioner may prepare and issue guidance as to what does and does <?new-line?>not constitute inappropriate direct marketing for the purposes of regulation <?new-line?>24C of the Regulations.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The Commissioner may alter or replace the guidance.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>If the guidance is altered or replaced, the Commissioner must issue the altered <?new-line?>or replacement guidance.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The Commissioner must consult the Secretary of State before issuing any <?new-line?>guidance under this section.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>The Commissioner must lay any guidance issued under this section before <?new-line?>each House of Parliament.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>The Commissioner must arrange for the publication of any guidance issued <?new-line?>under this section in such form and manner as he considers appropriate.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>In subsections (4) to (6), “guidance” includes altered or replacement guidance.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00011">
+<Title><?start-line?>Amendment of the Communications Act 2003</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Communications Act 2003 is amended as set out in subsection (2).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>After section 393(3)(i) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>j</Pnumber>
+<P3para>
+<Text><?start-line?>the Information Commissioner as appointed under section 6 of <?new-line?>the Data Protection Act 1998</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00012">
+<Title><?start-line?>Short title, commencement and extent</Title>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Act may be cited as the Communications (Reducing Unsolicited <?new-line?>Telephone Calls and Texts) Act 2013.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The provisions of this Act shall come into force on such day as the Secretary of <?new-line?>State may appoint by order made by statutory instrument.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>An order under subsection (2) may appoint different days for different <?new-line?>purposes.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>This Act has the same extent as the Regulations, except section 5 which has the <?new-line?>same extent as the Communications Act 2003.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Body>
+</Primary>
+</Legislation>

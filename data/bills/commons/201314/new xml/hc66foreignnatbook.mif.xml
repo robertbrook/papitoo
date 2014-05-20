@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>Foreign Nationals (Access to Public Services) Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>16/10/2013</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 66" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="3" />
+<ukm:House Value="House of Commons" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsItem ContentRef="p00003">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Foreign nationals: access to public services</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00004">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>Short title and commencement</ContentsTitle>
+</ContentsItem>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Restrict access by foreign nationals to United Kingdom public services for <?new-line?>which no charge is made.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<P1group id="p00003">
+<Title><?start-line?>Foreign nationals: access to public services</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>No foreign national resident in the United Kingdom shall be entitled to access <?new-line?>public services free of charge unless the exceptions or conditions provided for <?new-line?>in subsection (2) are satisfied.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State may by order provide for exceptions or conditions to be <?new-line?>made to the provisions of subsection (1).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Any power of the Secretary of State to make an order under this Act is <?new-line?>exercisable by statutory instrument.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>A statutory instrument may not be made under the provisions of this Section <?new-line?>unless a draft of the instrument has been laid before each House of Parliament <?new-line?>and approved by a resolution of each House of Parliament.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00004">
+<Title><?start-line?>Short title and commencement</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Act may be cited as the Foreign Nationals (Access to Public Services) Act <?new-line?>2013.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>This Act shall come into force at the end of the period of two months beginning <?new-line?>with the day on which this Act is passed.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Body>
+</Primary>
+</Legislation>

@@ -1,0 +1,2946 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>Cohabitation Rights Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>10/10/2013</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 49" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="3" />
+<ukm:House Value="House of Lords" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsPart>
+<ContentsNumber>Part 1</ContentsNumber>
+<ContentsTitle>Introductory</ContentsTitle>
+<ContentsItem ContentRef="p00033">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Overview</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00034">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>“Cohabitant”</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00039">
+<ContentsNumber>3</ContentsNumber>
+<ContentsTitle>“Former cohabitant”</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00040">
+<ContentsNumber>4</ContentsNumber>
+<ContentsTitle>“Relevant child”</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00042">
+<ContentsNumber>5</ContentsNumber>
+<ContentsTitle>The prohibited degrees of relationship</ContentsTitle>
+</ContentsItem>
+</ContentsPart>
+<ContentsPart>
+<ContentsNumber>Part 2</ContentsNumber>
+<ContentsTitle>Financial settlement orders</ContentsTitle>
+<ContentsPblock>
+<ContentsTitle>Application</ContentsTitle>
+<ContentsItem ContentRef="p00046">
+<ContentsNumber>6</ContentsNumber>
+<ContentsTitle>Application of Part 2</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+<ContentsPblock>
+<ContentsTitle>Financial settlement orders</ContentsTitle>
+<ContentsItem ContentRef="p00050">
+<ContentsNumber>7</ContentsNumber>
+<ContentsTitle>Application to court for a financial settlement order</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00052">
+<ContentsNumber>8</ContentsNumber>
+<ContentsTitle>Power of the court to make a financial settlement order</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00056">
+<ContentsNumber>9</ContentsNumber>
+<ContentsTitle>Discretionary factors to be considered in determining an application</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00059">
+<ContentsNumber>10</ContentsNumber>
+<ContentsTitle>Financial settlement orders</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00060">
+<ContentsNumber>11</ContentsNumber>
+<ContentsTitle>Provision supplementary to section 10</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+<ContentsPblock>
+<ContentsTitle>Opt-out agreements</ContentsTitle>
+<ContentsItem ContentRef="p00061">
+<ContentsNumber>12</ContentsNumber>
+<ContentsTitle>Agreeing to opt out of financial settlement orders</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00068">
+<ContentsNumber>13</ContentsNumber>
+<ContentsTitle>Variation or revocation by the parties of opt-out agreements</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00070">
+<ContentsNumber>14</ContentsNumber>
+<ContentsTitle>Variation or revocation by the court of opt-out agreements</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+<ContentsPblock>
+<ContentsTitle>Cohabitation agreements or deeds of trust</ContentsTitle>
+<ContentsItem ContentRef="p00072">
+<ContentsNumber>15</ContentsNumber>
+<ContentsTitle>Variation or revocation by the court of cohabitation agreements or deeds of <?new-line?>trust</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+</ContentsPart>
+<ContentsPart>
+<ContentsNumber>Part 3</ContentsNumber>
+<ContentsTitle>Provisions connected with insurance and with the death and intestacy of <?new-line?>cohabitants</ContentsTitle>
+<ContentsPblock>
+<ContentsTitle>Insurance</ContentsTitle>
+<ContentsItem ContentRef="p00075">
+<ContentsNumber>16</ContentsNumber>
+<ContentsTitle>Insurable interest in the life of the other cohabitant</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00076">
+<ContentsNumber>17</ContentsNumber>
+<ContentsTitle>Assurance policy for benefit of other cohabitant</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+<ContentsPblock>
+<ContentsTitle>Registration of death</ContentsTitle>
+<ContentsItem ContentRef="p00077">
+<ContentsNumber>18</ContentsNumber>
+<ContentsTitle>Registering the death of a cohabitant</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+<ContentsPblock>
+<ContentsTitle>Intestacy of cohabitant</ContentsTitle>
+<ContentsItem ContentRef="p00079">
+<ContentsNumber>19</ContentsNumber>
+<ContentsTitle>Succession to estate on intestacy</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00080">
+<ContentsNumber>20</ContentsNumber>
+<ContentsTitle>Intestacy: rights as respects the home</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+<ContentsPblock>
+<ContentsTitle>Financial provisions for cohabitant from deceased’s estate</ContentsTitle>
+<ContentsItem ContentRef="p00081">
+<ContentsNumber>21</ContentsNumber>
+<ContentsTitle>Application for financial provision from deceased’s estate</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00082">
+<ContentsNumber>22</ContentsNumber>
+<ContentsTitle>Further provision in connection with the death of a cohabitant</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+</ContentsPart>
+<ContentsPart>
+<ContentsNumber>Part 4</ContentsNumber>
+<ContentsTitle>Miscellaneous and general</ContentsTitle>
+<ContentsItem ContentRef="p00083">
+<ContentsNumber>23</ContentsNumber>
+<ContentsTitle>General interpretation</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00084">
+<ContentsNumber>24</ContentsNumber>
+<ContentsTitle>Jurisdiction of the courts</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00087">
+<ContentsNumber>25</ContentsNumber>
+<ContentsTitle>Power to make transitional and consequential provisions</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00089">
+<ContentsNumber>26</ContentsNumber>
+<ContentsTitle>Regulations and orders</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00090">
+<ContentsNumber>27</ContentsNumber>
+<ContentsTitle>Extent</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00091">
+<ContentsNumber>28</ContentsNumber>
+<ContentsTitle>Application</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00092">
+<ContentsNumber>29</ContentsNumber>
+<ContentsTitle>Commencement</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00094">
+<ContentsNumber>30</ContentsNumber>
+<ContentsTitle>Short title</ContentsTitle>
+</ContentsItem>
+</ContentsPart>
+<ContentsSchedules>
+<ContentsSchedule ContentRef="p00095">
+<ContentsNumber>Schedule 1</ContentsNumber>
+<ContentsTitle>Financial settlement on ceasing to live together</ContentsTitle>
+<ContentsPart>
+<ContentsNumber>Part 1</ContentsNumber>
+<ContentsTitle>Financial settlement orders</ContentsTitle>
+</ContentsPart>
+<ContentsPart>
+<ContentsNumber>Part 2</ContentsNumber>
+<ContentsTitle>Consent orders</ContentsTitle>
+</ContentsPart>
+<ContentsPart>
+<ContentsNumber>Part 3</ContentsNumber>
+<ContentsTitle>Miscellaneous</ContentsTitle>
+</ContentsPart>
+</ContentsSchedule>
+<ContentsSchedule ContentRef="p00109">
+<ContentsNumber>Schedule 2</ContentsNumber>
+<ContentsTitle>Amendments: financial provision on a cohabitant’s death</ContentsTitle>
+<ContentsPart>
+<ContentsNumber>Part 1</ContentsNumber>
+<ContentsTitle>Amendments of Administration of Estates Act 1925</ContentsTitle>
+</ContentsPart>
+<ContentsPart>
+<ContentsNumber>Part 2</ContentsNumber>
+<ContentsTitle>Amendments of Intestates’ Estates Act 1952</ContentsTitle>
+</ContentsPart>
+<ContentsPart>
+<ContentsNumber>Part 3</ContentsNumber>
+<ContentsTitle>Amendments of Family Provision Act 1966</ContentsTitle>
+</ContentsPart>
+<ContentsPart>
+<ContentsNumber>Part 4</ContentsNumber>
+<ContentsTitle>Amendments of Inheritance (Provision for Family and <?new-line?>Dependants) Act 1975</ContentsTitle>
+</ContentsPart>
+<ContentsPart>
+<ContentsNumber>Part 5</ContentsNumber>
+<ContentsTitle>Amendments of Fatal Accidents Act 1976</ContentsTitle>
+</ContentsPart>
+<ContentsPart>
+<ContentsNumber>Part 6</ContentsNumber>
+<ContentsTitle>Amendments of Law Reform (Succession) Act 1995</ContentsTitle>
+</ContentsPart>
+<ContentsPart>
+<ContentsNumber>Part 7</ContentsNumber>
+<ContentsTitle>Amendments of Civil Partnership Act 2004</ContentsTitle>
+</ContentsPart>
+</ContentsSchedule>
+</ContentsSchedules>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Provide certain protections for persons who live together as a couple or have <?new-line?>lived together as a couple; and to make provision about the property of <?new-line?>deceased persons who are survived by a cohabitant; and for connected <?new-line?>purposes.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<Part>
+<Number><?start-line?>Part 1</Number>
+<Title><?start-line?>Introductory</Title>
+<P1group id="p00033">
+<Title><?start-line?>Overview</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Act establishes a framework of rights and responsibilities for cohabitants <?new-line?>with a view to providing basic protections—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in the event of their ceasing to live together as a couple for a reason <?new-line?>other than death,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in the event of the death of one of them, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>for the purpose of enabling the life of either of them to be insured by or <?new-line?>for the benefit of the other or for the benefit of a relevant child.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The protections under this Act apply to “cohabitants” (within the meaning of <?new-line?>section 2) and “former cohabitants” (within the meaning of section 3).</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00034">
+<Title><?start-line?>“Cohabitant”</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>For the purposes of this Act, references to the cohabitants in a relationship are <?new-line?>to any two people (whether of the same sex or the opposite sex) who—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>live together as a couple, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>meet the first and second conditions specified in subsections <InternalLink id="i00001" Ref="p00035">(2)</InternalLink> and <InternalLink id="i00002" Ref="p00037">(3)</InternalLink>.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00035">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The first condition is that any of the following apply to the two people (“A” and <?new-line?>“B”) who live together as a couple—</Text>
+<?new-page?><P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>A and B are each treated in law as being mother, father or parent of the <?new-line?>same minor child,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>a joint residence order in favour of A and B is in force in respect of a <?new-line?>minor child,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>A and B are the natural parents of a child en ventre sa mere at the date <?new-line?>when A and B cease to live together as a couple (whether or not that <?new-line?>child is subsequently born alive), or</Text>
+</P3para>
+</P3>
+<P3 id="p00036">
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>A and B have lived together as a couple for a continuous period of two <?new-line?>years or more.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00037">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The second condition is that A and B—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>are neither married to each other nor civil partners of each other, and</Text>
+</P3para>
+</P3>
+<P3 id="p00038">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>are not within prohibited degrees of relationship in relation to each <?new-line?>other.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>For the purposes of subsection <InternalLink id="i00003" Ref="p00036">(2)(d)</InternalLink>, in determining the length of the <?new-line?>continuous period during which two people have lived together as a couple—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>any period of the relationship that fell before the commencement date <?new-line?>is to be taken into account, but</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>any one or more periods (not exceeding six months in all) during which <?new-line?>the parties ceased living together as a couple is to be disregarded.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>The prohibited degrees of relationship which are referred to in subsection <?new-line?><InternalLink id="i00004" Ref="p00038">(3)(b)</InternalLink> are set out in section 5.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00039">
+<Title><?start-line?>“Former cohabitant”</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<Text><?start-line?>Any reference in this Act to “former cohabitants”—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>is to any two people who were cohabitants in a relationship but who <?new-line?>have ceased living together as a couple, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>is to be taken—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>as including any two people who, although they have ceased <?new-line?>living together as a couple, continue to share accommodation <?new-line?>(whether for financial or other reasons), but</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>as not including any two people who have subsequently <?new-line?>married or become civil partners of each other.</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00040">
+<Title><?start-line?>“Relevant child”</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<P2 id="p00041">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Any reference in this Act to a “relevant child”—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in relation to cohabitants in a relationship, is to any minor child in <?new-line?>respect of whom—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>each of the cohabitants is treated in law as being mother, father <?new-line?>or parent, or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>a joint residence order in favour of both cohabitants is in force;</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in relation to former cohabitants in a relationship, is to any minor child <?new-line?>in respect of whom—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>each of the former cohabitants is treated in law as being mother, <?new-line?>father or parent, or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>a joint residence order in favour of the former cohabitants was <?new-line?>in force during the period when the former cohabitants were <?new-line?>living together as a couple.</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>“Relevant children” is to be read in accordance with subsection <InternalLink id="i00005" Ref="p00041">(1)</InternalLink>.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00042">
+<Title><?start-line?>The prohibited degrees of relationship</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<P2 id="p00043">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>For the purposes of this Act, two people are within prohibited degrees of <?new-line?>relationship if one is the other’s parent, grandparent, sister, brother, aunt or <?new-line?>uncle.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection <InternalLink id="i00006" Ref="p00043">(1)</InternalLink> references to relationships—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>are to relationships of the full blood or half blood or, in the case of an <?new-line?>adopted person, such of those relationships as would subsist but for <?new-line?>adoption, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>include the relationship of a child with his adoptive, or former <?new-line?>adoptive, parents,</Text>
+</P3para>
+</P3>
+<Text><?start-line?>but do not include any other adoptive relationships.</Text>
+</P2para>
+</P2>
+<P2 id="p00044">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>For the purposes of this Act, two people (A and B) are within prohibited <?new-line?>degrees of relationship if one of them falls within the list below in relation to <?new-line?>the other—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>Child of former civil partner</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>Child of former spouse</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>Former civil partner of grandparent</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>Former spouse of grandparent</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>Former civil partner of parent</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>Former spouse of parent</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>Grandchild of former civil partner</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>Grandchild of former spouse.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>But subsection <InternalLink id="i00007" Ref="p00044">(3)</InternalLink> does not apply where—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>A and B have both reached 21 when they start living together, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the younger (“A”) has not at any time before reaching 18—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>lived in the same household as B, in circumstances where B was <?new-line?>then in a relationship with a third person (“C”), and</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>been treated by B as a child of B’s relationship with C.</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Part>
+<Part id="p00045">
+<Number><?start-line?>Part 2</Number>
+<Title><?start-line?>Financial settlement orders</Title>
+<Pblock>
+<Title><?start-line?>Application</Title>
+<P1group id="p00046">
+<Title><?start-line?>Application of Part <InternalLink id="i00008" Ref="p00045">2</InternalLink></Title>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Part has effect to determine the financial rights and obligations of former <?new-line?>cohabitants.</Text>
+</P2para>
+</P2>
+<P2 id="p00047">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>This Part does not apply to former cohabitants—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>where the former cohabitants have ceased living together as a couple <?new-line?>before the commencement date;</Text>
+</P3para>
+</P3>
+<P3 id="p00048">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>to the extent specified in an opt-out agreement in force between former <?new-line?>cohabitants which is made in accordance with section 12 and which <?new-line?>was entered into on or after the commencement date; or</Text>
+</P3para>
+</P3>
+<?new-page?><P3 id="p00049">
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>in so far as a matter that would otherwise fall to be considered under <?new-line?>this Part is already dealt with by a cohabitation agreement or a deed of <?new-line?>trust which is in force between former cohabitants and which was <?new-line?>entered into before the commencement date.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>But, in relation to subsection <InternalLink id="i00009" Ref="p00047">(2)</InternalLink>—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>paragraph <InternalLink id="i00010" Ref="p00048">(b)</InternalLink> is subject to any variation or revocation of an opt-out <?new-line?>agreement which is made by the parties under section 13 or by the court <?new-line?>under section 14, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>paragraph <InternalLink id="i00011" Ref="p00049">(c)</InternalLink> is subject to any variation or revocation of a cohabitation <?new-line?>agreement or deed of trust which is made by the court under section 15.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>In any case where this Part applies, it has effect in place of common law rules <?new-line?>and equitable principles (including contract, estoppel and implied trusts).</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+<Pblock>
+<Title><?start-line?>Financial settlement orders</Title>
+<P1group id="p00050">
+<Title><?start-line?>Application to court for a financial settlement order</Title>
+<P1>
+<Pnumber>7</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>A former cohabitant may apply to the court for an order under section 8 (“a <?new-line?>financial settlement order”).</Text>
+</P2para>
+</P2>
+<P2 id="p00051">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>On an application under this section, the court must inquire, so far as it <?new-line?>reasonably can, into—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the facts alleged by the former cohabitant who made the application <?new-line?>(“the applicant“), and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the facts alleged by the other former cohabitant (“the respondent”).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>No application may be made under this section unless—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the application is made before the end of the period of 24 months <?new-line?>starting with the date on which the former cohabitants ceased living <?new-line?>together as a couple, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the former cohabitant who proposes to make the application satisfies <?new-line?>the court that exceptional circumstances would justify a late <?new-line?>application being made.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>No person may make more than one application under this section in relation <?new-line?>to the same respondent unless since the first such application was determined <?new-line?>the applicant and respondent have resumed living together as a couple and <?new-line?>have lived together as a couple for a continuous period of two years since such <?new-line?>resumption.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00052">
+<Title><?start-line?>Power of the court to make a financial settlement order</Title>
+<P1>
+<Pnumber>8</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The court may make a financial settlement order if—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the court is satisfied that the applicant and the respondent have ceased <?new-line?>living together as a couple,</Text>
+</P3para>
+</P3>
+<P3 id="p00053">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the court is satisfied either—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>that the respondent has retained a benefit; or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>that the applicant has an economic disadvantage,</Text>
+</P4para>
+</P4>
+<Text><?start-line?>as a result of qualifying contributions the applicant has made, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>having regard to the discretionary factors, the court considers that it is <?new-line?>just and equitable to make an order.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>For the purpose of subsection <InternalLink id="i00012" Ref="p00053">(1)(b)</InternalLink>—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>a “retained benefit” is a financial benefit which has been acquired, <?new-line?>retained or enhanced by or for the respondent during the parties’ <?new-line?>cohabitation or in contemplation of the parties’ cohabitation, whether <?new-line?>in the form of capital assets of any kind, income, whether actual or <?new-line?>potential, or earning capacity;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>an “economic disadvantage” is a past, present or future financial loss, <?new-line?>burden or cost sustained by the applicant during the parties’ <?new-line?>cohabitation or in contemplation of the parties’ cohabitation or likely to <?new-line?>be sustained by the applicant following its breakdown;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>a “qualifying contribution” is any financial or other contribution made <?new-line?>by the applicant to the parties’ shared lives or to the welfare of <?new-line?>members of their families during the parties’ cohabitation or in <?new-line?>contemplation of the parties’ cohabitation or likely to be made by the <?new-line?>applicant following its breakdown;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>the “discretionary factors” are the factors listed in section 9.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00054">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>If the court determines to make a financial settlement order, it may by its order <?new-line?>adjust any retained benefit, by reversing it in so far as it is reasonable and <?new-line?>practicable to do so, having regard to the discretionary factors listed in section <?new-line?>9.</Text>
+</P2para>
+</P2>
+<P2 id="p00055">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>If the court considers that after the reversal of any retained benefit in <?new-line?>accordance with subsection <InternalLink id="i00013" Ref="p00054">(3)</InternalLink> the applicant would still bear an economic <?new-line?>disadvantage, the court may by its order ensure that the disadvantage shall be <?new-line?>shared equally between the parties, in so far as it is reasonable and practicable <?new-line?>to do so, having regard to the discretionary factors listed in section 9.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00056">
+<Title><?start-line?>Discretionary factors to be considered in determining an application</Title>
+<P1>
+<Pnumber>9</Pnumber>
+<P1para>
+<P2 id="p00057">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In deciding whether it considers that it is just and equitable to make a financial <?new-line?>settlement order and, if it does so consider, in determining what order it should <?new-line?>make, the court must have regard to the following discretionary factors—</Text>
+<P3 id="p00058">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the welfare while a minor, of any child of both parties who has not <?new-line?>attained the age of eighteen;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the income, earning capacity, property and other financial resources <?new-line?>which each of the parties has, or is likely to have in the foreseeable <?new-line?>future (including any pension, allowance or benefit paid or to be paid <?new-line?>to either party or the eligibility of either party for a pension, allowance <?new-line?>or benefit);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>the financial needs and obligations which each of the parties has, or is <?new-line?>likely to have in the foreseeable future;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>the welfare of any children who live with or might reasonably be <?new-line?>expected to live with either party;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>the conduct of each party if, but only if, it is of such a nature that it <?new-line?>would be inequitable to disregard it;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>f</Pnumber>
+<P3para>
+<Text><?start-line?>the circumstances in which the applicant made any qualifying <?new-line?>contribution, in particular if the respondent shows that the applicant <?new-line?>made such contribution despite the respondent‘s express disagreement <?new-line?>that it should be made.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In having regard to the discretionary factors mentioned in subsection <InternalLink id="i00014" Ref="p00057">(1)</InternalLink>, first <?new-line?>consideration shall be given to the factor mentioned in subsection <InternalLink id="i00015" Ref="p00058">(1)(a)</InternalLink>.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<?new-page?><P1group id="p00059">
+<Title><?start-line?>Financial settlement orders</Title>
+<P1>
+<Pnumber>10</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>A financial settlement order may, in order to achieve the aims specified in <?new-line?>section 8<InternalLink id="i00016" Ref="p00054">(3)</InternalLink> and <InternalLink id="i00017" Ref="p00055">(4)</InternalLink>, require any one or more of the following—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>payment of a lump sum (including payment by instalments, secured <?new-line?>lump sums, lump sums paid by way of pension attachment and interim <?new-line?>payments);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>transfer of property;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>property settlements;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>sale of property;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>pension sharing.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The court may include in a financial settlement order a provision which <?new-line?>prohibits the other from applying, on the death of the applicant, for an order <?new-line?>under section 2 of the <Citation id="c00001" Year="1975" Class="UnitedKingdomPublicGeneralAct" Number="0063">Inheritance (Provision for Family and Dependants) Act <?new-line?>1975 (c. 63)</Citation>, if it considers it just to do so.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00060">
+<Title><?start-line?>Provision supplementary to section 10</Title>
+<P1>
+<Pnumber>11</Pnumber>
+<P1para>
+<Text><?start-line?>Schedule 1 to this Act makes further provision supplementing section 10 and <?new-line?>this section, including provision—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>for the purpose of securing compliance with any order made by the <?new-line?>court in connection with such an application, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>for the making of consent orders.</Text>
+</P3para>
+</P3>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+<Pblock>
+<Title><?start-line?>Opt-out agreements</Title>
+<P1group id="p00061">
+<Title><?start-line?>Agreeing to opt out of financial settlement orders</Title>
+<P1>
+<Pnumber>12</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This section has effect for the purposes of section 6(2)(b).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>An opt-out agreement is an agreement between two people which complies <?new-line?>with the requirements of the following provisions of this section.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>An opt-out agreement may be entered into on or after the commencement date.</Text>
+</P2para>
+</P2>
+<P2 id="p00062">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>A person may not enter into an opt-out agreement unless he or she has attained <?new-line?>the age of 16 years.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>Any opt-out agreement entered into in contravention of subsection <InternalLink id="i00018" Ref="p00062">(4)</InternalLink> is void.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>An opt-out agreement must contain a statement by each of the persons <?new-line?>entering into it (“A” and “B”) to the effect that each of them—</Text>
+<P3 id="p00063">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>has separately received legal advice from a qualified practitioner as to <?new-line?>the effect of the opt-out agreement and understands its effect,</Text>
+</P3para>
+</P3>
+<P3 id="p00064">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>agrees that a financial settlement order should not be available in the <?new-line?>event that A and B cease living together as a couple, and agrees that a <?new-line?>financial settlement order should not be available in the event that A <?new-line?>and B cease living together as a couple, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>specifies that the statement in paragraph <InternalLink id="i00019" Ref="p00064">(b)</InternalLink> is to apply either—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>in all circumstances, or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>only to such extent, or in such circumstances, as may be <?new-line?>specified in the agreement (for example, only in relation to any <?new-line?>one or more specified parts of A’s or B’s financial affairs or <?new-line?>assets).</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<?new-page?><P2 id="p00065">
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>An opt-out agreement must—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>be in writing,</Text>
+</P3para>
+</P3>
+<P3 id="p00066">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>be signed and dated by A and by B, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>in respect of each of A and B, be accompanied by a certificate by a <?new-line?>qualified practitioner that the practitioner has given legal advice—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>as to the terms and effect of the proposed opt-out agreement, <?new-line?>and</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>in particular, as to its effect on any rights of action the person <?new-line?>signing the agreement may have in the event of them ceasing to <?new-line?>live together as a couple.</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00067">
+<Pnumber>8</Pnumber>
+<P2para>
+<Text><?start-line?>Each signature by A and B under subsection <InternalLink id="i00020" Ref="p00066">(7)(b)</InternalLink> must be witnessed by at <?new-line?>least one person.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>9</Pnumber>
+<P2para>
+<Text><?start-line?>An opt-out agreement which is made in the prescribed form is to be taken to <?new-line?>comply with the requirements of this section.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>10</Pnumber>
+<P2para>
+<Text><?start-line?>In this section—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“prescribed” means prescribed by regulations made by the Lord <?new-line?>Chancellor;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“qualified practitioner” means a solicitor or barrister qualified in England <?new-line?>and Wales.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00068">
+<Title><?start-line?>Variation or revocation by the parties of opt-out agreements</Title>
+<P1>
+<Pnumber>13</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Where A and B have entered into an opt-out agreement in accordance with <?new-line?>section 12, A and B may by agreement vary or revoke the agreement at any <?new-line?>time.</Text>
+</P2para>
+</P2>
+<P2 id="p00069">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The requirements of section 12<InternalLink id="i00021" Ref="p00063">(6)(a)</InternalLink>, <InternalLink id="i00022" Ref="p00065">(7)</InternalLink> and <InternalLink id="i00023" Ref="p00067">(8)</InternalLink> apply to varying or revoking <?new-line?>an opt-out agreement as those requirements apply to entering into such an <?new-line?>agreement.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>For the purposes of subsection <InternalLink id="i00024" Ref="p00069">(2)</InternalLink>, any reference to the opt-out agreement is to <?new-line?>be read as a reference to the variation or revocation.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00070">
+<Title><?start-line?>Variation or revocation by the court of opt-out agreements</Title>
+<P1>
+<Pnumber>14</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Where A and B have entered into an opt-out agreement in accordance with <?new-line?>section 12, either of them may apply to the court for an order under subsection <?new-line?><InternalLink id="i00025" Ref="p00071">(2)</InternalLink>, where one of them makes an application for a financial settlement order.</Text>
+</P2para>
+</P2>
+<P2 id="p00071">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The court may vary or revoke the opt-out agreement only if the court <?new-line?>determines that the agreement is manifestly unfair to the applicant because <?new-line?>of—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the circumstances in which the agreement was entered into or varied, <?new-line?>or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>any change in the circumstances of either party which was unforeseen <?new-line?>at the time the agreement was entered into or varied.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+<?new-page?><Pblock>
+<Title><?start-line?>Cohabitation agreements or deeds of trust</Title>
+<P1group id="p00072">
+<Title><?start-line?>Variation or revocation by the court of cohabitation agreements or deeds of <?new-line?>trust</Title>
+<P1>
+<Pnumber>15</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Where one of the parties to a cohabitation agreement or deed of trust referred <?new-line?>to in section 6<InternalLink id="i00026" Ref="p00049">(2)(c)</InternalLink> makes an application for a financial settlement order, either <?new-line?>party may apply to the court for an order under subsection <InternalLink id="i00027" Ref="p00073">(2)</InternalLink>.</Text>
+</P2para>
+</P2>
+<P2 id="p00073">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The court may vary or revoke the agreement or deed in such circumstances and <?new-line?>to such extent as the court considers appropriate.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+</Part>
+<Part id="p00074">
+<Number><?start-line?>Part 3</Number>
+<Title><?start-line?>Provisions connected with insurance and with the death and intestacy of <?new-line?>cohabitants</Title>
+<Pblock>
+<Title><?start-line?>Insurance</Title>
+<P1group id="p00075">
+<Title><?start-line?>Insurable interest in the life of the other cohabitant</Title>
+<P1>
+<Pnumber>16</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Each cohabitant in a relationship is to be presumed for the purposes of section <?new-line?>1 of the <Citation id="c00002" Year="1774" Class="UnitedKingdomPublicGeneralAct" Number="0048">Life Assurance Act 1774 (c. 48)</Citation> (no insurance to be made on the lives of <?new-line?>persons having no interest, &amp;c.) to have an interest in the life of the other <?new-line?>cohabitant in the relationship.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>For the purposes of section 3 of that Act, there is no limit on the amount of <?new-line?>value of the interest.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00076">
+<Title><?start-line?>Assurance policy for benefit of other cohabitant</Title>
+<P1>
+<Pnumber>17</Pnumber>
+<P1para>
+<Text><?start-line?>Section 11 of the <Citation id="c00003" Year="1882" Class="UnitedKingdomPublicGeneralAct" Number="0075">Married Women’s Property Act 1882 (c. 75)</Citation> (money payable <?new-line?>under policy of assurance not to form part of the estate of the insured) applies <?new-line?>in relation to a policy of assurance—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>effected by a cohabitant in a relationship (“A”) on A’s own life, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>expressed to be for the benefit—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>of the other cohabitant (“B”),</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>of any child of A and B, or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text><?start-line?>of B and all such children, or any of them,</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<Text><?start-line?>as it applies in relation to a policy of assurance effected by a husband and <?new-line?>expressed to be for the benefit of his wife, or of his children, or of his wife and <?new-line?>children, or of any of them.</Text>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+<Pblock>
+<Title><?start-line?>Registration of death</Title>
+<P1group id="p00077">
+<Title><?start-line?>Registering the death of a cohabitant</Title>
+<P1>
+<Pnumber>18</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Subsection <InternalLink id="i00028" Ref="p00078">(2)</InternalLink> applies in any case where a person (“B”) dies and, immediately <?new-line?>before B’s death, B was a cohabitant in a relationship with another person <?new-line?>(“A”).</Text>
+</P2para>
+</P2>
+<P2 id="p00078">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>For the purposes of Part 2 of the <Citation id="c00004" Year="1953" Class="UnitedKingdomPublicGeneralAct" Number="0020">Births and Deaths Registration Act 1953 (c. 20)</Citation> <?new-line?>(registration of deaths)—</Text>
+<?new-page?><P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>A is to be treated as if A were a relative of B, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>A must provide information about B’s death in accordance with the <?new-line?>provisions of Part 2 of that Act.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+<Pblock>
+<Title><?start-line?>Intestacy of cohabitant</Title>
+<P1group id="p00079">
+<Title><?start-line?>Succession to estate on intestacy</Title>
+<P1>
+<Pnumber>19</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Section 46 of the <Citation id="c00005" Year="1925" Class="UnitedKingdomPublicGeneralAct" Number="0023">Administration of Estates Act 1925 (c. 23)</Citation> (succession to real <?new-line?>and personal estate on intestacy) is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (1)(i) (cases where the intestate leaves a spouse or civil partner)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in the words before the Table, for “or civil partner,” substitute “, civil <?new-line?>partner or qualifying cohabitant,”, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in the Table—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>for “the surviving spouse or civil partner”, where first <?new-line?>occurring, substitute “the surviving spouse, civil partner or <?new-line?>qualifying cohabitant (“the survivor”)”, and</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>for each subsequent occurrence of “the surviving spouse or civil <?new-line?>partner” substitute “the survivor”.</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In subsections (1)(ii) to (v) and (2A) to (4) (which make further provision about <?new-line?>the rights of spouses, civil partners and others on intestacy) for “or civil <?new-line?>partner” (in each place) substitute “civil partner or qualifying cohabitant”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>After subsection (2A) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>2B</Pnumber>
+<P2para>
+<Text><?start-line?>Where an intestate and the intestate’s spouse or civil partner have died <?new-line?>in circumstances rendering it uncertain which of them survived the <?new-line?>other, this section has effect as if the intestate did not leave any <?new-line?>qualifying cohabitant.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>After subsection (4) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>A person is a qualifying cohabitant in relation to an intestate only if—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the intestate was neither married nor in a civil partnership <?new-line?>immediately before death, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the person was immediately before the death of the intestate a <?new-line?>cohabitant in a relationship with the intestate within the <?new-line?>meaning of section 2 of the Cohabitation Rights Act 2014.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00080">
+<Title><?start-line?>Intestacy: rights as respects the home</Title>
+<P1>
+<Pnumber>20</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Schedule 2 to the <Citation id="c00006" Year="1952" Class="UnitedKingdomPublicGeneralAct" Number="0064">Intestates’ Estates Act 1952 (c. 64)</Citation> (rights of surviving spouse <?new-line?>or civil partner as respects the matrimonial or civil partnership home) is <?new-line?>amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Before paragraph 1 there is inserted—</Text>
+<BlockAmendment TargetClass="primary" Context="schedule" TargetSubClass="unknown" Format="double">
+<P1>
+<Pnumber>A1</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Schedule applies where a person dies intestate and leaves a <?new-line?>spouse, civil partner or qualifying cohabitant.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In this Schedule—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“qualifying cohabitant” has the meaning given by section 46(5) <?new-line?>of the principal Act;</Text>
+</Para>
+</ListItem>
+<?new-page?><ListItem>
+<Para>
+<Text><?start-line?>“the survivor” means the surviving spouse, civil partner or <?new-line?>qualifying cohabitant.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In paragraphs 1 to 6, for “the surviving spouse or civil partner” (in each place) <?new-line?>there is substituted “the survivor”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>In paragraph 6(2) for “a surviving spouse or civil partner” there is substituted <?new-line?>“a surviving spouse, civil partner or qualifying cohabitant”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>For the title there is substituted—</Text>
+<BlockAmendment TargetClass="primary" Context="schedule" TargetSubClass="unknown" Format="double">
+<Schedule NumberFormat="default">
+<Number><?start-line?>Schedule 1</Number>
+<TitleBlock>
+<Title><?start-line?>Rights of surviving spouse, civil partner or qualifying cohabitant as <?new-line?>respects the home</Title>
+</TitleBlock>
+<ScheduleBody>
+</ScheduleBody>
+</Schedule>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+<Pblock>
+<Title><?start-line?>Financial provisions for cohabitant from deceased’s estate</Title>
+<P1group id="p00081">
+<Title><?start-line?>Application for financial provision from deceased’s estate</Title>
+<P1>
+<Pnumber>21</Pnumber>
+<P1para>
+<Text><?start-line?>In section 1 of the <Citation id="c00007" Year="1975" Class="UnitedKingdomPublicGeneralAct" Number="0063">Inheritance (Provision for Family and Dependants) Act 1975 <?new-line?>(c. 63)</Citation> for subsections (1A) and (1B) (certain persons entitled to apply for <?new-line?>provision) there is substituted—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>1A</Pnumber>
+<P2para>
+<Text><?start-line?>This subsection applies to any person who was immediately before the <?new-line?>death of the deceased a cohabitant in a relationship with the deceased <?new-line?>within the meaning of section 2 of the Cohabitation Rights Act 2014.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00082">
+<Title><?start-line?>Further provision in connection with the death of a cohabitant</Title>
+<P1>
+<Pnumber>22</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Schedule 2 to this Act contains additional provision—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>to align with this Act certain existing statutory protections that are <?new-line?>available to a surviving cohabitant on the death of the other cohabitant, <?new-line?>and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>to extend to the surviving cohabitant certain connected provisions.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Part <InternalLink id="i00029" Ref="p00110">1</InternalLink> of Schedule 2—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>amends the <Citation id="c00008" Year="1975" Class="UnitedKingdomPublicGeneralAct" Number="0063">Inheritance (Provision for Family and Dependants) Act <?new-line?>1975</Citation>, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>includes provision setting out circumstances in which a former <?new-line?>cohabitant who receives no reasonable financial provision from the <?new-line?>deceased’s estate may apply to the court.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Part <InternalLink id="i00030" Ref="p00112">2</InternalLink> of Schedule 2—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>amends the <Citation id="c00009" Year="1976" Class="UnitedKingdomPublicGeneralAct" Number="0030">Fatal Accidents Act 1976 (c. 30)</Citation>, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>includes provision for the court to consider a claim for bereavement <?new-line?>damages which is made by a surviving cohabitant.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+</Part>
+<Part>
+<Number><?start-line?>Part 4</Number>
+<Title><?start-line?>Miscellaneous and general</Title>
+<P1group id="p00083">
+<Title><?start-line?>General interpretation</Title>
+<P1>
+<Pnumber>23</Pnumber>
+<P1para>
+<Text><?start-line?>In this Act, except where the context otherwise requires—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“the applicant” and “the respondent”, in relation to an application for a <?new-line?>financial settlement order, have the meaning given in section 7<InternalLink id="i00031" Ref="p00051">(2)</InternalLink>;</Text>
+</Para>
+</ListItem>
+<?new-page?><ListItem>
+<Para>
+<Text><?start-line?>“cohabitant” has the meaning given in section 2;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“the court” has the meaning given in section 24;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“the commencement date”, in relation to any provision of this Act, means <?new-line?>the date of the coming into force of that provision;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“financial settlement order” means an order under section 8;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“former cohabitant” has the meaning given in section 3;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“relevant child” has the meaning given in section 4;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“residence order” has the same meaning as in the <Citation id="c00010" Year="1989" Class="UnitedKingdomPublicGeneralAct" Number="0041">Children Act 1989 <?new-line?>(c. 41)</Citation>.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00084">
+<Title><?start-line?>Jurisdiction of the courts</Title>
+<P1>
+<Pnumber>24</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>For the purposes of this Act, the court means—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the High Court, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>where a county court has jurisdiction by virtue of an order made under <?new-line?>this section, a county court.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00085">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The Lord Chancellor may by order specify proceedings under this Act which <?new-line?>may only be commenced in—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>a specified level of court,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>a court which falls within a specified class of court, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>a particular court determined in accordance with, or specified in, the <?new-line?>order.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00086">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The Lord Chancellor may by order specify circumstances in which specified <?new-line?>proceedings under this Act may only be commenced in—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>a specified level of court,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>a court which falls within a specified class of court, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>a particular court determined in accordance with, or specified in the <?new-line?>order.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>For the purposes of subsections <InternalLink id="i00032" Ref="p00085">(2)</InternalLink> and <InternalLink id="i00033" Ref="p00086">(3)</InternalLink>, the levels of the court are—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the High Court, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>a county court.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00087">
+<Title><?start-line?>Power to make transitional and consequential provisions</Title>
+<P1>
+<Pnumber>25</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Lord Chancellor may by order make—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>any incidental, consequential or supplemental provision, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>any transitional or saving provision,</Text>
+</P3para>
+</P3>
+<Text><?start-line?>that the Lord Chancellor considers necessary or expedient for the purposes of, <?new-line?>in consequence of, or for giving full effect to, any provision of this Act.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The power under this section is not restricted by any other provision of this <?new-line?>Act.</Text>
+</P2para>
+</P2>
+<P2 id="p00088">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>An order under this section may amend, repeal or revoke any provision of—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>an Act passed before or in the same session as this Act, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>subordinate legislation made before the passing of this Act.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>In this section “subordinate legislation” has the same meaning as in the <?new-line?><Citation id="c00011" Year="1978" Class="UnitedKingdomPublicGeneralAct" Number="0030">Interpretation Act 1978 (c. 30)</Citation>.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<?new-page?><P1group id="p00089">
+<Title><?start-line?>Regulations and orders</Title>
+<P1>
+<Pnumber>26</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Regulations and orders made under this Act are to be made by statutory <?new-line?>instrument.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Any statutory instrument made under this Act may—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>make different provision for different cases,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>contain such incidental, consequential, transitional or supplemental <?new-line?>provision as the Lord Chancellor considers appropriate.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>No order is to be made under—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>section 25<InternalLink id="i00034" Ref="p00088">(3)</InternalLink>, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>paragraph <InternalLink id="i00035" Ref="p00107">13</InternalLink> of Schedule 1 to this Act,</Text>
+</P3para>
+</P3>
+<Text><?start-line?>unless a draft of the order has been laid before, and approved by a resolution <?new-line?>of, each House of Parliament.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Any other such statutory instrument made under this Act is subject to <?new-line?>annulment in pursuance of a resolution of either House of Parliament.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00090">
+<Title><?start-line?>Extent</Title>
+<P1>
+<Pnumber>27</Pnumber>
+<P1para>
+<Text><?start-line?>This Act extends to England and Wales only.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00091">
+<Title><?start-line?>Application</Title>
+<P1>
+<Pnumber>28</Pnumber>
+<P1para>
+<Text><?start-line?>Part <InternalLink id="i00036" Ref="p00074">3</InternalLink> of this Act applies only in relation to deaths occurring after the coming <?new-line?>into force of this Act (apart from this section).</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00092">
+<Title><?start-line?>Commencement</Title>
+<P1>
+<Pnumber>29</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The following provisions of this Act come into force on the passing of this <?new-line?>Act—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>this Part,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>sections 12 and 13, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>any other provision of this Act so far as is necessary for enabling the <?new-line?>exercise on or after the day on which this Act is passed of any power to <?new-line?>make orders or regulations that is conferred by the provision.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00093">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The other provisions of this Act come into force in accordance with provision <?new-line?>made by order by the Lord Chancellor.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>An order under subsection <InternalLink id="i00037" Ref="p00093">(2)</InternalLink> may appoint different days for different <?new-line?>purposes.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00094">
+<Title><?start-line?>Short title</Title>
+<P1>
+<Pnumber>30</Pnumber>
+<P1para>
+<Text><?start-line?>This Act may be cited as the Cohabitation Rights Act 2014.</Text>
+</P1para>
+</P1>
+</P1group>
+</Part>
+</Body>
+<?new-page?>
+<Schedules>
+<Title><?start-line?>SCHEDULES</Title>
+<Schedule id="p00095" NumberFormat="default">
+<Number><?start-line?>SCHEDULE 1</Number>
+<TitleBlock>
+<Title><?start-line?>Financial settlement on ceasing to live together</Title>
+</TitleBlock>
+<Reference>Section 10</Reference>
+<ScheduleBody>
+<Part>
+<Number><?start-line?>Part 1</Number>
+<Title><?start-line?>Financial settlement orders</Title>
+<P1group>
+<Title><?start-line?>Introductory</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<Text><?start-line?>In this Part of the Schedule, “specified”, in relation to a step which a financial <?new-line?>settlement order requires to be taken, means specified in the order.</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<Text><?start-line?>If the court decides to grant an application for a financial settlement order it <?new-line?>may require either the applicant or the respondent to take such of the steps <?new-line?>set out in paragraphs 3 to 6 as may be specified in the order.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Orders requiring lump sums</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<P2 id="p00096">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In a financial settlement order, the court may require that either the <?new-line?>applicant or the respondent must pay to the other such lump sum or sums <?new-line?>as may be specified.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Where a financial settlement order requires the payment of a lump sum, the <?new-line?>order may—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>provide for payment of the sum by instalments of a specified <?new-line?>amount, and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>require the payment of instalments to be secured to the satisfaction <?new-line?>of the court,</Text>
+
+</P3para></P3>
+<Text><?start-line?>but this does not restrict the powers of the court to impose requirements <?new-line?>under sub-paragraph <InternalLink id="i00038" Ref="p00096">(1)</InternalLink>.</Text>
+</P2para>
+</P2>
+<P2 id="p00097">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>If the court —</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>makes a financial settlement order requiring the payment of a lump <?new-line?>sum, and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>directs that—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>payment of the sum or any part of it is to be deferred, or</Text>
+
+</P4para></P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>the sum or any part of it is to be paid by instalments,</Text>
+
+</P4para></P4>
+
+</P3para></P3>
+<Text><?start-line?>the court may provide for the deferred amount or the instalments to carry <?new-line?>interest at a specified rate from a specified date until the date when payment <?new-line?>of it is due.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>A date specified under sub-paragraph <InternalLink id="i00039" Ref="p00097">(3)</InternalLink> must not be earlier than the date <?new-line?>of the financial settlement order.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<?new-page?><P1group>
+<Title><?start-line?>Orders requiring adjustments to property</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<P2 id="p00098">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In a financial settlement order, the court may require—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>that the applicant or the respondent must transfer specified property <?new-line?>to which he or she is entitled to the other of them;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>that a settlement of a specified property to which the applicant or the <?new-line?>respondent is entitled be made to the satisfaction of the court for the <?new-line?>benefit of the other of them;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>that a relevant settlement be varied for the benefit of the applicant or <?new-line?>the respondent, or both of them;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>that the interest of either the applicant or the respondent under a <?new-line?>relevant settlement be extinguished or reduced.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In sub-paragraph <InternalLink id="i00040" Ref="p00098">(1)</InternalLink>—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“entitled” means entitled in possession or reversion;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“relevant settlement”, in relation to the applicant and the respondent <?new-line?>means a settlement made on them whilst they were living together <?new-line?>as a couple or in anticipation of them living together as a couple, <?new-line?>and—</Text>
+<OrderedList Decoration="parens" Type="alpha">
+<ListItem>
+<Para>
+<Text><?start-line?>it includes a settlement made by will or codicil, but</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>it does not include a settlement in the form of a pension <?new-line?>arrangement (within the meaning of paragraph 6(3)(d)).</Text>
+</Para>
+</ListItem>
+</OrderedList>
+</Para>
+</ListItem>
+</UnorderedList>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Orders requiring sale of property</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This paragraph applies in any case where the court proposes to include in a <?new-line?>financial settlement order a requirement under—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>paragraph <InternalLink id="i00041" Ref="p00096">3(1)</InternalLink> to make a lump sum payment, or</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>paragraph <InternalLink id="i00042" Ref="p00098">4(1)</InternalLink> to make an adjustment to property.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In the same financial settlement order, the court may require the sale of <?new-line?>specified property in which, or in the proceeds of sale of which, either the <?new-line?>applicant or the respondent (or both) has or have a beneficial interest, either <?new-line?>in possession or reversion.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Where—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the court is considering whether to require the sale of a property, and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>another person (“C”) also has a beneficial interest in the property or <?new-line?>the proceeds,</Text>
+
+</P3para></P3>
+<Text><?start-line?>the court must give C an opportunity to make representations with respect <?new-line?>to the proposed sale and, in determining whether to require the sale, it must <?new-line?>have regard to any representations made by C.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Any financial settlement order requiring a sale of property may contain such <?new-line?>consequential or supplementary provisions as the court considers <?new-line?>appropriate.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>Such provision may, in particular—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>require the making of a payment out of the proceeds of sale of the <?new-line?>property to which the financial settlement order relates, and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>require any property to which the order relates to be offered for sale <?new-line?>to a specified person, or class of persons.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<?new-page?><P1group>
+<Title><?start-line?>Orders requiring pension sharing</Title>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In a financial settlement order, the court may require that the applicant or <?new-line?>the respondent’s—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>shareable rights under a specified pension arrangement, or</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>shareable state scheme rights,</Text>
+
+</P3para></P3>
+<Text><?start-line?>are to be subject to pension sharing for the benefit of the other and, if the <?new-line?>court imposes such a requirement, it must specify the percentage value to be <?new-line?>transferred.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>If a pension sharing order relates to rights under a pension arrangement, the <?new-line?>court may include in the order provision about the apportionment between <?new-line?>the applicant and the respondent of any charge under section 41 of the 1999 <?new-line?>Act (charges in respect of pension sharing costs).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In this paragraph—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>“the 1999 Act” means the <Citation id="c00012" Year="1999" Class="UnitedKingdomPublicGeneralAct" Number="0030">Welfare Reform and Pensions Act 1999 <?new-line?>(c. 30)</Citation>;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>references to shareable rights under a pension arrangement are to <?new-line?>rights in relation to which pension sharing is available under <?new-line?>Chapter 1 of Part 4 of the 1999 Act;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>references to shareable state scheme rights are to rights in relation to <?new-line?>which pension sharing is available under Chapter 2 of Part 4 of the <?new-line?>1999 Act; and</Text>
+
+</P3para></P3>
+<P3 id="p00099">
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>“pension arrangement” means any of the following—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>an occupational pension scheme,</Text>
+
+</P4para></P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>a personal pension scheme,</Text>
+
+</P4para></P4>
+<P4>
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text><?start-line?>a retirement annuity contract,</Text>
+
+</P4para></P4>
+<P4>
+<Pnumber>iv</Pnumber>
+<P4para>
+<Text><?start-line?>an annuity or insurance policy purchased, or transferred, for <?new-line?>the purpose of giving effect to rights under an occupational <?new-line?>pension scheme or a personal pension scheme, and</Text>
+
+</P4para></P4>
+<P4>
+<Pnumber>v</Pnumber>
+<P4para>
+<Text><?start-line?>an annuity purchased, or entered into, for the purpose of <?new-line?>discharging liability in respect of a pension credit under <?new-line?>section 29(1)(b) of the 1999 Act.</Text>
+
+</P4para></P4>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>In sub-paragraph <InternalLink id="i00043" Ref="p00099">(3)(d)</InternalLink>—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“personal pension scheme” and “occupational pension scheme” have <?new-line?>the same meaning as in the <Citation id="c00013" Year="1993" Class="UnitedKingdomPublicGeneralAct" Number="0048">Pension Schemes Act 1993 (c. 48)</Citation>;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“retirement annuity contract” means a contract or scheme approved <?new-line?>under Chapter 3 of Part 14 of the <Citation id="c00014" Year="1988" Class="UnitedKingdomPublicGeneralAct" Number="0001">Income and Corporation Taxes Act <?new-line?>1988 (c. 1)</Citation>.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Part>
+<Part id="p00100">
+<Title><?start-line?>Consent orders</Title>
+<P1group>
+<Title><?start-line?>Making a consent order</Title>
+<P1>
+<Pnumber>7</Pnumber>
+<P1para>
+<Text><?start-line?>Regardless of anything in Part 1 of this Schedule, on an application for a <?new-line?>consent order under this paragraph, the court may, unless it has reason to <?new-line?>think that there are other circumstances into which it ought to inquire, make <?new-line?>an order in the terms agreed on the basis only of such information supplied <?new-line?>with the application as is required by rules of court.</Text>
+</P1para>
+</P1>
+</P1group>
+<?new-page?><P1group>
+<Title><?start-line?>Interpretation</Title>
+<P1>
+<Pnumber>8</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In this Part of this Schedule—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“consent order”, in relation to an application for an order, means an <?new-line?>order in the terms applied for to which the respondent agrees;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“relevant agreement” means any agreement in writing between former <?new-line?>cohabitants which is made after they have ceased living together as <?new-line?>a couple and contains financial arrangements.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>For these purposes, “financial arrangements” means provisions governing <?new-line?>the rights and liabilities towards one another, once former cohabitants have <?new-line?>ceased living together as a couple in respect of—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the making or securing of payments, or</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the disposition or use of any property.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Validity of relevant agreements</Title>
+<P1>
+<Pnumber>9</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>If a relevant agreement includes a provision purporting to restrict any right <?new-line?>to apply to a court for an order containing financial arrangements—</Text>
+<P3 id="p00101">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>that provision is void, but</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>any other financial arrangements contained in the relevant <?new-line?>agreement—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>are not void or unenforceable as a result, and</Text>
+
+</P4para></P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>unless void or unenforceable for any other reason, are <?new-line?>binding on the parties to the agreement (but this is subject to <?new-line?>any alteration made under paragraph 11).</Text>
+
+</P4para></P4>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Nothing in sub-paragraph <InternalLink id="i00044" Ref="p00101">(1)(a)</InternalLink> affects the validity of any opt-out <?new-line?>agreement entered into in accordance with section 12.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Saving</Title>
+<P1>
+<Pnumber>10</Pnumber>
+<P1para>
+<Text><?start-line?>Nothing in this Part of this Schedule affects—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>any power of a court before which any proceedings between the <?new-line?>parties to a relevant agreement are brought under any other <?new-line?>enactment (including a provision of this Schedule) to make an order <?new-line?>containing financial arrangements, or</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>any right of either party to apply for such an order in such <?new-line?>proceedings.</Text>
+
+</P3para></P3>
+</P1para>
+</P1>
+</P1group>
+</Part>
+<Part>
+<Title><?start-line?>Miscellaneous</Title>
+<P1group>
+<Title><?start-line?>Avoidance of transactions intended to prevent or reduce financial relief</Title>
+<P1 id="p00102">
+<Pnumber>11</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This paragraph applies in proceedings brought by one person (“A”) against <?new-line?>another (“B”) for the purpose of obtaining any financial relief by virtue of a <?new-line?>financial settlement order.</Text>
+</P2para>
+</P2>
+<P2 id="p00103">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>If the court is satisfied, on an application by A, that B is, with the intention <?new-line?>of defeating A’s claim for financial relief, about to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>make any disposition, or</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>transfer out of the jurisdiction or otherwise deal with any property,</Text>
+
+</P3para></P3>
+<Text><?start-line?>it may make such order as it thinks appropriate for restraining B from doing <?new-line?>so or otherwise for protecting the claim.</Text>
+</P2para>
+</P2>
+<?new-page?><P2 id="p00104">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>If the court is satisfied, on an application by A—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>that B has, with the intention of defeating A’s claim for financial <?new-line?>relief, made a reviewable disposition, and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>that if the disposition were set aside, financial relief or different <?new-line?>financial relief would be granted to A,</Text>
+
+</P3para></P3>
+<Text><?start-line?>the court may make an order setting aside the disposition.</Text>
+</P2para>
+</P2>
+<P2 id="p00105">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>If the court is satisfied, on an application by A in a case where a financial <?new-line?>settlement order has been obtained by A against B, that B has, with the <?new-line?>intention of defeating A’s claim for financial relief, made a reviewable <?new-line?>disposition, it may make an order setting aside the disposition.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>An application for the purposes of sub-paragraph <InternalLink id="i00045" Ref="p00104">(3)</InternalLink> must be made in the <?new-line?>proceedings for the financial relief in question.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>If the court makes an order under sub-paragraph <InternalLink id="i00046" Ref="p00104">(3)</InternalLink> or <InternalLink id="i00047" Ref="p00105">(4)</InternalLink> setting aside a <?new-line?>disposition, it must give such consequential directions as it thinks <?new-line?>appropriate for giving effect to the order (including directions requiring the <?new-line?>making of any payments or the disposal of any property making of any <?new-line?>payments or the disposal of any property).</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Provision supplementary to paragraph 11</Title>
+<P1>
+<Pnumber>12</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Any reference in paragraph <InternalLink id="i00048" Ref="p00102">11</InternalLink> to defeating A’s claim for financial relief is <?new-line?>to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>preventing financial relief from being granted to A,</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>reducing the amount of any financial relief which might be so <?new-line?>granted, or</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>frustrating or impeding the enforcement of any financial settlement <?new-line?>order which might be or has been made at A’s instance.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In paragraph <InternalLink id="i00049" Ref="p00102">11</InternalLink> and this paragraph “disposition”—</Text>
+<P3 id="p00106">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>does not include any provision contained in a will or codicil, but</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>subject to paragraph <InternalLink id="i00050" Ref="p00106">(a)</InternalLink>, includes any conveyance, assurance or gift <?new-line?>of property of any description (whether made by an instrument or <?new-line?>otherwise).</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Any disposition made by B (whether before or after the commencement of <?new-line?>the proceedings for financial relief) is a reviewable disposition for the <?new-line?>purposes of paragraph <InternalLink id="i00051" Ref="p00104">11(3)</InternalLink> and <InternalLink id="i00052" Ref="p00105">(4)</InternalLink> unless it was made—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>for valuable consideration (other than marriage), and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>to a person who, at the time of the disposition, acted in relation to it <?new-line?>in good faith and without notice of any intention on B’s part to defeat <?new-line?>A’s claim for financial relief.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>If an application is made under paragraph <InternalLink id="i00053" Ref="p00102">11</InternalLink> with respect to a disposition <?new-line?>which took place less than 3 years before the date of the application, or with <?new-line?>respect to a disposition or other dealing with property which is about to take <?new-line?>place, and the court is satisfied—</Text>
+</P2para>
+</P2>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in a case falling within paragraph <InternalLink id="i00054" Ref="p00103">11(2)</InternalLink> or <InternalLink id="i00055" Ref="p00104">(3)</InternalLink>, that the disposition or <?new-line?>other dealing would (apart from paragraph <InternalLink id="i00056" Ref="p00102">11</InternalLink>) have the <?new-line?>consequence of defeating A’s claim for financial relief, or</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in a case falling within paragraph <InternalLink id="i00057" Ref="p00105">11(4)</InternalLink>, that the disposition has had <?new-line?>the consequence of defeating A’s claim for financial relief,</Text>
+
+</P3para></P3>
+<?new-page?><Text><?start-line?>it is presumed, unless the contrary is shown, that the person who disposed <?new-line?>of or is about to dispose of or deal with the property did so or, as the case <?new-line?>may be, is about to do so, with the intention of defeating A’s claim for <?new-line?>financial relief.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Power to make consequential and supplemental provision</Title>
+<P1 id="p00107">
+<Pnumber>13</Pnumber>
+<P1para>
+<P2 id="p00108">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Lord Chancellor may by order make such further provision as the Lord <?new-line?>Chancellor considers appropriate for the purposes of, in consequence of, or <?new-line?>for giving full effect to sections 10 and 11 and this Schedule.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>An order under sub-paragraph <InternalLink id="i00058" Ref="p00108">(1)</InternalLink> may include provision for or in <?new-line?>connection with, in particular—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the making of financial settlement orders having regard to pension <?new-line?>benefits,</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the assumption of responsibility for payments required by financial <?new-line?>settlement orders in cases where compensation is payable under <?new-line?>Chapter 3 of Part 2 of the <Citation id="c00015" Year="2004" Class="UnitedKingdomPublicGeneralAct" Number="0035">Pensions Act 2004 (c. 35)</Citation> (pension <?new-line?>protection),</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>the alteration after the death of the parties of relevant agreements in <?new-line?>respect of which a consent order has been made under Part 2 of this <?new-line?>Schedule.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Part>
+</ScheduleBody>
+</Schedule>
+<Schedule id="p00109" NumberFormat="default">
+<Number><?start-line?>SCHEDULE 2</Number>
+<TitleBlock>
+<Title><?start-line?>Amendments: financial provision on a cohabitant’s death</Title>
+</TitleBlock>
+<Reference>Section 22</Reference>
+<ScheduleBody>
+<Part id="p00110">
+<Number><?start-line?>Part 1</Number>
+<Title><?start-line?>Amendments of Administration of Estates Act 1925</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<P2 id="p00111">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Administration of Estates Act 1925 is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In section 47A (right of surviving spouse or civil partner to have own life <?new-line?>interest redeemed), in subsection (1) and the proviso to subsection (5), for <?new-line?>“or civil partner” substitute “, civil partner or qualifying cohabitant”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In section 48(2) (powers of personal representative in respect of interests of <?new-line?>surviving spouse or civil partner) in paragraphs (a) and (b), for “or civil <?new-line?>partner” substitute “, civil partner or qualifying cohabitant”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>In section 55(1) (definitions), after paragraph (iv) there is inserted—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P4>
+<Pnumber>iva</Pnumber>
+<P4para>
+<Text><?start-line?>qualifying cohabitant” has the meaning given by <?new-line?>section 46(5)</Text>
+</P4para>
+</P4>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</Part>
+<Part id="p00112">
+<Number><?start-line?>Part 2</Number>
+<Title><?start-line?>Amendments of Intestates’ Estates Act 1952</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<Text><?start-line?>In the Intestates’ Estates Act 1952, for section 5 (rights of surviving spouse </Text><?new-page?><?start-line?>  <Text>or civil partner as respects the matrimonial home) substitute—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Rights of surviving spouse, civil partner or qualifying cohabitant as <?new-line?>respects the home</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<Text><?start-line?>The Second Schedule to this Act (rights of surviving spouse, civil <?new-line?>partner or qualifying cohabitant as respects the home) has effect.</Text>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P1para>
+</P1>
+</Part>
+<Part>
+<Number><?start-line?>Part 3</Number>
+<Title><?start-line?>Amendments of Family Provision Act 1966</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<Text><?start-line?>In the Family Provision Act 1966, in section 1(1) (increase of net sum payable <?new-line?>to surviving spouse or civil partner on intestacy), for “or civil partner” <?new-line?>substitute “, civil partner or qualifying cohabitant (within the meaning given <?new-line?>by section 46(5) of that Act)”.</Text>
+</P1para>
+</P1>
+</Part>
+<Part>
+<Number><?start-line?>Part 4</Number>
+<Title><?start-line?>Amendments of Inheritance (Provision for Family and Dependants) Act 1975</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<Text><?start-line?>In this Part of this Schedule “the 1975 Act” means the <Citation id="c00016" Year="1975" Class="UnitedKingdomPublicGeneralAct" Number="0063">Inheritance (Provision <?new-line?>for Family and Dependants) Act 1975 (c. 63)</Citation>.</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<Text><?start-line?>In section 1 of the 1975 Act (application for financial provision from the <?new-line?>deceased’s estate)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in subsection(1)(ba) omit “or 1B”;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>for subsection (1A) substitute—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>1A</Pnumber>
+<P2para>
+<Text><?start-line?>This subsection applies to a person if immediately before the <?new-line?>deceased died, the person and the deceased were cohabitants <?new-line?>within the meaning of the Cohabitants Rights Act 2014.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+<AppendText>;</AppendText>
+
+</P3para></P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>for subsection (1B) substitute—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>1B</Pnumber>
+<P2para>
+<Text><?start-line?>Section 14B of this Act sets out the circumstances in which a <?new-line?>former cohabitant may apply for an order under section 2 of <?new-line?>this Act.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+<AppendText>;</AppendText>
+
+</P3para></P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>after subsection (2)(aa) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>ab</Pnumber>
+<P3para>
+<Text><?start-line?>in the case of an application made by virtue of <?new-line?>subsection (1)(ba), means such financial provision as <?new-line?>it would be reasonable in all the circumstances of the <?new-line?>case for the surviving cohabitant to receive, whether <?new-line?>or not that provision is required for his or her <?new-line?>maintenance;</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>; and</AppendText>
+
+</P3para></P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>in subsection (2)(b), after “by virtue of subsection (1) above” insert <?new-line?>“or section 14B below”.</Text>
+
+</P3para></P3>
+</P1para>
+</P1>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<Text><?start-line?>In section 2 of the 1975 Act (power of the court to make orders), after <?new-line?>subsection (1)(g), insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>h</Pnumber>
+<P3para>
+<Text><?start-line?>an order varying any settlement, including a settlement made <?new-line?>by will—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>made on two persons, one of whom was the deceased, <?new-line?>who immediately before the deceased died were <?new-line?>cohabitants within the meaning of the Cohabitation <?new-line?>Rights Act 2014, and</Text>
+</P4para>
+</P4>
+<?new-page?><P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>made at any time when they were cohabitants, when <?new-line?>they were living together as a couple but before <?new-line?>becoming cohabitants within the meaning of that Act <?new-line?>or in anticipation of them living together as a couple,</Text>
+</P4para>
+</P4>
+<Text><?start-line?>the variation being for the benefit of the surviving cohabitant, <?new-line?>or any relevant child.</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+</P1para>
+</P1>
+<P1>
+<Pnumber>7</Pnumber>
+<P1para>
+<Text><?start-line?>In section 3 of the 1975 Act (matters to which the court is to have regard in <?new-line?>exercising powers under section 2), for subsection (2A) substitute—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>2A</Pnumber>
+<P2para>
+<Text><?start-line?>Without prejudice to the generality of paragraph (g) of subsection (1) <?new-line?>above, where an applicant for an order under section 2 of this Act is <?new-line?>made by virtue of section 1(1)(ba) of this Act, the court shall, in <?new-line?>addition to the matters specifically mentioned in paragraphs (a) to (f) <?new-line?>of that subsection, have regard to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the age of the applicant and the length of the period during <?new-line?>which the applicant and the deceased lived together as a <?new-line?>couple;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the contribution (including any contribution made by <?new-line?>looking after the home or caring for any relevant child) which <?new-line?>the applicant made whilst the applicant and the deceased <?new-line?>were living together as a couple;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>any additional matter which, if the application were treated <?new-line?>as if it had been made under Part <InternalLink id="i00059" Ref="p00045">2</InternalLink> of the Cohabitation Rights <?new-line?>Act 2014 (financial settlement orders), the court would <?new-line?>consider relevant in determining the application.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</BlockAmendment>
+</P1para>
+</P1>
+<P1>
+<Pnumber>8</Pnumber>
+<P1para>
+<Text><?start-line?>After section 14A of the 1975 Act insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Provision as to cases where no financial settlement order was made <?new-line?>after cohabitants ceased living together as a couple</Title>
+<P1>
+<Pnumber>14B</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Subsection (2) below applies where—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the cohabitants have ceased living together as a couple and, <?new-line?>within twenty four months of ceasing to do so, one of them <?new-line?>dies, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>either—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>no application for a financial settlement order has <?new-line?>been made under section 7 of the Cohabitation Rights <?new-line?>Act 2014 or by one of the former cohabitants, or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>if such an application has been made, the proceedings <?new-line?>on the application have not been determined at the <?new-line?>time of death of the deceased.</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The former cohabitant who survives may apply to the court for an <?new-line?>order under section 2 of this Act on the ground that the disposition <?new-line?>of the deceased’s estate by his or her will or the law relating to <?new-line?>intestacy, or the combination of the will and that law, is not such as <?new-line?>to make reasonable financial provision for the applicant.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (2) “reasonable financial provision” means such <?new-line?>financial provision as it would be reasonable in all the circumstances <?new-line?>of the case for the applicant to receive for his or her maintenance.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P1para>
+</P1>
+<?new-page?><P1>
+<Pnumber>9</Pnumber>
+<P1para>
+<Text><?start-line?>After section 15ZA of the 1975 Act insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>   Restriction on making an application under this Act imposed in <?new-line?>proceedings for a financial settlement order under section 8 of the <?new-line?>Cohabitation Rights Act 2014</Title>
+<P1>
+<Pnumber>15ZB</Pnumber>
+<P1para>
+<P2 id="p00113">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>On making a financial settlement order under section 8 of the <?new-line?>Cohabitation Rights Act 2014, or at any time after making such an <?new-line?>order, the court, if it considers it just to do so, may, on the application <?new-line?>of either of the former cohabitants, order that the other shall not on <?new-line?>the death of the applicant be entitled to apply for an order under <?new-line?>section 2 of this Act.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection <InternalLink id="i00060" Ref="p00113">(1)</InternalLink> above “the court” has the same meaning as in the <?new-line?>Cohabitation Rights Act 2014.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Where an order under subsection <InternalLink id="i00061" Ref="p00113">(1)</InternalLink> above made in connection with <?new-line?>a financial settlement order has been made with respect to a former <?new-line?>cohabitant, then, on the death of the other former cohabitant, the <?new-line?>court shall not entertain any application for an order under section 2 <?new-line?>of this Act made by the former cohabitant who survives.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P1para>
+</P1>
+<P1>
+<Pnumber>10</Pnumber>
+<P1para>
+<Text><?start-line?>In section 25 of the 1975 Act (interpretation), insert each of the following <?new-line?>definitions at the appropriate place—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>““cohabitants” and “former cohabitants” have the same meaning as <?new-line?>in the Cohabitation Rights Act 2014;”;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>““relevant child”, in relation to cohabitants in a relationship, has the <?new-line?>same meaning as in the Cohabitation Rights Act 2014;”.</Text>
+
+</P3para></P3>
+</P1para>
+</P1>
+</Part>
+<Part>
+<Number><?start-line?>Part 5</Number>
+<Title><?start-line?>Amendments of Fatal Accidents Act 1976</Title>
+<P1>
+<Pnumber>11</Pnumber>
+<P1para>
+<Text><?start-line?>In this Part of this Schedule “the 1976 Act” means the <Citation id="c00017" Year="1976" Class="UnitedKingdomPublicGeneralAct" Number="0030">Fatal Accidents Act <?new-line?>1976 (c. 30)</Citation>.</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>12</Pnumber>
+<P1para>
+<Text><?start-line?>In section 1 of the 1976 Act (right of action for wrongful act causing death), <?new-line?>for subsection (3)(b) substitute—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>any person who, immediately before the date of the death, <?new-line?>was a cohabitant (within the meaning of the Cohabitation <?new-line?>Rights Act 2014) in a relationship with the deceased;</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P1para>
+</P1>
+<P1>
+<Pnumber>13</Pnumber>
+<P1para>
+<Text><?start-line?>In section 1A of the 1976 Act (persons for whose benefit claims for <?new-line?>bereavement damages may be made)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>omit “and” at the end of paragraph (a);</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>after paragraph (a) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>aa</Pnumber>
+<P3para>
+<Text><?start-line?>of the person who, immediately before the date of the <?new-line?>death, was a cohabitant (within the meaning of the <?new-line?>Cohabitation Rights Act 2014) in a relationship with <?new-line?>the deceased; and</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>.</AppendText>
+
+</P3para></P3>
+</P1para>
+</P1>
+<P1>
+<Pnumber>14</Pnumber>
+<P1para>
+<Text><?start-line?>In section 3 of the 1976 Act (assessment of damages), omit subsection (4).</Text>
+</P1para>
+</P1>
+</Part>
+<?new-page?><Part>
+<Number><?start-line?>Part 6</Number>
+<Title><?start-line?>Amendments of Law Reform (Succession) Act 1995</Title>
+<P1>
+<Pnumber>15</Pnumber>
+<P1para>
+<Text><?start-line?>In consequence of the amendment made by section 21, omit section 2(3) of <?new-line?>the Law Reform (Succession) Act 1995.</Text>
+</P1para>
+</P1>
+</Part>
+<Part>
+<Number><?start-line?>Part 7</Number>
+<Title><?start-line?>Amendments of Civil Partnership Act 2004</Title>
+<P1>
+<Pnumber>16</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Schedule 4 to the Civil Partnership Act 2004 is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In consequence of the amendments made by section 20 and paragraph 2 of <?new-line?>this Schedule, omit paragraph 13.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In consequence of the amendment made by section 21, omit paragraph 15(5).</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</Part>
+</ScheduleBody>
+</Schedule>
+</Schedules>
+</Primary>
+</Legislation>

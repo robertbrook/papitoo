@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>Local Government (Review of Decisions) Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>2/9/2013</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 77" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="3" />
+<ukm:House Value="House of Commons" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Cover>
+<CoverTitle>EXPLANATORY NOTES</CoverTitle>
+<CoverPara><Text><?start-line?>Explanatory notes to the Bill, prepared by the Department for Communities and <?new-line?>Local Government with the agreement of Charlie Elphicke, the Member in charge of <?new-line?>the Bill, are published separately as Bill 77-EN.</Text></CoverPara>
+</Cover><Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsItem ContentRef="p00005">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Decision invoking health or safety: notification, reasons and review</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00006">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>Procedure for investigations by Local Government Ombudsman</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00007">
+<ContentsNumber>3</ContentsNumber>
+<ContentsTitle>Financial provisions</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00008">
+<ContentsNumber>4</ContentsNumber>
+<ContentsTitle>Short title, commencement and extent</ContentsTitle>
+</ContentsItem>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Make provision about the procedure for conducting investigations under Part <?new-line?>3 of the Local Government Act 1974; and to make provision for cases where an <?new-line?>authority to which that Part applies takes a decision that affects the holding of <?new-line?>an event for a reason relating to health or safety.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<P1group id="p00005">
+<Title><?start-line?>Decision invoking health or safety: notification, reasons and review</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<Text><?start-line?>In the Local Government Act 1974 before Part 3 insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<FragmentTitle Context="Part">
+<Title><SmallCaps>Part 2A</SmallCaps></Title>
+</FragmentTitle>
+<FragmentTitle Context="Part">
+<Title><SmallCaps>Decisions relating to holding of events</SmallCaps></Title>
+</FragmentTitle>
+<P1group>
+<Title><?start-line?>Decisions invoking health or safety: notification, reasons and review</Title>
+<P1>
+<Pnumber>22A</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Subsection (2) applies if—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>a decision that relates to an event in England is taken by or on <?new-line?>behalf of an authority to which Part 3 of this Act applies,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the decision is taken in connection with the exercise of the <?new-line?>authority’s administrative functions, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>for a reason related to the health or safety of any person, or for <?new-line?>reasons that include such a reason, the decision has effect to—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>stop the holding of the event,</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>impose restrictions on the holding of the event,</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text><?start-line?>impose conditions to be met in connection with the <?new-line?>holding of the event, or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>iv</Pnumber>
+<P4para>
+<Text><?start-line?>do all, or any two, of those things.</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The authority must ensure that written notification of the decision is <?new-line?>given (electronically or otherwise) to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the person who made the application or other request to which <?new-line?>the decision is a response, or</Text>
+</P3para>
+</P3>
+<?new-page?><P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>a person who appears to the authority to be an organiser of the <?new-line?>event if the decision is made otherwise than on a request.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Written notification given for the purposes of subsection (2)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>must be given on the day the decision is taken or, if it is not <?new-line?>reasonably practicable to give the notification on that day, must <?new-line?>be given on the first working day after that day,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>must, if the decision has the effect mentioned in subsection <?new-line?>(1)(c)(i), give details of the decision’s effect,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>must, if the decision has the effect mentioned in subsection <?new-line?>(1)(c)(ii) or (iii), give details of the restrictions or conditions,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>must include the reasons for the decision so far as it has any of <?new-line?>the effects mentioned in subsection (1)(c)(i) to (iii), and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>may be a notification that is given also for other purposes.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Subsection (5) applies if—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>for the purposes of subsection (2) an authority gives a person <?new-line?>notification of a decision, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the person, or some other person who is an organiser of the <?new-line?>event, asks the authority to review the decision.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>The authority must ensure—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>that a review of the decision is completed—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>as soon as is reasonably practicable after the authority <?new-line?>receives the request for the review, and</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>in any event, by the end of 15 days beginning with the <?new-line?>day on which the authority receives the request, and</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>that the person who asked for the review is given (electronically <?new-line?>or otherwise) written notification of the decision made on the <?new-line?>review, including the reasons for the decision, as soon as is <?new-line?>reasonably practicable after the decision is made.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>On a review under subsection (5) of a decision, the decision is to be—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>confirmed,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>withdrawn,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>replaced by any other decision that could have been taken in the <?new-line?>first instance, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>varied (but only if the decision as varied is one that could have <?new-line?>been taken in the first instance).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>If a person has rights to appeal against or otherwise challenge a <?new-line?>decision reviewed under subsection (5), the person has the <?new-line?>corresponding rights to challenge the decision made on the review.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>8</Pnumber>
+<P2para>
+<Text><?start-line?>In this section “working day” means any day other than a Saturday, a <?new-line?>Sunday, Christmas Day, Good Friday or a day which is a bank holiday <?new-line?>under the Banking and Financial Dealings Act 1971 in England and <?new-line?>Wales.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00006">
+<Title><?start-line?>Procedure for investigations by Local Government Ombudsman</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Section 28 of the Local Government Act 1974 (procedure in respect of <?new-line?>investigations under Part 3 by Local Commissioners) is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (2) (investigations by Local Commissioner to be conducted in </Text><?new-page?><?start-line?>  <Text>private but otherwise as the Local Commissioner considers appropriate) after <?new-line?>“without prejudice to the generality of the preceding provision” insert</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double" PartialRefs="p10001"><Text id="p10001">—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the Local Commissioner may, as well as adopting different <?new-line?>procedure for different cases, adopt different procedure for <?new-line?>cases of different descriptions; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?></Text>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>After subsection (4) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>The differential procedure authorised by subsection (2)(a) includes (in <?new-line?>particular) procedure for cases of a particular description that is <?new-line?>expected to be faster than that for at least some other cases.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00007">
+<Title><?start-line?>Financial provisions</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<Text><?start-line?><Emphasis>There shall be paid out of money provided by Parliament any increase attributable to <?new-line?>this Act in the sums payable under any other Act out of money so provided.</Emphasis></Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00008">
+<Title><?start-line?>Short title, commencement and extent</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Act may be cited as the Local Government (Review of Decisions) Act 2014.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>This Act comes into force at the end of 2 months beginning with the day on <?new-line?>which it is passed.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State may by order made by statutory instrument make such <?new-line?>provision amending, repealing or revoking legislation as the Secretary of State <?new-line?>considers appropriate in consequence of any provision made by this Act.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (3) “legislation”, in relation to any provision made by this Act, <?new-line?>means—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>any Act passed before, or in the same Session as, this Act, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>any instrument made under an Act before the coming into force of the <?new-line?>provision.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State may not make an order under subsection (3) which <?new-line?>amends or repeals a provision of an Act unless a draft of the statutory <?new-line?>instrument containing the order (whether alone or with other provisions) has <?new-line?>been laid before, and approved by a resolution of, each House of Parliament.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>A statutory instrument that—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>contains an order under subsection (3), and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>is not subject to any requirement that a draft of the instrument be laid <?new-line?>before, and approved by a resolution of, each House of Parliament,</Text>
+</P3para>
+</P3>
+<Text><?start-line?>is subject to annulment in pursuance of a resolution of either House of <?new-line?>Parliament.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>This Act extends to England and Wales only, except that this section extends <?new-line?>also to Scotland and Northern Ireland.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Body>
+</Primary>
+</Legislation>

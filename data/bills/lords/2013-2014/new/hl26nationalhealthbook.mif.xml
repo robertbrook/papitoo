@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>National Health Service (Amended Duties and Powers) Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>17/5/2013</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 26" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="3" />
+<ukm:House Value="House of Lords" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Cover>
+<CoverTitle>EXPLANATORY NOTES</CoverTitle>
+<CoverPara><Text><?start-line?>Explanatory notes to the Bill, prepared by Lord Owen, the Member in charge of the <?new-line?>Bill, are published separately as HL Bill 26—EN.</Text></CoverPara>
+</Cover><Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsItem ContentRef="p00012">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Secretary of State’s duties to promote and provide a comprehensive and <?new-line?>integrated health service</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00014">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>Abolition of the duties of autonomy</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00015">
+<ContentsNumber>3</ContentsNumber>
+<ContentsTitle>Concurrent duty of and commissioning by the NHS Commissioning Board</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00016">
+<ContentsNumber>4</ContentsNumber>
+<ContentsTitle>Secretary of State’s duty as to provision of certain services</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00017">
+<ContentsNumber>5</ContentsNumber>
+<ContentsTitle>Powers of directions to Quangos and other bodies</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00022">
+<ContentsNumber>6</ContentsNumber>
+<ContentsTitle>Monitor</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00023">
+<ContentsNumber>7</ContentsNumber>
+<ContentsTitle>Amendment to competition requirements</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00024">
+<ContentsNumber>8</ContentsNumber>
+<ContentsTitle>Public register of NHS contracts</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00026">
+<ContentsNumber>9</ContentsNumber>
+<ContentsTitle>Treaty requirements</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00028">
+<ContentsNumber>10</ContentsNumber>
+<ContentsTitle>Interpretation</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00029">
+<ContentsNumber>11</ContentsNumber>
+<ContentsTitle>Short title, commencement and extent</ContentsTitle>
+</ContentsItem>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Re-establish the Secretary of State’s legal duty as to the National Health <?new-line?>Service in England, Quangos and related bodies.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<P1group id="p00012">
+<Title><?start-line?>Secretary of State’s duties to promote and provide a comprehensive and <?new-line?>integrated health service</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<Text><?start-line?>For section 1 of the National Health Service Act 2006 (Secretary of State’s duty <?new-line?>to promote comprehensive health service) substitute—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Secretary of State’s duty as to the health service</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<P2 id="p00013">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>It shall be the duty of the Secretary of State to promote in England a <?new-line?>comprehensive and integrated health service designed to secure <?new-line?>improvement—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in the physical and mental health of the people of England, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in the prevention, diagnosis and treatment of illness, and for <?new-line?>that purpose to provide or secure the effective provision of <?new-line?>services in accordance with this Act.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The services so provided must be free of charge except in so far as the <?new-line?>making and recovery of charges is expressly provided for, by or under <?new-line?>any enactment, whenever passed.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The services provided pursuant to this Act and to the Health and Social <?new-line?>Care Act 2012, howsoever or by whom so ever provided, secured or <?new-line?>arranged, shall be deemed to be provided in furtherance of the duty to <?new-line?>provide or secure effective provision of services under subsection <InternalLink id="i00001" Ref="p00013">(1)</InternalLink>.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00014">
+<Title><?start-line?>Abolition of the duties of autonomy</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<Text><?start-line?>Sections 1D and 13F of the National Health Service Act 2006 (duties as to <?new-line?>promoting autonomy) are repealed.</Text>
+</P1para>
+</P1>
+</P1group>
+<?new-page?><P1group id="p00015">
+<Title><?start-line?>Concurrent duty of and commissioning by the NHS Commissioning Board</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Section 1H(2) of the National Health Service Act 2006 is repealed.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In section 1H(3) of that Act, for “For the purpose of discharging that duty”, <?new-line?>substitute “For the purpose of furthering the duty of the Secretary of State <?new-line?>under section 1<InternalLink id="i00002" Ref="p00013">(1)</InternalLink>.”</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00016">
+<Title><?start-line?>Secretary of State’s duty as to provision of certain services</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Section 3 of the National Health Service Act 2006 is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Before subsection (1) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>A1</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State must provide, or secure the effective provision of, <?new-line?>throughout England, to such extent as he considers necessary to meet <?new-line?>all reasonable requirements, the accommodation, services and facilities <?new-line?>set out in subsection (1)(a) to (f).</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (1), before “A” insert “For that purpose,”.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00017">
+<Title><?start-line?>Powers of directions to Quangos and other bodies</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<P2 id="p00018">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State may direct any of the bodies mentioned in subsection <InternalLink id="i00003" Ref="p00019">(2)</InternalLink> <?new-line?>to exercise any functions relating to the health service which are specified in <?new-line?>the directions, and may also give directions to any such body about its exercise <?new-line?>of any functions or about its provision of services under arrangements referred <?new-line?>to in subsection <InternalLink id="i00004" Ref="p00020">(2)(h)</InternalLink>.</Text>
+</P2para>
+</P2>
+<P2 id="p00019">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>These bodies are—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the National Health Service Commissioning Board,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>a clinical commissioning group,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>a Special Health Authority,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>an NHS trust,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>an NHS foundation trust,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>f</Pnumber>
+<P3para>
+<Text><?start-line?>the National Institute for Health and Care Excellence,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>g</Pnumber>
+<P3para>
+<Text><?start-line?>the Health and Social Care Information Centre, and</Text>
+</P3para>
+</P3>
+<P3 id="p00020">
+<Pnumber>h</Pnumber>
+<P3para>
+<Text><?start-line?>any other body or person providing services in pursuance of <?new-line?>arrangements made—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>by the Secretary of State under section 12 of,</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>by the Board or a clinical commissioning group under section 3, <?new-line?>3A, 3B, 4 of or Schedule 1 to,</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text><?start-line?>by a local authority for the purpose of the exercise of its <?new-line?>functions under or by virtue of section 2B or 6C(1) of or <?new-line?>Schedule 1 to, or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>iv</Pnumber>
+<P4para>
+<Text><?start-line?>by the Board, a clinical commissioning group or a local <?new-line?>authority by virtue of section 7A of,</Text>
+</P4para>
+</P4>
+<Text><?start-line?>the National Health Service Act 2006.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00021">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In exercising his power under subsection <InternalLink id="i00005" Ref="p00018">(1)</InternalLink>, the Secretary of State must have <?new-line?>regard to the desirability, so far as consistent with the interests of the health <?new-line?>service and relevant to the exercise of the power in all circumstances—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>of protecting and promoting the health of patients and the public;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>of any bodies mentioned in subsection <InternalLink id="i00006" Ref="p00019">(2)</InternalLink> being free, in exercising its <?new-line?>functions or providing services in accordance with its duties and </Text><?new-page?><?start-line?>  <Text>powers, to do so in the manner that it considers best calculated to <?new-line?>promote the comprehensive and integrated service referred to in <?new-line?>section 1<InternalLink id="i00007" Ref="p00013">(1)</InternalLink> of the National Health Service Act 2006; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>of ensuring co-operation between the bodies mentioned in subsection <?new-line?><InternalLink id="i00008" Ref="p00019">(2)</InternalLink> in the exercise of their functions or provision of services.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>If, in having regard to the desirability of the matters referred to in subsection <?new-line?><InternalLink id="i00009" Ref="p00021">(3)</InternalLink> the Secretary of State considers that there is a conflict between those matters <?new-line?>and the discharge of his duties under section 1 of the National Health Service <?new-line?>Act 2006, he must give priority to the duties under that section.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00022">
+<Title><?start-line?>Monitor</Title>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Health and Social Care Act 2012 is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>After section 61 insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Monitor’s objective</Title>
+<P1>
+<Pnumber>61A</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The objective of Monitor is to contribute to the achievement of a <?new-line?>comprehensive and integrated health service in England through the <?new-line?>exercise of its functions.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In exercising its main duty and other functions Monitor must act in <?new-line?>accordance with that objective and in a manner consistent with the <?new-line?>performance by the Secretary of State of his duties contained in sections <?new-line?>1 and 3 of the National Health Service Act 2006.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Section 62(9) is repealed.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00023">
+<Title><?start-line?>Amendment to competition requirements</Title>
+<P1>
+<Pnumber>7</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Section 75 of the Health and Social Care Act 2012 (requirements as to <?new-line?>procurement, patient choice and competition) is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>For paragraph (c) of subsection (1) substitute—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>are free so to commission such services which best serve <?new-line?>patients’ interests and with no impediments to beneficial co-<?new-line?>operation to increase integration, improve quality or reduce <?new-line?>inequalities;</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>After paragraph (c) of subsection (1), insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>will have a full range of options and will be under no legal <?new-line?>obligation to foster markets, particularly where competition <?new-line?>would not be effective in driving high standards and value for <?new-line?>patients.</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The National Health Service (Procurement, Patient Choice and Competition) <?new-line?>(No. 2) Regulations 2013 are repealed.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00024">
+<Title><?start-line?>Public register of NHS contracts</Title>
+<P1>
+<Pnumber>8</Pnumber>
+<P1para>
+<P2 id="p00025">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Each NHS body shall establish and maintain a public register of contracts <?new-line?>entered into by it in relation to the provision of health services.</Text>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The register shall be available electronically and for inspection by the public at <?new-line?>all reasonable hours and copies of the documents on the register shall be <?new-line?>provided on request at reasonable cost.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State shall make regulations to make further provision <?new-line?>regarding the public register.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection <InternalLink id="i00010" Ref="p00025">(1)</InternalLink> “contracts” includes documents presented in relation to the <?new-line?>contracts, and sub-contracts.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00026">
+<Title><?start-line?>Treaty requirements</Title>
+<P1>
+<Pnumber>9</Pnumber>
+<P1para>
+<P2 id="p00027">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>No treaty which requires the United Kingdom—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>to change; or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>to limit the powers of the United Kingdom in respect of,</Text>
+</P3para>
+</P3>
+<Text><?start-line?>NHS legislation shall be signed or agreed unless any such changes or limits <?new-line?>have been approved by—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>in relation to England, an Act of Parliament;</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>in relation to Scotland, an Act of the Scottish Parliament;</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text><?start-line?>in relation to Wales, an Act of the National Assembly for <?new-line?>Wales; and</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>iv</Pnumber>
+<P4para>
+<Text><?start-line?>in relation to Northern Ireland, an Act of the Northern <?new-line?>Ireland Assembly.</Text>
+</P4para>
+</P4>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection <InternalLink id="i00011" Ref="p00027">(1)</InternalLink>—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“to change” means to amend, repeal, introduce or otherwise to change;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“NHS legislation” means any primary legislation passed by Parliament, <?new-line?>the Scottish Parliament, the National Assembly for Wales or the <?new-line?>Northern Ireland Assembly, and any secondary legislation enacted by <?new-line?>the Secretary of State or any of the devolved administrations, relating <?new-line?>to—</Text>
+<OrderedList Decoration="parens" Type="alpha">
+<ListItem>
+<Para>
+<Text><?start-line?>as regards England, the comprehensive health service which <?new-line?>must be continued under section 1(1) of the National Health <?new-line?>Service Act 2006;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>as regards Scotland, the comprehensive and integrated health <?new-line?>service that must be continued under section 1(1) of the <?new-line?>National Health Service (Scotland) Act 1978;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>as regards Wales, the comprehensive health service that must <?new-line?>be continued under section 1(1) of the National Health Service <?new-line?>(Wales) Act 2006; and</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>as regards Northern Ireland, the integrated health services and <?new-line?>personal social services that must be provided or secured under <?new-line?>Article 4 of the Health and Personal Social Services (Northern <?new-line?>Ireland) Order 1972;</Text>
+</Para>
+</ListItem>
+</OrderedList>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“treaty” means a written agreement between States or between States and <?new-line?>international organisations which is binding under international law <?new-line?>and includes any protocol, annex or schedule to or an amendment or <?new-line?>replacement of such an agreement and includes a regulation, rule, <?new-line?>measure, decision or similar instrument made under a treaty, which <?new-line?>has the effect mentioned in subsection <InternalLink id="i00012" Ref="p00027">(1)</InternalLink>.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<?new-page?><P1group id="p00028">
+<Title><?start-line?>Interpretation</Title>
+<P1>
+<Pnumber>10</Pnumber>
+<P1para>
+<Text><?start-line?>Expressions used in this Act which are also in the National Health Service Act <?new-line?>2006 and in the Health and Social Care Act 2012 shall have the same meanings <?new-line?>as the meanings given to those expressions under those Acts.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00029">
+<Title><?start-line?>Short title, commencement and extent</Title>
+<P1>
+<Pnumber>11</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Act may be cited as the National Health Service (Amended Duties and <?new-line?>Powers) Act 2013.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>This Act shall come into force on the day on which it is passed.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>This Act extends to England, except section 9 which extends to England and <?new-line?>Wales, Northern Ireland and Scotland.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Body>
+</Primary>
+</Legislation>

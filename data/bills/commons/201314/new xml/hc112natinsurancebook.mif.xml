@@ -1,0 +1,2394 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>National Insurance Contributions Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>11/10/2013</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 112" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="3" />
+<ukm:House Value="House of Commons" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Cover>
+<CoverTitle>EXPLANATORY NOTES</CoverTitle>
+<CoverPara><Text><?start-line?>Explanatory notes to the Bill, prepared by the Treasury, are published separately as <?new-line?>Bill 112—EN.</Text></CoverPara>
+<CoverTitle>EUROPEAN CONVENTION ON HUMAN RIGHTS</CoverTitle>
+<CoverPara><Text><?start-line?>Mr Chancellor of the Exchequer has made the following statement under section <?new-line?>19(1)(a) of the Human Rights Act 1998:</Text></CoverPara>
+
+<CoverPara><Text><?start-line?>In my view the provisions of the <?start-line?>National Insurance Contributions Bill<?start-line?> are <?new-line?>compatible with the Convention rights.</Text></CoverPara>
+</Cover><Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsPblock>
+<ContentsTitle>Employment allowance</ContentsTitle>
+<ContentsItem ContentRef="p00023">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Employment allowance for national insurance contributions</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00028">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>Exceptions</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00038">
+<ContentsNumber>3</ContentsNumber>
+<ContentsTitle>Connected persons</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00045">
+<ContentsNumber>4</ContentsNumber>
+<ContentsTitle>How does a person who qualifies for an employment allowance receive it?</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00052">
+<ContentsNumber>5</ContentsNumber>
+<ContentsTitle>Power to amend the employment allowance provisions</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00059">
+<ContentsNumber>6</ContentsNumber>
+<ContentsTitle>Decisions and appeals about entitlements to make deductions etc</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00060">
+<ContentsNumber>7</ContentsNumber>
+<ContentsTitle>Retention of records etc</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00065">
+<ContentsNumber>8</ContentsNumber>
+<ContentsTitle>Commencement of the employment allowance provisions etc</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+<ContentsPblock>
+<ContentsTitle>Application of general anti-abuse rule to national insurance contributions</ContentsTitle>
+<ContentsItem ContentRef="p00066">
+<ContentsNumber>9</ContentsNumber>
+<ContentsTitle>GAAR to apply to national insurance contributions</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00069">
+<ContentsNumber>10</ContentsNumber>
+<ContentsTitle>Power to modify application of GAAR to national insurance contributions</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+<ContentsPblock>
+<ContentsTitle>Oil and gas workers on the continental shelf</ContentsTitle>
+<ContentsItem ContentRef="p00071">
+<ContentsNumber>11</ContentsNumber>
+<ContentsTitle>Oil and gas workers on the continental shelf: secondary contributors etc</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+<ContentsPblock>
+<ContentsTitle>Partnerships</ContentsTitle>
+<ContentsItem ContentRef="p00074">
+<ContentsNumber>12</ContentsNumber>
+<ContentsTitle>Alternative investment fund managers</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00076">
+<ContentsNumber>13</ContentsNumber>
+<ContentsTitle>Members of limited liability partnerships</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+<ContentsPblock>
+<ContentsTitle>Other provision</ContentsTitle>
+<ContentsItem ContentRef="p00077">
+<ContentsNumber>14</ContentsNumber>
+<ContentsTitle>Office holders who receive “earnings” to be employed earners</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00078">
+<ContentsNumber>15</ContentsNumber>
+<ContentsTitle>Armed Forces early departure payments retrospectively disregarded</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00079">
+<ContentsNumber>16</ContentsNumber>
+<ContentsTitle>Repeal of certain redundant reliefs relating to Class 4 contributions</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00080">
+<ContentsNumber>17</ContentsNumber>
+<ContentsTitle>Certain orders and regulations in respect of Northern Ireland</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+<ContentsPblock>
+<ContentsTitle>General</ContentsTitle>
+<ContentsItem ContentRef="p00081">
+<ContentsNumber>18</ContentsNumber>
+<ContentsTitle>HMRC administrative expenses: financial provision</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00082">
+<ContentsNumber>19</ContentsNumber>
+<ContentsTitle>Abbreviations of Acts</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00083">
+<ContentsNumber>20</ContentsNumber>
+<ContentsTitle>Short title and extent</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+<ContentsSchedules>
+<ContentsSchedule ContentRef="p00084">
+<ContentsNumber>Schedule 1</ContentsNumber>
+<ContentsTitle>Employment allowance: rules for determining if persons are <?new-line?>“connected”</ContentsTitle>
+<ContentsPart>
+<ContentsNumber>Part 1</ContentsNumber>
+<ContentsTitle>Companies</ContentsTitle>
+</ContentsPart>
+<ContentsPart>
+<ContentsNumber>Part 2</ContentsNumber>
+<ContentsTitle>Charities</ContentsTitle>
+</ContentsPart>
+</ContentsSchedule>
+<ContentsSchedule ContentRef="p00123">
+<ContentsNumber>Schedule 2</ContentsNumber>
+<ContentsTitle>Office holders in receipt of “earnings” to be employed earners: <?new-line?>consequential provision</ContentsTitle>
+</ContentsSchedule>
+</ContentsSchedules>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Make provision in relation to national insurance contributions; and for <?new-line?>connected purposes.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<Pblock>
+<Title><?start-line?>Employment allowance</Title>
+<P1group id="p00023">
+<Title><?start-line?>Employment allowance for national insurance contributions</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<P2 id="p00024">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>A person qualifies for an employment allowance for a tax year if, in the tax <?new-line?>year—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the person is the secondary contributor in relation to payments of <?new-line?>earnings to, or for the benefit of, one or more employed earners, and</Text>
+</P3para>
+</P3>
+<P3 id="p00025">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in consequence, the person incurs liabilities to pay secondary Class 1 <?new-line?>contributions,</Text>
+</P3para>
+</P3>
+<Text><?start-line?>under SSCBA 1992 or SSCB(NI)A 1992 (or both).</Text>
+</P2para>
+</P2>
+<P2 id="p00026">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The person’s employment allowance for the tax year is—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>£2,000, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>if less, an amount equal to the total amount of the liabilities mentioned <?new-line?>in subsection <InternalLink id="i00001" Ref="p00025">(1)(b)</InternalLink> which are not excluded liabilities.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Subsection <InternalLink id="i00002" Ref="p00024">(1)</InternalLink> is subject to sections 2 and 3 (and Schedule 1).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Sections 2 and 3 (and Schedule 1) set out cases in which a person cannot qualify <?new-line?>for an employment allowance for a tax year.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>Section 2 also sets out the cases in which liabilities to pay secondary Class 1 <?new-line?>contributions are “excluded liabilities”.</Text>
+</P2para>
+</P2>
+<P2 id="p00027">
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>Section 4 provides for a person who qualifies for an employment allowance for <?new-line?>a tax year to receive it by way of deductions or a repayment under that section.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>In this Act references to “the employment allowance provisions” are to this <?new-line?>section, sections 2 to 4 and Schedule 1.</Text>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>8</Pnumber>
+<P2para>
+<Text><?start-line?>In the employment allowance provisions and section 5 terms used which are <?new-line?>also used in Part 1 of SSCBA 1992 or SSCB(NI)A 1992 have the same meaning <?new-line?>as they have in that Part.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00028">
+<Title><?start-line?>Exceptions</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<ERROR_Undefined_CenteredHeading><Text><?start-line?><Emphasis>Public authorities</Emphasis></Text>
+
+</ERROR_Undefined_CenteredHeading>
+<P2 id="p00029">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>A person cannot qualify for an employment allowance for a tax year if, at any <?new-line?>time in the tax year, the person is a public authority which is not a charity.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection <InternalLink id="i00003" Ref="p00029">(1)</InternalLink>—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“charity” has the same meaning as in the Small Charitable Donations Act <?new-line?>2012 (see section 18(1) of that Act), and</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“public authority” includes any person whose activities involve, wholly <?new-line?>or mainly, the performance of functions (whether or not in the United <?new-line?>Kingdom) which are of a public nature.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P2para>
+</P2>
+<ERROR_Undefined_CenteredHeading><Text><?start-line?><Emphasis>Personal, family or household affairs</Emphasis></Text>
+
+</ERROR_Undefined_CenteredHeading>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Liabilities to pay secondary Class 1 contributions incurred by a person (“P”) are <?new-line?>“excluded liabilities” if they are incurred in respect of an employed earner who <?new-line?>is employed (wholly or partly) for purposes connected with P’s personal, <?new-line?>family or household affairs.</Text>
+</P2para>
+</P2>
+<ERROR_Undefined_CenteredHeading><Text><?start-line?><Emphasis>Workers supplied by service companies etc</Emphasis></Text>
+
+</ERROR_Undefined_CenteredHeading>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Liabilities to pay secondary Class 1 contributions are “excluded liabilities” if <?new-line?>they are incurred by virtue of regulations made under section 4A of SSCBA <?new-line?>1992 or SSCB(NI)A 1992 (earnings of workers supplied by service companies <?new-line?>etc).</Text>
+</P2para>
+</P2>
+<ERROR_Undefined_CenteredHeading><Text><?start-line?><Emphasis>Transfers of businesses</Emphasis></Text>
+
+</ERROR_Undefined_CenteredHeading>
+<P2 id="p00030">
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>Subsection <InternalLink id="i00004" Ref="p00031">(6)</InternalLink> applies if a business, or a part of a business, is transferred to a <?new-line?>person (“P”) in a tax year.</Text>
+</P2para>
+</P2>
+<P2 id="p00031">
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>Liabilities to pay secondary Class 1 contributions incurred by P in the tax year <?new-line?>are “excluded liabilities” if they are incurred in respect of an employed earner <?new-line?>who is employed (wholly or partly) for purposes connected with the <?new-line?>transferred business or part.</Text>
+</P2para>
+</P2>
+<P2 id="p00032">
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>For the purposes of subsection <InternalLink id="i00005" Ref="p00030">(5)</InternalLink> a business, or a part of a business, is <?new-line?>transferred to P in a tax year if, in the tax year—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>another person (“Q”) is carrying on the business or part, and</Text>
+</P3para>
+</P3>
+<P3 id="p00033">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in consequence of arrangements involving P and Q, P begins to carry <?new-line?>on the business or part on or following Q ceasing to do so.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>8</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection <InternalLink id="i00006" Ref="p00033">(7)(b)</InternalLink> “arrangements” includes any agreement, understanding, <?new-line?>scheme, transaction or series of transactions (whether or not legally <?new-line?>enforceable).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>9</Pnumber>
+<P2para>
+<Text><?start-line?>In subsections <InternalLink id="i00007" Ref="p00030">(5)</InternalLink> to <InternalLink id="i00008" Ref="p00032">(7)</InternalLink> “business” includes—</Text>
+<P3 id="p00034">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>anything which is a trade, profession or vocation for the purposes of the <?new-line?>Income Tax Acts or the Corporation Tax Acts;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>a property business (as defined in section 263(6) of the Income Tax <?new-line?>(Trading and Other Income) Act 2005);</Text>
+</P3para>
+</P3>
+<?new-page?><P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>any charitable or not-for-profit undertaking or any similar <?new-line?>undertaking;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>functions of a public nature.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<ERROR_Undefined_CenteredHeading><Text><?start-line?><Emphasis>Anti-avoidance</Emphasis></Text>
+
+</ERROR_Undefined_CenteredHeading>
+<P2 id="p00035">
+<Pnumber>10</Pnumber>
+<P2para>
+<Text><?start-line?>A person cannot qualify for an employment allowance for a tax year if, apart <?new-line?>from this subsection, the person would qualify in consequence of avoidance <?new-line?>arrangements.</Text>
+</P2para>
+</P2>
+<P2 id="p00036">
+<Pnumber>11</Pnumber>
+<P2para>
+<Text><?start-line?>In a case not covered by subsection <InternalLink id="i00009" Ref="p00035">(10)</InternalLink>, liabilities to pay secondary Class 1 <?new-line?>contributions incurred by a person (“P”) in a tax year are “excluded liabilities” <?new-line?>if they are incurred by P, or are incurred by P in that tax year (as opposed to <?new-line?>another tax year), in consequence of avoidance arrangements.</Text>
+</P2para>
+</P2>
+<P2 id="p00037">
+<Pnumber>12</Pnumber>
+<P2para>
+<Text><?start-line?>In subsections <InternalLink id="i00010" Ref="p00035">(10)</InternalLink> and <InternalLink id="i00011" Ref="p00036">(11)</InternalLink> “avoidance arrangements” means arrangements <?new-line?>the main purpose, or one of the main purposes, of which is to secure that a <?new-line?>person benefits, or benefits further, from the application of the employment <?new-line?>allowance provisions.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>13</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection <InternalLink id="i00012" Ref="p00037">(12)</InternalLink> “arrangements” includes any agreement, understanding, <?new-line?>scheme, transaction or series of transactions (whether or not legally <?new-line?>enforceable).</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00038">
+<Title><?start-line?>Connected persons</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<P2 id="p00039">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This section applies if—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>at the beginning of a tax year, two or more companies which are not <?new-line?>charities are connected with one another, and</Text>
+</P3para>
+</P3>
+<P3 id="p00040">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>apart from this section, two or more of those companies would qualify <?new-line?>for an employment allowance for the tax year.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00041">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>This section also applies if—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>at the beginning of a tax year, two or more charities are connected with <?new-line?>one another, and</Text>
+</P3para>
+</P3>
+<P3 id="p00042">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>apart from this section, two or more of those charities would qualify for <?new-line?>an employment allowance for the tax year.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00043">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Only one of the companies or charities mentioned in subsection <InternalLink id="i00013" Ref="p00040">(1)(b)</InternalLink> or <InternalLink id="i00014" Ref="p00042">(2)(b)</InternalLink> <?new-line?>(as the case may be) can qualify for an employment allowance for the tax year.</Text>
+</P2para>
+</P2>
+<P2 id="p00044">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>It is up to the companies or charities so mentioned to decide which of them that <?new-line?>will be.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>Part 1 of Schedule 1 sets out the rules for determining if two or more companies <?new-line?>are “connected” with one another for the purposes of subsection <InternalLink id="i00015" Ref="p00039">(1)</InternalLink>.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>Part 2 of Schedule 1 sets out the rules for determining if two or more charities <?new-line?>are “connected” with one another for the purposes of subsection <InternalLink id="i00016" Ref="p00041">(2)</InternalLink>.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>In this section and Schedule 1—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“charity” has the same meaning as in the Small Charitable Donations Act <?new-line?>2012 (see section 18(1) of that Act), subject to paragraph 8(5) of Schedule <?new-line?>1, and</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“company” has the meaning given by section 1121(1) of the Corporation <?new-line?>Tax Act 2010 (meaning of “company”) and includes a limited liability <?new-line?>partnership.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<?new-page?><P1group id="p00045">
+<Title><?start-line?>How does a person who qualifies for an employment allowance receive it?</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<P2 id="p00046">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Her Majesty’s Revenue and Customs (“HMRC”) must (from time to time) <?new-line?>make such arrangements as HMRC consider appropriate for persons who <?new-line?>qualify for an employment allowance for a tax year to receive it by making <?new-line?>deductions from qualifying payments which they are required to make under <?new-line?>regulations made under paragraph 6 of Schedule 1 to SSCBA 1992 or <?new-line?>SSCB(NI)A 1992 (regulations combining collection of contributions with tax).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In this section “qualifying payment”, in relation to a person who qualifies for <?new-line?>an employment allowance for a tax year, means a payment in respect of any of <?new-line?>the person’s liabilities mentioned in section 1(1)(b) which are not excluded <?new-line?>liabilities (see section 2).</Text>
+</P2para>
+</P2>
+<P2 id="p00047">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>If under HMRC’s arrangements a person is permitted to make a deduction <?new-line?>from a qualifying payment, the person must make the deduction and must <?new-line?>make it before any other deductions which the person is permitted to make <?new-line?>from the payment under any other legislation.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>HMRC’s arrangements may (in particular)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>require deductions to be made at the earliest opportunity in a tax year;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>provide that deductions may not be made in specified cases;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>place limits on the amounts of deductions;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>provide that a person is not permitted to make deductions unless the <?new-line?>person has first given notice to HMRC in such form and manner, and <?new-line?>containing such information, as HMRC may require.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00048">
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>Subsections <InternalLink id="i00017" Ref="p00049">(6)</InternalLink> to <InternalLink id="i00018" Ref="p00051">(8)</InternalLink> apply in relation to a person who qualifies for an <?new-line?>employment allowance for a tax year if the person has not deducted under this <?new-line?>section the full amount of the employment allowance by the end of the month <?new-line?>of April in which the tax year ends.</Text>
+</P2para>
+</P2>
+<P2 id="p00049">
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>The person may apply to HMRC for a repayment, up to the outstanding <?new-line?>amount of the employment allowance, of qualifying payments made by the <?new-line?>person; and HMRC must make the repayment.</Text>
+</P2para>
+</P2>
+<P2 id="p00050">
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>The person’s application must be made in such form and manner, and contain <?new-line?>such information, as HMRC may require.</Text>
+</P2para>
+</P2>
+<P2 id="p00051">
+<Pnumber>8</Pnumber>
+<P2para>
+<Text><?start-line?>The person’s application must be made before the end of the 4th tax year after <?new-line?>the tax year mentioned in subsection <InternalLink id="i00019" Ref="p00048">(5)</InternalLink>.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>9</Pnumber>
+<P2para>
+<Text><?start-line?>In the application of section 102 of the Finance Act 2009 (repayment interest on <?new-line?>sums to be paid by HMRC) in relation to a repayment under this section, the <?new-line?>repayment interest start date is the date on which HMRC receive the person’s <?new-line?>application.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>10</Pnumber>
+<P2para>
+<Text><?start-line?>A repayment under this section, and any interest in respect of it under section <?new-line?>102 of the Finance Act 2009, are to be paid out of the National Insurance Fund <?new-line?>or the Northern Ireland National Insurance Fund.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>11</Pnumber>
+<P2para>
+<Text><?start-line?>A person who qualifies for an employment allowance for a tax year may not <?new-line?>receive it otherwise than by way of deductions or a repayment under this <?new-line?>section.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<?new-page?><P1group id="p00052">
+<Title><?start-line?>Power to amend the employment allowance provisions</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Treasury may by regulations amend the employment allowance <?new-line?>provisions—</Text>
+<P3 id="p00053">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>so as to increase or decrease a person’s employment allowance for a tax <?new-line?>year, or</Text>
+</P3para>
+</P3>
+<P3 id="p00054">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>so as to add to, reduce or modify the cases in which a person cannot <?new-line?>qualify for an employment allowance for a tax year or in which <?new-line?>liabilities to pay secondary Class 1 contributions are “excluded <?new-line?>liabilities”.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00055">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Section 175(3) to (5) of SSCBA 1992 (various supplementary powers) applies to <?new-line?>the power to make regulations conferred by this section.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The power conferred by section 175(4) of SSCBA 1992, as applied by subsection <?new-line?><InternalLink id="i00020" Ref="p00055">(2)</InternalLink>, includes (in particular) power to make the provision mentioned in section <?new-line?>175(4) by way of amendments to the employment allowance provisions.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Regulations under this section must be made by statutory instrument.</Text>
+</P2para>
+</P2>
+<P2 id="p00056">
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>A statutory instrument containing (with or without other provision)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>regulations falling within subsection <InternalLink id="i00021" Ref="p00053">(1)(a)</InternalLink> which decrease a person’s <?new-line?>employment allowance for a tax year, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>regulations falling within subsection <InternalLink id="i00022" Ref="p00054">(1)(b)</InternalLink>,</Text>
+</P3para>
+</P3>
+<Text><?start-line?>may not be made unless a draft has been laid before, and approved by a <?new-line?>resolution of, each House of Parliament.</Text>
+</P2para>
+</P2>
+<P2 id="p00057">
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>A statutory instrument—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>which contains regulations falling within subsection <InternalLink id="i00023" Ref="p00053">(1)(a)</InternalLink> which <?new-line?>increase a person’s employment allowance for a tax year, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>which does not have to be approved in draft under subsection <InternalLink id="i00024" Ref="p00056">(5)</InternalLink>,</Text>
+</P3para>
+</P3>
+<Text><?start-line?>must be laid before Parliament after being made.</Text>
+</P2para>
+</P2>
+<P2 id="p00058">
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>Regulations contained in a statutory instrument which is required to be laid <?new-line?>before Parliament under subsection <InternalLink id="i00025" Ref="p00057">(6)</InternalLink> cease to have effect at the end of the <?new-line?>period of 40 days after the day on which the instrument is made unless, before <?new-line?>the end of that period, the instrument is approved by a resolution of each <?new-line?>House of Parliament.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>8</Pnumber>
+<P2para>
+<Text><?start-line?>If regulations cease to have effect as a result of subsection <InternalLink id="i00026" Ref="p00058">(7)</InternalLink>, that does not—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>affect anything previously done by virtue of the regulations, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>prevent the making of new regulations to the same or a similar effect.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>9</Pnumber>
+<P2para>
+<Text><?start-line?>In calculating the period of 40 days for the purposes of subsection <InternalLink id="i00027" Ref="p00058">(7)</InternalLink>, no <?new-line?>account is to be taken of any time during which Parliament is dissolved or <?new-line?>prorogued or during which either House is adjourned for more than 4 days.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00059">
+<Title><?start-line?>Decisions and appeals about entitlements to make deductions etc</Title>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In Part 2 of the Social Security Contributions (Transfer of Functions, etc) Act <?new-line?>1999 (decisions and appeals), in section 8(1) (decisions of officers of Revenue <?new-line?>and Customs), after paragraph (e) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>ea</Pnumber>
+<P3para>
+<Text><?start-line?>to decide whether a person is or was entitled to make a <?new-line?>deduction under section 4 of the National Insurance <?new-line?>Contributions Act 2013 (deductions etc of employment </Text><?new-page?><?start-line?>  <Text>allowance) and, if so, the amount the person is or was entitled <?new-line?>to deduct,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>eb</Pnumber>
+<P3para>
+<Text><?start-line?>to decide whether a person is or was entitled to a repayment <?new-line?>under that section and, if so, the amount of the repayment,</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In Part 3 of the Social Security Contributions (Transfer of Functions, etc) <?new-line?>(Northern Ireland) Order 1999 (<Citation id="c00103" Class="UnitedKingdomStatutoryInstrument" Year="1999" Number="0671">S.I. 1999/671</Citation>) (decisions and appeals), in <?new-line?>Article 7(1) (decisions of officers of Revenue and Customs), after paragraph (e) <?new-line?>insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>ea</Pnumber>
+<P3para>
+<Text><?start-line?>to decide whether a person is or was entitled to make a <?new-line?>deduction under section 4 of the National Insurance <?new-line?>Contributions Act 2013 (deductions etc of employment <?new-line?>allowance) and, if so, the amount the person is or was entitled <?new-line?>to deduct,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>eb</Pnumber>
+<P3para>
+<Text><?start-line?>to decide whether a person is or was entitled to a repayment <?new-line?>under that section and, if so, the amount of the repayment,</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00060">
+<Title><?start-line?>Retention of records etc</Title>
+<P1>
+<Pnumber>7</Pnumber>
+<P1para>
+<P2 id="p00061">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In Schedule 1 to SSCBA 1992 (supplementary provisions relating to national <?new-line?>insurance contributions), in paragraph 8(1) (general regulation-making <?new-line?>powers), after paragraph (a) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="schedule" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>aa</Pnumber>
+<P3para>
+<Text><?start-line?>for requiring persons to maintain, in such form and manner <?new-line?>as may be prescribed, records of such matters as may be <?new-line?>prescribed for purposes connected with the employment <?new-line?>allowance provisions (within the meaning of the National <?new-line?>Insurance Contributions Act 2013), and to retain the records <?new-line?>for so long as may be prescribed;</Text>
+
+</P3para></P3>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P2para>
+</P2>
+<P2 id="p00062">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In Schedule 1 to SSCB(NI)A 1992 (supplementary provisions relating to <?new-line?>national insurance contributions), in paragraph 8(1) (general regulation-<?new-line?>making powers), after paragraph (a) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="schedule" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>aa</Pnumber>
+<P3para>
+<Text><?start-line?>for requiring persons to maintain, in such form and manner <?new-line?>as may be prescribed, records of such matters as may be <?new-line?>prescribed for purposes connected with the employment <?new-line?>allowance provisions (within the meaning of the National <?new-line?>Insurance Contributions Act 2013), and to retain the records <?new-line?>for so long as may be prescribed;</Text>
+
+</P3para></P3>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P2para>
+</P2>
+<P2 id="p00063">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In paragraph 26 of Schedule 4 to the Social Security (Contributions) <?new-line?>Regulations 2001 (<Citation id="c00104" Class="UnitedKingdomStatutoryInstrument" Year="2001" Number="1004">S.I. 2001/1004</Citation>) (retention of records), after sub-paragraph <?new-line?>(4) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="schedule" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>4A</Pnumber>
+<P2para>
+<Text><?start-line?>Sub-paragraph <InternalLink id="i00028" Ref="p00064">(4B)</InternalLink> applies in relation to an employer who makes <?new-line?>deductions, or applies for a repayment, under section 4 of the <?new-line?>National Insurance Contributions Act 2013 on account of an <?new-line?>employment allowance for which the employer qualifies for a tax <?new-line?>year (or who intends to do so).</Text>
+</P2para>
+</P2>
+<P2 id="p00064">
+<Pnumber>4B</Pnumber>
+<P2para>
+<Text><?start-line?>So far as they are not otherwise covered by sub-paragraph (4), <?new-line?>“contribution records” includes any documents or records relating <?new-line?>to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the employer’s qualification for the employment allowance, <?new-line?>or</Text>
+
+</P3para></P3>
+<?new-page?><P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the calculation of any amount that has been, or could be, <?new-line?>deducted or repaid under section 4 of the National Insurance <?new-line?>Contributions Act 2013 on account of the employment <?new-line?>allowance.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The amendment made by subsection <InternalLink id="i00029" Ref="p00063">(3)</InternalLink> is to be treated as having been made <?new-line?>by the Treasury using the powers conferred by paragraph 8(1)(aa) of Schedule <?new-line?>1 to SSCBA 1992 (as inserted by subsection <InternalLink id="i00030" Ref="p00061">(1)</InternalLink>) and paragraph 8(1)(aa) of <?new-line?>Schedule 1 to SSCB(NI)A 1992 (as inserted by subsection <InternalLink id="i00031" Ref="p00062">(2)</InternalLink>).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>In section 110ZA of the Social Security Administration Act 1992 (powers to call <?new-line?>for documents etc), in subsection (2)(a), after “Benefits Act” insert “or the <?new-line?>National Insurance Contributions Act 2013”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>In section 104ZA of the Social Security Administration (Northern Ireland) Act <?new-line?>1992 (powers to call for documents etc), in subsection (2)(a), after “Benefits Act” <?new-line?>insert “or the National Insurance Contributions Act 2013”.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00065">
+<Title><?start-line?>Commencement of the employment allowance provisions etc</Title>
+<P1>
+<Pnumber>8</Pnumber>
+<P1para>
+<Text><?start-line?>Sections 1 to 7 and Schedule 1 come into force on 6 April 2014.</Text>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+<Pblock>
+<Title><?start-line?>Application of general anti-abuse rule to national insurance contributions</Title>
+<P1group id="p00066">
+<Title><?start-line?>GAAR to apply to national insurance contributions</Title>
+<P1>
+<Pnumber>9</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?><Emphasis>In Part 5 of the Finance Act 2013 (general anti-abuse rule)—</Emphasis></Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?><Emphasis>references to tax, other than in references to particular taxes, include national <?new-line?>insurance contributions, and</Emphasis></Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?><Emphasis>references to a charge to tax include a liability to pay national insurance <?new-line?>contributions.</Emphasis></Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?><Emphasis>Section 206(3) of that Act (list of taxes to which the general anti-abuse rule applies) has <?new-line?>effect as if it included a reference to national insurance contributions.</Emphasis></Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Section 207 of that Act (meaning of “tax arrangements” and “abusive”) has <?new-line?>effect as if, in subsection (4)(a), after “income,” there were inserted “earnings <?new-line?>(within the meaning of Part 1 of the Social Security Contributions and Benefits <?new-line?>Act 1992 or Part 1 of the Social Security Contributions and Benefits (Northern <?new-line?>Ireland) Act 1992),”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Adjustments to be made in respect of national insurance contributions under <?new-line?>section 209 of the Finance Act 2013 (counteracting the tax advantages) may be <?new-line?>made by a notice given under paragraph 12 of Schedule 43 to that Act (notice <?new-line?>of final decision).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>For the purposes of section 210 of that Act (consequential relieving <?new-line?>adjustments)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>if a claim under that section relates to Class 4 national insurance <?new-line?>contributions, Schedule 1A to the Taxes Management Act 1970 (as that <?new-line?>Schedule applies in relation to such contributions) applies to it, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>if a claim under that section relates to any other class of national <?new-line?>insurance contributions, it must be made in such form and manner, and <?new-line?>contain such information, as HMRC may require.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>Adjustments to be made in respect of national insurance contributions under <?new-line?>that section may be made by a notice given under subsection (7) of that section.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>This section has effect in relation to tax arrangements (within the meaning of <?new-line?>Part 5 of the Finance Act 2013 as modified by this section) entered into on or <?new-line?>after the day on which this Act is passed.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>8</Pnumber>
+<P2para>
+<Text><?start-line?>Subsections <InternalLink id="i00032" Ref="p00067">(9)</InternalLink> and <InternalLink id="i00033" Ref="p00068">(10)</InternalLink> apply where the tax arrangements—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>would not have been tax arrangements but for the modifications made <?new-line?>by this section, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>form part of other arrangements entered into before the day on which <?new-line?>this Act is passed.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00067">
+<Pnumber>9</Pnumber>
+<P2para>
+<Text><?start-line?>The other arrangements are to be ignored for the purposes of section 207(3) of <?new-line?>the Finance Act 2013, subject to subsection <InternalLink id="i00034" Ref="p00068">(10)</InternalLink>.</Text>
+</P2para>
+</P2>
+<P2 id="p00068">
+<Pnumber>10</Pnumber>
+<P2para>
+<Text><?start-line?>Account is to be taken of the other arrangements for the purposes of that <?new-line?>section if, as a result, the tax arrangements would not be abusive.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>11</Pnumber>
+<P2para>
+<Text><?start-line?>In this section—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“abusive”, “arrangements” and “HMRC” have the same meaning as in <?new-line?>Part 5 of the Finance Act 2013;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“national insurance contributions” means contributions under either Part <?new-line?>1 of SSCBA 1992 or Part 1 of SSCB(NI)A 1992.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00069">
+<Title><?start-line?>Power to modify application of GAAR to national insurance contributions</Title>
+<P1>
+<Pnumber>10</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Where a modification is made to Part 5 of the Finance Act 2013 (general anti-<?new-line?>abuse rule) that does not apply in relation to national insurance contributions <?new-line?>(“the tax only modification”), the Treasury may by regulations—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>make provision for the purpose of applying the tax only modification <?new-line?>in relation to national insurance contributions (with or without <?new-line?>modifications),</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>make provision in relation to national insurance contributions <?new-line?>corresponding to the tax only modification, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>otherwise modify the general anti-abuse rule, as it has effect in relation <?new-line?>to national insurance contributions, in consequence of, or for the <?new-line?>purpose of making provision supplementary or incidental to, the tax <?new-line?>only modification.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Regulations under this section—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>may amend, repeal or revoke any provision of an Act or instrument <?new-line?>made under an Act (whenever passed or made),</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>may make consequential, incidental, supplementary, transitional, <?new-line?>transitory or saving provision, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>may make different provision for different cases, classes of national <?new-line?>insurance contributions or purposes.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Regulations under this section must be made by statutory instrument.</Text>
+</P2para>
+</P2>
+<P2 id="p00070">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>A statutory instrument containing (with or without other provision) <?new-line?>regulations under this section that amend or repeal a provision of an Act may <?new-line?>not be made unless a draft has been laid before, and approved by a resolution <?new-line?>of, each House of Parliament.</Text>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>A statutory instrument containing regulations under this section that does not <?new-line?>have to be approved in draft under subsection <InternalLink id="i00035" Ref="p00070">(4)</InternalLink> is subject to annulment in <?new-line?>pursuance of a resolution of either House of Parliament.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>In this section—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“general anti-abuse rule” has the same meaning as in Part 5 of the Finance <?new-line?>Act 2013;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“national insurance contributions” means contributions under either Part <?new-line?>1 of SSCBA 1992 or Part 1 of SSCB(NI)A 1992.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+<Pblock>
+<Title><?start-line?>Oil and gas workers on the continental shelf</Title>
+<P1group id="p00071">
+<Title><?start-line?>Oil and gas workers on the continental shelf: secondary contributors etc</Title>
+<P1>
+<Pnumber>11</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Section 120 of SSCBA 1992 (employment at sea: continental shelf operations) is <?new-line?>amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (1), after “persons” insert “(“continental shelf workers”)”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (3)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>for “the regulations” substitute “regulations under subsection (1)”, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>for “such person” substitute “continental shelf worker”.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>After that subsection insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2 id="p00072">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The Treasury may also, by regulations, make provision for, and in <?new-line?>connection with, the issue by Her Majesty’s Revenue and Customs of <?new-line?>certificates to prescribed persons who are, by virtue of regulations <?new-line?>under subsection (1), to be treated as the secondary contributor in <?new-line?>relation to the payment of earnings to or for the benefit of one or more <?new-line?>continential shelf workers—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>confirming that the prescribed person’s liabilities to pay <?new-line?>contributions in respect of the continental shelf workers <?new-line?>specified or described in the certificate are being met by another <?new-line?>person, and</Text>
+</P3para>
+</P3>
+<P3 id="p00073">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>discharging the prescribed person, while the certificate is in <?new-line?>force, from liability to make any payments in respect of the <?new-line?>contributions, in the event that the other person fails to pay <?new-line?>them in full.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>Regulations under subsection <InternalLink id="i00036" Ref="p00072">(4)</InternalLink> may, in particular, make provision <?new-line?>about—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>applying for a certificate;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the circumstances in which a certificate may, or must, be issued <?new-line?>or cancelled;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>the form and content of a certificate;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>the effect of a certificate (including provision modifying the <?new-line?>effect mentioned in subsection <InternalLink id="i00037" Ref="p00073">(4)(b)</InternalLink> or specifying further <?new-line?>effects);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>the effect of cancelling a certificate.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+<?new-page?><Pblock>
+<Title><?start-line?>Partnerships</Title>
+<P1group id="p00074">
+<Title><?start-line?>Alternative investment fund managers</Title>
+<P1>
+<Pnumber>12</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>SSCBA 1992 is amended as follows.</Text>
+</P2para>
+</P2>
+<P2 id="p00075">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>After section 18 insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?> Alternative investment fund managers</Title>
+<P1>
+<Pnumber>18A</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Treasury may by regulations—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>modify the way in which an AIFM partner’s liabilities for Class <?new-line?>4 contributions are determined, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in relation to Class 4 contributions, otherwise modify any <?new-line?>provision made by or under this Act as it applies in the case of <?new-line?>an AIFM partner.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>“AIFM partner” means a person who is or was a partner in a firm for <?new-line?>the purposes of the Income Tax (Trading and Other Income) Act 2005 <?new-line?>(including where that is the case by virtue of section 863 of that Act) <?new-line?>where the firm is or was an AIFM firm.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>“AIFM firm” means a firm which is managing, or has managed, an AIF <?new-line?>as determined in accordance with regulation 4(2) of the Alternative <?new-line?>Investment Fund Managers Regulations 2013 (<Citation id="c00105" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="1773">S.I. 2013/1773</Citation>).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Regulations under this section may have retrospective effect; but they <?new-line?>may not have effect before the beginning of the tax year in which they <?new-line?>are made.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In section 176(1)(a) (parliamentary control: instruments subject to affirmative <?new-line?>procedure), after “section 18;” insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<Para>
+<Text><?start-line?>section 18A;</Text>
+</Para>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>SSCB(NI)A 1992 is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>After section 18 insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?> Alternative investment fund managers</Title>
+<P1>
+<Pnumber>18A</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Treasury may by regulations—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>modify the way in which an AIFM partner’s liabilities for Class <?new-line?>4 contributions are determined, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in relation to Class 4 contributions, otherwise modify—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>any provision made by or under this Act, or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>any provision made by or under the Great Britain <?new-line?>Contributions and Benefits Act which extends to <?new-line?>Northern Ireland,</Text>
+</P4para>
+</P4>
+<Text><?start-line?>as the provision applies in the case of an AIFM partner.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>“AIFM partner” means a person who is or was a partner in a firm for <?new-line?>the purposes of the Income Tax (Trading and Other Income) Act 2005 <?new-line?>(including where that is the case by virtue of section 863 of that Act) <?new-line?>where the firm is or was an AIFM firm.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>“AIFM firm” means a firm which is managing, or has managed, an AIF <?new-line?>as determined in accordance with regulation 4(2) of the Alternative <?new-line?>Investment Fund Managers Regulations 2013 (<Citation id="c00106" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="1773">S.I. 2013/1773</Citation>).</Text>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Regulations under this section may have retrospective effect; but they <?new-line?>may not have effect before the beginning of the tax year in which they <?new-line?>are made.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>In section 172(11A) (parliamentary control: instruments subject to affirmative <?new-line?>procedure), after “18,” insert “18A,”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>The amendments made by this section come into force at the end of the period <?new-line?>of 2 months beginning with the day on which this Act is passed.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00076">
+<Title><?start-line?>Members of limited liability partnerships</Title>
+<P1>
+<Pnumber>13</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In section 2 of SSCBA 1992 (categories of earners), after subsection (5) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>Section 4(4) of the Limited Liability Partnerships Act 2000 does not <?new-line?>apply for the purposes of this Act.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In section 2 of SSCB(NI)A 1992 (categories of earners), after subsection (5) <?new-line?>insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>Section 4(4) of the Limited Liability Partnerships Act 2000 does not <?new-line?>apply for the purposes of this Act.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The amendments made by this section come into force on 6 April 2014.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+<Pblock>
+<Title><?start-line?>Other provision</Title>
+<P1group id="p00077">
+<Title><?start-line?>Office holders who receive “earnings” to be employed earners</Title>
+<P1>
+<Pnumber>14</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In section 2(1)(a) of SSCBA 1992 (definition of “employed earner”), omit <?new-line?>“general”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In section 2(1)(a) of SSCB(NI)A 1992 (definition of “employed earner”), omit <?new-line?>“general”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Schedule 2 makes provision that is consequential upon office holders in receipt <?new-line?>of “earnings” (as opposed to “general earnings”) being employed earners.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The amendments made by this section and Schedule 2 come into force at the <?new-line?>end of the period of 2 months beginning with the day on which this Act is <?new-line?>passed.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00078">
+<Title><?start-line?>Armed Forces early departure payments retrospectively disregarded</Title>
+<P1>
+<Pnumber>15</Pnumber>
+<P1para>
+<Text><?start-line?>Paragraph 10A of Part 6 of Schedule 3 to the Social Security (Contributions) <?new-line?>Regulations 2001 (<Citation id="c00107" Class="UnitedKingdomStatutoryInstrument" Year="2001" Number="1004">S.I. 2001/1004</Citation>) (payments under the Armed Forces Early <?new-line?>Departure Payments Scheme Order 2005 (<Citation id="c00108" Class="UnitedKingdomStatutoryInstrument" Year="2005" Number="0437">S.I. 2005/437</Citation>) to be disregarded) also <?new-line?>has effect for the tax years 2005-06 to 2012-13 inclusive.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00079">
+<Title><?start-line?>Repeal of certain redundant reliefs relating to Class 4 contributions</Title>
+<P1>
+<Pnumber>16</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In Schedule 2 to SSCBA 1992 (levy of Class 4 contributions with income tax)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>omit paragraph 3(3), and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>omit paragraph 9 (and the heading immediately before it).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In Schedule 2 to SSCB(NI)A 1992 (levy of Class 4 contributions with income <?new-line?>tax)—</Text>
+<?new-page?><P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>omit paragraph 3(3), and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>omit paragraph 9 (and the heading immediately before it).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The amendments made by subsections (1)(a) and (2)(a) have effect for the tax <?new-line?>year after the one during which this Act is passed and for subsequent tax years.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00080">
+<Title><?start-line?>Certain orders and regulations in respect of Northern Ireland</Title>
+<P1>
+<Pnumber>17</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Section 172 of SSCB(NI)A 1992 (Assembly etc control of regulations and <?new-line?>orders) is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (11), for “(9)” substitute “(10)”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (11B)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>after “contains” insert</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double" PartialRefs="p10011"><Text id="p10011">—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?></Text>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>,</AppendText>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>after “129” insert “or 142(7)”, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>after “Act” insert</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double" PartialRefs="p10012"><Text id="p10012">,</Text>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>regulations under powers conferred by any provision <?new-line?>mentioned in that subsection which are to be made for <?new-line?>the purpose of consolidating regulations to be revoked <?new-line?>in the instrument, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>regulations which, in so far as they are made under <?new-line?>powers conferred by any provision mentioned in that <?new-line?>subsection, only replace provisions of previous <?new-line?>regulations with new provisions to the same effect.</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Section 165 of the Social Security Administration (Northern Ireland) Act 1992 <?new-line?>(regulations and orders — general) is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (1), after “to be made by” insert “the Secretary of State,”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (3), after “the Department” insert “, the Secretary of State”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>The amendments made by this section come into force at the end of the period <?new-line?>of 2 months beginning with the day on which this Act is passed.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+<Pblock>
+<Title><?start-line?>General</Title>
+<P1group id="p00081">
+<Title><?start-line?>HMRC administrative expenses: financial provision</Title>
+<P1>
+<Pnumber>18</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?><Emphasis>In section 165 of the Social Security Administration Act 1992 (adjustments between <?new-line?>the National Insurance Fund and Consolidated Fund), in subsection (5)(a), after <?new-line?>“adoption pay” insert “or the National Insurance Contributions Act 2013”.</Emphasis></Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?><Emphasis>In section 145 of the Social Security Administration (Northern Ireland) Act 1992 <?new-line?>(adjustments between the National Insurance Fund and Consolidated Fund), in <?new-line?>subsection (5)(a), after “adoption pay” insert “or the National Insurance <?new-line?>Contributions Act 2013”.</Emphasis></Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00082">
+<Title><?start-line?>Abbreviations of Acts</Title>
+<P1>
+<Pnumber>19</Pnumber>
+<P1para>
+<Text><?start-line?>In this Act—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“SSCBA 1992” means the Social Security Contributions and Benefits Act <?new-line?>1992;</Text>
+</Para>
+</ListItem>
+<?new-page?><ListItem>
+<Para>
+<Text><?start-line?>“SSCB(NI)A 1992” means the Social Security Contributions and Benefits <?new-line?>(Northern Ireland) Act 1992.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00083">
+<Title><?start-line?>Short title and extent</Title>
+<P1>
+<Pnumber>20</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Act may be cited as the National Insurance Contributions Act 2013.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Subject to subsection (3), this Act extends to England and Wales, Scotland and <?new-line?>Northern Ireland.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>An amendment or repeal made by this Act has the same extent as the provision <?new-line?>amended or repealed.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+</Body>
+<?new-page?>
+<Schedules>
+<Title><?start-line?>SCHEDULES</Title>
+<Schedule id="p00084" NumberFormat="default">
+<Number><?start-line?>SCHEDULE 1</Number>
+<TitleBlock>
+<Title><?start-line?>Employment allowance: rules for determining if persons are “connected”</Title>
+</TitleBlock>
+<Reference>Section 3</Reference>
+<ScheduleBody>
+<Part>
+<Number><?start-line?>Part 1</Number>
+<Title><?start-line?>Companies</Title>
+<P1group>
+<Title><?start-line?>Application</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<Text><?start-line?>This Part applies for the purposes of section 3(1).</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>The basic rule</Title>
+<P1 id="p00085">
+<Pnumber>2</Pnumber>
+<P1para>
+<P2 id="p00086">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Two companies are “connected” with one another if—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>one of the two has control of the other, or</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>both are under the control of the same person or persons.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2 id="p00087">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In sub-paragraph <InternalLink id="i00038" Ref="p00086">(1)</InternalLink> “control” has the same meaning as in Part 10 of CTA <?new-line?>2010 (see sections 450 and 451 of that Act) (and a limited liability partnership <?new-line?>is to be treated as a company for the purposes of that Part as applied by this <?new-line?>sub-paragraph).</Text>
+</P2para>
+</P2>
+<P2 id="p00088">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>For this purpose, where under section 450 of that Act “C” is a limited liability <?new-line?>partnership, subsection (3) of that section has effect as if before paragraph (a) <?new-line?>there were inserted—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>za</Pnumber>
+<P3para>
+<Text><?start-line?>rights to a share of more than half the assets, or of more than <?new-line?>half the income, of C,</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Sub-paragraphs <InternalLink id="i00039" Ref="p00086">(1)</InternalLink> to <InternalLink id="i00040" Ref="p00088">(3)</InternalLink> are subject to paragraphs <InternalLink id="i00041" Ref="p00089">3</InternalLink> to <InternalLink id="i00042" Ref="p00100">6</InternalLink>.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>Paragraph <InternalLink id="i00043" Ref="p00104">7</InternalLink> provides for further connections.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>In this Part “CTA 2010” means the Corporation Tax Act 2010.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Companies whose relationship is not one of substantial commercial interdependence</Title>
+<P1 id="p00089">
+<Pnumber>3</Pnumber>
+<P1para>
+<P2 id="p00090">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This paragraph applies for the purpose of determining under paragraph <InternalLink id="i00044" Ref="p00086">2(1)</InternalLink> <?new-line?>if two companies are connected with one another if the relationship between <?new-line?>the companies is not one of substantial commercial interdependence.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In the application of section 451 of CTA 2010 for the purposes of the <?new-line?>determination, any person to whom rights and duties fall to be attributed <?new-line?>under subsections (4) and (5) of that section is to be treated, for the purposes <?new-line?>of those subsections, as having no associates.</Text>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In determining for the purposes of sub-paragraph <InternalLink id="i00045" Ref="p00090">(1)</InternalLink> if two companies have <?new-line?>a relationship of “substantial commercial interdependence”, the following <?new-line?>factors are to be taken into account—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the degree to which the companies are financially interdependent <?new-line?>(see sub-paragraph <InternalLink id="i00046" Ref="p00091">(4)</InternalLink>),</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the degree to which the companies are economically interdependent <?new-line?>(see sub-paragraph <InternalLink id="i00047" Ref="p00092">(5)</InternalLink>), and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>the degree to which the companies are organisationally <?new-line?>interdependent (see sub-paragraph <InternalLink id="i00048" Ref="p00093">(6)</InternalLink>).</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2 id="p00091">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Two companies are “financially interdependent” if (in particular)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>one gives financial support (directly or indirectly) to the other, or</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>each has (directly or indirectly) a financial interest in the other’s <?new-line?>activities.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2 id="p00092">
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>Two companies are “economically interdependent” if (in particular)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>they seek to realise the same economic objective,</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the activities of one benefit the other, or</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>their activities involve common customers.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2 id="p00093">
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>Two companies are “organisationally interdependent” if (in particular) they <?new-line?>have—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>common management,</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>common employees,</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>common premises, or</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>common equipment.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Fixed-rate preference shares</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<P2 id="p00094">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In determining for the purposes of paragraph <InternalLink id="i00049" Ref="p00086">2(1)</InternalLink> if a company is under the <?new-line?>control of another, fixed-rate preference shares held by a company are <?new-line?>ignored if the company holding them—</Text>
+<P3 id="p00095">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>is not a close company,</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>takes no part in the management or conduct of the company which <?new-line?>issued the shares, or in the management or conduct of its business, <?new-line?>and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>subscribed for the shares in the ordinary course of a business which <?new-line?>includes the provision of finance.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In sub-paragraph <InternalLink id="i00050" Ref="p00094">(1)</InternalLink> “fixed-rate preference shares” means shares which—</Text>
+<P3 id="p00096">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>were issued wholly for new consideration,</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>do not carry any right either to conversion into shares or securities of <?new-line?>any other description or to the acquisition of any additional shares or <?new-line?>securities, and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>do not carry any right to dividends other than dividends which—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>are of a fixed amount or at a fixed rate per cent of the nominal <?new-line?>value of the shares, and</Text>
+
+</P4para></P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>together with any sum paid on redemption, represent no <?new-line?>more than a reasonable commercial return on the <?new-line?>consideration for which the shares were issued.</Text>
+
+</P4para></P4>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In sub-paragraph <InternalLink id="i00051" Ref="p00096">(2)(a)</InternalLink> “new consideration” has the meaning given by <?new-line?>section 1115 of CTA 2010.</Text>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>In sub-paragraph <InternalLink id="i00052" Ref="p00095">(1)(a)</InternalLink> “close company” is to be read in accordance with <?new-line?>Chapter 2 of Part 10 of CTA 2010 (see, in particular, section 439 of that Act).</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Connection through a loan creditor</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>A company (“A”) is not under the control of another company (“B”) for the <?new-line?>purposes of paragraph <InternalLink id="i00053" Ref="p00086">2(1)</InternalLink> if—</Text>
+<P3 id="p00097">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>B is a loan creditor of A,</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>there is no other connection between A and B, and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>either—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>B is not a close company, or</Text>
+
+</P4para></P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>B’s relationship to A as a loan creditor arose in the ordinary <?new-line?>course of a business which B carries on.</Text>
+
+</P4para></P4>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Sub-paragraph <InternalLink id="i00054" Ref="p00099">(3)</InternalLink> applies if—</Text>
+<P3 id="p00098">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>two companies (“A” and “B”) are under the control of the same <?new-line?>person who is a loan creditor of each of them,</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>there is no other connection between A and B, and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>either—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>the loan creditor is a company which is not a close company, <?new-line?>or</Text>
+
+</P4para></P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>the loan creditor’s relationship to each of A and B as a loan <?new-line?>creditor arose in the ordinary course of a business which the <?new-line?>loan creditor carries on.</Text>
+
+</P4para></P4>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2 id="p00099">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In determining under paragraph <InternalLink id="i00055" Ref="p00086">2(1)</InternalLink> if A and B are connected with one <?new-line?>another, rights which the loan creditor has as a loan creditor of A, or as a loan <?new-line?>creditor of B, are ignored.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>In sub-paragraph <InternalLink id="i00056" Ref="p00098">(2)(a)</InternalLink> “control” has the same meaning as in paragraph <InternalLink id="i00057" Ref="p00086">2(1)</InternalLink>.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>In this paragraph—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>“close company” is to be read in accordance with Chapter 2 of Part <?new-line?>10 of CTA 2010 (see, in particular, section 439 of that Act),</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>“connection” includes a connection in the past as well as a connection <?new-line?>in the present and references to a connection between two companies <?new-line?>include any dealings between them, and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>references to a loan creditor of a company are to be read in <?new-line?>accordance with section 453 of CTA 2010.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Connection through a trustee</Title>
+<P1 id="p00100">
+<Pnumber>6</Pnumber>
+<P1para>
+<P2 id="p00101">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Sub-paragraph <InternalLink id="i00058" Ref="p00103">(2)</InternalLink> applies if—</Text>
+<P3 id="p00102">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>two companies (“A” and “B”) are under the control of the same <?new-line?>person by virtue of rights or powers (or both) held in trust by that <?new-line?>person, and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>there is no other connection between A and B.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2 id="p00103">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In determining under paragraph <InternalLink id="i00059" Ref="p00086">2(1)</InternalLink> if A and B are connected with one <?new-line?>another, the rights and powers mentioned in sub-paragraph <InternalLink id="i00060" Ref="p00102">(1)(a)</InternalLink> are <?new-line?>ignored.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In sub-paragraph <InternalLink id="i00061" Ref="p00101">(1)</InternalLink>—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>“control” has the same meaning as in paragraph <InternalLink id="i00062" Ref="p00086">2(1)</InternalLink>, and</Text>
+
+</P3para></P3>
+<?new-page?><P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>“connection” includes a connection in the past as well as a connection <?new-line?>in the present and the reference to a connection between A and B <?new-line?>includes any dealings between them.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Further connections</Title>
+<P1 id="p00104">
+<Pnumber>7</Pnumber>
+<P1para>
+<P2 id="p00105">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This paragraph applies if—</Text>
+<P3 id="p00106">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>a company (“A”) is connected with another company (“B”), and</Text>
+
+</P3para></P3>
+<P3 id="p00107">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>B is connected with another company (“C”).</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2 id="p00108">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>A and C are also connected with one another (if that would not otherwise be <?new-line?>the case).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In sub-paragraph <InternalLink id="i00063" Ref="p00106">(1)(a)</InternalLink> the reference to a company being connected with <?new-line?>another company is to that company being so connected by virtue of <?new-line?>paragraphs <InternalLink id="i00064" Ref="p00085">2</InternalLink> to <InternalLink id="i00065" Ref="p00100">6</InternalLink> or this paragraph, and in sub-paragraph <InternalLink id="i00066" Ref="p00107">(1)(b)</InternalLink> the <?new-line?>reference to a company being connected with another company is to that <?new-line?>company being so connected by virtue of paragraphs <InternalLink id="i00067" Ref="p00085">2</InternalLink> to <InternalLink id="i00068" Ref="p00100">6</InternalLink>.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Part>
+<Part>
+<Number><?start-line?>Part 2</Number>
+<Title><?start-line?>Charities</Title>
+<P1 id="p00109">
+<Pnumber>8</Pnumber>
+<P1para>
+<P2 id="p00110">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Two charities are connected with one another for the purposes of section 3(2) <?new-line?>if—</Text>
+<P3 id="p00111">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>they are connected with one another in accordance with section 993 <?new-line?>of the Income Tax Act 2007 (meaning of “connected” persons), and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>their purposes and activities are the same or substantially similar.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2 id="p00112">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In the application of section 993 of the Income Tax Act 2007 for the purposes <?new-line?>of sub-paragraph <InternalLink id="i00069" Ref="p00111">(1)(a)</InternalLink>—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>a charity which is a trust is to be treated as if it were a company (and <?new-line?>accordingly a person), including in this sub-paragraph;</Text>
+
+</P3para></P3>
+<P3 id="p00113">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>a charity which is a trust has “control” of another person if the <?new-line?>trustees (in their capacity as trustees of the charity) have, or any of <?new-line?>them has, control of the person;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>a person (other than a charity regulator) has “control” of a charity <?new-line?>which is a trust if—</Text>
+<P4 id="p00114">
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>the person is a trustee of the charity and some or all of the <?new-line?>powers of the trustees of the charity could be exercised by the <?new-line?>person acting alone or by the person acting together with any <?new-line?>other persons who are trustees of the charity and who are <?new-line?>connected with the person,</Text>
+
+</P4para></P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>the person, alone or together with other persons, has power <?new-line?>to appoint or remove a trustee of the charity, or</Text>
+
+</P4para></P4>
+<P4>
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text><?start-line?>the person, alone or together with other persons, has any <?new-line?>power of approval or direction in relation to the carrying out <?new-line?>by the trustees of any of their functions.</Text>
+
+</P4para></P4>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2 id="p00115">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>A charity which is a trust is also connected with another charity which is a <?new-line?>trust for the purposes of section 3(2) if at least half of the trustees of one of <?new-line?>the charities are—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>trustees of the other charity,</Text>
+
+</P3para></P3>
+<?new-page?><P3 id="p00116">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>persons who are connected with persons who are trustees of the <?new-line?>other charity, or</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>a combination of both,</Text>
+
+</P3para></P3>
+<Text><?start-line?>and the charities’ purposes and activities are the same or substantially <?new-line?>similar.</Text>
+</P2para>
+</P2>
+<P2 id="p00117">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>In determining if a person is connected with another person for the purposes <?new-line?>of sub-paragraph <InternalLink id="i00070" Ref="p00114">(2)(c)(i)</InternalLink> or <InternalLink id="i00071" Ref="p00116">(3)(b)</InternalLink>, apply section 993 of the Income Tax Act <?new-line?>2007 with the omission of subsection (3) of that section (and without the <?new-line?>modifications in sub-paragraph <InternalLink id="i00072" Ref="p00112">(2)</InternalLink>).</Text>
+</P2para>
+</P2>
+<P2 id="p00118">
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>If a charity (“A”) controls a company (“B”) which, apart from this sub-<?new-line?>paragraph, would not be a charity—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>B is to be treated as if it were a charity for the purposes of section 3 <?new-line?>and this Part (including this sub-paragraph), and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>A and B are connected with one another for the purposes of section <?new-line?>3(2).</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2 id="p00119">
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>In sub-paragraph <InternalLink id="i00073" Ref="p00118">(5)</InternalLink> “control” is to be read in accordance with—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>paragraph <InternalLink id="i00074" Ref="p00087">2(2)</InternalLink> and <InternalLink id="i00075" Ref="p00088">(3)</InternalLink> (but ignoring paragraphs <InternalLink id="i00076" Ref="p00089">3</InternalLink> to <InternalLink id="i00077" Ref="p00100">6</InternalLink>), and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>sub-paragraph <InternalLink id="i00078" Ref="p00113">(2)(b)</InternalLink> of this paragraph.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+<P1>
+<Pnumber>9</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This paragraph applies if—</Text>
+<P3 id="p00120">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>a charity (“A”) is connected with another charity (“B”) for the <?new-line?>purposes of section 3(2), and</Text>
+
+</P3para></P3>
+<P3 id="p00121">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>B is connected with another charity (“C”) for the purposes of section <?new-line?>3(2).</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2 id="p00122">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>A and C are also connected with one another for the purposes of section 3(2) <?new-line?>(if that would not otherwise be the case).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In sub-paragraph <InternalLink id="i00079" Ref="p00120">(1)(a)</InternalLink> the reference to a charity being connected with <?new-line?>another charity for the purposes of section 3(2) is to that charity being so <?new-line?>connected by virtue of paragraph <InternalLink id="i00080" Ref="p00109">8</InternalLink> or this paragraph, and in sub-paragraph <?new-line?><InternalLink id="i00081" Ref="p00121">(1)(b)</InternalLink> the reference to a charity being connected with another charity for the <?new-line?>purposes of section 3(2) is to that charity being so connected by virtue of <?new-line?>paragraph <InternalLink id="i00082" Ref="p00109">8</InternalLink>.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</Part>
+</ScheduleBody>
+</Schedule>
+<Schedule id="p00123" NumberFormat="default">
+<Number><?start-line?>SCHEDULE 2</Number>
+<TitleBlock>
+<Title><?start-line?>Office holders in receipt of “earnings” to be employed earners: consequential <?new-line?>provision</Title>
+</TitleBlock>
+<Reference>Section 14</Reference>
+<ScheduleBody>
+<P1group>
+<Title><?start-line?>SSCBA 1992</Title>
+<P1 id="p00124">
+<Pnumber>1</Pnumber>
+<P1para>
+<Text><?start-line?>SSCBA 1992 is amended as follows.</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<Text><?start-line?>In section 7(1)(b) (definition of “secondary contributor” in relation to office <?new-line?>holders), omit “general” in both places it appears.</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<Text><?start-line?>In section 163(1) (interpretation of Part 11 of that Act: statutory sick pay), in <?new-line?>paragraph (a) of the definition of “employee”, for “general earnings (as <?new-line?>defined by section 7 of the Income Tax (Earnings and Pensions) Act 2003)” <?new-line?>substitute “earnings (within the meaning of Parts 1 to 5 above)”.</Text>
+</P1para>
+</P1>
+<?new-page?><P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<Text><?start-line?>In section 171(1) (interpretation of Part 12 of that Act: statutory maternity <?new-line?>pay), in paragraph (a) of the definition of “employee”, for “general earnings <?new-line?>(as defined by section 7 of the Income Tax (Earnings and Pensions) Act <?new-line?>2003)” substitute “earnings (within the meaning of Parts 1 to 5 above)”.</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<Text><?start-line?>In section 171ZJ(2)(a) (definition of “employee” for Part 12ZA of that Act: <?new-line?>ordinary and additional statutory paternity pay), for “general earnings (as <?new-line?>defined by section 7 of the Income Tax (Earnings and Pensions) Act 2003)” <?new-line?>substitute “earnings (within the meaning of Parts 1 to 5 above)”.</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<Text><?start-line?>In section 171ZS(2)(a) (definition of “employee” for Part 12ZB of that Act: <?new-line?>statutory adoption pay), for “general earnings (as defined by section 7 of the <?new-line?>Income Tax (Earnings and Pensions) Act 2003)” substitute “earnings (within <?new-line?>the meaning of Parts 1 to 5 above)”.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>SSCB(NI)A 1992</Title>
+<P1>
+<Pnumber>7</Pnumber>
+<P1para>
+<Text><?start-line?>SSCB(NI)A 1992 is amended as follows.</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>8</Pnumber>
+<P1para>
+<Text><?start-line?>In section 7(1)(b) (definition of “secondary contributor” in relation to office <?new-line?>holders), omit “general” in both places it appears.</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>9</Pnumber>
+<P1para>
+<Text><?start-line?>In section 159(1) (interpretation of Part 11 of that Act: statutory sick pay), in <?new-line?>paragraph (a) of the definition of “employee”, for “general earnings (as <?new-line?>defined by section 7 of the Income Tax (Earnings and Pensions) Act 2003)” <?new-line?>substitute “earnings (within the meaning of Parts 1 to 5 above)”.</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>10</Pnumber>
+<P1para>
+<Text><?start-line?>In section 167(1) (interpretation of Part 12 of that Act: statutory maternity <?new-line?>pay), in paragraph (a) of the definition of “employee”, for “general earnings <?new-line?>(as defined by section 7 of the Income Tax (Earnings and Pensions) Act <?new-line?>2003)” substitute “earnings (within the meaning of Parts 1 to 5 above)”.</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>11</Pnumber>
+<P1para>
+<Text><?start-line?>In section 167ZJ(2)(a) (definition of “employee” for Part 12ZA of that Act: <?new-line?>ordinary and additional statutory paternity pay), for “emoluments <?new-line?>chargeable to income tax under Schedule E” substitute “earnings (within the <?new-line?>meaning of Parts 1 to 5 above)”.</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>12</Pnumber>
+<P1para>
+<Text><?start-line?>In section 167ZS(2)(a) (definition of “employee” for Part 12ZB of that Act: <?new-line?>statutory adoption pay), for “emoluments chargeable to income tax under <?new-line?>Schedule E” substitute “earnings (within the meaning of Parts 1 to 5 above)”.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?><Citation id="c00001" Year="1993" Class="UnitedKingdomPublicGeneralAct" Number="0048">Pension Schemes Act 1993 (c. 48)</Citation></Title>
+<P1>
+<Pnumber>13</Pnumber>
+<P1para>
+<Text><?start-line?>In section 181(1) of the Pension Schemes Act 1993 (general interpretation), in <?new-line?>the definition of “employee”, for “general earnings (as defined by section 7 <?new-line?>of the Income Tax (Earnings and Pensions) Act 2003)” substitute “earnings”.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?><Citation id="c00002" Year="1993" Class="UnitedKingdomPublicGeneralAct" Number="0049">Pension Schemes (Northern Ireland) Act 1993 (c. 49)</Citation></Title>
+<P1>
+<Pnumber>14</Pnumber>
+<P1para>
+<Text><?start-line?>In section 176(1) of the Pension Schemes (Northern Ireland) Act 1993 <?new-line?>(general interpretation), in the definition of “employee”, for “general <?new-line?>earnings (as defined by section 7 of the Income Tax (Earnings and Pensions) <?new-line?>Act 2003)” substitute “earnings”.</Text>
+</P1para>
+</P1>
+</P1group>
+</ScheduleBody>
+</Schedule>
+</Schedules>
+</Primary>
+</Legislation>

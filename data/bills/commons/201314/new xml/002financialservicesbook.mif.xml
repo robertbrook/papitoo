@@ -1,0 +1,3339 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>Financial Services (Banking Reform) Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>9/5/2013</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 2" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="3" />
+<ukm:House Value="House of Commons" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Cover>
+<CoverTitle>EXPLANATORY NOTES</CoverTitle>
+<CoverPara><Text><?start-line?>Explanatory notes to the Bill, prepared by HM Treasury, are published separately as <?new-line?>Bill 2–EN</Text></CoverPara>
+<CoverTitle>EUROPEAN CONVENTION ON HUMAN RIGHTS</CoverTitle>
+<CoverPara><Text><?start-line?>Mr Chancellor of the Exchequer has made the following statement under section <?new-line?>19(1)(a) of the Human Rights Act 1998:</Text></CoverPara>
+
+<CoverPara><Text><?start-line?>In my view the provisions of the <?start-line?>Financial Services (Banking Reform) Bill<?start-line?> are <?new-line?>compatible with the Convention rights.</Text></CoverPara>
+</Cover><Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsPblock>
+<ContentsTitle>Ring-fencing</ContentsTitle>
+<ContentsItem ContentRef="p00022">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Objectives of Prudential Regulation Authority</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00023">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>Modification of objectives of Financial Conduct Authority</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00025">
+<ContentsNumber>3</ContentsNumber>
+<ContentsTitle>Amendment of PRA power of direction</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00026">
+<ContentsNumber>4</ContentsNumber>
+<ContentsTitle>Ring-fencing of certain activities</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00064">
+<ContentsNumber>5</ContentsNumber>
+<ContentsTitle>Directors of ring-fenced bodies to be approved persons</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00065">
+<ContentsNumber>6</ContentsNumber>
+<ContentsTitle>PRA annual report</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00066">
+<ContentsNumber>7</ContentsNumber>
+<ContentsTitle>Ring-fencing transfer schemes</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00067">
+<ContentsNumber>8</ContentsNumber>
+<ContentsTitle>Building societies: power to make provision about ring-fencing</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+<ContentsPblock>
+<ContentsTitle>Depositor preference</ContentsTitle>
+<ContentsItem ContentRef="p00068">
+<ContentsNumber>9</ContentsNumber>
+<ContentsTitle>Preferential debts: Great Britain</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+<ContentsPblock>
+<ContentsTitle>Financial Services Compensation Scheme</ContentsTitle>
+<ContentsItem ContentRef="p00069">
+<ContentsNumber>10</ContentsNumber>
+<ContentsTitle>Discharge of functions by the scheme manager</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00072">
+<ContentsNumber>11</ContentsNumber>
+<ContentsTitle>Power to require information from scheme manager</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00073">
+<ContentsNumber>12</ContentsNumber>
+<ContentsTitle>Scheme manager: appointment of accounting officer</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+<ContentsPblock>
+<ContentsTitle>Fees to meet Treasury expenditure</ContentsTitle>
+<ContentsItem ContentRef="p00074">
+<ContentsNumber>13</ContentsNumber>
+<ContentsTitle>Fees to meet Treasury expenditure relating to international organisations</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+<ContentsPblock>
+<ContentsTitle>Parliamentary control of statutory instruments under FSMA 2000</ContentsTitle>
+<ContentsItem ContentRef="p00078">
+<ContentsNumber>14</ContentsNumber>
+<ContentsTitle>Amendments of section 429 of FSMA 2000</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+<ContentsPblock>
+<ContentsTitle>Bank of England</ContentsTitle>
+<ContentsItem ContentRef="p00079">
+<ContentsNumber>15</ContentsNumber>
+<ContentsTitle>Accounts of Bank of England and its wholly-owned subsidiaries</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+<ContentsPblock>
+<ContentsTitle>Final provisions</ContentsTitle>
+<ContentsItem ContentRef="p00085">
+<ContentsNumber>16</ContentsNumber>
+<ContentsTitle>Orders and regulations</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00086">
+<ContentsNumber>17</ContentsNumber>
+<ContentsTitle>Interpretation</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00087">
+<ContentsNumber>18</ContentsNumber>
+<ContentsTitle>Transitional provisions and savings</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00088">
+<ContentsNumber>19</ContentsNumber>
+<ContentsTitle>Extent</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00089">
+<ContentsNumber>20</ContentsNumber>
+<ContentsTitle>Commencement and short title</ContentsTitle>
+</ContentsItem>
+</ContentsPblock>
+<ContentsSchedules>
+<ContentsSchedule ContentRef="p00090">
+<ContentsNumber>Schedule</ContentsNumber>
+<ContentsTitle>Ring-fencing transfer schemes</ContentsTitle>
+</ContentsSchedule>
+</ContentsSchedules>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Make further provision about banking and other financial services, including <?new-line?>provision about the Financial Services Compensation Scheme; to make <?new-line?>provision for the amounts owed in respect of certain deposits to be treated as a <?new-line?>preferential debt on insolvency; to make provision about the accounts of the <?new-line?>Bank of England and its wholly owned subsidiaries; and for connected <?new-line?>purposes.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<Pblock>
+<Title><?start-line?>Ring-fencing</Title>
+<P1group id="p00022">
+<Title><?start-line?>Objectives of Prudential Regulation Authority</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Section 2B of FSMA 2000 (the PRA’s general objective) is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (3)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>at the end of paragraph (a), omit “and”, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>after paragraph (b) insert</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double" PartialRefs="p10000"><Text id="p10000">, and</Text>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>discharging its general functions in relation to the <?new-line?>matters mentioned in subsection (4A) in a way that <?new-line?>seeks to—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>ensure that the business of ring-fenced bodies is <?new-line?>carried on in a way that avoids any adverse <?new-line?>effect on the continuity of the provision in the <?new-line?>United Kingdom of core services,</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>ensure that the business of ring-fenced bodies is <?new-line?>protected from risks (arising in the United <?new-line?>Kingdom or elsewhere) that could adversely <?new-line?>affect the continuity of the provision in the <?new-line?>United Kingdom of core services, and</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text><?start-line?>minimise the risk that the failure of a ring-fenced <?new-line?>body could affect the continuity of the provision <?new-line?>in the United Kingdom of core services.</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</BlockAmendment>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (4) for “subsection (3)” substitute “subsection (3)(a) and (b)”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>After subsection (4) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>4A</Pnumber>
+<P2para>
+<Text><?start-line?>The matters referred to in subsection (3)(c) are—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>Part 9B (ring-fencing);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>ring-fenced bodies (see section 142A);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>any body corporate incorporated in the United Kingdom that <?new-line?>has a ring-fenced body as a member of its group;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>applications under Part 4A which, if granted, would result, or <?new-line?>would be capable of resulting, in a person becoming a ring-<?new-line?>fenced body.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00023">
+<Title><?start-line?> Modification of objectives of Financial Conduct Authority</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<Text><?start-line?>After section 1I of FSMA 2000 insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<Pblock>
+<Title><?start-line?>Modifications applying if core activity not regulated by PRA</Title>
+<P1group>
+<Title><?start-line?>Modifications applying if core activity not regulated by PRA</Title>
+<P1>
+<Pnumber>1IA</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>If and so long as any regulated activity is a core activity (see section <?new-line?>142B) without also being a PRA-regulated activity (see section 22A), the <?new-line?>provisions of this Chapter are to have effect subject to the following <?new-line?>modifications.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Section 1B is to have effect as if—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in subsection (3) after paragraph (c) there were inserted—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>in relation to the matters mentioned in section 1EA(2), <?new-line?>the continuity objective (see section 1EA).</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>, and</AppendText>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in subsection (4), for “or the integrity objective,” there were <?new-line?>substituted “, the integrity objective or (in relation to the matters <?new-line?>mentioned in section 1EA(2)) the continuity objective,”.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>After section 1E there is to be taken to be inserted—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Continuity objective</Title>
+<P1>
+<Pnumber>1EA</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>(1)<Character Name="EmSpace" /><Character Name="EnSpace" />In relation to the matters mentioned in subsection (2), the <?new-line?>continuity objective is: protecting the continuity of the <?new-line?>provision in the United Kingdom of core services (see section <?new-line?>142C).</Text>
+</P2para>
+<P2para>
+<Text><?start-line?>(2)<Character Name="EmSpace" />Those matters are—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>Part 9B (ring-fencing);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>ring-fenced bodies (see section 142A);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>any body corporate incorporated in the United Kingdom that <?new-line?>has a ring-fenced body as a member of its group;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>applications under Part 4A which, if granted, would result, or <?new-line?>would be capable of resulting, in a person becoming a ring-<?new-line?>fenced body.</Text>
+</P3para>
+</P3>
+</P2para><P2para>
+<Text><?start-line?>(3)<Character Name="EmSpace" />The FCA’s continuity objective is to be advanced primarily by—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>seeking to ensure that the business of ring-fenced bodies is <?new-line?>carried on in a way that avoids any adverse effect on the </Text><?new-page?><?start-line?>  <Text>continuity of the provision in the United Kingdom of core <?new-line?>services,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>seeking to ensure that the business of ring-fenced bodies is <?new-line?>protected from risks (arising in the United Kingdom or <?new-line?>elsewhere) that could adversely affect the continuity of the <?new-line?>provision in the United Kingdom of core services, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>seeking to minimise the risk that the failure of a ring-fenced <?new-line?>body could adversely affect the continuity of the provision in <?new-line?>the United Kingdom of core services.</Text>
+</P3para>
+</P3>
+</P2para></P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+</BlockAmendment>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00025">
+<Title><?start-line?>Amendment of PRA power of direction</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<Text><?start-line?>In section 3I of FSMA 2000 (power of PRA to require FCA to refrain from <?new-line?>specified action), in subsection (4)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>at the end of paragraph (a), omit “or”, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>at the end of paragraph (b) insert</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double" PartialRefs="p10005"><Text id="p10005">, or</Text>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>threaten the continuity of core services provided in the <?new-line?>United Kingdom.</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+</P3para>
+</P3>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00026">
+<Title><?start-line?>Ring-fencing of certain activities</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>After Part 9A of FSMA 2000 insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<FragmentTitle Context="Part">
+<Title><SmallCaps>Part 9B</SmallCaps></Title>
+</FragmentTitle>
+<FragmentTitle Context="Part">
+<Title><SmallCaps>Ring-fencing</SmallCaps></Title>
+</FragmentTitle>
+<Pblock>
+<Title><?start-line?>Introductory</Title>
+<P1group id="p00027">
+<Title><?start-line?>“Ring-fenced body”</Title>
+<P1>
+<Pnumber>142A</Pnumber>
+<P1para>
+<P2 id="p00028">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In this Act “ring-fenced body” means a UK institution which carries on <?new-line?>one or more core activities (see section <InternalLink id="i00001" Ref="p00031">142B</InternalLink>) in relation to which it has <?new-line?>a Part 4A permission.</Text>
+</P2para>
+</P2>
+<P2 id="p00029">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>But “ring-fenced body” does not include—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>a building society within the meaning of the Building Societies <?new-line?>Act 1986, or</Text>
+</P3para>
+</P3>
+<P3 id="p00030">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>a UK institution of a class exempted by order made by the <?new-line?>Treasury.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>An order under subsection <InternalLink id="i00002" Ref="p00030">(2)(b)</InternalLink> may be made in relation to a class of <?new-line?>UK institution only if the Treasury are of the opinion that the <?new-line?>exemption conferred by the order would not be likely to have a <?new-line?>significant adverse effect on the continuity of the provision in the <?new-line?>United Kingdom of core services.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>An order under subsection <InternalLink id="i00003" Ref="p00030">(2)(b)</InternalLink> may provide for the exemption to be <?new-line?>subject to conditions.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>In this section “UK institution” means a body corporate incorporated in <?new-line?>the United Kingdom.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<?new-page?><P1group id="p00031">
+<Title><?start-line?>Core activities</Title>
+<P1>
+<Pnumber>142B</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>References in this Act to a “core activity” are to be read in accordance <?new-line?>with this section.</Text>
+</P2para>
+</P2>
+<P2 id="p00032">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The regulated activity of accepting deposits (whether carried on in the <?new-line?>United Kingdom or elsewhere) is a core activity unless it is carried on <?new-line?>in circumstances specified by the Treasury by order.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>An order under subsection <InternalLink id="i00004" Ref="p00032">(2)</InternalLink> may be made only if the Treasury are of <?new-line?>the opinion that it is not necessary for either of the following purposes <?new-line?>that the regulated activity of accepting deposits should be a core <?new-line?>activity when carried on in the specified circumstances.</Text>
+</P2para>
+</P2>
+<P2 id="p00033">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Those purposes are—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>to secure an appropriate degree of protection for the depositors <?new-line?>concerned, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>to protect the continuity of the provision in the United Kingdom <?new-line?>of services provided in the course of carrying on the regulated <?new-line?>activity of accepting deposits.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00034">
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>The Treasury may by order provide for a regulated activity other than <?new-line?>that of accepting deposits to be a core activity, either generally or when <?new-line?>carried on in circumstances specified in the order.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>An order under subsection <InternalLink id="i00005" Ref="p00034">(5)</InternalLink> may be made only if the Treasury are of <?new-line?>the opinion—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>that an interruption of the provision of services provided in the <?new-line?>United Kingdom in the carrying on of the regulated activity <?new-line?>concerned could adversely affect the stability of the UK <?new-line?>financial system or of a significant part of that system, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>that the continuity of the provision of those services can more <?new-line?>effectively be protected by treating the activity as a core activity.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00035">
+<Title><?start-line?>Core services</Title>
+<P1>
+<Pnumber>142C</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>References in this Act to “core services” are to be read in accordance <?new-line?>with this section.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The following are core services—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>facilities for the accepting of deposits or other payments into an <?new-line?>account which is provided in the course of carrying on the core <?new-line?>activity of accepting deposits;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>facilities for withdrawing money or making payments from <?new-line?>such an account;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>overdraft facilities in connection with such an account.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The Treasury may by order provide that any other specified services <?new-line?>provided in the course of carrying on the core activity of accepting <?new-line?>deposits are also core services.</Text>
+</P2para>
+</P2>
+<P2 id="p00036">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>If an order under section <InternalLink id="i00006" Ref="p00031">142B</InternalLink>(5) provides for an activity other than that <?new-line?>of accepting deposits to be a core activity, the Treasury must by order <?new-line?>provide that specified services provided in the course of carrying on <?new-line?>that activity are core services.</Text>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>The services specified by order under subsection <InternalLink id="i00007" Ref="p00036">(4)</InternalLink> must be services in <?new-line?>relation to which the Treasury are of the opinion mentioned in section <?new-line?><InternalLink id="i00008" Ref="p00031">142B</InternalLink>(6)(a).</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00037">
+<Title><?start-line?>Excluded activities</Title>
+<P1>
+<Pnumber>142D</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>References in this Act to an “excluded activity” are to be read in <?new-line?>accordance with this section.</Text>
+</P2para>
+</P2>
+<P2 id="p00038">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The regulated activity of dealing in investments as principal (whether <?new-line?>carried on in the United Kingdom or elsewhere) is an excluded activity <?new-line?>unless it is carried on in circumstances specified by the Treasury by <?new-line?>order.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>An order under subsection <InternalLink id="i00009" Ref="p00038">(2)</InternalLink> may be made only if the Treasury are of <?new-line?>the opinion that allowing ring-fenced bodies to deal in investments as <?new-line?>principal in the specified circumstances would not be likely to result in <?new-line?>any significant adverse effect on the continuity of the provision in the <?new-line?>United Kingdom of core services.</Text>
+</P2para>
+</P2>
+<P2 id="p00039">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The Treasury may by order provide for an activity other than the <?new-line?>regulated activity of dealing in investments as principal to be an <?new-line?>excluded activity, either generally or when carried on in circumstances <?new-line?>specified in the order.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>An activity to which an order under subsection <InternalLink id="i00010" Ref="p00039">(4)</InternalLink> relates—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>need not be a regulated activity, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>may be an activity carried on in the United Kingdom or <?new-line?>elsewhere.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>In deciding whether to make an order under subsection <InternalLink id="i00011" Ref="p00039">(4)</InternalLink> in relation <?new-line?>to any activity, the Treasury must—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>have regard to the risks to which a ring-fenced body would be <?new-line?>exposed if it carried on the activity concerned, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>consider whether the carrying on of that activity by a ring-<?new-line?>fenced body would make it more likely that the failure of the <?new-line?>body would have an adverse effect on the continuity of the <?new-line?>provision in the United Kingdom of core services.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>An order under subsection <InternalLink id="i00012" Ref="p00039">(4)</InternalLink> may be made only if the Treasury are of <?new-line?>the opinion that the making of the order is necessary or expedient for <?new-line?>the purpose of protecting the continuity of the provision in the United <?new-line?>Kingdom of core services.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00040">
+<Title><?start-line?>Power of Treasury to impose prohibitions</Title>
+<P1>
+<Pnumber>142E</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Treasury may by order prohibit ring-fenced bodies from—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>entering into transactions of a specified kind or with persons <?new-line?>falling within a specified class;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>establishing or maintaining a branch in a specified country or <?new-line?>territory;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>holding in specified circumstances shares or voting power in <?new-line?>companies of a specified description.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In deciding whether to make an order under this section imposing a <?new-line?>prohibition, the Treasury must—</Text>
+<?new-page?><P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>have regard to the risks to which a ring-fenced body would be <?new-line?>exposed if it did the thing to which the prohibition relates, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>consider whether the doing of that thing by a ring-fenced body <?new-line?>would make it more likely that the failure of the body would <?new-line?>have an adverse effect on the continuity of the provision in the <?new-line?>United Kingdom of core services.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00041">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>An order under this section may be made only if the Treasury are of the <?new-line?>opinion that the making of the order is necessary or expedient for the <?new-line?>purpose of protecting the continuity of the provision in the United <?new-line?>Kingdom of core services.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>An order under this section may in particular—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>provide for any prohibition to be subject to exemptions <?new-line?>specified in the order;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>provide for any exemption to be subject to conditions specified <?new-line?>in the order.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Orders under sections <InternalLink id="i00013" Ref="p00027">142A</InternalLink>, <InternalLink id="i00014" Ref="p00031">142B</InternalLink>, <InternalLink id="i00015" Ref="p00037">142D</InternalLink> or <InternalLink id="i00016" Ref="p00040">142E</InternalLink></Title>
+<P1>
+<Pnumber>142F</Pnumber>
+<P1para>
+<P2 id="p00042">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>An order made under section <InternalLink id="i00017" Ref="p00027">142A</InternalLink>, <InternalLink id="i00018" Ref="p00031">142B</InternalLink>, <InternalLink id="i00019" Ref="p00037">142D</InternalLink> or <InternalLink id="i00020" Ref="p00040">142E</InternalLink> may—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>authorise or require the making of rules by a regulator for the <?new-line?>purposes of, or connected with, any provision of the order;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>authorise the making of other instruments by a regulator for the <?new-line?>purposes of, or connected with, any provision of the order;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>refer to a publication issued by a regulator, another body in the <?new-line?>United Kingdom or an international organisation, as the <?new-line?>publication has effect from time to time.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>If the order confers powers on a regulator or authorises or requires the <?new-line?>making of rules or other instruments by a regulator, the order may <?new-line?>also—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>impose conditions on the exercise of any power conferred on <?new-line?>the regulator;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>impose consultation requirements on the regulator;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>make the exercise of a power by the regulator subject to the <?new-line?>consent of the Treasury.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+<Pblock>
+<Title><?start-line?>Ring-fenced bodies not to carry on excluded activities or contravene prohibitions</Title>
+<P1group>
+<Title><?start-line?>Ring-fenced bodies not to carry on excluded activities or contravene <?new-line?>prohibitions</Title>
+<P1>
+<Pnumber>142G</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>A ring-fenced body which—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>carries on an excluded activity or purports to do so, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>contravenes any provision of an order under section <InternalLink id="i00021" Ref="p00040">142E</InternalLink>,</Text>
+</P3para>
+</P3>
+<Text><?start-line?>is to be taken to have contravened a requirement imposed on the body <?new-line?>by the appropriate regulator under this Act.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>a</Pnumber>
+<P2para>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>carries on an excluded activity or purports to do so, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>contravenes any provision of an order under section <InternalLink id="i00021" Ref="p00040">142E</InternalLink>,</Text>
+</P3para>
+</P3>
+<Text><?start-line?>is to be taken to have contravened a requirement imposed on the body <?new-line?>by the appropriate regulator under this Act.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The contravention does not—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>make a person guilty of an offence;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>make a transaction void or unenforceable;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>(subject to subsection <InternalLink id="i00022" Ref="p00043">(3)</InternalLink>) give rise to any right of action for <?new-line?>breach of statutory duty.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<?new-page?><P2 id="p00043">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In such cases as the Treasury may specify by order, the contravention <?new-line?>is actionable at the suit of a person who suffers loss as a result of the <?new-line?>contravention, subject to the defences and other incidents applying to <?new-line?>actions for breach of statutory duty.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>In this section “the appropriate regulator” means—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in relation to a ring-fenced body which is a PRA-authorised <?new-line?>person, the PRA;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in relation to any other ring-fenced body, the FCA.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+<Pblock>
+<Title><?start-line?>Ring-fencing rules</Title>
+<P1group id="p00044">
+<Title><?start-line?>Ring-fencing rules</Title>
+<P1>
+<Pnumber>142H</Pnumber>
+<P1para>
+<P2 id="p00045">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In the exercise of its power to make general rules, the appropriate <?new-line?>regulator must in particular make rules—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>requiring a ring-fenced body to make arrangements to ensure <?new-line?>the effective provision to the ring-fenced body of services and <?new-line?>facilities that it requires in relation to the carrying on of a core <?new-line?>activity, and</Text>
+</P3para>
+</P3>
+<P3 id="p00046">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>making provision for the group ring-fencing purposes applying <?new-line?>to ring-fenced bodies and to authorised persons who are <?new-line?>members of a ring-fenced body’s group.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00047">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Section <InternalLink id="i00023" Ref="p00040">142E</InternalLink>(1)(c) does not affect the power of the appropriate <?new-line?>regulator to make general rules imposing restrictions on the extent of <?new-line?>the shares or voting power that a ring-fenced body may hold in another <?new-line?>company, except where a restriction on the extent of the shares or <?new-line?>voting power that the ring-fenced body may hold in the company is <?new-line?>imposed by order under section <InternalLink id="i00024" Ref="p00040">142E</InternalLink>(1)(c).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>General rules that are required by this section or make provision falling <?new-line?>within subsection <InternalLink id="i00025" Ref="p00047">(2)</InternalLink> are in this Act referred to as “ring-fencing rules”.</Text>
+</P2para>
+</P2>
+<P2 id="p00048">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The “group ring-fencing purposes” are—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>ensuring as far as reasonably practicable that the carrying on of <?new-line?>core activities by a ring-fenced body is not adversely affected by <?new-line?>the acts or omissions of other members of its group;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>ensuring as far as reasonably practicable that in carrying on its <?new-line?>business a ring-fenced body—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>is able to take decisions independently of other <?new-line?>members of its group, and</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>does not depend on resources which are provided by a <?new-line?>member of its group and which would cease to be <?new-line?>available to the ring-fenced body in the event of the <?new-line?>insolvency of the other member;</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>ensuring as far as reasonably practicable that the ring-fenced <?new-line?>body would be able to continue to carry on core activities in the <?new-line?>event of the insolvency of one or more other members of its <?new-line?>group.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00049">
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>Ring-fencing rules made for the group ring-fencing purposes must <?new-line?>include—</Text>
+<?new-page?><P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>provision restricting the power of a ring-fenced body to enter <?new-line?>into contracts with other members of its group otherwise than <?new-line?>on arm’s length terms;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>provision restricting the payments that a ring-fenced body may <?new-line?>make (by way of dividend or otherwise) to other members of its <?new-line?>group;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>provision requiring the disclosure to the appropriate regulator <?new-line?>of information relating to transactions between a ring-fenced <?new-line?>body and other members of its group;</Text>
+</P3para>
+</P3>
+<P3 id="p00050">
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>provision requiring a ring-fenced body to ensure that its board <?new-line?>of directors (or if there is no such board, the equivalent <?new-line?>management body) includes to a specified extent—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>members who are treated by the rules as being <?new-line?>independent of other members of the ring-fenced <?new-line?>body’s group,</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>members who are treated by the rules as being <?new-line?>independent of the ring-fenced body itself, and</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text><?start-line?>non-executive members;</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3 id="p00051">
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>provision requiring a ring-fenced body to act in accordance <?new-line?>with a remuneration policy meeting specified requirements;</Text>
+</P3para>
+</P3>
+<P3 id="p00052">
+<Pnumber>f</Pnumber>
+<P3para>
+<Text><?start-line?>provision requiring a ring-fenced body to act in accordance <?new-line?>with a human resources policy meeting specified requirements;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>g</Pnumber>
+<P3para>
+<Text><?start-line?>provision requiring arrangements made by the ring-fenced <?new-line?>body for the identification, monitoring and management of risk <?new-line?>to meet specified requirements;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>h</Pnumber>
+<P3para>
+<Text><?start-line?>such other provision as the appropriate regulator considers <?new-line?>necessary or expedient for any of the purposes in subsection <InternalLink id="i00026" Ref="p00048">(4)</InternalLink>.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>The reference in subsection <InternalLink id="i00027" Ref="p00051">(5)(e)</InternalLink> to a remuneration policy is a reference <?new-line?>to a policy about the remuneration of officers, employees and other <?new-line?>persons who (in each case) are of a specified description.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>The reference in subsection <InternalLink id="i00028" Ref="p00052">(5)(f)</InternalLink> to a human resources policy is a <?new-line?>reference to a policy about the appointment and management of <?new-line?>officers, employees and other persons who (in each case) are of a <?new-line?>specified description.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>8</Pnumber>
+<P2para>
+<Text><?start-line?>In this section—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“the appropriate regulator” means—</Text>
+<OrderedList Decoration="parens" Type="alpha">
+<ListItem>
+<Para>
+<Text><?start-line?>in relation to a ring-fenced body which is a PRA-<?new-line?>authorised person, the PRA;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>in relation to any other ring-fenced body, the FCA;</Text>
+</Para>
+</ListItem>
+</OrderedList>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?> “shares” has the meaning given in section 422;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“specified” means specified in the rules;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“voting power” has the meaning given in section 422.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00053">
+<Title><?start-line?>Powers of Treasury in relation to ring-fencing rules</Title>
+<P1>
+<Pnumber>142I</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Treasury may by order require the appropriate regulator, as <?new-line?>defined in section <InternalLink id="i00029" Ref="p00044">142H</InternalLink>(8), to include (or not to include) in ring-fencing <?new-line?>rules specified provision relating to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>any of the matters mentioned in section <InternalLink id="i00030" Ref="p00044">142H</InternalLink>(5)(a) to (g), or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>any other specified matter.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The power to make an order under this section is exercisable only if the <?new-line?>Treasury consider it necessary or expedient to do so—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>for any of the group ring-fencing purposes as defined in section <?new-line?><InternalLink id="i00031" Ref="p00044">142H</InternalLink>(4), or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>otherwise for securing the independence of ring-fenced bodies <?new-line?>from other members of their groups.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>“Specified” means specified in the order.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Review of ring-fencing rules</Title>
+<P1>
+<Pnumber>142J</Pnumber>
+<P1para>
+<P2 id="p00054">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The PRA must carry out reviews of its ring-fencing rules.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The first review must be completed before the end of the period of 5 <?new-line?>years beginning with the day on which the first ring-fencing rules come <?new-line?>into force.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Subsequent reviews must be completed before the end of the period of <?new-line?>5 years beginning with the day on which the previous review was <?new-line?>completed.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The PRA must give the Treasury a report of each review.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>The Treasury must lay a copy of the report before Parliament.</Text>
+</P2para>
+</P2>
+<P2 id="p00055">
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>The PRA must publish the report in such manner as it thinks fit.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>If (because any ring-fenced body is not a PRA-authorised person) <?new-line?>section <InternalLink id="i00032" Ref="p00044">142H</InternalLink> has the effect of requiring the FCA to make ring-fencing <?new-line?>rules, subsections <InternalLink id="i00033" Ref="p00054">(1)</InternalLink> to <InternalLink id="i00034" Ref="p00055">(6)</InternalLink> apply to the FCA as they apply to the PRA.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+<Pblock>
+<Title><?start-line?>Pension liabilities</Title>
+<P1group id="p00056">
+<Title><?start-line?>Pension liabilities</Title>
+<P1>
+<Pnumber>142K</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>For the purposes of this section an occupational pension scheme is a <?new-line?>“relevant pension scheme” if—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>it is a multi-employer scheme, as defined in section 75A(13) of <?new-line?>the Pensions Act 1995 or Article 75A(13) of the Pensions <?new-line?>(Northern Ireland) Order 1995,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>it is not a money purchase scheme,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>at least one of the employers in relation to the scheme is a ring-<?new-line?>fenced body, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>at least one of the employers in relation to the scheme is not a <?new-line?>ring-fenced body.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00057">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The Treasury may by regulations—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>require a ring-fenced body which is an employer in relation to a <?new-line?>relevant pension scheme to make arrangements for the purpose <?new-line?>of—</Text>
+<P4 id="p00058">
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>ensuring that the ring-fenced body cannot become liable <?new-line?>to meet, or contribute to the meeting of, liabilities in <?new-line?>respect of pensions or other benefits payable to or in <?new-line?>respect of employment by a person who is not a ring-<?new-line?>fenced body, and</Text>
+</P4para>
+</P4>
+<?new-page?><P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>to the extent that it is not possible to ensure that result, <?new-line?>minimising any potential liability falling within sub-<?new-line?>paragraph <InternalLink id="i00035" Ref="p00058">(i)</InternalLink>;</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>make other provision about the making of arrangements for <?new-line?>that purpose by a ring-fenced body which is an employer in <?new-line?>relation to a relevant pension scheme.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00059">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The regulations may in particular—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>require a ring-fenced body to cease to participate in a relevant <?new-line?>pension scheme unless the scheme is divided into two or more <?new-line?>sections in relation to which prescribed conditions are met;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>provide that assets or liabilities of a relevant pension scheme <?new-line?>may not be transferred under the arrangements to another <?new-line?>occupational pension scheme unless the other scheme meets <?new-line?>prescribed conditions;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>require ring-fenced bodies to establish new occupational <?new-line?>pension schemes in prescribed circumstances;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>provide that any provision of a relevant pension scheme that <?new-line?>might prevent a ring-fenced body from making the <?new-line?>arrangements, other than a provision requiring the consent of <?new-line?>the trustees or managers of the scheme, is not to have effect in <?new-line?>prescribed circumstances;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>make provision enabling the trustees or managers of a relevant <?new-line?>pension scheme, with the consent of the employers in relation <?new-line?>to the scheme, to modify the scheme by resolution for the <?new-line?>purpose of enabling a ring-fenced body to make the <?new-line?>arrangements;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>f</Pnumber>
+<P3para>
+<Text><?start-line?>make provision enabling the court, on an application made in <?new-line?>accordance with the regulations by a ring-fenced body, if it <?new-line?>appears to the court that the trustees or managers of a relevant <?new-line?>pension scheme, or an employer in relation to such a scheme, <?new-line?>have unreasonably refused their consent to any step that would <?new-line?>enable the ring-fenced body to make the arrangements, to order <?new-line?>that the step may be taken without that consent;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>g</Pnumber>
+<P3para>
+<Text><?start-line?>require a ring-fenced body to make an application for clearance <?new-line?>in connection with the making of the arrangements;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>h</Pnumber>
+<P3para>
+<Text><?start-line?>confer exemption from any provision of the regulations in <?new-line?>prescribed cases;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>i</Pnumber>
+<P3para>
+<Text><?start-line?>confer functions on the PRA;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>j</Pnumber>
+<P3para>
+<Text><?start-line?>provide that a ring-fenced body which contravenes a prescribed <?new-line?>requirement of the regulations is to be taken to have <?new-line?>contravened a requirement imposed by the PRA under this Act.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>An “application for clearance” is an application to the Pensions <?new-line?>Regulator under any of the following provisions—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>section 42 of the Pensions Act 2004 (clearance statements <?new-line?>relating to contribution notice under section 38);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>section 46 of that Act (clearance statements relating to financial <?new-line?>support directions);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>Article 38 of the Pensions (Northern Ireland) Order 2005 <?new-line?>(clearance statements relating to contribution notices under <?new-line?>article 34);</Text>
+</P3para>
+</P3>
+<?new-page?><P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>Article 42 of that Order (clearance statements relating to <?new-line?>financial support directions).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>In relation to a ring-fenced body that is not a PRA-authorised person, <?new-line?>references in subsection <InternalLink id="i00036" Ref="p00059">(3)</InternalLink> to the PRA are to be read as references to the <?new-line?>FCA.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>The regulations may not require ring-fenced bodies to achieve the <?new-line?>results mentioned in subsection <InternalLink id="i00037" Ref="p00057">(2)</InternalLink> before 1 January 2026, but this does <?new-line?>not prevent the regulations requiring steps to be taken at any time after <?new-line?>the regulations come into force.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Further interpretative provisions for section <InternalLink id="i00038" Ref="p00056">142K</InternalLink></Title>
+<P1>
+<Pnumber>142L</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The following provisions have effect for the interpretation of section <?new-line?><InternalLink id="i00039" Ref="p00056">142K</InternalLink>.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>“Occupational pension scheme” has the meaning given in section 1 of <?new-line?>the Pension Schemes Act 1993 or section 1 of the Pension Schemes <?new-line?>(Northern Ireland) Act 1993 and, in relation to such a scheme, <?new-line?>“employer”, “member” and “trustees or managers” have the same <?new-line?>meaning as in Part 1 of the Pensions Act 1995 or Part 2 of the Pensions <?new-line?>(Northern Ireland) Order 1995.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>“Money purchase scheme” has the meaning given in section 181(1) of <?new-line?>the Pension Schemes Act 1993 or section 176(1) of the Pension Schemes <?new-line?>(Northern Ireland) Act 1993.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>“The court” means—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in relation to England and Wales or Northern Ireland, the High <?new-line?>Court, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in relation to Scotland, the Court of Session.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+<Pblock>
+<Title><?start-line?>Loss-absorbency requirements</Title>
+<P1group id="p00060">
+<Title><?start-line?>Power of Treasury in relation to loss-absorbency requirements</Title>
+<P1>
+<Pnumber>142M</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Treasury may by order make provision about the exercise by either <?new-line?>regulator of its functions under this Act, so far as they are (apart from <?new-line?>the order) capable of being exercised in relation to a relevant body so as <?new-line?>to require the relevant body—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>to issue any debt instrument, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>to ensure that any part of the relevant body’s debt consists of <?new-line?>debt owed by it in respect of debt instruments, or debt <?new-line?>instruments of a particular kind.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00061">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>A “relevant body” is—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>a ring-fenced body,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>any other body corporate that has a Part 4A permission relating <?new-line?>to the regulated activity of accepting deposits, or</Text>
+</P3para>
+</P3>
+<P3 id="p00062">
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>a body corporate that is a member of the group of a body falling <?new-line?>within paragraph (a) or (b).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>“Debt instrument” means—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>a bond,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>any other instrument creating or acknowledging a debt, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>an instrument giving rights to acquire a debt instrument.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>An order under this section may in particular—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>require the regulator to exercise its functions so as to require <?new-line?>relevant bodies to do either or both of the things mentioned in <?new-line?>subsection (1);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>limit the extent to which the regulator may require a relevant <?new-line?>body’s debt to consist of debt owed in respect of debt <?new-line?>instruments or of debt instruments of a kind specified in the <?new-line?>order;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>require the regulator—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>to make, or not to make, provision by reference to <?new-line?>specified matters, or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>to have regard, or not to have regard, to specified <?new-line?>matters;</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>require the regulator to consult, or obtain the consent of, the <?new-line?>Treasury before making rules of a specified description or <?new-line?>exercising any other specified function;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>impose on the regulator in connection with the exercise of a <?new-line?>specified function procedural requirements which would not <?new-line?>otherwise apply to the exercise of the function;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>f</Pnumber>
+<P3para>
+<Text><?start-line?>refer to a publication issued by a regulator, another body in the <?new-line?>United Kingdom or an international organisation, as the <?new-line?>publication has effect from time to time.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>b</Pnumber>
+<P2para>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>limit the extent to which the regulator may require a relevant <?new-line?>body’s debt to consist of debt owed in respect of debt <?new-line?>instruments or of debt instruments of a kind specified in the <?new-line?>order;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>require the regulator—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>to make, or not to make, provision by reference to <?new-line?>specified matters, or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>to have regard, or not to have regard, to specified <?new-line?>matters;</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>require the regulator to consult, or obtain the consent of, the <?new-line?>Treasury before making rules of a specified description or <?new-line?>exercising any other specified function;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>impose on the regulator in connection with the exercise of a <?new-line?>specified function procedural requirements which would not <?new-line?>otherwise apply to the exercise of the function;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>f</Pnumber>
+<P3para>
+<Text><?start-line?>refer to a publication issued by a regulator, another body in the <?new-line?>United Kingdom or an international organisation, as the <?new-line?>publication has effect from time to time.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>“Specified” means specified in the order.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+<Pblock>
+<Title><?start-line?>General</Title>
+<P1group>
+<Title><?start-line?>Affirmative procedure in relation to certain orders under Part 9B</Title>
+<P1>
+<Pnumber>142N</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This section applies to an order containing provision made under any <?new-line?>of the following provisions of this Part—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>section <InternalLink id="i00040" Ref="p00027">142A</InternalLink>(2)(b);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>section <InternalLink id="i00041" Ref="p00031">142B</InternalLink>(2) or (5);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>section 142C;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>section <InternalLink id="i00042" Ref="p00037">142D</InternalLink>(2) or (4);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>section <InternalLink id="i00043" Ref="p00040">142E</InternalLink>;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>f</Pnumber>
+<P3para>
+<Text><?start-line?>section <InternalLink id="i00044" Ref="p00053">142I</InternalLink>;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>g</Pnumber>
+<P3para>
+<Text><?start-line?>section <InternalLink id="i00045" Ref="p00060">142M</InternalLink>.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>No order to which this section applies may be made unless—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>a draft of the order has been laid before Parliament and <?new-line?>approved by a resolution of each House, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>subsection <InternalLink id="i00046" Ref="p00063">(4)</InternalLink> applies.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Subsection <InternalLink id="i00047" Ref="p00063">(4)</InternalLink> applies if an order under <InternalLink id="i00048" Ref="p00037">142D</InternalLink>(4) or <InternalLink id="i00049" Ref="p00040">142E</InternalLink> contains a <?new-line?>statement that the Treasury are of the opinion that, by reason of <?new-line?>urgency, it is necessary to make the order without a draft being so laid <?new-line?>and approved.</Text>
+</P2para>
+</P2>
+<P2 id="p00063">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Where this subsection applies the order—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>must be laid before Parliament after being made, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>ceases to have effect at the end of the relevant period unless <?new-line?>before the end of that period the order is approved by a </Text><?new-page?><?start-line?>  <Text>resolution of each House of Parliament (but without that <?new-line?>affecting anything done under the order or the power to make <?new-line?>a new order).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>The “relevant period” is a period of 28 days beginning with the day on <?new-line?>which the order is made.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>In calculating the relevant period no account is to be taken of any time <?new-line?>during which Parliament is dissolved or prorogued or during which <?new-line?>either House is adjourned for more than 4 days.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Interpretation of Part 9B</Title>
+<P1>
+<Pnumber>142O</Pnumber>
+<P1para>
+<Text><?start-line?>In this Part, any reference to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the regulated activity of accepting deposits, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the regulated activity of dealing in investments as principal,</Text>
+</P3para>
+</P3>
+<Text><?start-line?>is to be read in accordance with Schedule 2, taken with any order under <?new-line?>section 22.</Text>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In section 417 of FSMA 2000 (definitions), in subsection (1)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>after the definition of “control of information rules” insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“core activities” has the meaning given in section <InternalLink id="i00050" Ref="p00031">142B</InternalLink>;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“core services” has the meaning given in section <InternalLink id="i00051" Ref="p00035">142C</InternalLink>;</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</BlockAmendment>
+<AppendText>,</AppendText>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>after the definition of “ESMA” insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“excluded activities” has the meaning given in section <?new-line?><InternalLink id="i00052" Ref="p00037">142D</InternalLink>;</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</BlockAmendment>
+<AppendText>, and</AppendText>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>after the definition of “regulator” insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“ring-fenced body” has the meaning given in section <?new-line?><InternalLink id="i00053" Ref="p00027">142A</InternalLink>;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“ring-fencing rules” has the meaning given in section <?new-line?><InternalLink id="i00054" Ref="p00044">142H</InternalLink>;</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00064">
+<Title><?start-line?>Directors of ring-fenced bodies to be approved persons</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<Text><?start-line?>In section 59 of FSMA 2000 (approval for particular arrangements) after <?new-line?>subsection (7B) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>7C</Pnumber>
+<P2para>
+<Text><?start-line?>In relation to a ring-fenced body, the function of acting as a director (or, <?new-line?>where the ring-fenced body does not have a board of directors, as a <?new-line?>member of its equivalent management body)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>is a significant-influence function, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>must be specified as a controlled function by rules made—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>in relation to ring-fenced bodies that are PRA-<?new-line?>authorised persons, by the PRA, or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>in relation to other ring-fenced bodies, by the FCA.</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</BlockAmendment>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00065">
+<Title><?start-line?>PRA annual report</Title>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In Schedule 1ZB to FSMA 2000 (the Prudential Regulation Authority), <?new-line?>paragraph 19 (annual report) is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>After sub-paragraph (1) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="schedule" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>1A</Pnumber>
+<P2para>
+<Text><?start-line?>In the report the PRA must also report in general terms on—</Text>
+<?new-page?><P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the extent to which, in its opinion, ring-fenced bodies have <?new-line?>complied with the ring-fencing provisions,</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>steps taken by ring-fenced bodies in order to comply with the <?new-line?>ring-fencing provisions,</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>steps taken by it to enforce the ring-fencing provisions, and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>the extent to which ring-fenced bodies appear to it to have <?new-line?>acted in accordance with any guidance which it has given to <?new-line?>ring-fenced bodies and which relates to the operation of the <?new-line?>ring-fencing provisions.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>1B</Pnumber>
+<P2para>
+<Text><?start-line?>In sub-paragraph (1A)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>references to “ring-fenced bodies” relate only to ring-fenced <?new-line?>bodies that are PRA-authorised persons, and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>“the ring-fencing provisions” means ring-fencing rules and <?new-line?>the duty imposed as a result of section 142G.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In sub-paragraph (2), for “Sub-paragraph (1) does not” substitute “Sub-<?new-line?>paragraphs (1) and (1A) do not”.”</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00066">
+<Title><?start-line?>Ring-fencing transfer schemes</Title>
+<P1>
+<Pnumber>7</Pnumber>
+<P1para>
+<Text><?start-line?>The Schedule (which contains amendments of Part 7 of FSMA 2000 relating to <?new-line?>ring-fencing transfer schemes) has effect.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00067">
+<Title><?start-line?>Building societies: power to make provision about ring-fencing</Title>
+<P1>
+<Pnumber>8</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Treasury may by regulations—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>make provision in relation to building societies for purposes <?new-line?>corresponding to those of any provision made, in relation to authorised <?new-line?>persons other than building societies, by or under any provision of Part <?new-line?>9B of FSMA 2000 (ring-fencing) apart from sections 142K to 142M, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>provide for the application of the relevant continuity provision in <?new-line?>relation to the exercise by the FCA or the PRA of any function conferred <?new-line?>on it by or under provision made pursuant to paragraph (a).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The regulations may, in particular—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>amend the Building Societies Act 1986;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>apply any of the provisions contained in, or made under, Part 9B of <?new-line?>FSMA 2000, with such modifications as the Treasury consider <?new-line?>appropriate;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>authorise the making of rules or other instruments by the FCA or the <?new-line?>PRA for the purposes of, or connected with, any provision made by the <?new-line?>regulations;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>confer functions on the FCA or the PRA;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>make such consequential provision including amendments of any <?new-line?>enactment as the Treasury consider appropriate.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>This section does not affect the application of section 142M of FSMA 2000 <?new-line?>(power of Treasury in relation to loss-absorbency requirements) to building <?new-line?>societies that are relevant bodies for the purposes of that section.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>In this section—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“building society” has the same meaning as in the Building Societies Act <?new-line?>1986;</Text>
+</Para>
+</ListItem>
+<?new-page?><ListItem>
+<Para>
+<Text><?start-line?>“the relevant continuity provision” means—</Text>
+<OrderedList Decoration="parens" Type="alpha">
+<ListItem>
+<Para>
+<Text><?start-line?>in the case of functions exercisable by the FCA, the continuity <?new-line?>objective set out in section 1EA of FSMA 2000, or</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>in the case of functions exercisable by the PRA, section 2B(3)(c) <?new-line?>and (4A) of that Act.</Text>
+</Para>
+</ListItem>
+</OrderedList>
+</Para>
+</ListItem>
+</UnorderedList>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+<Pblock>
+<Title><?start-line?>Depositor preference</Title>
+<P1group id="p00068">
+<Title><?start-line?>Preferential debts: Great Britain</Title>
+<P1>
+<Pnumber>9</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In Schedule 6 to the Insolvency Act 1986 (categories of preferential debts) after <?new-line?>paragraph 15A insert—</Text>
+<BlockAmendment TargetClass="primary" Context="schedule" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Category 7: Deposits covered by Financial Services Compensation Scheme</Title>
+<P1>
+<Pnumber>15B</Pnumber>
+<P1para>
+<Text><?start-line?>So much of any amount owed at the relevant date by the debtor in <?new-line?>respect of an eligible deposit as does not exceed the compensation <?new-line?>that would be payable in respect of the deposit under the Financial <?new-line?>Services Compensation Scheme to the person or persons to whom <?new-line?>the amount is owed.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Interpretation for Category 7</Title>
+<P1>
+<Pnumber>15C</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In paragraph 15B “eligible deposit” means a deposit in respect of <?new-line?>which the person, or any of the persons, to whom it is owed would <?new-line?>be eligible for compensation under the Financial Services <?new-line?>Compensation Scheme.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>For this purpose a “deposit” means rights of the kind described in—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>paragraph 22 of Schedule 2 to the Financial Services and <?new-line?>Markets Act 2000 (deposits), or</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>section 1(2)(b) of the Dormant Bank and Building Society <?new-line?>Accounts Act 2008 (balances transferred under that Act to <?new-line?>authorised reclaim fund).</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In section 386 of the Insolvency Act 1986 (categories of preferential debt), in <?new-line?>subsection (1), after “production” insert ”;<Character Name="EnSpace" />deposits covered by Financial <?new-line?>Services Compensation Scheme”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In Part 1 of Schedule 3 to the Bankruptcy (Scotland) Act 1985 (list of preferred <?new-line?>debts), after paragraph 6A insert—</Text>
+<BlockAmendment TargetClass="primary" Context="schedule" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Deposits covered by Financial Services Compensation Scheme</Title>
+<P1>
+<Pnumber>6B</Pnumber>
+<P1para>
+<Text><?start-line?>So much of any amount owed at the relevant date by the debtor in <?new-line?>respect of an eligible deposit as does not exceed the compensation <?new-line?>that would be payable in respect of the deposit under the Financial <?new-line?>Services Compensation Scheme to the person or persons to whom <?new-line?>the amount is owed.</Text>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>In Part 2 of Schedule 3 to the Bankruptcy (Scotland) Act 1985 (interpretation of </Text><?new-page?><?start-line?>  <Text>Part 1), after paragraph 9 insert—</Text>
+<BlockAmendment TargetClass="primary" Context="schedule" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Meaning of eligible deposit</Title>
+<P1>
+<Pnumber>9A</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In paragraph 6B “eligible deposit” means a deposit in respect of <?new-line?>which the person, or any of the persons, to whom it is owed would <?new-line?>be eligible for compensation under the Financial Services <?new-line?>Compensation Scheme.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>For this purpose a “deposit” means rights of the kind described in <?new-line?>paragraph 22 of Schedule 2 to the Financial Services and Markets Act <?new-line?>2000 (deposits).</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+<Pblock>
+<Title><?start-line?>Financial Services Compensation Scheme</Title>
+<P1group id="p00069">
+<Title><?start-line?>Discharge of functions by the scheme manager</Title>
+<P1>
+<Pnumber>10</Pnumber>
+<P1para>
+<Text><?start-line?>After section 224 of FSMA 2000 insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?> Discharge of functions</Title>
+<P1>
+<Pnumber>224ZA</Pnumber>
+<P1para>
+<P2 id="p00070">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In discharging its functions the scheme manager must have regard to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the need to ensure efficiency and effectiveness in the discharge <?new-line?>of those functions, and</Text>
+</P3para>
+</P3>
+<P3 id="p00071">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the need to minimise public expenditure attributable to loans <?new-line?>made or other financial assistance given to the scheme manager <?new-line?>for the purposes of the scheme.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection <InternalLink id="i00055" Ref="p00070">(1)</InternalLink><InternalLink id="i00056" Ref="p00071">(b)</InternalLink> “financial assistance” includes the giving of <?new-line?>guarantees and indemnities and any other kind of financial assistance <?new-line?>(actual or contingent).</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00072">
+<Title><?start-line?>Power to require information from scheme manager</Title>
+<P1>
+<Pnumber>11</Pnumber>
+<P1para>
+<Text><?start-line?>After section 218A of FSMA 2000 insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?><Character Name="EnSpace" />Treasury’s power to require information from scheme manager</Title>
+<P1>
+<Pnumber>218B</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Treasury may by notice in writing require the scheme manager to <?new-line?>provide specified information or information of a specified description <?new-line?>that the Treasury reasonably require in connection with the duties of <?new-line?>the Treasury under the Government Resources and Accounts Act 2000.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Information required under this section must be provided before the <?new-line?>end of such reasonable period as may be specified.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>“Specified” means specified in the notice.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00073">
+<Title><?start-line?>Scheme manager: appointment of accounting officer</Title>
+<P1>
+<Pnumber>12</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Section 212 of FSMA 2000 (the scheme manager of the Financial Services <?new-line?>Compensation Scheme) is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (3)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>omit the “and” following paragraph (a),</Text>
+</P3para>
+</P3>
+<?new-page?><P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>after that paragraph insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>aa</Pnumber>
+<P3para>
+<Text><?start-line?>a chief executive (who is to be the accounting officer); <?new-line?>and</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>, and</AppendText>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>in paragraph (b), after “chairman” insert “and chief executive”.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (4)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>after “chairman”, in the first place, insert “, chief executive”, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>after “chairman”, in the second place, insert “and the chief executive”.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+<Pblock>
+<Title><?start-line?>Fees to meet Treasury expenditure</Title>
+<P1group id="p00074">
+<Title><?start-line?>Fees to meet Treasury expenditure relating to international organisations</Title>
+<P1>
+<Pnumber>13</Pnumber>
+<P1para>
+<Text><?start-line?>After section 410 of FSMA 2000 insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<Pblock>
+<Title><?start-line?>Fees to meet Treasury expenses</Title>
+<P1group id="p00075">
+<Title><?start-line?>Fees to meet certain expenses of the Treasury</Title>
+<P1>
+<Pnumber>410A</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Treasury may by regulations—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>enable the Treasury from time to time by direction to require the <?new-line?>FCA, the PRA or the Bank of England (each a “regulator”) to <?new-line?>require the payment of fees by relevant persons, or such class of <?new-line?>relevant person as may be specified in, or determined by the <?new-line?>regulator in accordance with, the direction, for the purpose of <?new-line?>meeting relevant expenses incurred by the Treasury;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>make provision about how the regulator to which a direction is <?new-line?>given is to comply with the direction;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>require the regulator to pay to the Treasury, by such time or <?new-line?>times as may be specified in the direction, the amount of any <?new-line?>fees received by the regulator.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>“Relevant expenses” are expenses (including any expenses of a capital <?new-line?>nature) which are attributable to United Kingdom membership of, or <?new-line?>Treasury participation in, a prescribed international organisation so far <?new-line?>as those expenses—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>represent a contribution (by way of subscription or otherwise) <?new-line?>to the resources of the international organisation, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>are in the opinion of the Treasury attributable to functions of the <?new-line?>organisation which relate to financial stability or financial <?new-line?>services.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00076">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The regulations must provide for the charging of fees in pursuance of a <?new-line?>direction given under the regulations to the FCA or the PRA to be by <?new-line?>rules made by that regulator.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The provisions of Chapter 2 of Part 9A apply to rules of the FCA or the <?new-line?>PRA providing for the charging of fees in pursuance of a direction <?new-line?>given under the regulations—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in the case of the FCA, as they apply to rules relating to the <?new-line?>payment of fees under paragraph 23 of Schedule 1ZA;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in the case of the PRA, as they apply to rules relating to the <?new-line?>payment of fees under paragraph 31 of Schedule 1ZB.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>Paragraph 36(1) of Schedule 17A applies to the charging of fees by the <?new-line?>Bank of England in pursuance of a direction given to the Bank under <?new-line?>the regulations.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>The regulations may in particular—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>make provision about what is, or is not, to be regarded as an <?new-line?>expense;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>specify requirements that the Treasury must comply with <?new-line?>before giving a direction;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>enable a direction to be varied or revoked by a subsequent <?new-line?>direction;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>confer functions on a regulator.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>An amount payable to a regulator as a result of—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>any provision of rules made by the FCA or the PRA as a result <?new-line?>of the regulations, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the imposition of fees by the Bank of England as a result of a <?new-line?>direction given under the regulations to the Bank,</Text>
+</P3para>
+</P3>
+<Text><?start-line?>may be recovered as a debt due to the regulator.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>8</Pnumber>
+<P2para>
+<Text><?start-line?>“Relevant persons” means—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in the case of a direction given to the PRA, PRA-authorised <?new-line?>persons;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in the case of a direction given to the FCA, authorised persons <?new-line?>and recognised investment exchanges who (in either case) are <?new-line?>not PRA-authorised persons;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>in the case of a direction given to the Bank of England, <?new-line?>recognised clearing houses, other than those falling within <?new-line?>paragraph (a) or (b).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>9</Pnumber>
+<P2para>
+<Text><?start-line?>This section is subject to section 410B.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00077">
+<Title><?start-line?>Directions in pursuance of section 410A</Title>
+<P1>
+<Pnumber>410B</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In this section “a fees direction” means a direction given by the <?new-line?>Treasury as a result of regulations under section 410A.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Before giving a fees direction to the FCA, the PRA or the Bank of <?new-line?>England (each a “regulator”), the Treasury must consult the regulator <?new-line?>concerned.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>A fees direction must—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>be in writing;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>except in the case of a direction that revokes a previous <?new-line?>direction or a direction that varies a previous direction without <?new-line?>affecting the total amount intended to be raised by the fees, <?new-line?>specify the total amount intended to be raised by the fees to be <?new-line?>charged by the regulator and explain how that amount is <?new-line?>calculated;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>contain such other information as may be prescribed.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>As soon as practicable after giving a fees direction, the Treasury must <?new-line?>lay before Parliament a copy of the direction.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+</BlockAmendment>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+<?new-page?><Pblock>
+<Title><?start-line?>Parliamentary control of statutory instruments under FSMA 2000</Title>
+<P1group id="p00078">
+<Title><?start-line?>Amendments of section 429 of FSMA 2000</Title>
+<P1>
+<Pnumber>14</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Section 429 of FSMA 2000 (Parliamentary control of statutory instruments) is <?new-line?>amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (1)(a) (orders subject to affirmative procedure), for “144(4), 192(b) <?new-line?>or (e), 138K(6)(c)” substitute “138K(6)(c), 144(4), 192(b) or (e)”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (2) (regulations subject to affirmative procedure), after “90B,” <?new-line?>insert “142K,”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>After subsection (2) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>2A</Pnumber>
+<P2para>
+<Text><?start-line?>Regulations to which subsection (2B) applies are not to be made unless <?new-line?>a draft of the regulations has been laid before Parliament and approved <?new-line?>by a resolution of each House.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2B</Pnumber>
+<P2para>
+<Text><?start-line?>This subsection applies to regulations which contain provision made <?new-line?>under section 410A, other than provision made only by virtue of <?new-line?>subsection (2) of that section.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (8), for “or 23A” substitute “, 23A or 142N”.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+<Pblock>
+<Title><?start-line?>Bank of England</Title>
+<P1group id="p00079">
+<Title><?start-line?>Accounts of Bank of England and its wholly-owned subsidiaries</Title>
+<P1>
+<Pnumber>15</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Bank of England Act 1998 is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In section 7 (accounts), in subsection (4), for the words from “appropriate” to <?new-line?>the end substitute “necessary to do so having regard to the Financial Stability <?new-line?>Objective”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>After section 7 insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Accounts of companies wholly owned by the Bank</Title>
+<P1>
+<Pnumber>7A</Pnumber>
+<P1para>
+<P2 id="p00080">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>If the Bank considers it necessary to do so having regard to the <?new-line?>Financial Stability Objective, the Bank may by direction to a qualifying <?new-line?>company exclude the application to the qualifying company of any of <?new-line?>the relevant Companies Act requirements.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The relevant Companies Act requirements are the requirements to <?new-line?>which the directors of the qualifying company would otherwise be <?new-line?>subject under the Companies Act 2006 (except sections 412 and 413 <?new-line?>(directors’ benefits)) in relation to the preparation of accounts under <?new-line?>section 394 of that Act.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>A direction under subsection <InternalLink id="i00057" Ref="p00080">(1)</InternalLink> may relate to one or more specified <?new-line?>accounting periods of the qualifying company, or to a specified <?new-line?>accounting period and all subsequent accounting periods of the <?new-line?>qualifying company.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The Bank must consult the Treasury before giving a direction under <?new-line?>subsection <InternalLink id="i00058" Ref="p00080">(1)</InternalLink>.</Text>
+</P2para>
+</P2>
+<?new-page?><P2 id="p00081">
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>The Treasury may by notice in writing to the Bank require it to publish <?new-line?>in such manner as it thinks fit such information relating to the accounts <?new-line?>of a qualifying company as the Treasury may specify in the notice.</Text>
+</P2para>
+</P2>
+<P2 id="p00082">
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>The information specified in a notice under subsection <InternalLink id="i00059" Ref="p00081">(5)</InternalLink> may include <?new-line?>information which as a result of a direction under subsection <InternalLink id="i00060" Ref="p00080">(1)</InternalLink> was <?new-line?>excluded from accounts prepared in accordance with the Companies <?new-line?>Act 2006.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>The Treasury must consult the Bank before giving a notice under <?new-line?>subsection <InternalLink id="i00061" Ref="p00081">(5)</InternalLink>.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>8</Pnumber>
+<P2para>
+<Text><?start-line?>A direction under subsection <InternalLink id="i00062" Ref="p00080">(1)</InternalLink> or a notice under subsection <InternalLink id="i00063" Ref="p00081">(5)</InternalLink> may <?new-line?>be revoked by a subsequent direction or notice (as the case may be).</Text>
+</P2para>
+</P2>
+<P2 id="p00083">
+<Pnumber>9</Pnumber>
+<P2para>
+<Text><?start-line?>“Qualifying company” means any company which is wholly owned by <?new-line?>the Bank other than—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the Prudential Regulation Authority, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>a company which is a bridge bank for the purposes of section <?new-line?>12(3) of the Banking Act 2009.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>10</Pnumber>
+<P2para>
+<Text><?start-line?>For the purposes of subsection <InternalLink id="i00064" Ref="p00083">(9)</InternalLink>, a company is wholly owned by the <?new-line?>Bank if—</Text>
+<P3 id="p00084">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>it is a company of which no person other than the Bank or a <?new-line?>nominee of the Bank is a member, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>it is a wholly-owned subsidiary of a company within paragraph <?new-line?><InternalLink id="i00065" Ref="p00084">(a)</InternalLink>.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+<Pblock>
+<Title><?start-line?>Final provisions</Title>
+<P1group id="p00085">
+<Title><?start-line?>Orders and regulations</Title>
+<P1>
+<Pnumber>16</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Any power of the Treasury to make an order or regulations under this Act is <?new-line?>exercisable by statutory instrument.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>A statutory instrument containing regulations under section 8 (building <?new-line?>societies: power to make provision about ring-fencing) may not be made unless <?new-line?>a draft of the instrument has been laid before, and approved by a resolution of, <?new-line?>each House of Parliament.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>A statutory instrument containing an order under section 18 (transitional <?new-line?>provisions and savings) is subject to annulment in pursuance of a resolution of <?new-line?>either House of Parliament, unless the instrument is required by any <?new-line?>enactment to be laid in draft before, and approved by a resolution of, each <?new-line?>House.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00086">
+<Title><?start-line?>Interpretation</Title>
+<P1>
+<Pnumber>17</Pnumber>
+<P1para>
+<Text><?start-line?>In this Act—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“enactment” includes—</Text>
+<OrderedList Decoration="parens" Type="alpha">
+<ListItem>
+<Para>
+<Text><?start-line?>an enactment contained in subordinate legislation,</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>an enactment contained in, or in an instrument made under, an <?new-line?>Act of the Scottish Parliament,</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>an enactment contained in, or in an instrument made under, a <?new-line?>Measure or Act of the National Assembly for Wales, and</Text>
+</Para>
+</ListItem>
+<?new-page?><ListItem>
+<Para>
+<Text><?start-line?>an enactment contained in, or in an instrument made under, <?new-line?>Northern Ireland legislation;</Text>
+</Para>
+</ListItem>
+</OrderedList>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“the FCA” means the Financial Conduct Authority;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“FSMA 2000” means the Financial Services and Markets Act 2000;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“the PRA” means the Prudential Regulation Authority.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00087">
+<Title><?start-line?>Transitional provisions and savings</Title>
+<P1>
+<Pnumber>18</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Treasury may by order make such provision as they consider necessary or <?new-line?>expedient for transitory, transitional or saving purposes in connection with the <?new-line?>commencement of any provision made by or under this Act.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>An order under this section may—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>confer functions on the FCA or the PRA;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>modify, exclude or apply (with or without modifications) any <?new-line?>enactment (including any provision of, or made under, this Act).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00088">
+<Title><?start-line?>Extent</Title>
+<P1>
+<Pnumber>19</Pnumber>
+<P1para>
+<Text><?start-line?>The provisions of this Act extend to England and Wales, Scotland and <?new-line?>Northern Ireland, except that the amendments made by section 9 (preferential <?new-line?>debts: Great Britain) have the same extent as the enactments amended.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00089">
+<Title><?start-line?>Commencement and short title</Title>
+<P1>
+<Pnumber>20</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Sections 16 to 19 and this section come into force on the day on which this Act <?new-line?>is passed.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The remaining provisions of this Act come into force on such day as the <?new-line?>Treasury may by order appoint.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Different days may be appointed for different purposes.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>This Act may be cited as the Financial Services (Banking Reform) Act 2013.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+</Body>
+<?new-page?>
+<Schedules>
+<Schedule id="p00090" NumberFormat="default">
+<Number><?start-line?>Schedule</Number>
+<TitleBlock>
+<Title><?start-line?>Ring-fencing transfer schemes</Title>
+</TitleBlock>
+<Reference>Section 7</Reference>
+<ScheduleBody>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<Text><?start-line?>Part 7 of FSMA 2000 (control of business transfer schemes) is amended as <?new-line?>follows.</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<Text><?start-line?>For “the authorised person concerned”, wherever occurring in Part 7 <?new-line?>(including Schedule 12), substitute “the transferor concerned”.</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Section 103A (meaning of “the appropriate regulator”) is amended as <?new-line?>follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (1), in paragraph (a), for “a scheme” substitute “a ring-fencing <?new-line?>transfer scheme or a scheme (other than a ring-fencing transfer scheme)”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>At the end of subsection (2) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>in the case of a ring-fencing transfer scheme, means the body <?new-line?>to whose business the scheme relates.</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<Text><?start-line?>In section 106 (banking business transfer schemes), at the end of subsection <?new-line?>(1)(c) insert “or a ring-fencing transfer scheme”.</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<Text><?start-line?>After section 106A insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?><Character Name="EnSpace" />Ring-fencing transfer scheme</Title>
+<P1>
+<Pnumber>106B</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>A scheme is a ring-fencing transfer scheme if it—</Text>
+<P3 id="p00091">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>is one under which the whole or part of the business carried <?new-line?>on—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>by a UK authorised person, or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>by a qualifying subsidiary,</Text>
+</P4para>
+</P4>
+<Text><?start-line?>is to be transferred to another body (“the transferee”),</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>is to be made for one or more of the purposes mentioned in <?new-line?>subsection <InternalLink id="i00066" Ref="p00092">(3)</InternalLink>, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>is not an excluded scheme or an insurance business transfer <?new-line?>scheme.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>“Qualifying subsidiary” means a body which—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>is incorporated in the United Kingdom,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>is a subsidiary undertaking of a UK authorised person, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>is not itself an authorised person.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00092">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The purposes are—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>enabling a UK authorised person to carry on core activities as <?new-line?>a ring-fenced body in compliance with the ring-fencing <?new-line?>provisions;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>enabling the transferee to carry on core activities as a ring-<?new-line?>fenced body in compliance with the ring-fencing provisions;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>making provision in connection with the implementation of <?new-line?>proposals that would involve a body corporate whose group </Text><?new-page?><?start-line?>  <Text>includes the body corporate to whose business the scheme <?new-line?>relates becoming a ring-fenced body while one or more other <?new-line?>members of its group are not ring-fenced bodies.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>A scheme is an excluded scheme for the purposes of this section if—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the body to whose business the scheme relates is a building <?new-line?>society or credit union, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the scheme is a compromise or arrangement to which Part 27 <?new-line?>of the Companies Act 2006 (mergers and divisions of public <?new-line?>companies) applies.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>For the purposes of subsection <InternalLink id="i00067" Ref="p00091">(1)(a)</InternalLink> it is immaterial whether or not <?new-line?>the business to be transferred is carried on in the United Kingdom.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>“UK authorised person” has the same meaning as in section 105.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>“Building society” and “credit union” have the same meanings as in <?new-line?>section 106.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>8</Pnumber>
+<P2para>
+<Text><?start-line?>“The ring-fencing provisions” means ring-fencing rules and the duty <?new-line?>imposed as a result of section 142G.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P1para>
+</P1>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Section 107 (application for order sanctioning transfer scheme) is amended <?new-line?>as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (1), for “or a reclaim fund business transfer scheme” substitute <?new-line?>“, a reclaim fund business transfer scheme or a ring-fencing transfer <?new-line?>scheme”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>After subsection (2) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>2A</Pnumber>
+<P2para>
+<Text><?start-line?>An application relating to a ring-fencing transfer scheme may be <?new-line?>made only with the consent of the PRA.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+<P1>
+<Pnumber>7</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Section 110 (right to participate in proceedings) is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (1), after “section 107” insert “relating to an insurance business <?new-line?>transfer scheme, a banking business transfer scheme or a reclaim fund <?new-line?>business transfer scheme”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>After subsection (2) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Subsections (4) and (5) apply where an application under section 107 <?new-line?>relates to a ring-fencing transfer scheme.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The following are also entitled to be heard—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the PRA,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>where the transferee is an authorised person, the FCA, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>any person (“P”) (including an employee of the transferor <?new-line?>concerned or of the transferee) who alleges that P would be <?new-line?>adversely affected by the carrying out of the scheme.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?new-line?>P is not entitled to be heard by virtue of subsection (4)(c) unless <?new-line?>before the hearing P has—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>filed (in Scotland, lodged) with the court a written statement <?new-line?>of the representations that P wishes the court to consider, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>served copies of the statement on the PRA and the transferor <?new-line?>concerned.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+<?new-page?><P1>
+<Pnumber>8</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Section 111 (sanction of court for business transfer schemes) is amended as <?new-line?>follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (1), for “or a reclaim fund business transfer scheme” substitute <?new-line?>“, a reclaim fund business transfer scheme or a ring-fencing transfer <?new-line?>scheme”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (2), after paragraph (aa) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>ab</Pnumber>
+<P3para>
+<Text><?start-line?>in the case of a ring-fencing transfer scheme, the appropriate <?new-line?>certificates have been obtained (as to which see Part 2B of that <?new-line?>Schedule);</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+<P1>
+<Pnumber>9</Pnumber>
+<P1para>
+<Text><?start-line?>In section 112 (effect of order sanctioning business transfer scheme), in <?new-line?>subsection (10), after “transfer scheme” insert “or ring-fencing transfer <?new-line?>scheme”.</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>10</Pnumber>
+<P1para>
+<Text><?start-line?>In section 112A (rights to terminate etc.), in subsection (1), for “or a banking <?new-line?>business transfer scheme” substitute “, a banking business transfer scheme <?new-line?>or a ring-fencing transfer scheme”.</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>11</Pnumber>
+<P1para>
+<Text><?start-line?>In Schedule 12 (transfer schemes: certificates) after Part 2A insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<Part>
+<Number><?start-line?> Part 2B</Number>
+<Title><?start-line?>Ring-fencing transfer schemes</Title>
+<P1group>
+<Title><?start-line?>Appropriate certificates</Title>
+<P1>
+<Pnumber>9B</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>For the purposes of section 111(2) the appropriate certificates, in <?new-line?>relation to a ring-fencing transfer scheme, are—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>a certificate given by the PRA certifying its approval of the <?new-line?>application,</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>a certificate under paragraph 9C, and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>if sub-paragraph (2) applies, a certificate under paragraph <?new-line?>9D.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>This sub-paragraph applies if the transferee is an EEA firm falling <?new-line?>within paragraph 5(a) or (b) of Schedule 3.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Certificate as to financial resources</Title>
+<P1>
+<Pnumber>9C</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>A certificate under this paragraph is one given by the relevant <?new-line?>authority and certifying that, taking the proposed transfer into <?new-line?>account, the transferee possesses, or will possess before the <?new-line?>scheme takes effect, adequate financial resources.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>“Relevant authority” means—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>if the transferee is a PRA-authorised person with a Part 4A <?new-line?>permission or with permission under Schedule 4, the PRA;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>if the transferee is an EEA firm falling within paragraph <?new-line?>5(a) or (b) of Schedule 3, its home state regulator;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>if the transferee does not fall within paragraph (a) or (b) <?new-line?>but is subject to regulation in a country or territory outside <?new-line?>the United Kingdom, the authority responsible for the <?new-line?>supervision of the transferee’s business in the place in <?new-line?>which the transferee has its head office;</Text>
+
+</P3para></P3>
+<?new-page?><P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>in any other case, the FCA.</Text>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In sub-paragraph (2), any reference to a transferee of a particular <?new-line?>description includes a reference to a transferee who will be of that <?new-line?>description if the proposed ring-fencing transfer scheme takes <?new-line?>effect.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Certificate as to consent of home state regulator</Title>
+<P1>
+<Pnumber>9D</Pnumber>
+<P1para>
+<Text><?start-line?>A certificate under this paragraph is one given by the appropriate <?new-line?>regulator and certifying that the home state regulator of the <?new-line?>transferee has been notified of the proposed scheme and that—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the home state regulator has responded to the notification, <?new-line?>or</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the period of 3 months beginning with the notification has <?new-line?>elapsed.</Text>
+
+</P3para></P3>
+</P1para>
+</P1>
+</P1group>
+</Part>
+</BlockAmendment>
+</P1para>
+</P1>
+</ScheduleBody>
+</Schedule>
+</Schedules>
+</Primary>
+</Legislation>

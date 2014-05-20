@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>Arbitration and Mediation Services (Equality) Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>15/5/2013</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 20" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="3" />
+<ukm:House Value="House of Lords" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsPart>
+<ContentsNumber>Part 1</ContentsNumber>
+<ContentsTitle>Amendments to the Equality Act 2010</ContentsTitle>
+<ContentsItem ContentRef="p00009">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Providing arbitration services</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00012">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>Arbitration services: consequential amendments</ContentsTitle>
+</ContentsItem>
+</ContentsPart>
+<ContentsPart>
+<ContentsNumber>Part 2</ContentsNumber>
+<ContentsTitle>Amendment to the Arbitration Act 1996</ContentsTitle>
+<ContentsItem ContentRef="p00013">
+<ContentsNumber>3</ContentsNumber>
+<ContentsTitle>Validity of arbitration</ContentsTitle>
+</ContentsItem>
+</ContentsPart>
+<ContentsPart>
+<ContentsNumber>Part 3</ContentsNumber>
+<ContentsTitle>Amendment to the Family Law Act 1996</ContentsTitle>
+<ContentsItem ContentRef="p00014">
+<ContentsNumber>4</ContentsNumber>
+<ContentsTitle>Court orders based on negotiated agreements</ContentsTitle>
+</ContentsItem>
+</ContentsPart>
+<ContentsPart>
+<ContentsNumber>Part 4</ContentsNumber>
+<ContentsTitle>Amendment to the Criminal Justice and Public Order Act 1994</ContentsTitle>
+<ContentsItem ContentRef="p00017">
+<ContentsNumber>5</ContentsNumber>
+<ContentsTitle>Intimidation of domestic abuse victims</ContentsTitle>
+</ContentsItem>
+</ContentsPart>
+<ContentsPart>
+<ContentsNumber>Part 5</ContentsNumber>
+<ContentsTitle>Amendment to the Courts and Legal Services Act 1990</ContentsTitle>
+<ContentsItem ContentRef="p00018">
+<ContentsNumber>6</ContentsNumber>
+<ContentsTitle>Falsely claiming legal jurisdiction</ContentsTitle>
+</ContentsItem>
+</ContentsPart>
+<ContentsPart>
+<ContentsNumber>Part 6</ContentsNumber>
+<ContentsTitle>General</ContentsTitle>
+<ContentsItem ContentRef="p00019">
+<ContentsNumber>7</ContentsNumber>
+<ContentsTitle>Extent, commencement and short title</ContentsTitle>
+</ContentsItem>
+</ContentsPart>
+<ContentsSchedules>
+<ContentsSchedule ContentRef="p00020">
+<ContentsNumber>Schedule</ContentsNumber>
+<ContentsTitle>Consequential amendments</ContentsTitle>
+</ContentsSchedule>
+</ContentsSchedules>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Make further provision about arbitration and mediation services and the <?new-line?>application of equality legislation to such services; to make provision about <?new-line?>the protection of victims of domestic abuse; and for connected purposes.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<Part>
+<Number><?start-line?>Part 1</Number>
+<Title><?start-line?>Amendments to the Equality Act 2010</Title>
+<P1group id="p00009">
+<Title><?start-line?>Providing arbitration services</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Equality Act 2010 is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In section 29 (provision of services, etc.) after subsection (10) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2 id="p00010">
+<Pnumber>11</Pnumber>
+<P2para>
+<Text><?start-line?>A person must not, in providing a service in relation to arbitration, do <?new-line?>anything that constitutes discrimination, harassment or victimisation <?new-line?>on grounds of sex.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>12</Pnumber>
+<P2para>
+<Text><?start-line?>For the purposes of subsection <InternalLink id="i00001" Ref="p00010">(11)</InternalLink>, discrimination on grounds of sex <?new-line?>includes but it not restricted to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>treating the evidence of a man as worth more than the evidence <?new-line?>of a woman, or vice versa,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>proceeding on the assumption that the division of an estate <?new-line?>between male and female children on intestacy must be <?new-line?>unequal, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>proceeding on the assumption that a woman has fewer <?new-line?>property rights than a man, or vice versa.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In section 142 (unenforceable terms) after subsection (5) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>A reference in subsection (1) includes a term by which parties agree that <?new-line?>rules shall apply to one or more matters in so far as those rules </Text><?new-page?><?start-line?>  <Text>constitute, promote or provide for treatment of that or another person <?new-line?>that is a description prohibited by this Act on the grounds of sex.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>In section 149 (public sector equality duty) after subsection (3) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2 id="p00011">
+<Pnumber>3A</Pnumber>
+<P2para>
+<Text><?start-line?>The steps involved in removing or minimising disadvantages suffered <?new-line?>by persons who share a relevant protected characteristic that is <?new-line?>connected to that characteristic include steps to take account of the fact <?new-line?>that those who—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>are married only according to certain religious practices and not <?new-line?>according to law, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>are in a polygamous household,</Text>
+</P3para>
+</P3>
+<Text><?start-line?>may be without legal protection.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3B</Pnumber>
+<P2para>
+<Text><?start-line?>Steps under subsection <InternalLink id="i00002" Ref="p00011">(3A)</InternalLink> should include but not necessarily be <?new-line?>restricted to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>informing individuals of the need to obtain an officially <?new-line?>recognised marriage in order to have legal protection, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>informing individuals that a polygamous household may be <?new-line?>without legal protection and a polygamous household may be <?new-line?>unlawful.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>In paragraph 3 of Schedule 3 (judicial functions) after sub-paragraph (2) <?new-line?>insert—</Text>
+<BlockAmendment TargetClass="primary" Context="schedule" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>For the avoidance of doubt, a reference in sub-paragraph (1) to a <?new-line?>judicial function does not include a reference to a person falling <?new-line?>within section 29(11).</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>In paragraph 3 of Schedule 18 (judicial functions, etc.) after sub-paragraph (2) <?new-line?>insert—</Text>
+<BlockAmendment TargetClass="primary" Context="schedule" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>For the avoidance of doubt, a reference in sub-paragraph (1) to a <?new-line?>judicial function does not include a reference to a person falling <?new-line?>within section 29(11).</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00012">
+<Title><?start-line?>Arbitration services: consequential amendments</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<Text><?start-line?>The Schedule (consequential amendments) has effect.</Text>
+</P1para>
+</P1>
+</P1group>
+</Part>
+<Part>
+<Number><?start-line?>Part 2</Number>
+<Title><?start-line?>Amendment to the Arbitration Act 1996</Title>
+<P1group id="p00013">
+<Title><?start-line?>Validity of arbitration</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Arbitration Act 1996 is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>After section 6 (definition of arbitration agreement) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Discriminatory terms of arbitration</Title>
+<P1>
+<Pnumber>6A</Pnumber>
+<P1para>
+<Text><?start-line?>No part of an arbitration agreement or process shall provide—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>that the evidence of a man is worth more than the evidence of a <?new-line?>woman, or vice versa,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>that the division of an estate between male and female children <?new-line?>on intestacy must be unequal,</Text>
+</P3para>
+</P3>
+<?new-page?><P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>that women should have fewer property rights than men, or <?new-line?>vice versa, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>for any other term that constitutes discrimination on the <?new-line?>grounds of sex.</Text>
+</P3para>
+</P3>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Part>
+<Part>
+<Number><?start-line?>Part 3</Number>
+<Title><?start-line?>Amendment to the Family Law Act 1996</Title>
+<P1group id="p00014">
+<Title><?start-line?>Court orders based on negotiated agreements</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Family Law Act 1996 is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>After section 9 insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Court orders based on negotiated agreements</Title>
+<P1>
+<Pnumber>9A</Pnumber>
+<P1para>
+<P2 id="p00015">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>A court may issue a declaration setting aside any order based on a <?new-line?>mediation settlement agreement or other negotiated agreement if it <?new-line?>considers on evidence that one party’s consent was not genuine.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>A court may make a declaration under subsection <InternalLink id="i00003" Ref="p00015">(1)</InternalLink> on an application <?new-line?>being made to it by—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>a party to the agreement;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>a relevant third party.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>An application may be made by any other person with the leave of the <?new-line?>court.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>In deciding whether to grant leave, the court must have regard to all the <?new-line?>circumstances, including—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the applicant’s connection with the party,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the applicant’s knowledge of the circumstances of the party, <?new-line?>and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>the wishes and feelings of the party so far as they are reasonably <?new-line?>ascertainable and so far as the court considers it appropriate, in <?new-line?>the light of the person’s age and understanding, to have regard <?new-line?>to them.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>In assessing the genuineness of a party’s consent, the court should have <?new-line?>particular regard to whether or not—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>all parties were informed of their legal rights, including <?new-line?>alternatives to mediation or any other negotiation process used, <?new-line?>and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>any party was manipulated or put under duress, including <?new-line?>through psychological coercion, to induce participation in the <?new-line?>mediation or negotiation process.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>For the purposes of this section “negotiated agreement” means an <?new-line?>agreement which has been reached as the result of any form of <?new-line?>negotiation, other than mediation, and “negotiation process” is to be <?new-line?>construed accordingly.</Text>
+</P2para>
+</P2>
+<P2 id="p00016">
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>For the purposes of this section “relevant third party” means a person <?new-line?>specified, or falling within a description of persons specified, by order <?new-line?>of the Secretary of State.</Text>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>8</Pnumber>
+<P2para>
+<Text><?start-line?>An order of the Secretary of State under subsection <InternalLink id="i00004" Ref="p00016">(7)</InternalLink> may, in <?new-line?>particular, specify local authorities as defined by Article 2 of the Family <?new-line?>Law Act 1996 (Forced Marriage) (Relevant Third Party) Order 2009.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Part>
+<Part>
+<Number><?start-line?>Part 4</Number>
+<Title><?start-line?>Amendment to the Criminal Justice and Public Order Act 1994</Title>
+<P1group id="p00017">
+<Title><?start-line?>Intimidation of domestic abuse victims</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Criminal Justice and Public Order Act 1994 is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In section 51 (intimidation, etc., of witnesses, jurors and others), after <?new-line?>subsection (10) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>10A</Pnumber>
+<P2para>
+<Text><?start-line?>This section applies in circumstances including where the victim of a <?new-line?>domestic abuse offence is assisting in the investigation of that offence <?new-line?>or is a witness or potential witness in proceedings for that offence.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Part>
+<Part>
+<Number><?start-line?>Part 5</Number>
+<Title><?start-line?>Amendment to the Courts and Legal Services Act 1990</Title>
+<P1group id="p00018">
+<Title><?start-line?>Falsely claiming legal jurisdiction</Title>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Courts and Legal Services Act 1990 is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>After section 118 (functions of Treasury) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>    Falsely claiming legal jurisdiction</Title>
+<P1>
+<Pnumber>118A</Pnumber>
+<P1para>
+<Text><?start-line?>A person who falsely purports to exercise any of the powers or duties <?new-line?>of a court or to make legally binding rulings shall be guilty of an offence <?new-line?>and liable on conviction on indictment to imprisonment for a term not <?new-line?>exceeding 7 years.</Text>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Part>
+<Part>
+<Number><?start-line?>Part 6</Number>
+<Title><?start-line?>General</Title>
+<P1group id="p00019">
+<Title><?start-line?>Extent, commencement and short title</Title>
+<P1>
+<Pnumber>7</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Act extends to England and Wales only.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>This Act comes into force on such day as the Secretary of State may be order <?new-line?>appoint.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>This Act may be cited as the Arbitration and Mediation Services (Equality) Act <?new-line?>2013.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Part>
+</Body>
+<?new-page?>
+<Schedules>
+<Schedule id="p00020" NumberFormat="default">
+<Number><?start-line?>Schedule</Number>
+<TitleBlock>
+<Title><?start-line?>Consequential amendments</Title>
+</TitleBlock>
+<Reference>Section 2</Reference>
+<ScheduleBody>
+<P1group>
+<Title><?start-line?>Arbitration Act 1996</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<Text><?start-line?>The Arbitration Act 1996 is amended as follows.</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<Text><?start-line?>In section 46 (rules applicable to substance of dispute) after subsection (1) <?new-line?>insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>1A</Pnumber>
+<P2para>
+<Text><?start-line?>Whether subsection (1)(a) or (b) above is the case, the tribunal shall <?new-line?>decide the dispute in accordance with the provisions of section <?new-line?>29(11) of the Equality Act 2010.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P1para>
+</P1>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<Text><?start-line?>In section 68 (challenging the award: serious irregularity) after subsection <?new-line?>(2)(g) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>ga</Pnumber>
+<P3para>
+<Text><?start-line?>failure of the arbitration proceedings to comply with section <?new-line?>6A;</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P1para>
+</P1>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<Text><?start-line?>In section 73 (loss of right to object) after subsection (2) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>This section does not apply to any arbitral award made pursuant to <?new-line?>proceedings which are not in accordance with the provisions of <?new-line?>section 6A.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>This section does not apply to any arbitral award that is not in <?new-line?>accordance with the provisions of section 29(11) of the Equality Act <?new-line?>2010.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P1para>
+</P1>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<Text><?start-line?>In section 108 (extent) after subsection (1) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>1A</Pnumber>
+<P2para>
+<Text><?start-line?>The following provisions of Part I do not extend to Northern <?new-line?>Ireland—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>section 6A (discriminatory terms of arbitration),</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>section 46(1A) (rules applicable to substance of dispute),</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>section 68(2)(ga) (challenging the award: serious <?new-line?>irregularity), and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>section 73(3) and (4) (loss of right to object).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</BlockAmendment>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Equality Act 2010</Title>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<Text><?start-line?>The Equality Act 2010 is amended as follows.</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>7</Pnumber>
+<P1para>
+<Text><?start-line?>In subsection (2) of section 217 (extent) after “apart from” omit the words to <?new-line?>the end of the subsection and insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2para>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>section 29(11) and (12) (provision of services, etc.);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>section 142(6) (unenforceable terms);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>section 149(3A) and (3B) (public sector equality duty);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>section 190 (improvements to let dwelling houses);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>Part 15 (family property);</Text>
+</P3para>
+</P3>
+<?new-page?><P3>
+<Pnumber>f</Pnumber>
+<P3para>
+<Text><?start-line?>paragraph 3(3) of Schedule 3 (judicial functions); and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>g</Pnumber>
+<P3para>
+<Text><?start-line?>paragraph 3(3) of Schedule 18 (judicial functions etc.),</Text>
+</P3para>
+</P3>
+<Text><?start-line?>forms part of the law of Scotland.</Text>
+</P2para></BlockAmendment>
+</P1para>
+</P1>
+</P1group>
+</ScheduleBody>
+</Schedule>
+</Schedules>
+</Primary>
+</Legislation>

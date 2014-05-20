@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendments>
+   <header>
+      <billtitle>Gambling_Licensing_and_Advertising_(Bill61_R(f))</billtitle>
+      <headertext>AMENDMENT TO BE MOVED ON REPORT</headertext>
+   </header>
+   <clausenumber>Clause 1</clausenumber>
+   <proposer>LORD BROWNE OF BELMONT</proposer>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> Clause 1, page 1, line 18, at end insert&#8212;</quote>
+         <quote>&#8220;( ) In section 89 of that Act (remote operating licence), after subsection (1) insert&#8212;</quote>
+         <IndentOne>&#8220;(1A) The Commission shall hold a list of persons who have registered to be excluded from access to remote gambling websites.</IndentOne>
+         <IndentOne>(1B) It shall be a condition of a remote operating licence that an operator must exclude any person access who has registered for self-exclusion with the Commission under subsection (1A).&#8221;&#8221;</IndentOne>
+      </text>
+   </Amendment>
+</amendments>

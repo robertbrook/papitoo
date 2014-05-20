@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>Prime Minister (Replacement) Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>27/11/2013</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 59" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="3" />
+<ukm:House Value="House of Commons" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsItem ContentRef="p00004">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Replacement of the Prime Minister</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00005">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>Short title, commencement and extent</ContentsTitle>
+</ContentsItem>
+<ContentsSchedules>
+<ContentsSchedule ContentRef="p00006">
+<ContentsNumber>Schedule</ContentsNumber>
+<ContentsTitle>Order of succession</ContentsTitle>
+</ContentsSchedule>
+</ContentsSchedules>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Make provision for appointment of a Prime Minister in the event that a Prime <?new-line?>Minister is temporarily or permanently incapacitated.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<P1group id="p00004">
+<Title><?start-line?>Replacement of the Prime Minister</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The office of Prime Minister and First Lord of the Treasury shall, in the event <?new-line?>of the temporary or permanent incapacitation of the person holding such <?new-line?>office, be conferred upon another Secretary or Minister of State in accordance <?new-line?>with the order of succession defined in Schedule 1 of this Act.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Where the next Secretary or Minister of State in the order of succession defined <?new-line?>in Schedule 1 is temporarily or permanently incapacitated, the office shall be <?new-line?>conferred upon the first Secretary or Minister of State not so incapacitated, in <?new-line?>accordance with the order of succession defined in Schedule 1.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Any salary payable to the Prime Minister under the Ministerial and other <?new-line?>Salaries Act 1975 shall instead be payable to the Secretary or Minister of State <?new-line?>assuming the office of Prime Minister and First Lord of the Treasury, in <?new-line?>accordance with the provisions of that Act.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Any functions or responsibilities of the Prime Minister, whether statutory or <?new-line?>otherwise, shall be transferred to the Secretary or Minister of State assuming <?new-line?>the office of Prime Minister and First Lord of the Treasury.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>A Secretary or Minister of State may not assume the office of Prime Minister <?new-line?>and First Lord of the Treasury if they are a member of a different political party <?new-line?>to the person whom they replace under subsection (1).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>“Minister of State” has the same meaning as in the House of Commons <?new-line?>Disqualification Act 1975.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00005">
+<Title><?start-line?>Short title, commencement and extent</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Act may be cited as the Prime Minister (Replacement) Act 2013.</Text>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>This Act extends to England and Wales and Scotland and Northern Ireland.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Body>
+<?new-page?>
+<Schedules>
+<Schedule id="p00006" NumberFormat="default">
+<Number><?start-line?>Schedule</Number>
+<TitleBlock>
+<Title><?start-line?>Order of succession</Title>
+</TitleBlock>
+<Reference>Section 1</Reference>
+<ScheduleBody>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<Text><?start-line?>In the event of the death or incapacitation of a person holding the title of <?new-line?>Prime Minister and First Lord of the Treasury, the title, salary and functions <?new-line?>of that role shall be conferred upon another Secretary or Minister of State in <?new-line?>accordance with the following order of precedence—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>person bearing the designation of Deputy Prime Minister;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>Secretary of State with responsibility for Home Affairs;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>Secretary of State with responsibility for Defence;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>Secretary of State with responsibility for Foreign and <?new-line?>Commonwealth Affairs;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>Chancellor of the Exchequer;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>f</Pnumber>
+<P3para>
+<Text><?start-line?>Secretary of State with responsibility for Transport;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>g</Pnumber>
+<P3para>
+<Text><?start-line?>Secretary of State with responsibility for Health;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>h</Pnumber>
+<P3para>
+<Text><?start-line?>Secretary of State with responsibility for Business and Innovation;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>i</Pnumber>
+<P3para>
+<Text><?start-line?>Secretary of State with responsibility for Justice;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>j</Pnumber>
+<P3para>
+<Text><?start-line?>Secretary of State with responsibility for Communities and Local <?new-line?>Government;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>k</Pnumber>
+<P3para>
+<Text><?start-line?>Secretary of State with responsibility for Education;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>l</Pnumber>
+<P3para>
+<Text><?start-line?>Secretary of State with responsibility for Environment, Food and <?new-line?>Rural Affairs;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>m</Pnumber>
+<P3para>
+<Text><?start-line?>Secretary of State with responsibility for Work and Pensions;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>n</Pnumber>
+<P3para>
+<Text><?start-line?>Minister of State with responsibility for the Cabinet Office;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>o</Pnumber>
+<P3para>
+<Text><?start-line?>Paymaster General;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>p</Pnumber>
+<P3para>
+<Text><?start-line?>Secretary of State with responsibility for Culture, Media and Sport</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>q</Pnumber>
+<P3para>
+<Text><?start-line?>Attorney General;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>r</Pnumber>
+<P3para>
+<Text><?start-line?>Secretary of State with responsibility for Energy and Climate <?new-line?>Change;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>s</Pnumber>
+<P3para>
+<Text><?start-line?>Secretary of State with responsibility for International Development;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>t</Pnumber>
+<P3para>
+<Text><?start-line?>Leader of the House of Commons;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>u</Pnumber>
+<P3para>
+<Text><?start-line?>Leader of the House of Lords;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>v</Pnumber>
+<P3para>
+<Text><?start-line?>Secretary of State with responsibility for Scotland;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>w</Pnumber>
+<P3para>
+<Text><?start-line?>Secretary of State with responsibility for Wales;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>x</Pnumber>
+<P3para>
+<Text><?start-line?>Secretary of State with responsibility for Northern Ireland.</Text>
+
+</P3para></P3>
+</P1para>
+</P1>
+</ScheduleBody>
+</Schedule>
+</Schedules>
+</Primary>
+</Legislation>

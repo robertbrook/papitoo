@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>Private Landlords and Letting and Managing Agents (Regulation) Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>24/10/2013</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 16" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="3" />
+<ukm:House Value="House of Commons" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsItem ContentRef="p00012">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Mandatory national register of private landlords</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00013">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>Regulation of private sector letting agents and managing agents</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00014">
+<ContentsNumber>3</ContentsNumber>
+<ContentsTitle>Transparency of fees of private sector letting agents and managing agents</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00015">
+<ContentsNumber>4</ContentsNumber>
+<ContentsTitle>Requirement for written tenancy agreements</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00016">
+<ContentsNumber>5</ContentsNumber>
+<ContentsTitle>Designation of selective licensing schemes</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00017">
+<ContentsNumber>6</ContentsNumber>
+<ContentsTitle>Consultation</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00018">
+<ContentsNumber>7</ContentsNumber>
+<ContentsTitle>Financial provisions</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00019">
+<ContentsNumber>8</ContentsNumber>
+<ContentsTitle>Orders and regulations</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00020">
+<ContentsNumber>9</ContentsNumber>
+<ContentsTitle>Offences</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00021">
+<ContentsNumber>10</ContentsNumber>
+<ContentsTitle>Interpretation</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00022">
+<ContentsNumber>11</ContentsNumber>
+<ContentsTitle>Short title, commencement and extent</ContentsTitle>
+</ContentsItem>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Establish a mandatory national register of private landlords; to introduce <?new-line?>regulation of private sector letting agents and managing agents; to establish a <?new-line?>body to administer the national register and to monitor compliance with <?new-line?>regulations applying to letting agents and managing agents; to require all <?new-line?>tenancy agreements entered into with private landlords to take the form of <?new-line?>written agreements; and for connected purposes.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<P1group id="p00012">
+<Title><?start-line?>Mandatory national register of private landlords</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>There shall be established a mandatory national register of private sector <?new-line?>residential landlords (“the Register).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>A duty shall be placed on all private sector residential landlords to sign up to <?new-line?>the Register, and to pay an annual registration fee and provide all the <?new-line?>information prescribed in regulations by the Secretary of State as required in <?new-line?>the Register.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Private sector residential landlords who—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>do not sign up to the Register, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>falsify information or provide incorrect information in the Register,</Text>
+</P3para>
+</P3>
+<Text><?start-line?>will be liable to the penalties specified in section 9.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>There shall be established a body to administer the Register as prescribed in <?new-line?>regulations by the Secretary of State and to monitor compliance with <?new-line?>regulations applying to letting agents and managing agents.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00013">
+<Title><?start-line?>Regulation of private sector letting agents and managing agents</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<Text><?start-line?>In section 1 of the Estate Agents Act 1979 (estate agency work), leave out “to <?new-line?>which this Act applies” and insert “and in subsection (1A) below to which this <?new-line?>Act applies.</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>1A</Pnumber>
+<P2para>
+<Text><?start-line?>This Act also applies, subject to subsections (2) to (4) below, to—</Text>
+<?new-page?><P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>things done by any person in the course of a business (including <?new-line?>a business in which he is employed) pursuant to instructions <?new-line?>received from another person (in this section referred to as “the <?new-line?>client”) who wishes to let or have the letting of an interest in <?new-line?>land managed (for example, the collection of rents on his <?new-line?>behalf)—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>for the purpose of, or with a view to, effecting the <?new-line?>introduction to the client of a third person who wishes <?new-line?>to let an interest in land; or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>after such introduction has been effected in the course of <?new-line?>that business, for the purpose of securing the letting of <?new-line?>the interest in land; or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text><?start-line?>for the purpose of, or with a view to, managing the <?new-line?>letting of the interest in land on behalf of the client; or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>iv</Pnumber>
+<P4para>
+<Text><?start-line?>for the purpose of, or with a view to, block management <?new-line?>of interests in land; and</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>management activities undertaken by any person in the course <?new-line?>of a business (including a business in which he is employed) in <?new-line?>connection with land or interests in land.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</BlockAmendment>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00014">
+<Title><?start-line?>Transparency of fees of private sector letting agents and managing agents</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>There shall be a requirement for letting and management agents to provide <?new-line?>information on fees in a standardised and comparable format in all material for <?new-line?>both prospective tenants and landlords. Landlord and tenant fees should be <?new-line?>displayed alongside each other together with the purpose of each charge.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (1) “in all material” includes on the agent’s website, within <?new-line?>property search website adverts alongside the rental asking price and in all <?new-line?>paperwork.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00015">
+<Title><?start-line?>Requirement for written tenancy agreements</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<Text><?start-line?>It shall be a requirement for all persons newly entering into or renewing a <?new-line?>private sector residential tenancy, be it undertaken directly or through a third <?new-line?>party, to do so in the form of a written tenancy agreement between tenant and <?new-line?>landlord.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00016">
+<Title><?start-line?>Designation of selective licensing schemes</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<Text><?start-line?>In section 80 of the Housing Act 2004 (designation of selective licensing <?new-line?>areas)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>leave out subsection (3)(a) and substitute “that where selective <?new-line?>licensing would improve the local environment through improved <?new-line?>property management and provide significantly more good quality <?new-line?>properties that are professionally managed for those privately renting, <?new-line?>and”;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>leave out subsection (6)(a) and substitute “that where selective <?new-line?>licensing would reduce anti-social behaviour in that area;”.</Text>
+</P3para>
+</P3>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00017">
+<Title><?start-line?>Consultation</Title>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Before making regulations under section 1, the Secretary of State must <?new-line?>undertake a process of open consultation.</Text>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Any open consultation under section 6(1) must seek the views of—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>all major stakeholders, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the relevant select committee of the House of Commons.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00018">
+<Title><?start-line?>Financial provisions</Title>
+<P1>
+<Pnumber>7</Pnumber>
+<P1para>
+<Text><?start-line?><Emphasis>There is to be paid out of money provided by Parliament—</Emphasis></Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?><Emphasis>any expenditure incurred under or by virtue of this Act by the Secretary of <?new-line?>State, and</Emphasis></Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?><Emphasis>any increase attributable to this Act in the sums payable under any other Act <?new-line?>out of money so provided.</Emphasis></Text>
+</P3para>
+</P3>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00019">
+<Title><?start-line?>Orders and regulations</Title>
+<P1>
+<Pnumber>8</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Any power to make an order or regulations under this Act is exercisable by <?new-line?>statutory instrument.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>A statutory instrument containing an order may not be made unless a draft of <?new-line?>the instrument has been laid before and approved by a resolution of each <?new-line?>House of Parliament.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00020">
+<Title><?start-line?>Offences</Title>
+<P1>
+<Pnumber>9</Pnumber>
+<P1para>
+<Text><?start-line?>A person guilty of an offence under section 1 is liable on summary conviction, <?new-line?>to a fine not exceeding level 3 on the standard scale.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00021">
+<Title><?start-line?>Interpretation</Title>
+<P1>
+<Pnumber>10</Pnumber>
+<P1para>
+<Text><?start-line?>In this Act—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“prescribed” means prescribed by regulations made by the Secretary of <?new-line?>State following a public consultation by the Secretary of State;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“private sector residential landlord” applies only to those who own and <?new-line?>rent out their property in England for residential purposes and does not <?new-line?>include those who sublet a room or rooms within their property, or a <?new-line?>registered social landlord within the meaning of Part 1 of the Housing <?new-line?>Act 1996.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00022">
+<Title><?start-line?>Short title, commencement and extent</Title>
+<P1>
+<Pnumber>11</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Act may be cited as the Private Landlords and Letting and Managing <?new-line?>Agents (Regulation) Act 2013.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The Act shall come into force three months after the day on which it is passed.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>This Act extends to England only.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Body>
+</Primary>
+</Legislation>

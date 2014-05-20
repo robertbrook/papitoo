@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\Development\Projects\actstoschema\BillSchema\schema\schemaBillBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title></dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>26/2/2013</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="Amendment" /><ukm:DocumentStage Value="Notice" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill" />
+<ukm:Parliament Value="" />
+<ukm:Session Value="2012-2013" />
+<ukm:House Value="Commons" />
+</ukm:BillMetadata>
+<ukm:BillAmendmentMetaData><ukm:BillTitle></ukm:BillTitle><ukm:GivenOn><ukm:GivenOnDay></ukm:GivenOnDay><ukm:GivenOnDate></ukm:GivenOnDate></ukm:GivenOn>
+<ukm:StageHeader>
+<ukm:Stage></ukm:Stage><ukm:StageText></ukm:StageText></ukm:StageHeader><ukm:ShortTitle></ukm:ShortTitle><ukm:AsAmended></ukm:AsAmended></ukm:BillAmendmentMetaData>
+<ukm:billEffects></ukm:billEffects>
+</ukm:Metadata>
+<BillAmendment><Body>
+</Body></BillAmendment>
+</Legislation>

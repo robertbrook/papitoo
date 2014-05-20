@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendments>
+   <header>
+      <billtitle>Financial_Services_(Banking_Reform)_(Bill38_II(c))</billtitle>
+   </header>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> Before Clause 16, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Regulatory accounts</quote>
+         <quote>(1) The PRA and the FCA may make rules requiring banks to prepare and submit to the appropriate regulator accounts prepared according to principles specified by the rules.</quote>
+         <quote>(2) The principles shall be such as, in the opinion of the PRA or the FCA, are appropriate to sucure that the accounts facilitate the performance by the PRA or the FCA of their functions in relation to banks.</quote>
+         <quote>(3) The rules may require that the accounts be independently audited.</quote>
+         <quote>(4) In auditing the accounts a person owes a duty, enforceable by action brought by the appropriate regulator, to secure that they properly audited.</quote>
+         <quote>(5) The rules may require that, where the public interest so requires, the accounts, or (if the rules so specify) an abbreviated version of them, be published alongside the accounts required to be prepared by the bank under the Companies Act 2006, or any similar enactment having effect in any country or territory other than the United Kingdom, together with a statement explaining the accounts by reference to those accounts.</quote>
+         <quote>(6) In this section&#8212;</quote>
+         <quote>&#8220;the appropriate regulator&#8221; means&#8212;</quote>
+         <IndentOne>(a) if the bank is a PRA-authorised person (within the meaning of FSMA 2000), the PRA, and</IndentOne>
+         <IndentOne>(b) otherwise, the FCA; and</IndentOne>
+         <quote>&#8220;bank&#8221; has the meaning given by section 2 of the Banking Act 2009.&#8221;</quote>
+      </text>
+   </Amendment>
+</amendments>

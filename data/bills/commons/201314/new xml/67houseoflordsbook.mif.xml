@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>House of Lords (Maximum Membership) Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>9/7/2013</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 67" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="3" />
+<ukm:House Value="House of Commons" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsItem ContentRef="p00007">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Number of peers entitled to vote</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00008">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>Maximum number of new peers</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00009">
+<ContentsNumber>3</ContentsNumber>
+<ContentsTitle>Retirement process</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00010">
+<ContentsNumber>4</ContentsNumber>
+<ContentsTitle>Compulsory retirement</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00011">
+<ContentsNumber>5</ContentsNumber>
+<ContentsTitle>Conversion to hereditary title on retirement</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00012">
+<ContentsNumber>6</ContentsNumber>
+<ContentsTitle>Short title</ContentsTitle>
+</ContentsItem>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Provide for a maximum limit on the number of Peers entitled to vote in the <?new-line?>House of Lords; and to provide for a moratorium on new appointments.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<P1group id="p00007">
+<Title><?start-line?>Number of peers entitled to vote</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<Text><?start-line?>With effect from 1 June 2015, the maximum number of peers entitled to vote in <?new-line?>the House of Lords shall be 650.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00008">
+<Title><?start-line?>Maximum number of new peers</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Between 12 July 2013 and 1 June 2015, the maximum number of new peers <?new-line?>appointed shall not exceed 45.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The limit on the maximum number of new peers in subsection (1) shall not <?new-line?>include—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>archbishops and bishops sitting as such, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>any new peer elected in the place of an existing hereditary peer.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00009">
+<Title><?start-line?>Retirement process</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In the event that the number of peers entitled to vote in the House of Lords on <?new-line?>1 May 2015 exceeds 650, that number shall be reduced to 650 through a <?new-line?>compulsory retirement process as set out in Section 4.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>A peer may retire as a member of the House of Lords by giving notice in <?new-line?>writing to the Clerk of the Parliaments.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Any notice under subsection (2) must specify the date on which retirement is <?new-line?>to take effect, provided that that date shall not be later than 1 May 2015.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>On the date specified in any notice under this section, the peer ceases to be a <?new-line?>member of the House of Lords.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>Any notice under this section may not be rescinded.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<?new-page?><P1group id="p00010">
+<Title><?start-line?>Compulsory retirement</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The provisions in subsections (2) to (6) shall apply to any compulsory <?new-line?>retirement process required under section 3.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The order in which peers shall be selected for compulsory retirement shall be <?new-line?>based on seniority.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Seniority shall be calculated on the basis of the length of period that the peer <?new-line?>has been a member of the House of Lords.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The peer with the greatest seniority shall be the first to be selected for <?new-line?>compulsory retirement and subsequent retirees shall be chosen on the same <?new-line?>basis.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>Any compulsory retirement under the provisions of this section shall take <?new-line?>effect on 31 May 2015 and may not be rescinded.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>The provisions relating to compulsory retirement shall exclude archbishops <?new-line?>and bishops sitting as such and any hereditary peers.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00011">
+<Title><?start-line?>Conversion to hereditary title on retirement</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Any peer giving notice under Section 3(2) shall at the time of giving notice <?new-line?>specify whether or not that peer wishes his or her title to be converted at the <?new-line?>date of retirement, to a hereditary title without voting rights.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Any peer who elects to have his or her title converted to a hereditary title <?new-line?>without voting rights shall from the date of retirement be deemed to be a <?new-line?>holder of a hereditary peerage.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00012">
+<Title><?start-line?>Short title</Title>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<Text><?start-line?>This Act may be cited as the House of Lords (Maximum Membership) Act 2013.</Text>
+</P1para>
+</P1>
+</P1group>
+</Body>
+</Primary>
+</Legislation>

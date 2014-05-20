@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>Equality (Titles) Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>14/5/2013</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 12" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="3" />
+<ukm:House Value="House of Lords" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsItem ContentRef="p00013">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Female heirs to be eligible to succeed to hereditary peerages or hereditary <?new-line?>titles</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00014">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>Requirements for succession by female heirs</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00016">
+<ContentsNumber>3</ContentsNumber>
+<ContentsTitle>Petition by the incumbent</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00018">
+<ContentsNumber>4</ContentsNumber>
+<ContentsTitle>Processing of petitions</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00019">
+<ContentsNumber>5</ContentsNumber>
+<ContentsTitle>Effects of hereditary peerage succession under this Act</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00020">
+<ContentsNumber>6</ContentsNumber>
+<ContentsTitle>Effects of hereditary title succession under this Act</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00021">
+<ContentsNumber>7</ContentsNumber>
+<ContentsTitle>Succession: further provision</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00022">
+<ContentsNumber>8</ContentsNumber>
+<ContentsTitle>Provision for special remainder</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00024">
+<ContentsNumber>9</ContentsNumber>
+<ContentsTitle>Entitlement of husband of women holding certain titles to the title “The <?new-line?>Honourable”</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00025">
+<ContentsNumber>10</ContentsNumber>
+<ContentsTitle>Entitlement of civil partner of man or woman holding certain titles to the title <?new-line?>“The Honourable”</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00026">
+<ContentsNumber>11</ContentsNumber>
+<ContentsTitle>Interpretation</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00027">
+<ContentsNumber>12</ContentsNumber>
+<ContentsTitle>Short title, commencement and extent</ContentsTitle>
+</ContentsItem>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Make provision for the succession of female heirs to hereditary titles; for <?new-line?>husbands and civil partners of those receiving honours to be allowed to use <?new-line?>equivalent honorary titles to those available to wives; and for connected <?new-line?>purposes.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<P1group id="p00013">
+<Title><?start-line?>Female heirs to be eligible to succeed to hereditary peerages or hereditary <?new-line?>titles</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<Text><?start-line?>Any hereditary peerage in the peerage of England, Scotland, Great Britain or <?new-line?>the United Kingdom (whatever the terms of the letters patent, Act of <?new-line?>Parliament or other instrument, if any, creating, or determining the succession <?new-line?>of, that peerage) (“hereditary peerage”) or hereditary title may be succeeded by <?new-line?>a female heir provided the requirements of section 2 have been fulfilled.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00014">
+<Title><?start-line?>Requirements for succession by female heirs</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<Text><?start-line?>The requirements of this section are that—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the incumbent of a hereditary peerage or hereditary title (“the <?new-line?>incumbent”) has, in accordance with the requirements of section 3, <?new-line?>petitioned the Lord Chancellor in writing for a certificate establishing <?new-line?>future succession;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>a certificate has been issued in accordance with section 4; and</Text>
+</P3para>
+</P3>
+<P3 id="p00015">
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>any female heir succeeding to that hereditary peerage or hereditary <?new-line?>title—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>has attained the age of 21 years; and</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>has satisfied the Lord Chancellor that she is the oldest surviving <?new-line?>child legitimately born to the incumbent.</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</P1para>
+</P1>
+</P1group>
+<?new-page?><P1group id="p00016">
+<Title><?start-line?>Petition by the incumbent</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>An incumbent may petition the Lord Chancellor for a certificate under section <?new-line?>2 provided that he has taken all reasonable steps—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>to discuss his intention to present such a petition with any legitimate <?new-line?>children he has; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>sent a draft of such a petition to any such children.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00017">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>A petition under section 2 must be accompanied by—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>a declaration by the incumbent of his wish to be succeeded by any <?new-line?>female heir who would be eligible to succeed under that section;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>documentation to establish any female heir’s right to succeed to the <?new-line?>peerage or title in accordance with the provisions of section 2 and a <?new-line?>declaration of that female heir’s right to succeed to the peerage or title <?new-line?>made by someone who is well acquainted with the incumbent and his <?new-line?>family; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>where the incumbent also has a son or sons, evidence that reasonable <?new-line?>efforts have been made to inform the son or sons of the petition and to <?new-line?>provide the son or sons with a copy of the petition and associated <?new-line?>documents prior to its submissions.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Any document or declaration under subsection <InternalLink id="i00001" Ref="p00017">(2)</InternalLink> shall be endorsed by a <?new-line?>solicitor, Justice of the Peace or a Notary Public.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00018">
+<Title><?start-line?>Processing of petitions</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Within one week of receipt of a petition under section 2, the Lord Chancellor <?new-line?>shall publish the name of the petitioner and the details of the hereditary <?new-line?>peerage or hereditary title that is the subject of the petition.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Any legitimate child of the incumbent of that peerage or title may lodge an <?new-line?>objection (“an objection”) in response to that petition within three months of its <?new-line?>publication.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>An objection must—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>set out the reasons for the objection; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>provide any available documentary evidence to support the objection, <?new-line?>including, if desired, a declaration made by someone who is well <?new-line?>acquainted with the incumbent and his or her family, before a solicitor, <?new-line?>Justice of the Peace or a Notary Public.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>In considering an objection, the Lord Chancellor—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>may invite the persons who submitted the petition and objection or <?new-line?>objections, and any person appointed by them to represent them, to <?new-line?>appear in person or to submit further supporting documentation; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>shall have regard to whether it would be grossly inequitable to allow <?new-line?>the provisions of section 1 to apply to the peerage or title in question, <?new-line?>and in particular to—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>the financial consequences of so doing for the child making the <?new-line?>objection; and</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>whether or not the succession had previously been promised to <?new-line?>the child making the objection.</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>The Lord Chancellor shall publish his decision in the case of an objection and <?new-line?>give his reasons not later than 12 weeks after it is lodged.</Text>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>Where the Lord Chancellor is satisfied that all the conditions of section 2 have <?new-line?>been met and no objection has been lodged under section 3, or any such <?new-line?>objection has not been upheld, the Lord Chancellor shall issue a certificate to <?new-line?>that effect.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>Where the Lord Chancellor upholds an objection, succession shall continue <?new-line?>according to the letters patent, Act of Parliament or other instrument, if any, <?new-line?>creating, or determining the succession of, that peerage or title.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>8</Pnumber>
+<P2para>
+<Text><?start-line?>In the event that an incumbent dies after a petition has been submitted, the <?new-line?>hereditary peerage or title shall be vacant until the Lord Chancellor has issued <?new-line?>a certificate or upheld an objection under this Act.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>9</Pnumber>
+<P2para>
+<Text><?start-line?>A decision by the Lord Chancellor under this section is conclusive.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00019">
+<Title><?start-line?>Effects of hereditary peerage succession under this Act</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<Text><?start-line?>A woman who is, under the provisions of this Act, the holder of a hereditary <?new-line?>peerage in the peerage of England, Scotland, Great Britain or the United <?new-line?>Kingdom shall (whatever the terms of the letters patent, Act of Parliament or <?new-line?>other instrument, if any, creating, or determining the succession of, that <?new-line?>peerage)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>have the same right to receive writ of summons to attend the House of <?new-line?>Lords, and to sit and vote in that House as a man holding that peerage;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>be subject to the same disqualifications in respect of membership of the <?new-line?>House of Commons and elections to that House as a man holding that <?new-line?>peerage;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>have all right or interest to or in the peerage, and all titles, rights, offices, <?new-line?>privileges and precedence attaching thereto; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>have any right, interest or power (whether arising before or after <?new-line?>succession in accordance with the provisions of this Act) in or over any <?new-line?>estates or other property limited or settled to devolve with that <?new-line?>peerage.</Text>
+</P3para>
+</P3>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00020">
+<Title><?start-line?>Effects of hereditary title succession under this Act</Title>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<Text><?start-line?>A woman who is, under the provisions of this Act, the holder of a hereditary <?new-line?>title shall—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>have all right or interest to or in the title, and all rights, offices, <?new-line?>privileges and precedence attaching thereto; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>have any right, interest or power (whether arising before or after <?new-line?>succession in accordance with the provisions of this Act) in or over any <?new-line?>estates or other property limited or settled to devolve with that title.</Text>
+</P3para>
+</P3>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00021">
+<Title><?start-line?>Succession: further provision</Title>
+<P1>
+<Pnumber>7</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Where a female heir succeeds to a hereditary peerage or hereditary title under <?new-line?>the provisions of this Act—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>succession shall proceed thereafter as though section 1 applies to that <?new-line?>peerage or title, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the provisions of section 2 shall not apply, provided that any female <?new-line?>heir succeeding to the peerage or title meets the requirements of section <?new-line?>2<InternalLink id="i00002" Ref="p00015">(c)</InternalLink>.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Nothing in this Act shall accelerate the succession to any hereditary peerage or <?new-line?>hereditary title.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Where an incumbent holds more than one hereditary peerage or hereditary <?new-line?>title, the provisions of this Act shall apply separately to each such peerage or <?new-line?>title.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00022">
+<Title><?start-line?>Provision for special remainder</Title>
+<P1>
+<Pnumber>8</Pnumber>
+<P1para>
+<P2 id="p00023">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>An incumbent may apply to the Lord Chancellor for a special remainder.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Special remainders under subsection <InternalLink id="i00003" Ref="p00023">(1)</InternalLink> may be granted for the hereditary <?new-line?>peerage or hereditary title to not be passed to the eldest child but to the eldest <?new-line?>son.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Special remainders under this section may only be applied by the incumbent <?new-line?>on the date on which this Act is passed.</Text>
+<Text><?start-line?>Future holders of a hereditary peerage or hereditary title may not apply for a <?new-line?>special remainder under this section.</Text>
+</P2para><P2para><Text><?start-line?>Future holders of a hereditary peerage or hereditary title may not apply for a <?new-line?>special remainder under this section.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00024">
+<Title><?start-line?>Entitlement of husband of women holding certain titles to the title “The <?new-line?>Honourable”</Title>
+<P1>
+<Pnumber>9</Pnumber>
+<P1para>
+<Text><?start-line?>Any man who is, or who has been at any time (before or after the passing of <?new-line?>this Act) the husband of any woman who holds a title as a peer, baronetess or <?new-line?>dame shall be entitled to use the courtesy title “The Honourable”.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00025">
+<Title><?start-line?>Entitlement of civil partner of man or woman holding certain titles to the title <?new-line?>“The Honourable”</Title>
+<P1>
+<Pnumber>10</Pnumber>
+<P1para>
+<Text><?start-line?>Any person who is, or who has been at any time (before or after the passing of <?new-line?>this Act) the civil partner of any man or woman who holds a title as a peer, <?new-line?>baronet, baronetess, knight or dame shall be entitled to use the courtesy title <?new-line?>“The Honourable”.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00026">
+<Title><?start-line?>Interpretation</Title>
+<P1>
+<Pnumber>11</Pnumber>
+<P1para>
+<Text><?start-line?>In this Act—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“hereditary titles” refer to baronet, baronetess and any other hereditary <?new-line?>title within the United Kingdom;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>references to a “peer”, “baronet”, “baronetess”, “knight” or “dame” are <?new-line?>references to peerage and other titles conferred within the United <?new-line?>Kingdom or of any of its constituent parts or a title within the peerage <?new-line?>of Ireland;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“husband” and “civil partner” refer to husbands or civil partners <?new-line?>recognised under the law of any part of the United Kingdom.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00027">
+<Title><?start-line?>Short title, commencement and extent</Title>
+<P1>
+<Pnumber>12</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Act may be cited as the Equality (Titles) Act 2013.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>This Act shall come into force on the day on which it is passed.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>This Act extends to the United Kingdom.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Body>
+</Primary>
+</Legislation>

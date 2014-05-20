@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>Education (Information Sharing) Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>8/7/2013</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 26" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="3" />
+<ukm:House Value="House of Commons" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Cover>
+<CoverTitle>EXPLANATORY NOTES</CoverTitle>
+<CoverPara><Text><?start-line?>Explanatory notes to the Bill, prepared by the Department for Education with the <?new-line?>consent of Andrew Selous, are published separately as Bill 26—EN.</Text></CoverPara>
+</Cover><Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsItem ContentRef="p00005">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Student information</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00006">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>Destination information</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00007">
+<ContentsNumber>3</ContentsNumber>
+<ContentsTitle>Information for evaluating effectiveness of education and training etc</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00008">
+<ContentsNumber>4</ContentsNumber>
+<ContentsTitle>Short title, commencement and extent</ContentsTitle>
+</ContentsItem>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Make provision about the disclosure and use of information relating to <?new-line?>persons who are or have been in education or training.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<P1group id="p00005">
+<Title><?start-line?>Student information</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>After section 253 of the Apprenticeships, Skills, Children and Learning Act <?new-line?>2009 insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<Pblock>
+<Title><?start-line?>Student information</Title>
+<P1group>
+<Title><?start-line?>Student information</Title>
+<P1>
+<Pnumber>253A</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>A person in England may, in prescribed circumstances, provide <?new-line?>student information of a prescribed description to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the Secretary of State,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>an information collator,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>a prescribed person, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>a person falling within a prescribed category.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>A person in Wales may, in prescribed circumstances, provide student <?new-line?>information of a prescribed description to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the Welsh Ministers,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>an information collator,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>a prescribed person, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>a person falling within a prescribed category.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (2) “prescribed” means prescribed in regulations made by <?new-line?>the Welsh Ministers.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Subject to subsection (5)(a), information received under or by virtue of <?new-line?>this section is not to be published in any form which identifies the <?new-line?>individual to whom it relates.</Text>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>This section—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>does not affect any power to provide or publish information <?new-line?>which exists apart from this section, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>is subject to any express restriction on the provision of <?new-line?>information imposed by another enactment.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>In this section—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“information collator” means any body which, for the purposes of <?new-line?>or in connection with functions of the Secretary of State or the <?new-line?>Welsh Ministers, is responsible for collating or checking <?new-line?>information relating to regulated qualifications;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“student information” means information (whether obtained <?new-line?>under this section or otherwise) relating to an individual who is <?new-line?>seeking or has sought to obtain, or has obtained—</Text>
+<OrderedList Decoration="parens" Type="alpha">
+<ListItem>
+<Para>
+<Text><?start-line?>a regulated qualification, within the meaning given by <?new-line?>section 130(1)), or</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>a relevant qualification, within the meaning given by <?new-line?>section 30(5) of the Education Act 1997.</Text>
+</Para>
+</ListItem>
+</OrderedList>
+</Para>
+</ListItem>
+</UnorderedList>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Pblock>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In section 262 of the Apprenticeships, Skills, Children and Learning Act 2009 <?new-line?>(orders and regulations)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in subsection (1) (orders and regulations to be made by statutory <?new-line?>instrument etc) after “Part 3 or 4” insert “, or section 253A”, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in subsection (9) (statutory instruments which are subject to annulment <?new-line?>in pursuance of a resolution of the National Assembly for Wales if <?new-line?>containing regulations etc made by the Welsh Ministers) for “or 107” <?new-line?>substitute “, 107 or 253A”.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00006">
+<Title><?start-line?>Destination information</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Before section 50 of the Further and Higher Education Act 1992 insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Destination information</Title>
+<P1>
+<Pnumber>49B</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State may provide destination information to the <?new-line?>governing body of an institution in England within the further <?new-line?>education sector.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The Welsh Ministers may provide destination information to the <?new-line?>governing body of an institution in Wales within the further education <?new-line?>sector.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In this section “destination information”, in relation to an institution, <?new-line?>means information which—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>relates to a former student of the institution, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>includes information as to prescribed activities of the former <?new-line?>student after leaving the institution.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Regulations under subsection (3)(b) which prescribe activities as to <?new-line?>which the Welsh Ministers may provide information are to be made by <?new-line?>the Welsh Ministers.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>Subject to subsection (6)(a), information received under this section is <?new-line?>not to be published in any form which identifies the individual to <?new-line?>whom it relates.</Text>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>This section—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>does not affect any power to provide or publish information <?new-line?>which exists apart from this section, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>is subject to any express restriction on the provision of <?new-line?>information imposed by another enactment.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In section 61(1) of that Act (interpretation of Part 1), in the definition of <?new-line?>“regulations”, after “Secretary of State” insert “, unless the context otherwise <?new-line?>requires”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Section 89 of that Act (procedure for making regulations etc) is amended as <?new-line?>follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>After subsection (2) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>2A</Pnumber>
+<P2para>
+<Text><?start-line?>The power of the Welsh Ministers to make regulations under section <?new-line?>49B(3)(b) is to be exercised by statutory instrument.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (3) (statutory instruments not subject to annulment in pursuance <?new-line?>of a resolution of either House of Parliament etc) for “or (3B) or” substitute “, <?new-line?>(3B) or (3C) or containing”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>After subsection (3B) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>3C</Pnumber>
+<P2para>
+<Text><?start-line?>A statutory instrument which contains regulations under section <?new-line?>49B(3)(b) made by the Welsh Ministers is subject to annulment in <?new-line?>pursuance of a resolution of the National Assembly for Wales.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00007">
+<Title><?start-line?>Information for evaluating effectiveness of education and training etc</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Part 3 of the Education and Skills Act 2008 is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In section 87(4) (functions in relation to which benefit and training information <?new-line?>may be disclosed)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in paragraph (a) omit “provided for persons who have attained the age <?new-line?>of 19”, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in paragraphs (b) and (c) omit “such”, in each place.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Omit section 91(6) (references to education do not include references to higher <?new-line?>education).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Omit the italic heading before section 87.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>For the Part title substitute “Information for evaluating effectiveness of <?new-line?>education and training etc”.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00008">
+<Title><?start-line?>Short title, commencement and extent</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Act may be cited as the Education (Information Sharing) Act 2013.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Sections 1 and 2 come into force at the end of the period of two months <?new-line?>beginning with the day on which this Act is passed.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Section 3 comes into force on such day as the Secretary of State appoints by <?new-line?>order made by statutory instrument.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>This section comes into force on the day on which this Act is passed.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>Sections 1 and 2 extend to England and Wales only.</Text>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>Section 3 and this section extend to England and Wales and Scotland.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Body>
+</Primary>
+</Legislation>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendments>
+   <header>
+      <billtitle>Financial_Services_Banking_Reform_(Bill54(e))</billtitle>
+   </header>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> After Clause 29, insert the following new Clause&#8212;</quote>
+         <quote>&#8220;Regulation of high-cost credit agreements</quote>
+         <quote>(1) The FCA shall, within 6 months of the passing of this Act, include among the regulations governing high-cost, short-term credit agreements provisions to&#8212;</quote>
+         <IndentOne>(a) restrict such loans to one outstanding loan per customer at any given time;</IndentOne>
+         <IndentOne>(b) provide for a 24-hour cooling off period between loans in which no new loan may be entered into less than 24 hours after the settlement in full of a previous loan;</IndentOne>
+         <IndentOne>(c) establish at the lender&#8217;s cost a real time database of loans outstanding to be used in the enforcement of paragraphs (a) and (b);</IndentOne>
+         <IndentOne>(d) restrict the amount of any loan to a maximum face value of £300, exclusive of permissible fees;</IndentOne>
+         <IndentOne>(e) restrict any transaction fees and charges of any kind to a maximum of 10% of the face value of the loan plus a £3 verification fee;</IndentOne>
+         <IndentOne>(f) restrict the term of any loan to between 7 and 31 days;</IndentOne>
+         <IndentOne>(g) allow the borrower to extend the loan term for an additional 60 days beyond the due date without any additional charges of any kind;</IndentOne>
+         <IndentOne>(h) require borrowers who avail themselves of the extension in paragraph (g) to undergo credit counselling with a designated professional counsellor or organisation and to abide by the plan established to retire the debt.</IndentOne>
+         <quote>(2) For the purposes of this section&#8212;</quote>
+         <quote>&#8220;high-cost credit agreement&#8221; means a regulated credit agreement as defined by section 137C of the Financial Services and Markets Act 2000 (as inserted by the Financial Services Act 2012) that provides for&#8212;</quote>
+         <IndentOne>(a) the payment by the borrower of charges of a description from time to time specified by the FCA; or</IndentOne>
+         <IndentOne>(b) the payment by the borrower over the duration of the agreement of charges that, taken with the charges paid under one or more other agreements which are treated by the FCA&#8217;s rules as being connected with it, exceed, or are capable of exceeding, an amount specified by the FCA;</IndentOne>
+         <quote>&#8220;charges&#8221; means charges payable, by way of interest or otherwise, in connection with the provision of credit under the regulated credit agreement, whether or not the agreement itself makes provision for them and whether or not the person to whom they are payable is a party to the regulated credit agreement or an authorised person;</quote>
+         <quote>&#8220;authorised person&#8221; has the same meaning as in the Financial Services and Markets Act 2000.&#8221;</quote>
+      </text>
+   </Amendment>
+</amendments>

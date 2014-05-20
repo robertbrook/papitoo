@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>House of Commons Members\xd5  Fund Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>16/12/2013</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 145" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="3" />
+<ukm:House Value="House of Commons" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Cover>
+<CoverTitle>EXPLANATORY NOTES</CoverTitle>
+<CoverPara><Text><?start-line?>Explanatory notes to the Bill, prepared by Mr Peter Lilley, the Member in charge of <?new-line?>the Bill, are published separately as Bill 145—EN.</Text></CoverPara>
+</Cover><Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsItem ContentRef="p00012">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>The Fund</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00013">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>Trustees</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00014">
+<ContentsNumber>3</ContentsNumber>
+<ContentsTitle>Grants</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00015">
+<ContentsNumber>4</ContentsNumber>
+<ContentsTitle>Levy on Members’ salaries: basic amount</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00016">
+<ContentsNumber>5</ContentsNumber>
+<ContentsTitle>Levy on Members’ salaries: variation and suspension</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00017">
+<ContentsNumber>6</ContentsNumber>
+<ContentsTitle>Resolutions and directions</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00018">
+<ContentsNumber>7</ContentsNumber>
+<ContentsTitle>Public money</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00019">
+<ContentsNumber>8</ContentsNumber>
+<ContentsTitle>Tax</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00020">
+<ContentsNumber>9</ContentsNumber>
+<ContentsTitle>Repeals and transitional provision</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00021">
+<ContentsNumber>10</ContentsNumber>
+<ContentsTitle>Technical provision</ContentsTitle>
+</ContentsItem>
+<ContentsSchedules>
+<ContentsSchedule ContentRef="p00022">
+<ContentsNumber>Schedule</ContentsNumber>
+<ContentsTitle>Trustees’ powers and proceedings</ContentsTitle>
+</ContentsSchedule>
+</ContentsSchedules>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Consolidate and amend provisions about the House of Commons Members’ <?new-line?>Fund.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<P1group id="p00012">
+<Title><?start-line?>The Fund</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>There shall continue to be a House of Commons Members’ Fund.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The purpose of the Fund is to make grants to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>former Members of the House of Commons, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>people who appear to the Fund’s trustees to be or to have been <?new-line?>dependants of former Members.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The Fund shall be held—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>by the trustees, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>if they appoint one of their number as a custodian trustee, by that <?new-line?>custodian trustee.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00013">
+<Title><?start-line?>Trustees</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The trustees of the Fund shall be appointed by resolution of the House of <?new-line?>Commons.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>There are to be not more than 7 trustees at any time.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The trustees must be Members of the House of Commons (subject to subsection <?new-line?>(4)).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>At any time one trustee may be a former Member of the House of Commons; <?new-line?>and a resolution appointing a trustee under this subsection must be made—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>on a motion moved by a trustee, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>following consultation by the trustees with persons appearing to them <?new-line?>to be representative of former Members.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>While a former Member is a trustee, grants under section 3 may not be made <?new-line?>to the former Member or to a dependant of the former Member.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>A person ceases to be a trustee upon—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>ceasing to be a Member of the House of Commons (unless appointed <?new-line?>under subsection (4)), or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>removal by resolution of the House of Commons.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>The Schedule to this Act makes provision about the powers and proceedings <?new-line?>of the trustees.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00014">
+<Title><?start-line?>Grants</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The trustees may make payments out of the Fund to people listed in section <?new-line?>1(2).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In determining whether to make payments to a person the trustees shall have <?new-line?>regard to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>his or her financial circumstances, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the state of the Fund.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Payments may be single or periodical.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00015">
+<Title><?start-line?>Levy on Members’ salaries: basic amount</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Amounts shall be deducted from the salaries of Members of the House of <?new-line?>Commons in accordance with this section.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The amounts to be deducted in respect of each financial year shall be set by <?new-line?>resolution of the House of Commons.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>A resolution may express a deduction as—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>a specified sum, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>a specified percentage of salary.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>A resolution may not have the effect of requiring any Member to pay more <?new-line?>than 0.2% of his or her salary for any financial year.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>Amounts to be deducted in respect of a financial year—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>are to be deducted from Members’ salaries (before payment) in equal <?new-line?>instalments, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>are to be paid into the Fund.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00016">
+<Title><?start-line?>Levy on Members’ salaries: variation and suspension</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The trustees may by direction increase the amounts set by resolution under <?new-line?>section 4 in respect of a specified financial year by the percentage applied for <?new-line?>the purposes of Part I of the Pensions (Increase) Act 1971 in respect of that <?new-line?>financial year.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The trustees may by direction suspend deductions under section 4 while they <?new-line?>believe that the Fund has sufficient assets to meet demands on it.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>When a suspension is lifted, deductions resume (but without adjustment to <?new-line?>recover amounts not collected during the suspension).</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<?new-page?><P1group id="p00017">
+<Title><?start-line?>Resolutions and directions</Title>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>A resolution under section 4 may be varied, replaced or revoked by a later <?new-line?>resolution.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>A resolution under section 4 must be made on a motion moved by a person <?new-line?>who is both a Member of the House of Commons and a trustee of the Fund.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>A resolution under section 4 may relate to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the financial year in which it is passed,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>one or more specified future financial years,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>future financial years in general, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>a combination.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Where a resolution under section 4 or a direction under section 5(1) takes effect <?new-line?>in respect of the financial year during which it is passed, payments for the <?new-line?>remainder of the year shall be adjusted so as to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>give effect to the resolution or direction, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>produce equal instalments for the remainder of the year.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>Section 2 of the Statutory Instruments Act 1946 (numbering and printing) shall <?new-line?>apply to resolutions under section 4.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>A direction under section 5—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>may be replaced or revoked by a later resolution,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>remains in force despite changes in the trustees, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>must be published by the trustees as soon as reasonably practicable.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00018">
+<Title><?start-line?>Public money</Title>
+<P1>
+<Pnumber>7</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?><Emphasis>The Treasury may make payments into the House of Commons Members’ Fund.</Emphasis></Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The amount paid in a financial year shall not exceed £215,000.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In determining whether to make a payment the Treasury shall have regard <?new-line?>to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the state of the Fund, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the trustees’ opinion as to whether a payment is required in order to <?new-line?>allow the Fund to meet present or expected future demands.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?><Emphasis>The trustees may surrender to the Treasury amounts which in the trustees’ opinion—</Emphasis></Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?><Emphasis>are attributable to sums paid to the Fund under subsection (1), and</Emphasis></Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?><Emphasis>are not required in order to allow the Fund to meet present or expected future <?new-line?>demands.</Emphasis></Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?><Emphasis>Payments under subsection (1) shall be paid out of money provided by Parliament.</Emphasis></Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?><Emphasis>Payments under subsection (4) shall be paid into the Consolidated Fund.</Emphasis></Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>The Treasury may by order amend the sum specified in subsection (2); and an <?new-line?>order—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>shall be made by statutory instrument, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>shall be subject to annulment in pursuance of a resolution of the House <?new-line?>of Commons.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<?new-page?><P1group id="p00019">
+<Title><?start-line?>Tax</Title>
+<P1>
+<Pnumber>8</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In section 620 of the Income Tax (Earnings and Pensions) Act 2003 (meaning of <?new-line?>“House of Commons Members’ Fund” for “established by section 1 of the <?new-line?>House of Commons Members’ Fund Act <Citation id="c00101" Class="UnitedKingdomPublicGeneralAct" Year="1939" Number="0049">1939 (c.49)</Citation>” substitute “specified in <?new-line?>section 1 of the House of Commons Members’ Fund Act 2013”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In section 613 of the Income and Corporation Taxes Act 1988 (parliamentary <?new-line?>pension funds)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in subsection (1) for “amounts deducted in pursuance of section 1 of the <?new-line?>House of Commons Members’ Fund Act 1939” substitute “amounts <?new-line?>deducted in pursuance of section 4 of the House of Commons <?new-line?>Members’ Fund Act 2013”;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>omit subsection (2); and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>in subsection (4)(a) for “established under section 1 of the House of that <?new-line?>Act of 1939” substitute “specified in section 1 of the 2013 Act”.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00020">
+<Title><?start-line?>Repeals and transitional provision</Title>
+<P1>
+<Pnumber>9</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The following enactments are repealed—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the House of Commons Members’ Fund Act 1939;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the House of Commons Members’ Fund Act 1948;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>the House of Commons Members’ Fund Act 1957;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>the House of Commons Members’ Fund Act 1962;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>the House of Commons Members’ Fund and Parliamentary Pensions <?new-line?>Act 1981;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>f</Pnumber>
+<P3para>
+<Text><?start-line?>section 12 of the Parliamentary Pensions etc. Act 1984; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>g</Pnumber>
+<P3para>
+<Text><?start-line?>section 7 of the Ministerial and other Pensions and Salaries Act 1991.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The reference in section 7(4)(a) to sums paid under section 7(1) includes a <?new-line?>reference to sums paid under section 1 of the House of Commons Members’ <?new-line?>Fund Act 1957.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00021">
+<Title><?start-line?>Technical provision</Title>
+<P1>
+<Pnumber>10</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Act comes into force at the end of the period of two months beginning <?new-line?>with the date of Royal Assent.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>This Act extends to the United Kingdom.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>This Act may be cited as the House of Commons Members’ Fund Act 2013.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Body>
+<?new-page?>
+<Schedules>
+<Schedule id="p00022" NumberFormat="default">
+<Number><?start-line?>Schedule</Number>
+<TitleBlock>
+<Title><?start-line?>Trustees’ powers and proceedings</Title>
+</TitleBlock>
+<Reference>Section 2(7)</Reference>
+<ScheduleBody>
+<P1group>
+<Title><?start-line?>Property</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<Text><?start-line?>The trustees may accept gifts or bequests.</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<Text><?start-line?>The trustees may employ staff and incur any other expenses that they think <?new-line?>necessary or expedient.</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<Text><?start-line?>The trustees’ expenses shall be met from the Fund.</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<Text><?start-line?>The trustees may invest money forming part of the Fund as they think fit.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Procedure</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The trustees may act by a majority of those present at a meeting.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The quorum at a meeting of the trustees shall be 3.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In other respects the trustees shall determine their own procedure.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Confidentiality</Title>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<Text><?start-line?>The trustees must make arrangements to keep confidential the identity of <?new-line?>recipients of grants from the Fund.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Indemnity</Title>
+<P1>
+<Pnumber>7</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Each trustee and former trustee shall be indemnified out of the Fund against <?new-line?>any action, claim, cost, losses, damages and expenses arising out of anything <?new-line?>done or omitted to be done by the trustee in the performance or purported <?new-line?>performance of the trustee’s functions.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>This subsection shall not apply to acts or omissions that are dishonest, in bad <?new-line?>faith or reckless (and the Fund may not be used to buy insurance for such <?new-line?>cases).</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Accounts and reports</Title>
+<P1>
+<Pnumber>8</Pnumber>
+<P1para>
+<Text><?start-line?>The trustees shall make such arrangement for the maintenance and <?new-line?>publication of accounts as they think proper (which may include <?new-line?>examination by the Comptroller and Auditor-General and laying before the <?new-line?>House of Commons).</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>9</Pnumber>
+<P1para>
+<Text><?start-line?>The trustees may ask the Government Actuary to report to the trustees on <?new-line?>the position of the Fund; and the trustees shall make such arrangements for <?new-line?>the publication of reports as they think proper (which may include laying <?new-line?>before the House of Commons).</Text>
+</P1para>
+</P1>
+</P1group>
+</ScheduleBody>
+</Schedule>
+</Schedules>
+</Primary>
+</Legislation>

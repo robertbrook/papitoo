@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>Access to Mental Health Services Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>10/1/2014</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 106" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="3" />
+<ukm:House Value="House of Commons" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsItem ContentRef="p00009">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Waiting times</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00010">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>Duty to make arrangements to provide an appointment with a specialist for <?new-line?>those patients urgently referred for treatment for mental health conditions</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00011">
+<ContentsNumber>3</ContentsNumber>
+<ContentsTitle>Eligible referrers</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00012">
+<ContentsNumber>4</ContentsNumber>
+<ContentsTitle>Access to psychological therapies</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00013">
+<ContentsNumber>5</ContentsNumber>
+<ContentsTitle>Orders and regulations</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00014">
+<ContentsNumber>6</ContentsNumber>
+<ContentsTitle>Interpretation</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00015">
+<ContentsNumber>7</ContentsNumber>
+<ContentsTitle>Financial provision</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00016">
+<ContentsNumber>8</ContentsNumber>
+<ContentsTitle>Short title, commencement and extent</ContentsTitle>
+</ContentsItem>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Provide for establishing maximum waiting times and establishing standards <?new-line?>for access to evidence-based psychological therapies for those with mental <?new-line?>health problems; and for connected purposes;<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<P1group id="p00009">
+<Title><?start-line?>Waiting times</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<Text><?start-line?>The Secretary of State must by regulations made pursuant to section 6E <?new-line?>(regulations as to the exercise of functions by the Board or clinical <?new-line?>commissioning groups) of the National Health Service Act 2006 provide for the <?new-line?>term “treatment” in Part 9 of the National Health Service Commissioning <?new-line?>Board and Clinical Commissioning Groups (Responsibilities and Standing <?new-line?>Rules) Regulations 2012 (<Citation id="c00101" Class="UnitedKingdomStatutoryInstrument" Year="2012" Number="2996">S.I. 2012/2996</Citation>) to be amended to include <?new-line?>psychological therapies.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00010">
+<Title><?start-line?>Duty to make arrangements to provide an appointment with a specialist for <?new-line?>those patients urgently referred for treatment for mental health conditions</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State must by regulations made pursuant to section 6E <?new-line?>(regulations as to the exercise of functions by the Board or clinical <?new-line?>commissioning groups) of the National Health Service Act 2006 amend Part 9 <?new-line?>of the National Health Service Commissioning Board and Clinical <?new-line?>Commissioning Groups (Responsibilities and Standing Rules) Regulations <?new-line?>2012 (<Citation id="c00102" Class="UnitedKingdomStatutoryInstrument" Year="2012" Number="2996">S.I. 2012/2996</Citation>) to provide for a duty to make arrangements to provide an <?new-line?>appointment with a specialist for those patients urgently referred for treatment <?new-line?>for mental health conditions.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The duty referred to in subsection (1) must include a requirement that at the <?new-line?>end of each data collection period, treatment for the urgently referred mental <?new-line?>health condition has commenced within the period of 28 days beginning with <?new-line?>the start date in not less than 93% of cases where that treatment is provided in <?new-line?>that data collection period.</Text>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State may within the amendment provided for in subsection <?new-line?>(1) above specify the mental health conditions to which the duty shall apply.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State may within the amendment provided for in subsection <?new-line?>(1) above provide for a duty to offer an alternative provider for treatment for <?new-line?>mental health conditions where the period of time specified in subsection (2) <?new-line?>above has not or will not be met.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00011">
+<Title><?start-line?>Eligible referrers</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<Text><?start-line?>The Secretary of State must by regulations made pursuant to section 6E <?new-line?>(regulations as to the exercise of functions by the Board or clinical <?new-line?>commissioning groups) of the National Health Service Act 2006 provide for the <?new-line?>term “eligible referrer” in Part 9 of the National Health Service Commissioning <?new-line?>Board and Clinical Commissioning Groups (Responsibilities and Standing <?new-line?>Rules) Regulations 2012 (<Citation id="c00103" Class="UnitedKingdomStatutoryInstrument" Year="2012" Number="2996">S.I. 2012/2996</Citation>) to be amended to include a <?new-line?>psychologist, community psychiatric nurse or social worker.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00012">
+<Title><?start-line?>Access to psychological therapies</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<Text><?start-line?>The Secretary of State must by regulations made pursuant to section 237 <?new-line?>(Standing Rules: Waiting Times) of the Health and Social Care Act 2012 <?new-line?>provide for the term “health technology” in regulation 2 of the National <?new-line?>Institute for Health and Care Excellence (Constitution and Functions) and the <?new-line?>Health and Social Care Information Centre (Functions) Regulations 2013 (S.I. <?new-line?>2013/259) to be amended to include psychological therapies.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00013">
+<Title><?start-line?>Orders and regulations</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Any power to make an order or regulations under this Act is exercisable by <?new-line?>statutory instrument.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>A statutory instrument containing an order or regulations under this Act may <?new-line?>not be made unless a draft of the instrument has been laid before and approved <?new-line?>by a resolution of each House of Parliament.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00014">
+<Title><?start-line?>Interpretation</Title>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In this Act “evidence-based psychological therapies” means such <?new-line?>psychological therapies as the Secretary of State may by order define.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State must in consultation with the National Institute for <?new-line?>Health and Care Excellence keep and maintain a list of providers of evidence-<?new-line?>based psychological therapies.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00015">
+<Title><?start-line?>Financial provision</Title>
+<P1>
+<Pnumber>7</Pnumber>
+<P1para>
+<Text><?start-line?><Emphasis>There is to be paid out of money provided by Parliament—</Emphasis></Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?><Emphasis>any expenditure incurred under or by virtue of this Act by the Secretary of <?new-line?>State, and</Emphasis></Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?><Emphasis>any increase attributable to this Act in the sums payable under any other Act <?new-line?>out of money so provided.</Emphasis></Text>
+</P3para>
+</P3>
+</P1para>
+</P1>
+</P1group>
+<?new-page?><P1group id="p00016">
+<Title><?start-line?>Short title, commencement and extent</Title>
+<P1>
+<Pnumber>8</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Act may be cited as the Access to Mental Health Services Act 2014.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>This Act comes into force at the end of the period of two months beginning <?new-line?>with the day on which it is passed.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>This Act extends to England and Wales only.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Body>
+</Primary>
+</Legislation>

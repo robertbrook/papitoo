@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>United Kingdom Corporate and Individual Tax and Financial Transparency Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>23/7/2013</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 29" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="3" />
+<ukm:House Value="House of Commons" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsItem ContentRef="p00014">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Disclosure of financial information by large companies</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00015">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>Disclosure of taxation information by selected large companies</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00016">
+<ContentsNumber>3</ContentsNumber>
+<ContentsTitle>Disclosure of tax returns of selected individuals</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00017">
+<ContentsNumber>4</ContentsNumber>
+<ContentsTitle>Disclosure of beneficial ownership of companies</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00018">
+<ContentsNumber>5</ContentsNumber>
+<ContentsTitle>Duty of United Kingdom financial institutions to report</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00019">
+<ContentsNumber>6</ContentsNumber>
+<ContentsTitle>Duty of Companies House relating to beneficial ownership information</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00020">
+<ContentsNumber>7</ContentsNumber>
+<ContentsTitle>Duty of Companies House not to dissolve companies</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00021">
+<ContentsNumber>8</ContentsNumber>
+<ContentsTitle>Duties of HM Revenue &amp; Customs to request tax returns</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00022">
+<ContentsNumber>9</ContentsNumber>
+<ContentsTitle>Obligations of the Crown Dependencies and British Overseas Territories</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00023">
+<ContentsNumber>10</ContentsNumber>
+<ContentsTitle>Disclosure of trust information to HM Revenue &amp; Customs</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00024">
+<ContentsNumber>11</ContentsNumber>
+<ContentsTitle>Interpretation</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00025">
+<ContentsNumber>12</ContentsNumber>
+<ContentsTitle>Financial provisions</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00026">
+<ContentsNumber>13</ContentsNumber>
+<ContentsTitle>Short title, commencement and extent</ContentsTitle>
+</ContentsItem>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Require disclosure of various financial information by large companies; to <?new-line?>provide for disclosure of beneficial ownership; to require banks to disclose to <?new-line?>Her Majesty’s Revenue and Customs the identity of certain companies <?new-line?>holding bank accounts; to require the publication of the tax returns of <?new-line?>individuals with an income of more than a certain level and the largest two <?new-line?>hundred and fifty UK companies; and for connected purposes.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<P1group id="p00014">
+<Title><?start-line?>Disclosure of financial information by large companies</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<Text><?start-line?>After section 409 of the Companies Act 2006, add—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?> Disclosure of financial information by large companies</Title>
+<P1>
+<Pnumber>409A</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Section 409(3) shall not apply to a large company.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>A large company shall in addition to the information required by <?new-line?>section 409 provide the following additional information with regard to <?new-line?>each of its related undertakings—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the registered name;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>jurisdiction of incorporation;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>company number;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>jurisdictions in which it trades;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>the trading name it uses in each jurisdiction if different from its <?new-line?>registered name;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>f</Pnumber>
+<P3para>
+<Text><?start-line?>the precise nature of its trade, sufficiently described to ensure <?new-line?>its activities can be accurately identified;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>g</Pnumber>
+<P3para>
+<Text><?start-line?>the percentage of the related undertaking controlled by the <?new-line?>company</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>h</Pnumber>
+<P3para>
+<Text><?start-line?>a statement of the turnover, net profit before tax, current <?new-line?>taxation liability owing, number of employees and their total <?new-line?>employment cost and the net assets of the related entity for the </Text><?new-page?><?start-line?>  <Text>period for which the company is reporting whether such data <?new-line?>be audited or otherwise; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>i</Pnumber>
+<P3para>
+<Text><?start-line?>the web address where the most recent financial statements of <?new-line?>the related undertaking prepared in accordance with <?new-line?>accounting principles consistent with those used by the <?new-line?>company are available for public inspection without charge in a <?new-line?>readily accessible format.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>If the information required by subsection (2)(i) is not available for any <?new-line?>related undertaking then the large company shall publish the relevant <?new-line?>financial statements for all its related undertakings on its own web site <?new-line?>and make that information available to any person seeking it without <?new-line?>charge in a readily accessible format.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>In this section, “large company” means a company that is neither a <?new-line?>medium sized company as defined by section 465 of the Companies Act <?new-line?>2006 or a small company as defined by section 381 of the Companies <?new-line?>Act 2006.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00015">
+<Title><?start-line?>Disclosure of taxation information by selected large companies</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This section shall apply to the following companies which shall be referred to <?new-line?>as disclosable companies—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>all constituent members of the FTSE 100 within any year ending 31 <?new-line?>March and those UK tax resident companies that are their related <?new-line?>undertakings;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>those 50 large companies, not being members of the FTSE 100, that <?new-line?>have, when arithmetically combined with their UK resident related <?new-line?>undertakings, the largest by value UK taxable profits before the offset <?new-line?>of all tax allowances and reliefs of any sort whatsoever in a year ended <?new-line?>31 March;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>those 50 large companies, not being members of the FTSE 100 or having <?new-line?>been included in the category defined by paragraph (b) above, that <?new-line?>have when arithmetically combined with their related undertakings, <?new-line?>whether UK resident or not, the largest value of supplies in the United <?new-line?>Kingdom, whether chargeable or exempt, for the purposes of value <?new-line?>added tax in a year ended 31 March;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>those 50 large companies, not being members of the FTSE 100 or having <?new-line?>been included in the categories defined by paragraphs (b) and (c) above <?new-line?>that have, when arithmetically combined with their UK resident related <?new-line?>undertakings, the largest liability to make payment of income tax and <?new-line?>national insurance contributions in respect of deductions made from <?new-line?>employee income under Pay As You Earn regulations in a year ended <?new-line?>31 March.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?new-line?>HM Revenue &amp; Customs shall publish on its web site in XBRL format on 31 <?new-line?>December each year the corporation tax return of any disclosable company <?new-line?>received in the twelve month period to 31 March ending in that same calendar <?new-line?>year or shall state that no such return has been received and what action is <?new-line?>being taken to remedy that defect.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State must lay regulations to give effect to these requirements <?new-line?>within 6 months of the passing of this Act, including those penalties that shall <?new-line?>apply for failure to notify. The regulations must be in the form of a statutory </Text><?new-page?><?start-line?>  <Text>instrument and may not be made unless a draft of the statutory instrument has <?new-line?>been laid before, and approved by a resolution of, each House of Parliament.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00016">
+<Title><?start-line?>Disclosure of tax returns of selected individuals</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>HM Revenue &amp; Customs shall, no later than 1 March each year arithmetically <?new-line?>combine for each tax payer who has submitted a tax return by 31 January in <?new-line?>that year in respect of the tax year to the previous 5 April the taxable income of <?new-line?>all sorts after the offset of any trading expenses if appropriate and the capital <?new-line?>gains after the offset of the cost of acquisition of assets disposed but in each <?new-line?>case before the offset of any further allowances and reliefs and then rank the <?new-line?>resulting total figure for income and gains shown on those tax returns in <?new-line?>descending order of magnitude.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>HM Revenue &amp; Customs shall publish no later than 15 March in each year the <?new-line?>250 tax returns for the previous tax year ended 5 April that ranked highest on <?new-line?>the listing produced in accordance with the provisions of subsection (1).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The tax returns to be published in accordance with the provisions of subsection <?new-line?>(2) shall not be anonymised.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>If a person submits a tax return after 31 January in a year that relates to the tax <?new-line?>year to the previous 5 April and that tax return would have been included in <?new-line?>the ranking referred to in subsection (1) then HM Revenue &amp; Customs will <?new-line?>publish that tax return in accordance with the provisions of this Act not later <?new-line?>than 4 weeks after its date of receipt but shall not withdraw from publication <?new-line?>any tax return already published as a result.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State must lay regulations to give effect to these requirements <?new-line?>within 6 months of the passing of this Act, including those penalties that shall <?new-line?>apply for failure to notify. The regulations must be in the form of a statutory <?new-line?>instrument and may not be made unless a draft of the statutory instrument has <?new-line?>been laid before, and approved by a resolution of, each House of Parliament.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00017">
+<Title><?start-line?>Disclosure of beneficial ownership of companies</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In section 113 of the Companies Act 2006, after subsection (2) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>2A</Pnumber>
+<P2para>
+<Text><?start-line?>The company shall undertake those actions required by Regulation 5 of <?new-line?>the Money Laundering Regulations 2007 (S.I. 2007, No. 2157) to <?new-line?>positively identify those persons who are beneficial owners of the <?new-line?>shares that it issues and if it does become aware as a result that the <?new-line?>person who is recorded as the owner of a share is not the same as the <?new-line?>person who has beneficial ownership of that share as defined by those <?new-line?>Regulations then it shall in addition to recording the name of the <?new-line?>recorded owner of the share also record the name, date of birth and <?new-line?>nationality of the beneficial owner that it has identified and the means <?new-line?>by which that beneficial owner exercises their control of the share <?new-line?>including the identity of any intermediate companies, trusts or other <?new-line?>arrangements that act as agents, nominees or alternates on the <?new-line?>beneficial owners behalf and under their instruction, whether direct or <?new-line?>implicit.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Regulation 6 of the Money Laundering Regulations 2007 shall be amended so <?new-line?>that on each occasion when 25% is referred to 10% shall be substituted in its <?new-line?>place.</Text>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In section 856A of the Companies Act 2006—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>after subsection (2) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>2A</Pnumber>
+<P2para>
+<Text><?start-line?>The return must state where the person named as the owner of <?new-line?>share recorded in subsection (2) differs from that of the person <?new-line?>named as the beneficial owner of that share as identified <?new-line?>pursuant to the requirements of section 113(2A) of the <?new-line?>Companies Act 2006 and must where such statement is made <?new-line?>also name that person who is the beneficial owner of the share <?new-line?>in question and state their date of birth and nationality and how <?new-line?>that beneficial owner exercises their control of the share in <?new-line?>question as recorded by the company pursuant to its obligations <?new-line?>under section 113(2A) of the Companies Act 2006.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>after paragraph (b) of subsection (4) add—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>The information to be supplied under the provisions of <?new-line?>this section shall be delivered in machine readable <?new-line?>electronic format.</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>In section 856B of the Companies Act 2006—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>after subsection (3) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>3A</Pnumber>
+<P2para>
+<Text><?start-line?>The return must state where the person named as the owner of <?new-line?>share recorded in section (3) differs from that of the person <?new-line?>named as the beneficial owner of that share as identified <?new-line?>pursuant to the requirements of section 113(2A) of the <?new-line?>Companies Act 2006 and must where such statement is made <?new-line?>also name that person who is the beneficial owner of the share <?new-line?>in question and state their date of birth and nationality and how <?new-line?>that beneficial owner exercises their control of the share in <?new-line?>question as recorded by the company pursuant to its obligations <?new-line?>under section 113 (2A) of the Companies Act 2006.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>after paragraph (b) of subsection (4) add—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>The information to be supplied under the provisions of <?new-line?>this section shall be delivered in machine readable <?new-line?>electronic format.</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State must lay regulations to give effect to these requirements <?new-line?>within 6 months of the passing of this Act, including those penalties that shall <?new-line?>apply for failure to notify. The regulations must be in the form of a statutory <?new-line?>instrument and may not be made unless a draft of the statutory instrument has <?new-line?>been laid before, and approved by a resolution of, each House of Parliament.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00018">
+<Title><?start-line?>Duty of United Kingdom financial institutions to report</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>United Kingdom financial institutions must notify Her Majesty’s Revenue and <?new-line?>Customs and Companies House that they have opened or closed an account in <?new-line?>the United Kingdom for a company within thirty days of that account being <?new-line?>opened or closed stating—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the name and registered number of the company;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the address at which they correspond with that company;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>the names and full addresses, dates of birth and nationalities of those <?new-line?>persons who they have accepted as having authority to take action with <?new-line?>regard to the account;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>the names and addresses, dates of birth and nationalities of those <?new-line?>persons who they have identified as the beneficial owners of the </Text><?new-page?><?start-line?>  <Text>company in question as required by Regulation 5 of the Money <?new-line?>Laundering Regulations 2007;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>the number of the account that they have opened; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>f</Pnumber>
+<P3para>
+<Text><?start-line?>the numbers of any other accounts that they maintain for the company.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>If a United Kingdom financial institution shall become aware that any of the <?new-line?>matters referred to in subsection (1) shall have changed then they shall notify <?new-line?>HM Revenue &amp; Customs and Companies House within 30 days of their having <?new-line?>become aware of such change.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State must lay regulations to give effect to this requirement <?new-line?>within 6 months of the passing of this Act, including those penalties that shall <?new-line?>apply for failure to notify. The regulations must be in the form of a statutory <?new-line?>instrument and may not be made unless a draft of the statutory instrument has <?new-line?>been laid before, and approved by a resolution of, each House of Parliament.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00019">
+<Title><?start-line?>Duty of Companies House relating to beneficial ownership information</Title>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Companies House must publish for each company that information required <?new-line?>to be supplied under section 5(1)(a), (b), (c) and (d) of this Act by a United <?new-line?>Kingdom financial institution.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>If Companies House cannot secure information that they are entitled to receive <?new-line?>for any reason from any company within ninety days of that information being <?new-line?>due for submission then they may request the information in question from <?new-line?>any person named under section (5)(1)(c) and (d) of this Act.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>If information requested using the provisions of section 6(2) of this Act has not <?new-line?>been supplied to Companies House within 30 days of any request having been <?new-line?>made then Companies House shall advise the directors and beneficial owners <?new-line?>of the company that they have become personally liable for the debts of the <?new-line?>company until such information is supplied in the form requested and shall <?new-line?>place notice to this effect on public record.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00020">
+<Title><?start-line?>Duty of Companies House not to dissolve companies</Title>
+<P1>
+<Pnumber>7</Pnumber>
+<P1para>
+<Text><?start-line?>Companies House must not dissolve any company on the Register of <?new-line?>Companies under either section 1000 or section 1003 of the Companies Act <?new-line?>2006 if that company has—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>an account with a United Kingdom financial institution that the <?new-line?>financial institution in question has not notified has been closed;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>closed all its accounts with United Kingdom financial institutions but <?new-line?>failed to deliver accounts to Companies House covering any period <?new-line?>when such accounts were open;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>not supplied information required by Companies House in respect of <?new-line?>which a notice under section 6(2) of this Act has been issued.</Text>
+</P3para>
+</P3>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00021">
+<Title><?start-line?>Duties of HM Revenue &amp; Customs to request tax returns</Title>
+<P1>
+<Pnumber>8</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Her Majesty’s Revenue and Customs must issue a request for a tax return to <?new-line?>any company that it has been advised has maintained an account with a United <?new-line?>Kingdom financial institution during the course of any period of account <?new-line?>notified by that company or, in the absence of such notification, for any year <?new-line?>ending on 5 April.</Text>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>If Her Majesty’s Revenue and Customs cannot secure information that they are <?new-line?>entitled to receive for any reason from any company within ninety days of that <?new-line?>information being due for submission then they may request the information <?new-line?>in question from any person named under section 5(1)(c) and (d) of this Act.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>If information requested by HM Revenue &amp; Customs under subsection (2) has <?new-line?>not been received within 30 days of any such request having been made then—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>HM Revenue &amp; Customs may request copies of the all the banking <?new-line?>records of the company for any periods they consider appropriate from <?new-line?>the United Kingdom financial institution that has advised that it has <?new-line?>maintained an account on its behalf;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>HM Revenue &amp; Customs shall be entitled to use the information <?new-line?>obtained under paragraph (a) to raise such assessments to taxation of <?new-line?>any type they consider might be due with such sums owing being the <?new-line?>joint and several personal liability of the persons identified under <?new-line?>section 5(1)(c) and (d) of this Act.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State must lay regulations to give effect to this requirement <?new-line?>within 6 months of the passing of this Act, including those penalties that shall <?new-line?>apply for failure to notify. The regulations must be in the form of a statutory <?new-line?>instrument and may not be made unless a draft of the statutory instrument has <?new-line?>been laid before, and approved by a resolution of, each House of Parliament.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00022">
+<Title><?start-line?>Obligations of the Crown Dependencies and British Overseas Territories</Title>
+<P1>
+<Pnumber>9</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The provisions of section 4(1) of this Act shall be extended by way of an Order <?new-line?>In Council to any entity incorporated under statute law in the Crown <?new-line?>Dependencies and British Overseas Territories in such form as shall be <?new-line?>appropriate for the relevant jurisdiction.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>It shall be required by way of an Order in Council that any entity incorporated <?new-line?>under statute law in the Crown Dependencies and British Overseas Territories <?new-line?>that shall identify that it has a beneficial owner resident outside the jurisdiction <?new-line?>where it is incorporated shall advise the money laundering authority in that <?new-line?>jurisdiction of that fact and shall advise that authority of—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the name and registered number of the entity that is reporting;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the address at which that entity trades;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>the names and full addresses, dates of birth and nationalities of those <?new-line?>persons who act as officers of the entity;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>the names and addresses, dates of birth and nationalities of those <?new-line?>persons who they have identified as the beneficial owners of the entity <?new-line?>in accordance with regulation that matches the requirements of <?new-line?>Regulation 5 of the Money Laundering Regulations 2007;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>the name and address of any bank at which the entity maintains an <?new-line?>account and the account number.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The money laundering authority of the Crown Dependency or British <?new-line?>Overseas Territory to which information has been supplied as a result of the <?new-line?>requirements of subsection (2) of this Act shall be required by way of Order in <?new-line?>Council to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>publish the information supplied under subsection (2)(a), (b), (c) and <?new-line?>(d) on a freely accessible web based database for which no charge for <?new-line?>access is made to any person making enquiry;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>require that the entity for which information has been published as a <?new-line?>result of the provisions of paragraph (a) publish its annual accounts, </Text><?new-page?><?start-line?>  <Text>whether audited or unaudited, on the same public accessible database <?new-line?>that is used for the purposes of publishing information under <?new-line?>paragraph (a);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>advise HM Revenue &amp; Customs that an entry has been made on the <?new-line?>database referred to in paragraph (a) if that entry relates to a person <?new-line?>resident in the United Kingdom.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State must lay regulations to give effect to these requirements <?new-line?>within 6 months of the passing of this Act to be enacted in each case by an <?new-line?>Order in Council.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00023">
+<Title><?start-line?>Disclosure of trust information to HM Revenue &amp; Customs</Title>
+<P1>
+<Pnumber>10</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This section applies to any trust that is considered to be resident in the United <?new-line?>Kingdom irrespective of the legal system under which that trust was <?new-line?>established and shall apply irrespective of the law that the trust deed (if any) <?new-line?>states shall apply to the trust.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>No UK trust shall be considered to have legal effect unless registered with HM <?new-line?>Revenue &amp; Customs in a form that they shall determine requiring, at a <?new-line?>minimum, that the following information with regard to the trust be made <?new-line?>available—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the name of the trust;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the date of its settlement;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>its trust deed, if any;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>any letter of wishes issued to the trustees or other document giving <?new-line?>indication to the trustees as to the manner in which they are to use their <?new-line?>discretion;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>the names, dates of birth, nationalities and addresses of the settlers <?new-line?>unless such settlement shall have taken place before 1 January 1950;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>f</Pnumber>
+<P3para>
+<Text><?start-line?>the names, dates of birth, nationalities and addresses of the trustees;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>g</Pnumber>
+<P3para>
+<Text><?start-line?>the names, dates of birth, nationalities and addresses of any identifiable <?new-line?>beneficiaries of the trust in the previous five years;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>h</Pnumber>
+<P3para>
+<Text><?start-line?>the annual accounts and report of the trust.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The trustees of any UK trust shall be responsible for ensuring that they have <?new-line?>identified the persons whose identity they shall notify pursuant to subsection <?new-line?>(2) above in accordance with the requirements of Regulation 5 of the Money <?new-line?>Laundering Regulations 2007.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The property of an unregistered UK trust, which shall be for these purposes a <?new-line?>trust that shall be more than 90 days late in supplying any of the information <?new-line?>due to HM Revenue &amp; Customs pursuant to subsection (2) above shall be <?new-line?>considered to be <Emphasis>bona vacantia</Emphasis> and all income arising to it shall be the property <?new-line?>of the Crown until such time as registration in the form required by subsection <?new-line?>(2) is made and any penalty for late registration has been paid.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>HM Revenue &amp; Customs shall maintain the information supplied to it in a <?new-line?>register that shall be kept up to date by it at all times.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>HM Revenue &amp; Customs shall publish information supplied to it pursuant to <?new-line?>subsection (2) above if that information suggests that the UK trust controls any <?new-line?>company, in which case the company or companies so controlled shall be <?new-line?>identified, or if—</Text>
+<?new-page?><P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the total assets of the trust before deducting liabilities exceeded £5 <?new-line?>million at any time in the five years previous to publication; or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the income of the trust before the deduction of expenses or <?new-line?>distributions made exceeded £2.5 million in the five years previous to <?new-line?>publication.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State must lay regulations to give effect to this requirement <?new-line?>within 6 months of the passing of this Act, including those penalties that shall <?new-line?>apply for failure to notify. The regulations must be in the form of a statutory <?new-line?>instrument and may not be made unless a draft of the statutory instrument has <?new-line?>been laid before, and approved by a resolution of, each House of Parliament.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00024">
+<Title><?start-line?>Interpretation</Title>
+<P1>
+<Pnumber>11</Pnumber>
+<P1para>
+<Text><?start-line?>In this Act—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“British Overseas Territories” means for these purposes Anguilla, <?new-line?>Bermuda, the British Virgin Islands (BVI), the Cayman Islands, <?new-line?>Gibraltar, Montserrat and the Turks and Caicos Islands and not as <?new-line?>defined by the British Overseas Territories Act 2002;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“company” is defined as any entity referred to in section 1 of the <?new-line?>Companies Act 2006 and any entity incorporated under the Limited <?new-line?>Liability Partnerships Act 2000;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“Companies House” means the Executive Agency of the Department for <?new-line?>Business, Innovation and Skills managed by the Registrar of <?new-line?>Companies as defined by section 1060 of the Companies Act 2006;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“Crown Dependencies” means Guernsey, Jersey and the Isle of Man;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“financial institution” has the meaning set out in section 182 of the <?new-line?>Banking Act 2009;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“HMRC” means Her Majesty’s Revenue and Customs;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“related undertaking” is as defined for the purposes of section 409, <?new-line?>Companies Act 2006;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“UK trust” means a trust considered to be resident in the United Kingdom <?new-line?>irrespective of the legal system under which that trust was established <?new-line?>and irrespective of the law that the trust deed (if any) states shall apply <?new-line?>to the trust;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“XBRL” means eXtensible Business Reporting Language, which is a <?new-line?>standard to facilitate the creation, distribution and re-use of business <?new-line?>reports.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00025">
+<Title><?start-line?>Financial provisions</Title>
+<P1>
+<Pnumber>12</Pnumber>
+<P1para>
+<Text><?start-line?><Emphasis>There shall be paid out of money provided by Parliament—</Emphasis></Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?><Emphasis>any expenditure incurred under or by virtue of this Act by a Minister of the <?new-line?>Crown or a government department, and</Emphasis></Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?><Emphasis>any increase attributable to this Act in the sums payable under any other Act <?new-line?>out of money so provided.</Emphasis></Text>
+</P3para>
+</P3>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00026">
+<Title><?start-line?>Short title, commencement and extent</Title>
+<P1>
+<Pnumber>13</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Act may be cited as the UK Corporate and Individual Financial <?new-line?>Transparency Act 2013.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>This Act comes into force on the day on which this Act is passed.</Text>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>This Act extends to England and Wales, Scotland, Northern Ireland, the Crown <?new-line?>Dependencies and British Overseas Territories as defined in this Act.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Body>
+</Primary>
+</Legislation>

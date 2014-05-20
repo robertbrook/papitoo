@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>Littering from Vehicles Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>10/5/2013</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 8" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="3" />
+<ukm:House Value="House of Lords" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsPart>
+<ContentsNumber>Part 1</ContentsNumber>
+<ContentsTitle>Littering from vehicles</ContentsTitle>
+<ContentsItem ContentRef="p00008">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Civil penalty for littering from vehicles</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00011">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>Identification of registered keeper</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00012">
+<ContentsNumber>3</ContentsNumber>
+<ContentsTitle>Civil enforcement officers</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00013">
+<ContentsNumber>4</ContentsNumber>
+<ContentsTitle>Definition of a vehicle</ContentsTitle>
+</ContentsItem>
+</ContentsPart>
+<ContentsPart>
+<ContentsNumber>Part 2</ContentsNumber>
+<ContentsTitle>Publication of contracts</ContentsTitle>
+<ContentsItem ContentRef="p00014">
+<ContentsNumber>5</ContentsNumber>
+<ContentsTitle>Publication of contracts relating to litter collection</ContentsTitle>
+</ContentsItem>
+</ContentsPart>
+<ContentsPart>
+<ContentsNumber>Part 3</ContentsNumber>
+<ContentsTitle>Miscellaneous</ContentsTitle>
+<ContentsItem ContentRef="p00015">
+<ContentsNumber>6</ContentsNumber>
+<ContentsTitle>Definition of a responsible authority</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00016">
+<ContentsNumber>7</ContentsNumber>
+<ContentsTitle>Commencement, short title and extent</ContentsTitle>
+</ContentsItem>
+</ContentsPart>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Introduce a civil penalty for littering from vehicles and to require local <?new-line?>authorities to publish details of contracts relating to litter clearance.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<Part>
+<Number><?start-line?>Part 1</Number>
+<Title><?start-line?>Littering from vehicles</Title>
+<P1group id="p00008">
+<Title><?start-line?>Civil penalty for littering from vehicles</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<P2 id="p00009">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>A littering contravention in relation to a vehicle occurs when a person inside <?new-line?>the vehicle acts in contravention of section 87 of the Environmental Protection <?new-line?>Act 1990 (offence of leaving litter).</Text>
+</P2para>
+</P2>
+<P2 id="p00010">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>A civil enforcement officer may impose a civil penalty if a littering <?new-line?>contravention under subsection <InternalLink id="i00001" Ref="p00009">(1)</InternalLink> has taken place.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The registered keeper of the vehicle shall for the purposes of section 87 of the <?new-line?>Environmental Protection Act 1990 be treated as knowingly causing the <?new-line?>littering contravention whether or not he gave any instructions for this to be <?new-line?>done and shall be the recipient for a civil penalty under subsection <InternalLink id="i00002" Ref="p00010">(2)</InternalLink>.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>A civil penalty is not payable under this section by the owner of a vehicle if that <?new-line?>vehicle is—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>a public service vehicle, within the meaning of the Public Passenger <?new-line?>Vehicles Act 1981;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>a hackney carriage licensed under the Town Police Clauses Act 1847 or <?new-line?>the Metropolitan Public Carriage Act 1869;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>a vehicle licensed under section 48 of the Local Government <?new-line?>(Miscellaneous Provisions) Act 1976 (licensing of private hire vehicles);</Text>
+</P3para>
+</P3>
+<Text><?start-line?>and the person acting in contravention under this section is a passenger in that <?new-line?>vehicle.</Text>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>The amount of a civil penalty under subsection (2) is to be specified in <?new-line?>regulations.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>The procedure for imposing a civil penalty on a person and for recovery of <?new-line?>costs is to be set out in regulations.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>The regulations must, in particular, require the responsible authority to give <?new-line?>the person written notice specifying—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the amount of the penalty,</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the reasons for imposing it, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>the date by which and manner in which it is to be paid.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>8</Pnumber>
+<P2para>
+<Text><?start-line?>Regulations may—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>give a person on whom a civil penalty is imposed a right to appeal <?new-line?>against the decision to an adjudicator;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>specify the grounds on which a person may request an appeal;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>specify the time within which a person must request an appeal;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>make provision for and in connection with the appointment of <?new-line?>adjudicators;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>make further provision about appeals (including provision as to the <?new-line?>powers available on an appeal).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00011">
+<Title><?start-line?>Identification of registered keeper</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<Text><?start-line?>The registered keeper of the vehicle for the purposes of section 1 shall be taken <?new-line?>to be the person in whose name the vehicle was registered under the Vehicle <?new-line?>Excise and Registration Act 1994 at the time of the contravention.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00012">
+<Title><?start-line?>Civil enforcement officers</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<Text><?start-line?>A civil enforcement officer under section 1 must be—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>an individual employed by the responsible authority, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>where the authority has made arrangements with any person for the <?new-line?>purposes of this section, an individual employed by that person to act <?new-line?>as a civil enforcement officer.</Text>
+</P3para>
+</P3>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00013">
+<Title><?start-line?>Definition of a vehicle</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<Text><?start-line?>A vehicle for the purposes of this Act is a a motor vehicle as defined in section <?new-line?>185(1) of the Road Traffic Act 1988.</Text>
+</P1para>
+</P1>
+</P1group>
+</Part>
+<Part>
+<Number><?start-line?>Part 2</Number>
+<Title><?start-line?>Publication of contracts</Title>
+<P1group id="p00014">
+<Title><?start-line?>Publication of contracts relating to litter collection</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<Text><?start-line?>A responsible authority shall, at least once in each financial year, publish the <?new-line?>following information—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the names of any organisations with which it has contracted to collect <?new-line?>litter on its behalf;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the amount paid to the organisation for this service;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>the geographical areas covered by the contract; and</Text>
+</P3para>
+</P3>
+<?new-page?><P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>performance monitoring data related to the contract, including the <?new-line?>responsible authority’s assessment.</Text>
+</P3para>
+</P3>
+</P1para>
+</P1>
+</P1group>
+</Part>
+<Part>
+<Number><?start-line?>Part 3</Number>
+<Title><?start-line?>Miscellaneous</Title>
+<P1group id="p00015">
+<Title><?start-line?>Definition of a responsible authority</Title>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<Text><?start-line?>A responsible authority for the purposes of this Act is any authority which has <?new-line?>a duty under section 89(1) of the Environmental Protection Act 1990, and is <?new-line?>responsible for the road on which a contravention under section 1 occurred.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00016">
+<Title><?start-line?>Commencement, short title and extent</Title>
+<P1>
+<Pnumber>7</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Act may be cited as the Littering from Vehicles Act 2013.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>This Act extends to England.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>This Act comes into force on the day on which it is passed.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Part>
+</Body>
+</Primary>
+</Legislation>

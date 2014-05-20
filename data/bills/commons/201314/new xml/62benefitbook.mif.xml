@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>Benefit Entitlement (Restriction) Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>15/1/2014</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 62" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="3" />
+<ukm:House Value="House of Commons" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsItem ContentRef="p00006">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Declaration of nationality</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00007">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>Dependants</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00008">
+<ContentsNumber>3</ContentsNumber>
+<ContentsTitle>Amount of benefit</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00009">
+<ContentsNumber>4</ContentsNumber>
+<ContentsTitle>Claimant’s contribution</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00010">
+<ContentsNumber>5</ContentsNumber>
+<ContentsTitle>Short title, commencement and extent</ContentsTitle>
+</ContentsItem>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Make provision to restrict the entitlement of non-UK Citizens from the <?new-line?>European Union and the European Economic Area to taxpayer-funded <?new-line?>benefits.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<P1group id="p00006">
+<Title><?start-line?>Declaration of nationality</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>From the date of the coming into force of this Act no national insurance <?new-line?>number shall be issued unless the applicant provides a declaration of <?new-line?>nationality.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>From the date of the coming into force of this Act no application shall be made <?new-line?>for a taxpayer-funded benefit unless the applicant provides a declaration of <?new-line?>nationality.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00007">
+<Title><?start-line?>Dependants</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<Text><?start-line?>Notwithstanding the provisions of the European Communities Act 1972, no <?new-line?>non-UK citizen who is a national of a member country of the European Union <?new-line?>or the European Economic Area shall be eligible for housing benefit or council <?new-line?>tax benefit in England and Wales unless the benefit entitlement arises by <?new-line?>reason of having the status of a spouse or dependant of a UK citizen.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00008">
+<Title><?start-line?>Amount of benefit</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<Text><?start-line?>Notwithstanding the provisions of the European Communities Act 1972, no <?new-line?>UK taxpayer-funded benefit shall be paid to a citizen of another country in <?new-line?>membership of the European Union or the European Economic Area at a rate <?new-line?>which exceeds in cash terms the equivalent benefit which would be payable to <?new-line?>such a person if that person were resident in the country of his nationality.</Text>
+</P1para>
+</P1>
+</P1group>
+<?new-page?><P1group id="p00009">
+<Title><?start-line?>Claimant’s contribution</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<Text><?start-line?>Notwithstanding the provisions of the European Communities Act 1972, no <?new-line?>UK taxpayer-funded benefit shall be paid to a citizen of another country in <?new-line?>membership of the European Union or the European Economic Area unless the <?new-line?>entitlement to that benefit arises from an insurance-based contribution which <?new-line?>the claimant has made.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00010">
+<Title><?start-line?>Short title, commencement and extent</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Act may be cited as the Benefit Entitlement (Restriction) Act 2014.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The provisions of this Act shall come into force at the end of the period of two <?new-line?>months beginning with the day on which this Act is passed.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>This Act extends to the whole of the United Kingdom.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Body>
+</Primary>
+</Legislation>

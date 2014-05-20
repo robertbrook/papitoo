@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>Supply and Appropriation (Main Estimates) Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>3/7/2013</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 86" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="3" />
+<ukm:House Value="House of Commons" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Cover>
+<CoverTitle>EUROPEAN CONVENTION ON HUMAN RIGHTS</CoverTitle>
+<CoverPara><Text><?start-line?>Greg Clark has made the following statement under section 19(1)(a) of the Human <?new-line?>Rights Act 1998:</Text></CoverPara>
+
+<CoverPara><Text><?start-line?>In my view the provisions of the <?start-line?>Supply and Appropriation (Main Estimates) Bill<?start-line?> are <?new-line?>compatible with the Convention rights.</Text></CoverPara>
+</Cover><Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsItem ContentRef="p00010">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Main authorisation for use of resources for 2013-14</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00012">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>Main authorisation for issue of money out of Consolidated Fund in 2013-14</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00013">
+<ContentsNumber>3</ContentsNumber>
+<ContentsTitle>Appropriation of resources authorised for use for year 2013-14</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00020">
+<ContentsNumber>4</ContentsNumber>
+<ContentsTitle>Appropriation of money authorised for issue in year 2013-14</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00023">
+<ContentsNumber>5</ContentsNumber>
+<ContentsTitle>Appropriation and other use of income</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00027">
+<ContentsNumber>6</ContentsNumber>
+<ContentsTitle>Operation from beginning of financial year</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00028">
+<ContentsNumber>7</ContentsNumber>
+<ContentsTitle>Interpretation</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00031">
+<ContentsNumber>8</ContentsNumber>
+<ContentsTitle>Short title</ContentsTitle>
+</ContentsItem>
+<ContentsSchedules>
+<ContentsSchedule>
+<ContentsNumber>Schedule</ContentsNumber>
+<ContentsTitle>Appropriations for financial year 2013-14</ContentsTitle>
+</ContentsSchedule>
+</ContentsSchedules>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Authorise the use of resources for the year ending with 31 March 2014; to <?new-line?>authorise both the issue of sums out of the Consolidated Fund and the <?new-line?>application of income for that year; and to appropriate the supply authorised <?new-line?>for that year by this Act and by the Supply and Appropriation (Anticipation <?new-line?>and Adjustments) Act 2013.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<IntroductoryText>
+<P><Text>W<SmallCaps>hereas </SmallCaps>the Commons of the United Kingdom in Parliament assembled have <?new-line?>resolved to authorise the use of resources and the issue of sums out of the <?new-line?>Consolidated Fund towards making good the supply which they have granted <?new-line?>to Her Majesty in this Session of Parliament:—</Text>
+
+</P>
+</IntroductoryText>
+<EnactingText>
+<Para>
+<Text>Be it therefore enacted by the Queen’s most Excellent Majesty, by and with the advice <?new-line?>and consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<P1group id="p00010">
+<Title><?start-line?>Main authorisation for use of resources for 2013-14</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<P2 id="p00011">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The amount up to which there is authorisation for the use of resources for the <?new-line?>year ending with 31 March 2014 is increased by £272,996,671,000.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Of the amount authorised by subsection <InternalLink id="i00001" Ref="p00011">(1)</InternalLink>—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>£246,312,014,000 is authorised for use for current purposes; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>£26,684,657,000 is authorised for use for capital purposes.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00012">
+<Title><?start-line?>Main authorisation for issue of money out of Consolidated Fund in 2013-14</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<Text><?start-line?>The amount up to which the Treasury has authorisation—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>to issue money out of the Consolidated Fund, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>to apply it in the year ending with 31 March 2014 for expenditure <?new-line?>authorised by Parliament,</Text>
+</P3para>
+</P3>
+<Text><?start-line?>is increased by £244,640,963,000.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00013">
+<Title><?start-line?>Appropriation of resources authorised for use for year 2013-14</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<P2 id="p00014">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The aggregate of the following (which is £510,555,811,000) is appropriated for <?new-line?>the year ending with 31 March 2014 in accordance with subsections <InternalLink id="i00002" Ref="p00016">(2)</InternalLink> to <InternalLink id="i00003" Ref="p00019">(4)</InternalLink>—</Text>
+<?new-page?><P3 id="p00015">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the amount of resources the use of which for that year is authorised by <?new-line?>section 1(1) of the Supply and Appropriation (Anticipation and <?new-line?>Adjustments) Act 2013; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the amount of resources the use of which for that year is authorised by <?new-line?>section 1<InternalLink id="i00004" Ref="p00011">(1)</InternalLink>.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00016">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The amount of resources which is—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>set out in each of the Scheduled Estimates, and</Text>
+</P3para>
+</P3>
+<P3 id="p00017">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>identified in that Estimate as a net amount authorised subject to a <?new-line?>particular Departmental Expenditure Limit,</Text>
+</P3para>
+</P3>
+<Text><?start-line?>is appropriated by this Act for use, for current or for capital purposes <?new-line?>(according to how it is identified in the Estimate), in respect of any relevant <?new-line?>DEL matter.</Text>
+</P2para>
+</P2>
+<P2 id="p00018">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The amount of resources which is—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>set out in each of the Scheduled Estimates, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>identified in that Estimate as a net amount of Annually Managed <?new-line?>Expenditure,</Text>
+</P3para>
+</P3>
+<Text><?start-line?>is appropriated by this Act for use, for current or for capital purposes <?new-line?>(according to how it is identified in the Estimate), in respect of any relevant <?new-line?>AME matter.</Text>
+</P2para>
+</P2>
+<P2 id="p00019">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The amount of resources which is—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>set out in each of the Scheduled Estimates, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>identified in that Estimate as a net amount of Non-Budget Voted <?new-line?>Expenditure,</Text>
+</P3para>
+</P3>
+<Text><?start-line?>is appropriated by this Act for use, for current or for capital purposes <?new-line?>(according to how it is identified in the Estimate), in respect of any relevant <?new-line?>NBVE matter.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>Section 5<InternalLink id="i00005" Ref="p00026">(4)</InternalLink> applies (instead of subsections <InternalLink id="i00006" Ref="p00016">(2)</InternalLink> to <InternalLink id="i00007" Ref="p00019">(4)</InternalLink>) to any amount of <?new-line?>resources set out in a Scheduled Estimate if it is identified in that Estimate as <?new-line?>representing the amount of an estimated surplus.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00020">
+<Title><?start-line?>Appropriation of money authorised for issue in year 2013-14</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<P2 id="p00021">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The aggregate of the following (which is £454,253,265,000) is appropriated for <?new-line?>the year ending with 31 March 2014 in accordance with subsection <InternalLink id="i00008" Ref="p00022">(2)</InternalLink>—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the amount of money the issue of which out of the Consolidated Fund <?new-line?>is authorised by section 1(3) of the Supply and Appropriation <?new-line?>(Anticipation and Adjustments) Act 2013; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the amount of money the issue of which out of that Fund is authorised <?new-line?>by section 2.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00022">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The amount of money which is set out in each of the Scheduled Estimates and <?new-line?>identified in that Estimate as a net cash requirement is appropriated for <?new-line?>expenditure—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>on any use of resources that has been authorised by Parliament in <?new-line?>relation to the department or other person to which the Estimate <?new-line?>relates, or in relation to the service to which it relates; or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>for any other purpose specified in that Estimate as a purpose for which <?new-line?>that money may be applied.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Section 5<InternalLink id="i00009" Ref="p00026">(4)</InternalLink> applies (instead of subsection <InternalLink id="i00010" Ref="p00022">(2)</InternalLink> of this section) to any amount of <?new-line?>money set out in a Scheduled Estimate if it is identified in that Estimate as <?new-line?>representing the amount of an estimated surplus.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00023">
+<Title><?start-line?>Appropriation and other use of income</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Subsections <InternalLink id="i00011" Ref="p00024">(2)</InternalLink> to <InternalLink id="i00012" Ref="p00026">(4)</InternalLink> make provision (instead of imposing limits on <?new-line?>appropriations in aid under section 2 of the Government Resources and <?new-line?>Accounts Act 2000) about the use of income arising for the year ending with 31 <?new-line?>March 2014 from matters specified in the Scheduled Estimates as matters from <?new-line?>which income may arise.</Text>
+</P2para>
+</P2>
+<P2 id="p00024">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Income specified in a Scheduled Estimate may be appropriated for use for <?new-line?>current or capital purposes (according to the nature of the income)—</Text>
+<P3 id="p00025">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>where the matters from which the income may arise are specified in <?new-line?>relation to a particular Departmental Expenditure Limit, in respect of <?new-line?>relevant DEL matters;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>where the matters from which the income may arise are specified in <?new-line?>relation to an amount of Annually Managed Expenditure, in respect of <?new-line?>relevant AME matters; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>where the matters from which the income may arise are specified in <?new-line?>relation to an amount of Non-Budget Voted Expenditure, in respect of <?new-line?>relevant NBVE matters.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>This section authorises an appropriation of income to the extent only that the <?new-line?>appropriation is made in accordance with any applicable rules about the <?new-line?>appropriation of income that have been—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>issued by the Treasury; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>laid before the House of Commons before the passing of this Act.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00026">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Where an amount specified in a Scheduled Estimate is identified as <?new-line?>representing the amount of an estimated surplus, appropriations of income in <?new-line?>respect of any matter are authorised by this section to the extent only that—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>they are consistent, in the opinion of the Treasury, with financial <?new-line?>planning that is calculated to produce a surplus of at least that amount; <?new-line?>or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>they are authorised by a direction given by the Treasury for the <?new-line?>purpose of anticipating a proposal for the reduction or elimination of <?new-line?>the estimated surplus by a subsequent Act relating to financial supply <?new-line?>and appropriation.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>All amounts of money received in the year ending with 31 March 2014 in <?new-line?>respect of any matter whatever by a department or other person to whom a <?new-line?>Scheduled Estimate relates, or in respect of any service to which a Scheduled <?new-line?>Estimate relates, must be paid into the Consolidated Fund, unless—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the appropriation for any other use of those amounts, or of the accrued <?new-line?>amounts in respect of which they are received, is authorised by this <?new-line?>section or any other enactment; or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>they are dealt with in some other manner in accordance with any other <?new-line?>enactment or in consequence of the exercise of a power conferred by <?new-line?>any other enactment.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>Where the Treasury determine that there has been or is likely to be a <?new-line?>contravention of this section, the Treasury may give the person appearing to </Text><?new-page?><?start-line?>  <Text>them to be responsible for the contravention whatever directions the Treasury <?new-line?>think fit for rectifying the situation.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>A direction by the Treasury under this section may be revoked or varied by a <?new-line?>subsequent direction.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00027">
+<Title><?start-line?>Operation from beginning of financial year</Title>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<Text><?start-line?>The appropriations and other provision made by sections 3 to 5 are to be <?new-line?>treated as having had effect from the beginning of 1 April 2013.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00028">
+<Title><?start-line?>Interpretation</Title>
+<P1>
+<Pnumber>7</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In this Act—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“estimated surplus” is to be read in accordance with subsection <InternalLink id="i00013" Ref="p00029">(2)</InternalLink>;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“income” includes capital amounts but only to the extent that they have <?new-line?>accrued in respect of actual or anticipated capital receipts or the <?new-line?>acquisition of a capital asset;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“relevant AME matter”, in relation to an amount of Annually Managed <?new-line?>Expenditure specified in a Scheduled Estimate, means a matter in <?new-line?>relation to which that amount is identified as Annually Managed <?new-line?>Expenditure;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“relevant DEL matter”, in relation to a Departmental Expenditure Limit <?new-line?>specified in a Scheduled Estimate, means a matter expenditure relating <?new-line?>to which is identified in that Estimate as to be included in the <?new-line?>expenditure which is to be subject to that limit;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“relevant NBVE matter”, in relation to an amount of Non-Budget Voted <?new-line?>Expenditure specified in a Scheduled Estimate, means a matter in <?new-line?>relation to which that amount is identified as Non-Budget Voted <?new-line?>Expenditure;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“Scheduled Estimates” means the Estimates set out in the Schedule to this <?new-line?>Act (being the relevant part of Part 1 of each of the main Estimates as <?new-line?>agreed by the House of Commons for the year ending 31 March 2014).</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P2para>
+</P2>
+<P2 id="p00029">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>References in this Act to an amount identified in a Scheduled Estimate as <?new-line?>representing the amount of an estimated surplus are references to an amount <?new-line?>preceded by a minus sign.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In relation to the Scheduled Estimate for the House of Commons: <?new-line?>Administration—</Text>
+<P3 id="p00030">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the reference in section 3<InternalLink id="i00014" Ref="p00017">(2)(b)</InternalLink> to a net amount authorised subject to a <?new-line?>particular Departmental Expenditure Limit is to be read as a reference <?new-line?>to a net requirement identified in that Estimate as “Departmental <?new-line?>Expenditure Limit equivalent”;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>references in this Act to a “relevant DEL matter” are to be read as <?new-line?>references to a matter expenditure relating to which is identified in that <?new-line?>Estimate as to be included in the expenditure which is subject to a net <?new-line?>requirement mentioned in paragraph <InternalLink id="i00015" Ref="p00030">(a)</InternalLink>;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>the reference in section 5<InternalLink id="i00016" Ref="p00025">(2)(a)</InternalLink> to matters specified in relation to a <?new-line?>particular Departmental Expenditure Limit is to be read as a reference <?new-line?>to matters specified in that Estimate as matters from which income may <?new-line?>arise.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<?new-page?><P1group id="p00031">
+<Title><?start-line?>Short title</Title>
+<P1>
+<Pnumber>8</Pnumber>
+<P1para>
+<Text><?start-line?>This Act may be cited as the Supply and Appropriation (Main Estimates) Act <?new-line?>2013.</Text>
+</P1para>
+</P1>
+</P1group>
+</Body>
+</Primary>
+</Legislation>

@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>Regulation of the Private Rented Sector Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>27/2/2014</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 114" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="3" />
+<ukm:House Value="House of Commons" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsItem ContentRef="p00011">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Local authority functions and scope of Act</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00012">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>The environmental and energy-efficient standards</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00013">
+<ContentsNumber>3</ContentsNumber>
+<ContentsTitle>Letting and managing agents</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00014">
+<ContentsNumber>4</ContentsNumber>
+<ContentsTitle>Discrimination</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00015">
+<ContentsNumber>5</ContentsNumber>
+<ContentsTitle>Tenants’ deposits</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00016">
+<ContentsNumber>6</ContentsNumber>
+<ContentsTitle>Five-year tenancies</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00017">
+<ContentsNumber>7</ContentsNumber>
+<ContentsTitle>Fair rent</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00018">
+<ContentsNumber>8</ContentsNumber>
+<ContentsTitle>Financial provisions</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00019">
+<ContentsNumber>9</ContentsNumber>
+<ContentsTitle>Orders and regulations</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00020">
+<ContentsNumber>10</ContentsNumber>
+<ContentsTitle>Short title, commencement and extent</ContentsTitle>
+</ContentsItem>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Provide for the regulation of letting agents; to protect tenants’ deposits; to <?new-line?>require the enforcement of environmental and energy-efficiency standards in <?new-line?>private-sector rented accommodation; to amend the law on secure tenancies; <?new-line?>to provide for fair rent to be applicable to all rented accommodation; to <?new-line?>require landlords not to discriminate against people in receipt of state benefits; <?new-line?>to require local authorities to establish a private rented sector office; and for <?new-line?>connected purposes.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<P1group id="p00011">
+<Title><?start-line?>Local authority functions and scope of Act</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Every local authority must establish an office of the private rented sector <?new-line?>(“OPRS”) to exercise the functions conferred on the authority by this Act.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In this Act—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“landlord” means a landlord under a private rented sector tenancy;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“local authority” means—</Text>
+<OrderedList Decoration="parens" Type="alpha">
+<ListItem>
+<Para>
+<Text><?start-line?>a county council,</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>a district council,</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>a London borough council,</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>the Common Council of the City of London in its capacity as a <?new-line?>local authority,</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>the Council of the Isles of Scilly,</Text>
+</Para>
+</ListItem>
+</OrderedList>
+<Text><?start-line?>and in the rest of this Act (except section 3) references to a local <?new-line?>authority are to the authority for the area in which the premises are <?new-line?>situated;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“private rented sector tenancy” means a tenancy of a dwelling under <?new-line?>which the landlord is not a local authority or a registered social <?new-line?>landlord;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“relevant agency business” has the meaning given by section 3(2); and</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“tenant” means a tenant under a private rented sector tenancy.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<?new-page?><P1group id="p00012">
+<Title><?start-line?>The environmental and energy-efficient standards</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Every private rented sector tenancy is to be treated as including a term by <?new-line?>which the landlord is under an obligation to the tenant—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>where on the commencement day the premises do not meet the <?new-line?>environmental standard, to take such steps as are necessary to bring the <?new-line?>premises to that standard;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>where on the commencement day the premises do not meet the energy <?new-line?>efficiency standard, to take such steps as are necessary to bring the <?new-line?>premises to that standard;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>from time to time to take such steps as are necessary to keep the <?new-line?>premises at the environmental and energy efficiency standards.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Subsection (1) is without prejudice to any greater obligation owed by the <?new-line?>landlord (under the terms of any enactment or of a particular private rented <?new-line?>sector tenancy, or otherwise).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Every local authority must from time to time inspect premises in its area let <?new-line?>under private rented sector tenancies with a view to ascertaining whether the <?new-line?>premises meet the environmental and energy efficiency standards.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State must make regulations providing for the local authority <?new-line?>to enforce the obligations under subsection (1).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>The regulations may include provision, among other things—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>for service of notices;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>for non-compliance with any requirement of a notice served by the <?new-line?>local authority to be an offence punishable on summary conviction <?new-line?>with a term of imprisonment not exceeding 6 months (12 months in <?new-line?>relation to an offence committed on or after the date on which section <?new-line?>154(1) of the Criminal Justice Act 2003 comes into force) or a fine not <?new-line?>exceeding level 5 on the standard scale or both;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>for the local authority to bring proceedings for an offence under the <?new-line?>regulations;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>for the local authority to bring proceedings for an injunction requiring <?new-line?>compliance with any requirement of a notice served by the local <?new-line?>authority or with any obligation owed under subsection (1),</Text>
+</P3para>
+</P3>
+<Text><?start-line?>and do not affect the right of the tenant to bring civil proceedings in respect of <?new-line?>any obligation owed under subsection (1).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>In this section—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“commencement day” means, in relation to any premises—</Text>
+<OrderedList Decoration="parens" Type="alpha">
+<ListItem>
+<Para>
+<Text><?start-line?>the day on which this section comes into force, or</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>if no private rented sector tenancy of the premises is in existence <?new-line?>on that day, the day of commencement of the first such tenancy <?new-line?>to commence after that day;</Text>
+</Para>
+</ListItem>
+</OrderedList>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“environmental standard” means a living environment meeting the <?new-line?>requirements of the decent homes standard as defined in section 5 <?new-line?>(detailed definition) of the document entitled “A Decent Home: <?new-line?>Definition and guidance for implementation” issued by the <?new-line?>Department for Communities and Local Government as updated in <?new-line?>June 2006, or in the corresponding provisions of any re-issued or <?new-line?>amended version of that document for the time being in force;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“energy efficiency standard” means a standard equivalent to an energy <?new-line?>performance certificate rating of “D” or better.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<?new-page?><P1group id="p00013">
+<Title><?start-line?>Letting and managing agents</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>No person shall carry on any relevant agency business unless registered for the <?new-line?>purposes of this section with the local authority for the area in which that <?new-line?>person‘s principal place of business is located (or, if that person has no <?new-line?>principal place of business, with the local authority for each area in which that <?new-line?>person carries on relevant agency business).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>“Relevant agency business” means things done by any person in the course of <?new-line?>a business for the purpose of, or with a view to, any of the following—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>effecting the introduction of a person who wishes to enter into a private <?new-line?>rented sector tenancy to another such person (including registering the <?new-line?>name or requirements of any person seeking a private sector tenancy <?new-line?>with a view to such introduction);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>supplying addresses or particulars of, or issuing any advertisement <?new-line?>relating to, premises to let under private rented sector tenancies;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>the creation, or drawing up of an agreement for, a private rented sector <?new-line?>tenancy;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>the management or administration of any matter relating to the <?new-line?>creation, commencement, conduct or termination of a private rented <?new-line?>sector tenancy.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State may by regulations make provision about registration <?new-line?>for the purposes of this section.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The regulations must provide that a person is not to be registered unless the <?new-line?>local authority is satisfied that that person is fit and proper to carry on relevant <?new-line?>agency business.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>The regulations may include provision, among other things—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>for the attachment of conditions or limitations to a person‘s <?new-line?>registration;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>for renewal of registration at specified intervals;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>for a person’s registration to be cancelled in prescribed circumstances;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>for the procedure to be followed in relation to applications for <?new-line?>registration;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>for the procedure to be followed in relation to cancellation of <?new-line?>registration;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>f</Pnumber>
+<P3para>
+<Text><?start-line?>for the local authority to charge applicants for registration and <?new-line?>registered persons for the functions performed under this section.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>Any person who contravenes subsection (1), or who contravenes or fails to <?new-line?>comply with any condition or limitation attached to that person‘s registration <?new-line?>under this section, commits an offence punishable—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>on conviction on indictment, with a term of imprisonment not <?new-line?>exceeding 2 years or a fine or both;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>on summary conviction, with a term of imprisonment not exceeding <?new-line?>6six months (12 months in relation to an offence committed on or after <?new-line?>the date on which section 154(1) of the Criminal Justice Act 2003 comes <?new-line?>into force) or a fine not exceeding £20,000 or both.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>A local authority may bring proceedings for an offence under subsection (6).</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<?new-page?><P1group id="p00014">
+<Title><?start-line?>Discrimination</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The following new subsections are inserted in section 32 of the Equality Act <?new-line?>2010 (application of Part 4 of that Act)—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>For the purposes of sections 33 to 35 insofar as they apply to conduct by <?new-line?>any of the persons mentioned in subsection (7), section 4 is to be read as <?new-line?>including the following additional protected characteristic—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>claiming, receiving or being eligible to receive any state benefit.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>The persons are—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>a landlord, within the meaning of the Regulation of the Private <?new-line?>Rented Sector Act 2014;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>a person carrying on any relevant agency business, within the <?new-line?>meaning of section 3 of that Act.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>A local authority may enforce Part 4 of that Act as regards—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the provisions inserted by subsection (1);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>any other conduct in connection with a private rented sector tenancy.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00015">
+<Title><?start-line?>Tenants’ deposits</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Where a tenant has paid a deposit (however described) in connection with a <?new-line?>private rented sector tenancy, and a dispute or difference about its repayment <?new-line?>arises between the tenant and a landlord, or between the tenant and a person <?new-line?>carrying on relevant agency business, the dispute or difference shall at the <?new-line?>request of the tenant be referred to determination by the local authority under <?new-line?>this section.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State must make regulations about determinations under <?new-line?>subsection (1) which must, in particular, include provision—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>for the purpose of ensuring that determinations are made swiftly and <?new-line?>fairly;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>for a determination to be binding on the person from whom repayment <?new-line?>is sought;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>for the review of, or appeals against, determinations in specified <?new-line?>circumstances (but so that no review or appeal may be considered <?new-line?>unless any determination requiring a payment to the tenant has been <?new-line?>complied with).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00016">
+<Title><?start-line?>Five-year tenancies</Title>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This section applies to a private rented sector tenancy created after the <?new-line?>Housing Act 1988 came into force and which, but for this section, would have <?new-line?>effect as—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>a tenancy for a fixed term of less than five years, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>a periodic tenancy capable of being brought to an end by the landlord <?new-line?>less than five years after it commenced,</Text>
+</P3para>
+</P3>
+<Text><?start-line?>and includes a tenancy in existence on the day on which this section comes into <?new-line?>force.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>A fixed term tenancy to which this section applies has effect as a tenancy for a <?new-line?>term of five years (and any periodic tenancy which, by virtue of the tenancy <?new-line?>agreement or any enactment, would have come into existence on expiry of a </Text><?new-page?><?start-line?>  <Text>fixed term of less than five years, shall come into existence at the end of the <?new-line?>period of five years).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>A periodic tenancy to which this section applies may not be brought to an end <?new-line?>by the landlord earlier than the end of the period of five years beginning with <?new-line?>the day on which the tenancy commenced.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>But subsections (2) and (3) do not affect—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>any power of the court to make an order for possession before expiry of <?new-line?>the five year period on a ground prescribed by Schedule 2 to the <?new-line?>Housing Act 1988 other than ground 4 (one year fixed-term tenancy);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>subject to any provision made under section 7, the operation of sections <?new-line?>13 to 14B of that Act (increases of rent under assured periodic <?new-line?>tenancies).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>Any step purportedly taken by the landlord between 28 February 2014 and the <?new-line?>day on which this section comes into force to bring to an end a tenancy to <?new-line?>which this section applies (other than a step taken for the purpose of <?new-line?>establishing a ground for possession permitted by subsection (4)(a)) shall be <?new-line?>treated as being, and as always having been, of no effect.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00017">
+<Title><?start-line?>Fair rent</Title>
+<P1>
+<Pnumber>7</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State must by regulations make a scheme for the <?new-line?>determination by the local authority of a fair rent, on the application of the <?new-line?>tenant or on its own initiative, in respect of a private rented sector tenancy of <?new-line?>premises situated in—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>Greater London, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>an area for the time being designated in an order made by the Secretary <?new-line?>of State.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Where a fair rent has been determined under the scheme, the rent recoverable <?new-line?>in respect of the tenancy is limited to the rent so determined.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The scheme must provide—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>for the computation of a fair rent by reference to all the circumstances <?new-line?>(other than the personal circumstances of the landlord or tenant) and <?new-line?>on the assumption that demand for similar premises available for <?new-line?>letting in Greater London, or in the area designated by order under <?new-line?>subsection (1)(b), does not greatly exceed supply;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>for the duration and renewal of determinations;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>for the procedure to be followed in relation to determinations;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>for the review of determinations.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The scheme may include incidental, supplemental, consequential and <?new-line?>transitional provision, including provision—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>consequentially amending or repealing any enactment about rents;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>enabling a local authority to exercise the functions of any person <?new-line?>relating to rents, or transferring such functions to a local authority.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00018">
+<Title><?start-line?>Financial provisions</Title>
+<P1>
+<Pnumber>8</Pnumber>
+<P1para>
+<Text><?start-line?><Emphasis>There is to be paid out of money provided by Parliament—</Emphasis></Text>
+<?new-page?><P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?><Emphasis>any expenditure incurred under or by virtue of this Act by the Secretary of <?new-line?>State, a Minister of the Crown, a person holding office under Her Majesty or <?new-line?>by a government department, and</Emphasis></Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?><Emphasis>any increase attributable to this Act in the sums payable under any other Act <?new-line?>out of money so provided.</Emphasis></Text>
+</P3para>
+</P3>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00019">
+<Title><?start-line?>Orders and regulations</Title>
+<P1>
+<Pnumber>9</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>An order or regulations under this Act are to be made by statutory instrument.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>No instrument containing an order or regulations under this Act is to be made <?new-line?>unless a draft has been laid before Parliament and approved by a resolution of <?new-line?>each House.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The first regulations under this Act are to be laid no later than the end of the <?new-line?>period of four months beginning with the day on which this Act is passed.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00020">
+<Title><?start-line?>Short title, commencement and extent</Title>
+<P1>
+<Pnumber>10</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Act may be cited as the Regulation of the Private Rented Sector Act 2014.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Other than in relation to the making of orders and regulations (in respect of <?new-line?>which this Act comes into force on the day on which it is passed), this Act <?new-line?>comes into force at the end of the period of six months beginning with the day <?new-line?>on which it is passed.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>This Act extends to England and Wales only.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Body>
+</Primary>
+</Legislation>

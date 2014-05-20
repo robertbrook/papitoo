@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>House of Lords Reform Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>16/5/2013</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 23" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="3" />
+<ukm:House Value="House of Lords" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Contents>
+<Rubric xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<Text><?start-line?>A</Text>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Make provision for permanent leave of absence from the House of Lords; to <?new-line?>provide for the expulsion of members of the House of Lords in specified <?new-line?>circumstances; to make provision for the appointment of a Commission to <?new-line?>make recommendations to the Crown for the creation of life peerages; and to <?new-line?>restrict membership of the House of Lords by virtue of hereditary peerages.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<Part>
+<Number><?start-line?>Part 1</Number>
+<Title><?start-line?>Retirement</Title>
+<P1group id="p00001">
+<Title><?start-line?>Retirement</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>A peer may retire as a member of the House of Lords by giving notice in <?new-line?>writing to the Clerk of the Parliaments.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The notice must specify a date from which the retirement is to take effect.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>At the beginning of that date the peer ceases to be a member of the House of <?new-line?>Lords.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Retirement may not be rescinded.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00002">
+<Title><?start-line?>Non-attendance</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<P2 id="p00003">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>A peer who does not attend the House of Lords during a Session ceases to be a <?new-line?>member of the House at the end of the Session (subject to subsections <InternalLink id="i00001" Ref="p00004">(2)</InternalLink> and <?new-line?><InternalLink id="i00002" Ref="p00005">(3)</InternalLink>).</Text>
+</P2para>
+</P2>
+<P2 id="p00004">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Subsection <InternalLink id="i00003" Ref="p00003">(1)</InternalLink> does not apply—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>to a peer who has leave of absence in respect of the Session, in <?new-line?>accordance with Standing Orders of the House, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in respect of a Session that is less than six months long.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<?new-page?><P2 id="p00005">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Subsection <InternalLink id="i00004" Ref="p00003">(1)</InternalLink> is to be taken to apply to a peer in respect of a Session if, and only <?new-line?>if, the Lord Speaker certifies that the peer—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>did not attend at any time during the Session, having regard to <?new-line?>attendance records kept by officials of the House, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>did not have leave of absence in respect of the Session.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>In this section a reference to attendance is a reference to attending the <?new-line?>proceedings of the House (including proceedings in a Committee of the House <?new-line?>or a Joint Committee of the two Houses).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>This section applies in respect of the first Session beginning after Royal Assent, <?new-line?>and later Sessions.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Part>
+<Part>
+<Number><?start-line?>Part 2</Number>
+<Title><?start-line?>Conviction of serious criminal offence</Title>
+<P1group id="p00006">
+<Title><?start-line?>Conviction of serious offence</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<P2 id="p00007">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>A peer who is convicted of a serious offence ceases to be a member of the <?new-line?>House of Lords (subject to subsections <InternalLink id="i00005" Ref="p00008">(2)</InternalLink> to <InternalLink id="i00006" Ref="p00011">(5)</InternalLink>).</Text>
+</P2para>
+</P2>
+<P2 id="p00008">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>A peer is to be treated as having been convicted of a serious offence if, and only <?new-line?>if, the Lord Speaker certifies that the peer has been—</Text>
+<P3 id="p00009">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>convicted of a criminal offence by a court in the United Kingdom or <?new-line?>elsewhere, and</Text>
+</P3para>
+</P3>
+<P3 id="p00010">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>sentenced or ordered to be imprisoned or detained indefinitely or for <?new-line?>more than one year.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>A certificate takes effect on the day on which it is issued.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>If the Lord Speaker decides that subsection <InternalLink id="i00007" Ref="p00009">(2)(a)</InternalLink> and <InternalLink id="i00008" Ref="p00010">(b)</InternalLink> no longer apply to a <?new-line?>peer by reason of a successful appeal against or challenge to conviction or <?new-line?>sentence—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the Lord Speaker must issue a further certificate to that effect, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the original certificate under subsection <InternalLink id="i00009" Ref="p00008">(2)</InternalLink> shall be treated for the <?new-line?>purposes of this Act as never having had effect.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00011">
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>The Lord Speaker shall not issue a certificate under subsection <InternalLink id="i00010" Ref="p00008">(2)</InternalLink> in respect of <?new-line?>a conviction outside the United Kingdom if the House of Lords resolves that <?new-line?>subsection <InternalLink id="i00011" Ref="p00007">(1)</InternalLink> should not apply to the conviction by reason of special <?new-line?>circumstances.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00012">
+<Title><?start-line?>Effect of ceasing to be a member</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This section applies where a peer (whether life or hereditary) ceases to be a <?new-line?>member of the House of Lords in accordance with this Act.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The peer becomes disqualified from attending the House of Lords (which <?new-line?>includes sitting and voting in the House, and attending proceedings in any <?new-line?>Committee of the House or Joint Committee of the two Houses).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Accordingly, the peer shall not receive a writ to attend the House (whether <?new-line?>under section 1 of the Life Peerages Act 1958 or by virtue of a hereditary <?new-line?>peerage; and a hereditary peer ceases to be excepted from exclusion under </Text><?new-page?><?start-line?>  <Text>section 2 of the House of Lords Act 1999); and the peer may not attend the <?new-line?>House in pursuance of a writ already received.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The peer is not, by virtue of being a peer, disqualified for—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>voting at elections to the House of Commons, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>being, or being elected as, a member of that House.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Part>
+<Part>
+<Number><?start-line?>Part 3</Number>
+<Title><?start-line?>Lord Speaker</Title>
+<P1group id="p00013">
+<Title><?start-line?>Certificate of Lord Speaker</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>A certificate of the Lord Speaker under this Act shall be conclusive for all <?new-line?>purposes, and shall not be questioned in a court of law.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>A certificate may be issued on the Lord Speaker’s own initiative.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Part>
+<Part>
+<Number><?start-line?>Part 4</Number>
+<Title><?start-line?>Appointments Commission</Title>
+<P1group id="p00014">
+<Title><?start-line?>Commission to recommend life peerages</Title>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>There shall be a Commission (“the Commission”) to make recommendations to <?new-line?>the Crown for the creation of life peerages.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>No recommendations for the creation of life peerages shall be made other than <?new-line?>by the Commission.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>All recommendations shall be presented to the Crown by the Prime Minister.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00015">
+<Title><?start-line?>Commission membership</Title>
+<P1>
+<Pnumber>7</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Commission shall consist of nine members.</Text>
+</P2para>
+</P2>
+<P2 id="p00016">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The members of the Commission, including the Chairman, shall be nominated <?new-line?>jointly by the Speaker of the House of Commons and the Lord Speaker of the <?new-line?>House of Lords.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In making nominations under subsection <InternalLink id="i00012" Ref="p00016">(2)</InternalLink>, the Speaker and the Lord Speaker <?new-line?>shall consult such other persons or bodies as they deem appropriate.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>In making nominations, the Speaker and the Lord Speaker shall have regard to <?new-line?>the need to ensure that, in respect of members affiliated with registered <?new-line?>political parties, the Commission is politically balanced.</Text>
+</P2para>
+</P2>
+<P2 id="p00017">
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>At least four of those nominated for membership shall be independent of any <?new-line?>registered political party.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>The persons nominated under subsection <InternalLink id="i00013" Ref="p00017">(5)</InternalLink> shall include the Chairman of the <?new-line?>Commission.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>At least four of those nominated shall be Privy Counsellors.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>8</Pnumber>
+<P2para>
+<Text><?start-line?>No-one shall be nominated under subsection <InternalLink id="i00014" Ref="p00017">(5)</InternalLink> if at any time in the preceding <?new-line?>two years he—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>has been a member of a registered political party;</Text>
+</P3para>
+</P3>
+<?new-page?><P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>has given public support, by way of public speaking or appearance, to <?new-line?>a registered political party; or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>has made a financial donation to any registered political party.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>9</Pnumber>
+<P2para>
+<Text><?start-line?>No-one shall be nominated who is a Minister of the Crown or holder of a <?new-line?>national office in any registered political party.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>10</Pnumber>
+<P2para>
+<Text><?start-line?>Following nomination by the Speaker and the Lord Speaker under subsection <?new-line?><InternalLink id="i00015" Ref="p00016">(2)</InternalLink>, the members shall be appointed by the Crown.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>11</Pnumber>
+<P2para>
+<Text><?start-line?>Except as provided for in subsection <InternalLink id="i00016" Ref="p00018">(12)</InternalLink>, a member of the Commission shall <?new-line?>serve for a non-renewable term of five years.</Text>
+</P2para>
+</P2>
+<P2 id="p00018">
+<Pnumber>12</Pnumber>
+<P2para>
+<Text><?start-line?>On the first occasion that the Commission is appointed, three members shall be <?new-line?>nominated to serve for a term of four years, three members for a term of five <?new-line?>years, and three (including the Chairman) for six years.</Text>
+</P2para>
+</P2>
+<P2 id="p00019">
+<Pnumber>13</Pnumber>
+<P2para>
+<Text><?start-line?>A member of the Commission may be removed by the Crown on an address by <?new-line?>both Houses of Parliament.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>14</Pnumber>
+<P2para>
+<Text><?start-line?>A member of the Commission may resign and in that event, or on the death of <?new-line?>a member or on the removal of a member under subsection <InternalLink id="i00017" Ref="p00019">(13)</InternalLink>, the member <?new-line?>appointed to replace the former member shall serve for the remainder of the <?new-line?>term of that former member and may be re-appointed for one further term.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00020">
+<Title><?start-line?>Commission to determine rules and procedures</Title>
+<P1>
+<Pnumber>8</Pnumber>
+<P1para>
+<Text><?start-line?>Except as provided for in subsequent sections in this Part, the Commission <?new-line?>shall determine its own rules and procedures.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00021">
+<Title><?start-line?>Proposals for new peers</Title>
+<P1>
+<Pnumber>9</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Proposals for new peers may be made to the Commission by—</Text>
+<P3 id="p00022">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>any individual other than those listed in paragraphs <InternalLink id="i00018" Ref="p00023">(b)</InternalLink> and <InternalLink id="i00019" Ref="p00024">(c)</InternalLink> in <?new-line?>respect of non-party members (“non-party nominees”);</Text>
+</P3para>
+</P3>
+<P3 id="p00023">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the leader of any registered political party specified under subsection <?new-line?><InternalLink id="i00020" Ref="p00025">(2)</InternalLink> (“party nominees”); and</Text>
+</P3para>
+</P3>
+<P3 id="p00024">
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>the Prime Minister acting as Prime Minister and not as the leader of a <?new-line?>registered political party (“prime ministerial nominees”).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00025">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>For the purposes of subsection <InternalLink id="i00021" Ref="p00023">(1)(b)</InternalLink>, the Commission shall normally consider <?new-line?>nominations made by the Leader of a registered political party that has <?new-line?>achieved representation of at least six seats in the House of Commons at the <?new-line?>preceding general election.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00026">
+<Title><?start-line?>Nominees to meet specific criteria</Title>
+<P1>
+<Pnumber>10</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Any recommendation made by the Commission for the conferment of a <?new-line?>peerage shall comply with the criteria specified in this section.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The principal criteria for recommendation for a peerage shall be—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>conspicuous merit; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>a willingness and capacity to make a contribution to the work of the <?new-line?>House of Lords.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00027">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The Commission may propose additional criteria as it deems appropriate.</Text>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>In proposing additional criteria, the Commission shall have regard to the <?new-line?>diversity of the United Kingdom population.</Text>
+</P2para>
+</P2>
+<P2 id="p00028">
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>The criteria proposed by the Commission under subsection <InternalLink id="i00022" Ref="p00027">(3)</InternalLink> shall be laid <?new-line?>before both Houses of Parliament as an order made by statutory instrument by <?new-line?>a Minister of the Crown and subject to annulment in pursuance of a resolution <?new-line?>of either House of Parliament.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>The criteria shall be not varied other than on a proposal made by the <?new-line?>Commission and subject to the procedure specified in subsection <InternalLink id="i00023" Ref="p00028">(5)</InternalLink>.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>The Commission may propose criteria that relate to an individual or, in the <?new-line?>case of proposals made under section 9<InternalLink id="i00024" Ref="p00022">(1)(a)</InternalLink> and (b), the criteria that relate to <?new-line?>the balance and diversity that it wishes to achieve.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>8</Pnumber>
+<P2para>
+<Text><?start-line?>The Commission may make such enquiry as it considers appropriate to ensure <?new-line?>that any person proposed for a peerage fulfils the criteria and it shall be a duty <?new-line?>on public bodies to co-operate with any such enquiry.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00029">
+<Title><?start-line?>Guidelines</Title>
+<P1>
+<Pnumber>11</Pnumber>
+<P1para>
+<P2 id="p00030">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Commission may issue guidelines setting out how it will interpret and <?new-line?>apply the criteria established under section 10.</Text>
+</P2para>
+</P2>
+<P2 id="p00031">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The guidelines issued under subsection <InternalLink id="i00025" Ref="p00030">(1)</InternalLink> shall be laid before both Houses of <?new-line?>Parliament as an order made by statutory instrument by a Minister of the <?new-line?>Crown and subject to annulment in pursuance of a resolution of either House <?new-line?>of Parliament.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The guidelines, once approved, shall be publicised by the Commission in such <?new-line?>manner as it deems appropriate.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The guidelines shall not be varied other than by the procedure specified in <?new-line?>subsection <InternalLink id="i00026" Ref="p00031">(2)</InternalLink>.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00032">
+<Title><?start-line?>Certificate to be conclusive</Title>
+<P1>
+<Pnumber>12</Pnumber>
+<P1para>
+<Text><?start-line?>Where the Commission certifies that a person recommended for a peerage <?new-line?>meets the published criteria, its certificate shall be conclusive.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00033">
+<Title><?start-line?>Principles to be followed in making recommendations</Title>
+<P1>
+<Pnumber>13</Pnumber>
+<P1para>
+<P2 id="p00034">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>At least once in each calendar year, the Commission must publish, with <?new-line?>reasons, proposals for the creation of new peers under section 4(1)(a) and (b), <?new-line?>or a proposal that no such creation should be made.</Text>
+</P2para>
+</P2>
+<P2 id="p00035">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In determining how many new peerages to recommend, the Commission shall <?new-line?>have regard to the following principles—</Text>
+<P3 id="p00036">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>not less than twenty per cent of the membership of the House of Lords <?new-line?>shall consist of members who are independent of any registered <?new-line?>political party;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>no one party, nor a coalition of parties forming a Government, shall <?new-line?>have a majority of members in the House of Lords;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>the Government of the day (or in the event of a coalition of parties <?new-line?>forming a Government, the largest party in the coalition) shall be <?new-line?>entitled to have a larger number of members than the official <?new-line?>Opposition, but the majority of that party over the official Opposition </Text><?new-page?><?start-line?>  <Text>shall normally be no greater than three per cent of the total membership <?new-line?>of the House of Lords.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>For the purpose of determining its recommendation under subsection <InternalLink id="i00027" Ref="p00034">(1)</InternalLink>, the <?new-line?>Commission may consult such persons or bodies as it deems appropriate.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>For the purpose of determining the membership specified in subsection <InternalLink id="i00028" Ref="p00036">(2)(a)</InternalLink>, <?new-line?>a person shall be deemed to be independent of any registered political party if <?new-line?>in the two years prior to his nomination for a peerage he—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>was not a member of a registered political party;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>had not given public support, by way of public speaking or <?new-line?>appearance, to a registered political party; or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>had not made a financial donation to any registered political party.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00037">
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>In giving effect to the principle embodied in subsection (2)(c), the Commission <?new-line?>may at its discretion phase in the requisite number of recommendations over a <?new-line?>period of two sessions following a General Election.</Text>
+</P2para>
+</P2>
+<P2 id="p00038">
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>Subject to the principles embodied in subsection <InternalLink id="i00029" Ref="p00035">(2)</InternalLink>, the Commission shall <?new-line?>have regard to the need to achieve a membership not exceeding that of the <?new-line?>House of Commons.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>The Commission shall seek to achieve the membership stipulated in section <?new-line?>7<InternalLink id="i00030" Ref="p00037">(5)</InternalLink> within whichever is the longer of eight years or the course of two full <?new-line?>Parliaments.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>8</Pnumber>
+<P2para>
+<Text><?start-line?>The members of the House of Lords included for the purpose of calculating the <?new-line?>percentage under subsection (2)(a) shall not include the Lords Spiritual or the <?new-line?>ex officio members under the terms of the House of Lords Act 1999, but shall <?new-line?>include those Lords of Appeal in Ordinary who have ceased to serve in that <?new-line?>capacity.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00039">
+<Title><?start-line?>Party leaders to furnish information to Commission</Title>
+<P1>
+<Pnumber>14</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Where names are submitted to the Commission by a leader of a registered <?new-line?>political party under section 9(1)(b), the leader shall inform the Commission of <?new-line?>the procedure and criteria adopted by the party for the purposes of selecting <?new-line?>the name for submission.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The Commission shall satisfy itself that the procedure and criteria adopted by <?new-line?>a registered political party for the purpose of making nominations are <?new-line?>reasonable and consistent.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Leaders of registered political parties submitting names to the Commission <?new-line?>shall supply such other information as may be requested by the Commission.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Part>
+<Part>
+<Number><?start-line?>Part 5</Number>
+<Title><?start-line?>Exclusion of hereditary peers</Title>
+<P1group id="p00040">
+<Title><?start-line?>Exclusion of hereditary peers</Title>
+<P1>
+<Pnumber>15</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Section 2 of the House of Lords Act 1999 is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>For subsection (2) substitute—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>No more than 92 people shall be excepted from section 1.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>For subsection (4) substitute—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Any vacancy resulting from the death of an excepted person occurring <?new-line?>after the coming into force of the House of Lords Reform Act 2013 shall <?new-line?>not be filled.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Omit subsection (5).</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Part>
+<Part>
+<Number><?start-line?>Part 6</Number>
+<Title><?start-line?>Supplementary provisions</Title>
+<P1group id="p00041">
+<Title><?start-line?>Short title, commencement and extent</Title>
+<P1>
+<Pnumber>16</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Act may be cited as the House of Lord Reform Act 2013.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Parts 1 and 3 of this Act shall come into force at the end of the period of three <?new-line?>months beginning with the day on which this Act is passed.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The remaining provisions of this Act shall come into effect on the day on which <?new-line?>this Act is passed.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>This Act extends to England and Wales, Scotland and Northern Ireland.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Part>
+</Body>
+</Primary>
+</Legislation>

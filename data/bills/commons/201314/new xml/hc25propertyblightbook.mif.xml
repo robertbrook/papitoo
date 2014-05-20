@@ -1,0 +1,1069 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>Property Blight Compensation Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>15/10/2013</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 25" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="3" />
+<ukm:House Value="House of Commons" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsItem ContentRef="p00005">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Secretary of State to amend legislation</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00006">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>Financial provision</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00007">
+<ContentsNumber>3</ContentsNumber>
+<ContentsTitle>Short title, commencement and extent</ContentsTitle>
+</ContentsItem>
+<ContentsSchedules>
+<ContentsSchedule ContentRef="p00008">
+<ContentsNumber>Schedule</ContentsNumber>
+<ContentsTitle>Proposed amendments to legislation relating to land <?new-line?>compensation</ContentsTitle>
+</ContentsSchedule>
+</ContentsSchedules>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Require the Secretary of State to amend legislation to improve the system of <?new-line?>compensation for property blight caused by major national infrastructure <?new-line?>projects; and for connected purposes.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<P1group id="p00005">
+<Title><?start-line?>Secretary of State to amend legislation</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State shall by Order made by Statutory Instrument amend the <?new-line?>legislation relating to compensation in relation to property blight caused by <?new-line?>major national infrastructure projects.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In making the Order the Secretary of State shall have regard to the proposed <?new-line?>amendments to legislation contained in the Schedule to this Act but may <?new-line?>depart from them or make further provision where he considers it appropriate <?new-line?>to do so.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>No Order may be made under this section unless a draft of the order has been <?new-line?>laid before and approved by resolution of both Houses of Parliament.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00006">
+<Title><?start-line?>Financial provision</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<Text><?start-line?><Emphasis>There is to be paid out of money provided by Parliament any increase attributable to <?new-line?>this Act in the sums payable under any other Act out of money so provided.</Emphasis></Text>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00007">
+<Title><?start-line?>Short title, commencement and extent</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Act may be cited as the Property Blight Compensation Act 2013.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>This Act extends to England and Wales only.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Body>
+<?new-page?>
+<Schedules>
+<Schedule id="p00008" NumberFormat="default">
+<Number><?start-line?>Schedule</Number>
+<TitleBlock>
+<Title><?start-line?>Proposed amendments to legislation relating to land compensation</Title>
+</TitleBlock>
+<Reference>Section 1</Reference>
+<ScheduleBody>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<Text><?start-line?>Part 1 of the Land Compensation Act 1973 (hereafter referred to as “the 1973 <?new-line?>Act“) is amended as follows.</Text>
+</P1para>
+</P1>
+<P1group>
+<Title><?start-line?>Amendment to title of Part 1 of the 1973 Act</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The title of Part 1 of the 1973 Act is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>After “use of Public Works” insert “or Property Blight”.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Amendment to heading of section 1 of the 1973 Act</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The heading of section 1 of the 1973 Act is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>After “compensation” insert “for depreciation caused by use of public <?new-line?>works”.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Right to a property bond for property blight</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<Text><?start-line?>After section 1 of the 1973 Act insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Right to a property bond for property blight depreciation</Title>
+<P1>
+<Pnumber>1A</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Where the value of an interest in land is depreciated by property <?new-line?>blight caused by a major national infrastructure project, then if—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the interest qualifies for a property bond; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>he person entitled to the interest makes an application within <?new-line?>the time provided by and otherwise in accordance with this <?new-line?>Part of this Act,</Text>
+</P3para>
+</P3>
+<Text><?start-line?>a property bond for that property blight depreciation shall, subject to <?new-line?>the provisions of this section and Schedule 4 of this Act, be issued by <?new-line?>the promoter of the major national infrastructure project to the <?new-line?>person making the claim (hereafter referred to as “the applicant”).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Whether an interest in land qualifies for a property bond is to be <?new-line?>determined in accordance with Schedule 4: Property Bond Scheme <?new-line?>which shall have effect, such Schedule to be inserted after Schedule <?new-line?>3 of the 1973 Act and titled “Schedule 4: Property Bond Scheme”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The property blight mentioned in subsection (1) above means the <?new-line?>depreciation in value of an interest in land resulting from blight <?new-line?>factors that are or will be a probable consequence of the construction <?new-line?>or installation of a major national infrastructure project.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The blight factors mentioned in subsection (1) above are noise, <?new-line?>vibration, smell, fumes, smoke, artificial lighting, landscape <?new-line?>visibility, traffic flows or discharge on to the land of any solid or <?new-line?>liquid substance.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<?new-page?><P1group>
+<Title><?start-line?>Transfer of property bond</Title>
+<P1>
+<Pnumber>1B</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>A property bond which has not been redeemed is annexed and <?new-line?>incident to, and shall go with, the estate or interest of any person to <?new-line?>whom the interest in land is disposed, and shall be capable of being <?new-line?>enforced by every person in whom that estate or interest is (in whole <?new-line?>or in part) for the time being vested.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>For the purpose of this Part of this Act, the person in whom the <?new-line?>interest of land is vested following a disposition in accordance with <?new-line?>subsection (1), shall be deemed to be the “applicant” for any relevant <?new-line?>future disposition for the period of time in which the interest is <?new-line?>vested in them.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Property blight caused by temporary works or structures</Title>
+<P1>
+<Pnumber>1C</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Where the value of an interest in land is depreciated by property <?new-line?>blight caused by the construction, use or location of temporary <?new-line?>works or structures directly connected to the major national <?new-line?>infrastructure project, then if—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the interest qualifies for a property bond in accordance with <?new-line?>paragraph 7 of Schedule 4; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the temporary works or structures are intended to be or have <?new-line?>been in situ for a period of over 12 months; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>he person entitled to the interest makes an application within <?new-line?>the time provided within subsection (3) below,</Text>
+</P3para>
+</P3>
+<Text><?start-line?>a property bond for that property blight depreciation shall be issued <?new-line?>by the promoter of the major national infrastructure project to the <?new-line?>person making the claim (hereafter also referred to as “the <?new-line?>applicant).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Temporary works or structures directly connected to the major <?new-line?>national infrastructure project shall include work sites or <?new-line?>compounds.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The period of time within which the applicant may apply for a <?new-line?>property bond under this section begins with the date on which the <?new-line?>location of the temporary works or structures is confirmed and ends <?new-line?>on the date that they are removed.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Subject to the provisions of this section, an application for a property <?new-line?>bond under this section shall be determined by the same procedures <?new-line?>and definitions, and operate and have the same effect as a property <?new-line?>bond issued under section 1A and Schedule 4.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>The property blight mentioned in subsection (1) means the <?new-line?>depreciation in value of an interest in land resulting from blight <?new-line?>factors that are or will be a probable consequence of the construction, <?new-line?>use or location of temporary works or structures directly connected <?new-line?>to the major national infrastructure project.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Amendment to section 2 of the 1973 Act</Title>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Section 2 of the 1973 Act is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In section 2(1) after “An interest qualifies for compensation under” insert <?new-line?>“section 1 of”.</Text>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>After section 2(1) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>1A</Pnumber>
+<P2para>
+<Text><?start-line?>An interest qualifies for a property bond under section 1A or 1C of <?new-line?>this Act if the requirements of subsection (2) or, as the case may be, <?new-line?>subsection (3) below are satisfied on the date on which an application <?new-line?>for the property bond is served.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Amendment to section 3 of the 1973 Act</Title>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The heading of section 3 of the 1973 Act is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>After “Claims” insert “under section 1”.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Applications under section 1A</Title>
+<P1>
+<Pnumber>7</Pnumber>
+<P1para>
+<Text><?start-line?>After section 3 insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Applications under section 1A</Title>
+<P1>
+<Pnumber>3A</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>An application under section 1A is to be determined in accordance <?new-line?>with the rules of the property bond scheme.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>An application may only be made within the period of time that—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>begins on the proposal day; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>ends on the day before the first claim day.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Where an application has been served on the promoter, any qualified <?new-line?>person authorised by that promoter may, on giving reasonable <?new-line?>notice, enter the land to which the application relates for the purpose <?new-line?>of surveying it and ascertaining its value in connection with the <?new-line?>application; and any person who wilfully obstructs a person in the <?new-line?>exercise of the powers conferred by this subsection shall be guilty of <?new-line?>an offence and liable on summary conviction to a fine not exceeding <?new-line?>level 1 on the standard scale.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Where a property bond has been issued there shall be payable by the <?new-line?>promoter any reasonable valuation or legal expenses incurred by the <?new-line?>applicant for the purposes of the preparation and prosecution of the <?new-line?>application; but this subsection is without prejudice to the power of <?new-line?>the Upper Tribunal in respect of the costs of and incidental to <?new-line?>proceedings in the Upper Tribunal by virtue of section 29 of the <?new-line?>Tribunals, Courts and Enforcement Act 2007.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Amendment to section 4 of the 1973 Act</Title>
+<P1>
+<Pnumber>8</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Section 4 of the 1973 Act is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>At the end of the heading of section 4 insert “for section 1 claims”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In section 4(1) after “The compensation payable on any claim” insert “made <?new-line?>under section 1”.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<?new-page?><P1group>
+<Title><?start-line?>Valuation of an interest in land: general provisions for section 1A claims</Title>
+<P1>
+<Pnumber>9</Pnumber>
+<P1para>
+<Text><?start-line?>After section 4 of the 1973 Act insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Valuation of an interest in land: general provisions for section 1A <?new-line?>applications</Title>
+<P1>
+<Pnumber>4A</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Where a property bond under section 1A is issued to a person who <?new-line?>was entitled to the interest in land on the proposal day, the value of <?new-line?>the depreciation of that interest that is the subject of the bond shall be <?new-line?>assessed by reference to the open market value of the applicant‘s <?new-line?>interest in land on the day before the proposal day.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Where a property bond under section 1A is issued to a person who <?new-line?>has purchased the interest in land at the depreciated purchase price, <?new-line?>the value of any further depreciation of that interest that is the <?new-line?>subject of the further bond shall be assessed by reference to the <?new-line?>depreciated purchase price.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The value of the interest in respect of which the application is made <?new-line?>shall be assessed—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>subject to subsection (3) below, by reference to the nature of <?new-line?>the interest and the condition of the land as it subsisted on the <?new-line?>date of the application;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>subject to section 5 below, in accordance with rules (2) to (4) <?new-line?>of the rules set out in section 5 of the Land Compensation Act <?new-line?>1961;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>if the interest is subject to a mortgage or to a contract of sale <?new-line?>or to a contract made after the relevant date for the grant of a <?new-line?>tenancy, as if it were not subject to the mortgage or contract.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>In assessing the value of the interest in respect of which the <?new-line?>application is made there shall be left out of account any part of that <?new-line?>value which is attributable to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>any building, or improvement or extension of a building, on <?new-line?>the land if the building or, as the case may be, the building as <?new-line?>improved or extended, was first occupied after the proposal <?new-line?>day; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>any change in the use of the land made after that date.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Amendment to section 5 of the 1973 Act</Title>
+<P1>
+<Pnumber>10</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Section 5 of the 1973 Act is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In section 5(1) after “in respect of which the claim” insert “or application <?new-line?>under section 1 or 1A”.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Assessment of value: duty to act fairly</Title>
+<P1>
+<Pnumber>11</Pnumber>
+<P1para>
+<Text><?start-line?>After section 5 of the 1973 Act insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Assessment of value: duty to act fairly</Title>
+<P1>
+<Pnumber>5A</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The valuation of the depreciation in value of an interest in land <?new-line?>caused by property blight is the value that fairly compensates an <?new-line?>applicant for the loss that applicant has suffered or will suffer, by <?new-line?>reason of the property blight.</Text>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State must publish a code of conduct on the fair <?new-line?>assessment of value consistent with the duty to act fairly set out in <?new-line?>subsection (1).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In this Part of this Act “code of conduct” means the code of conduct <?new-line?>published under this section as it is in force for the time being.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State must lay the code of conduct before <?new-line?>Parliament.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>Promoters shall have due regard to the code of conduct at all stages <?new-line?>of the major national infrastructure project.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Amendment to section 8 of the 1973 Act</Title>
+<P1>
+<Pnumber>12</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Section 8 of the 1973 Act is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In section 8(1) after “Where a claim” insert “under section 1”.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Amendment to section 15 of the 1973 Act</Title>
+<P1>
+<Pnumber>13</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Section 15 of the 1973 Act is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>After section 15(2) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>2A</Pnumber>
+<P2para>
+<Text><?start-line?>The promoter in relation to a major national infrastructure project <?new-line?>must keep a record and, on demand, furnish a statement in writing <?new-line?>of the date of the proposal day.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Amendment to section 16 of the 1973 Act</Title>
+<P1>
+<Pnumber>14</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Section 16 of the 1973 Act is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In section 16(1) after “Any question of disputed compensation” insert “or <?new-line?>disputes arising from a property bond”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?new-line?>In section 16(2) after “No such question arising out of a claim” insert “under <?new-line?>section 1”.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Amendment to section 19 of the 1973 Act</Title>
+<P1>
+<Pnumber>15</Pnumber>
+<P1para>
+<Text><?start-line?>In section 19 of the 1973 Act insert at the appropriate place—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>““depreciated purchase price” means in relation to the sale of a <?new-line?>property where a property bond has been issued and redeemed, the <?new-line?>reduced price paid for that interest in land as a result of property <?new-line?>blight;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“major national infrastructure project” has the same meaning as <?new-line?>“nationally significant infrastructure project” in Part 3 of the <?new-line?>Planning Act 2008;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“promoter” means the company, organisation, Government <?new-line?>department or responsible authority that has overall responsibility <?new-line?>for developing and promoting the major national infrastructure <?new-line?>project;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“proposal day” means in relation to the major national infrastructure <?new-line?>project the date on which—</Text>
+<OrderedList Decoration="parens" Type="alpha">
+<ListItem>
+<Para>
+<Text><?start-line?>the initial infrastructure plan or any subsequent amendment <?new-line?>is proposed;</Text>
+</Para>
+</ListItem>
+<?new-page?><ListItem>
+<Para>
+<Text><?start-line?>a planning application is submitted; or</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>where (a) and (b) above are not applicable: formal plans, <?new-line?>proposals or maps are proposed which provide sufficient <?new-line?>detail for the preferred location to be clearly identified;</Text>
+</Para>
+</ListItem>
+</OrderedList>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“the 1973 Act” means the Land Compensation Act 1973;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“traffic flows” means the additional traffic arising from construction <?new-line?>work, road diversions or otherwise in direct connection with the <?new-line?>major national infrastructure project.”</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Orders and regulations</Title>
+<P1>
+<Pnumber>16</Pnumber>
+<P1para>
+<Text><?start-line?>After section 19 of the 1973 Act insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Orders and regulations</Title>
+<P1>
+<Pnumber>19A</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Any power to make an order under Schedule 4 of this Act is <?new-line?>exercisable by statutory instrument.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>A statutory instrument containing an order under Schedule 4 of this <?new-line?>Act may not be made unless a draft of the instrument has been laid <?new-line?>before and approved by a resolution of each House of Parliament.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Schedule: Property Bond Scheme</Title>
+<P1>
+<Pnumber>17</Pnumber>
+<P1para>
+<Text><?start-line?>After Schedule 3 of the 1973 Act there is inserted—</Text>
+<BlockAmendment TargetClass="primary" Context="schedule" TargetSubClass="unknown" Format="double">
+<Schedule NumberFormat="default">
+<Number>Schedule 4</Number>
+<TitleBlock>
+<Title><?start-line?>Property Bond Scheme</Title>
+</TitleBlock>
+<ScheduleBody>
+<P1group>
+<Title><?start-line?>General details</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<Text><?start-line?>This Schedule shall have effect.</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<Text><?start-line?>The Secretary of State must establish a property bond scheme, <?new-line?>which is to be referred to as the “Property Bond Scheme”.</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<Text><?start-line?>A bond issued under the Property Bond Scheme is to be referred <?new-line?>to as a “property bond”.</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<Text><?start-line?>The Secretary of State must by order publish and maintain rules <?new-line?>for the operation of the Property Bond Scheme, which shall <?new-line?>include—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the contents, submission and service of an application;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>disclosure of documents;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>providing evidence of open market value;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>the setting, collection and payment of any fees;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>an independent process for assessing and reaching <?new-line?>agreement on the open market value of the interest in land;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>f</Pnumber>
+<P3para>
+<Text><?start-line?>registration of an application for, or of a property bond;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>g</Pnumber>
+<P3para>
+<Text><?start-line?>the valuation evidence to be provided upon disposition of <?new-line?>an interest in land in accordance with paragraph (18) <?new-line?>below;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>h</Pnumber>
+<P3para>
+<Text><?start-line?>an independent process for assessing and reaching <?new-line?>agreement on the redemption value of the property bond;</Text>
+
+</P3para></P3>
+<?new-page?><P3>
+<Pnumber>i</Pnumber>
+<P3para>
+<Text><?start-line?>payment by the promoter upon redemption of a property <?new-line?>bond;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>j</Pnumber>
+<P3para>
+<Text><?start-line?>the creation of any standard forms.</Text>
+
+</P3para></P3>
+</P1para>
+</P1>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<Text><?start-line?>A property bond is a bond between the promoter of the major <?new-line?>national infrastructure project and an applicant under the terms of <?new-line?>which the promoter agrees to indemnify the applicant against any <?new-line?>depreciation in value of the applicant’s interest in land as a result <?new-line?>of property blight from—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>upon first application for a property bond by a person <?new-line?>entitled to the interest in land on the proposal day, the <?new-line?>agreed open market value of that interest; or</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>upon application for a further property bond by a person <?new-line?>entitled to the interest in land following sale of that interest <?new-line?>to them and redemption of a property bond, the <?new-line?>depreciated purchase price.</Text>
+
+</P3para></P3>
+</P1para>
+</P1>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<Text><?start-line?>The date in relation to which the open market value shall be <?new-line?>assessed is—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>under section 1A the day before the proposal day; or</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>under section 1C the day before the location of the <?new-line?>temporary works or structures is confirmed.</Text>
+
+</P3para></P3>
+</P1para>
+</P1>
+<P1>
+<Pnumber>7</Pnumber>
+<P1para>
+<Text><?start-line?>An interest in land qualifies for the issuing of a property bond if—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the application is made within the time limits in <?new-line?>accordance with section 1C or 3A;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>it falls within a geographical area affected by blight as <?new-line?>depicted on the amalgamated blight map;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>the applicant provides proof of the open market-value on <?new-line?>the day before the proposal day or the depreciated <?new-line?>purchase price;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>the application complies with all relevant rules of the <?new-line?>Property Bond Scheme.</Text>
+
+</P3para></P3>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Amalgamated blight map</Title>
+<P1>
+<Pnumber>8</Pnumber>
+<P1para>
+<Text><?start-line?>The Promoter of any nationally significant major infrastructure <?new-line?>project shall on the proposal day publish an amalgamated blight <?new-line?>map.</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>9</Pnumber>
+<P1para>
+<Text><?start-line?>The amalgamated blight map must show the geographical area <?new-line?>that will be affected by blight factors (including as a result of <?new-line?>temporary works or structures), in accordance with paragraph <?new-line?>(11) below.</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>10</Pnumber>
+<P1para>
+<Text><?start-line?>Where the blight factor of noise is applicable to the major national <?new-line?>infrastructure project, the exposure to noise is to be measured and <?new-line?>depicted on the amalgamated blight map in accordance with the <?new-line?>Environmental Noise (England) Regulations 2006, Regulation 4 <?new-line?>and Schedule 2: Assessment methods for the noise indicators.</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>11</Pnumber>
+<P1para>
+<Text><?start-line?>The Secretary of State must for each nationally significant major <?new-line?>infrastructure project—</Text>
+<?new-page?><P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>set the levels for which each property blight factor should <?new-line?>be deemed to be at a level at which property bonds should <?new-line?>be granted; and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>set the boundaries of the blight factors on the amalgamated <?new-line?>blight map for that project in accordance with that <?new-line?>decision.</Text>
+
+</P3para></P3>
+</P1para>
+</P1>
+<P1>
+<Pnumber>12</Pnumber>
+<P1para>
+<Text><?start-line?>The promoter must keep the amalgamated blight map up to date, <?new-line?>and must refer the map back to the Secretary of State where <?new-line?>further decisions under paragraph (11) are necessary.</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>13</Pnumber>
+<P1para>
+<Text><?start-line?>The Secretary of State must by order establish a mechanism for <?new-line?>appeals by applicants against the amalgamated blight map on <?new-line?>issues affecting an individual property.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Application</Title>
+<P1>
+<Pnumber>14</Pnumber>
+<P1para>
+<Text><?start-line?>An application for a property bond must be served on the <?new-line?>promoter.</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>15</Pnumber>
+<P1para>
+<Text><?start-line?>The promoter shall within 21 days of service of the application <?new-line?>inform an applicant that it—</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>a</Pnumber>
+<P1para>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>agrees with the open market value or depreciated <?new-line?>purchase price as set out in the application; or</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>disagrees with the open market value as set out in the <?new-line?>application and provide reasons for its disagreement and <?new-line?>make a counter-offer.</Text>
+
+</P3para></P3>
+</P1para>
+</P1>
+<P1>
+<Pnumber>16</Pnumber>
+<P1para>
+<Text><?start-line?>The rules of the Property Bond Scheme shall provide for a process <?new-line?>for assessing and reaching agreement on the open market value of <?new-line?>the interest in land.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Redeeming Bond</Title>
+<P1>
+<Pnumber>17</Pnumber>
+<P1para>
+<Text><?start-line?>An applicant who wishes to dispose of an interest in land may—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>dispose of that interest at the depreciated value and <?new-line?>redeem the property bond; or</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>dispose of that interest at a non-depreciated value without <?new-line?>redeeming the property bond.</Text>
+
+</P3para></P3>
+</P1para>
+</P1>
+<P1>
+<Pnumber>18</Pnumber>
+<P1para>
+<Text><?start-line?>Where an applicant disposes of an interest in land under <?new-line?>paragraph (17)(a) above, one month before the disposition, the <?new-line?>applicant must serve on the promoter a notice of the applicant‘s <?new-line?>intention to dispose of the interest in land, together with the <?new-line?>valuation evidence required under the Property Bond Scheme <?new-line?>rules.</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>19</Pnumber>
+<P1para>
+<Text><?start-line?>Where an applicant disposes of an interest in land under <?new-line?>paragraph (17)(b)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the property bond shall remain annexed and incident to <?new-line?>the interest in land under section 1B above;</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the person in whom the interest in land is now vested must <?new-line?>serve on the promoter details of the sale; and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>that person shall be deemed “the applicant” for all future <?new-line?>purposes relating to the property bond for as long as they <?new-line?>are entitled to that interest in land.</Text>
+
+</P3para></P3>
+</P1para>
+</P1>
+<?new-page?><P1>
+<Pnumber>20</Pnumber>
+<P1para>
+<Text><?start-line?>No property bond may be redeemed after the first claim day, and <?new-line?>any unredeemed property bonds as at the date of the first claim <?new-line?>day shall be rendered void.</Text>
+</P1para>
+</P1>
+</P1group>
+</ScheduleBody>
+</Schedule>
+</BlockAmendment>
+</P1para>
+</P1>
+</P1group>
+</ScheduleBody>
+</Schedule>
+</Schedules>
+</Primary>
+</Legislation>

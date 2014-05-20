@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>Deep Sea Mining Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>27/1/2014</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 81" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="3" />
+<ukm:House Value="House of Lords" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Cover>
+<CoverTitle>EXPLANATORY NOTES</CoverTitle>
+<CoverPara><Text><?start-line?>Explanatory notes to the Bill, prepared by the Foreign and Commonwealth Office <?new-line?>with the consent of Baroness Wilcox, the Peer in charge of the Bill, are published <?new-line?>separately as HL Bill 81—EN.</Text></CoverPara>
+</Cover><Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsItem ContentRef="p00004">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Amendments of Deep Sea Mining (Temporary Provisions) Act 1981</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00005">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>Extent, commencement and short title</ContentsTitle>
+</ContentsItem>
+<ContentsSchedules>
+<ContentsSchedule ContentRef="p00006">
+<ContentsNumber>Schedule</ContentsNumber>
+<ContentsTitle>Amendments of Deep Sea Mining (Temporary Provisions) Act <?new-line?>1981</ContentsTitle>
+</ContentsSchedule>
+</ContentsSchedules>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Make provision about deep sea mining; and for connected purposes.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<P1group id="p00004">
+<Title><?start-line?>Amendments of Deep Sea Mining (Temporary Provisions) Act 1981</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Deep Sea Mining (Temporary Provisions) Act 1981 has effect subject to the <?new-line?>amendments in the Schedule (which include amendments giving effect to <?new-line?>obligations of the United Kingdom under Part XI of the United Nations <?new-line?>Convention on the Law of the Sea).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The Deep Sea Mining (Temporary Provisions) Act 1981 may be cited as the <?new-line?>Deep Sea Mining Act 1981.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00005">
+<Title><?start-line?>Extent, commencement and short title</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Act extends to England and Wales, Scotland and Northern Ireland.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Section 18(6) of the Deep Sea Mining (Temporary Provisions) Act 1981 (power <?new-line?>to extend provisions of that Act to the Channel Islands, the Isle of Man or any <?new-line?>British overseas territory) applies to the provisions of this Act amending that <?new-line?>Act.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>This Act comes into force at the end of the period of 2 months beginning with <?new-line?>the day on which it is passed.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>This Act may be cited as the Deep Sea Mining Act 2014.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Body>
+<?new-page?>
+<Schedules>
+<Schedule id="p00006" NumberFormat="default">
+<Number><?start-line?>Schedule</Number>
+<TitleBlock>
+<Title><?start-line?>Amendments of Deep Sea Mining (Temporary Provisions) Act 1981</Title>
+</TitleBlock>
+<Reference>Section 1</Reference>
+<ScheduleBody>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<Text><?start-line?>The Deep Sea Mining (Temporary Provisions) Act 1981 is amended as <?new-line?>follows.</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Section 1 (prohibition of unlicensed deep sea mining) is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>For subsections (1) and (2) substitute—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>A person to whom this section applies (“P”) may not explore for <?new-line?>mineral resources of any description in any area of the deep sea bed <?new-line?>unless—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>P holds an exploration licence (see section 2) which is in force <?new-line?>or is the agent or employee of the holder of such a licence <?new-line?>(acting in that capacity), and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the licence relates to mineral resources of that description and <?new-line?>to that area of the deep sea bed.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>A person to whom this section applies (“P”) may not exploit mineral <?new-line?>resources of any description in any area of the deep sea bed unless—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>P holds an exploitation licence (see section 2) which is in force <?new-line?>or is the agent or employee of the holder of such a licence <?new-line?>(acting in that capacity), and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the licence relates to mineral resources of that description and <?new-line?>to that area of the deep sea bed.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2A</Pnumber>
+<P2para>
+<Text><?start-line?>Subsections (1) and (2) are subject to section 3A.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (6) for the definitions of “deep sea bed” and “hard mineral <?new-line?>resources” substitute—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“deep sea bed” means the area of the sea bed situated beyond <?new-line?>the limits of national jurisdiction of the United Kingdom or <?new-line?>any other State;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“mineral resource” means a solid, liquid or gaseous mineral <?new-line?>resource;</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (7) for the words from “certifying” to “Power” substitute “or <?new-line?>the Scottish Ministers certifying that an area of the sea bed is beyond the <?new-line?>limits of national jurisdiction of the United Kingdom or any other State”.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Section 2 (exploration and exploitation licences) is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>For subsection (1) substitute—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>In this Act—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“the Authority” means the International Seabed Authority;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“corresponding contract” means—</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<OrderedList Decoration="parens" Type="alpha">
+<ListItem>
+<Para>
+<Text><?start-line?>in relation to an exploration licence, a contract which <?new-line?>is granted by the Authority to the licensee and </Text><?new-page?><?start-line?>  <Text>authorises exploration for the licensed mineral <?new-line?>resource in the licensed area, and</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>in relation to an exploitation licence, a contract which <?new-line?>is granted by the Authority to the licensee and <?new-line?>authorises the exploitation of the licensed mineral <?new-line?>resource in the licensed area;</Text>
+</Para>
+</ListItem>
+</OrderedList>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“exploration licence” means a licence under this section <?new-line?>authorising the licensee to explore for mineral resources of a <?new-line?>description specified in the licence in an area so specified;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“exploitation licence” means a licence under this section <?new-line?>authorising the licensee to exploit mineral resources of a <?new-line?>description specified in the licence in an area so specified;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“granted by the Authority”, in relation to a contract, means <?new-line?>granted by the Authority in accordance with Article 153 of <?new-line?>the Convention;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“plan of work” means a programme of activities and <?new-line?>expenditure.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (2)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>omit “subsection (4) and”, and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>for the words from “the Secretary of State” to the end substitute—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>the Secretary of State may on payment of such fee as <?new-line?>may with the consent of the Treasury be prescribed <?new-line?>grant to such persons as the Secretary of State thinks <?new-line?>fit exploration or exploitation licences, except where <?new-line?>the Scottish Ministers have power to grant the <?new-line?>exploration or exploitation licence in question;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the Scottish Ministers may on payment of such fee as <?new-line?>may be prescribed grant to such persons as they think <?new-line?>fit exploration or exploitation licences.</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>.</AppendText>
+
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>For subsection (3) substitute—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>An exploration or exploitation licence—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>may be granted for such period as the Secretary of State <?new-line?>thinks fit or, as the case may be, the Scottish Ministers think <?new-line?>fit, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>must not come into force before the date on which a <?new-line?>corresponding contract comes into force.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3A</Pnumber>
+<P2para>
+<Text><?start-line?>An exploration or exploitation licence may contain such terms and <?new-line?>conditions as the Secretary of State thinks fit or, as the case may be, <?new-line?>the Scottish Ministers think fit, including, in particular, terms and <?new-line?>conditions—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>relating to the safety, health or welfare of persons employed <?new-line?>in the licensed operations or in the ancillary operations;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>relating to the processing or other treatment of any mineral <?new-line?>resources extracted in pursuance of the licence which is <?new-line?>carried out by or on behalf of the licensee on any ship;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>relating to the disposal of any waste material resulting from <?new-line?>such processing or other treatment;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text><?start-line?>requiring plans, returns, accounts or other records with <?new-line?>respect to any matter connected with the licensed mineral <?new-line?>resource and the licensed area or licensed operations or </Text><?new-page?><?start-line?>  <Text>ancillary operations, to be provided to the Secretary of State <?new-line?>or, as the case may be, the Scottish Ministers;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>requiring samples of the licensed mineral resource <?new-line?>discovered in or extracted from the licensed area, or assays of <?new-line?>such samples, to be provided to the Secretary of State or, as <?new-line?>the case may be, the Scottish Ministers;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>f</Pnumber>
+<P3para>
+<Text><?start-line?>requiring any exploration for or exploitation of the licensed <?new-line?>mineral resource in the licensed area to be diligently carried <?new-line?>out;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>g</Pnumber>
+<P3para>
+<Text><?start-line?>requiring the licensee to comply with such provisions of the <?new-line?>Convention and the Agreement, interpreted in accordance <?new-line?>with Article 2 of the Agreement, as are applicable to <?new-line?>contractors;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>h</Pnumber>
+<P3para>
+<Text><?start-line?>requiring compliance with any other rules, regulations and <?new-line?>procedures issued or adopted by the Authority, as are <?new-line?>applicable to contractors;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>i</Pnumber>
+<P3para>
+<Text><?start-line?>requiring compliance with a corresponding contract;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>j</Pnumber>
+<P3para>
+<Text><?start-line?>requiring compliance with any plan of work authorised by a <?new-line?>corresponding contract;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>k</Pnumber>
+<P3para>
+<Text><?start-line?>requiring payment to the Secretary of State of such sums as <?new-line?>may with the consent of the Treasury be prescribed at such <?new-line?>times as may be prescribed;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>l</Pnumber>
+<P3para>
+<Text><?start-line?>requiring payment to the Scottish Ministers of such sums as <?new-line?>may be prescribed at such times as may be prescribed; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>m</Pnumber>
+<P3para>
+<Text><?start-line?>permitting the transfer of the licence in prescribed cases or <?new-line?>with the written consent of the Secretary of State or, as the <?new-line?>case may be, the Scottish Ministers.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>Omit subsection (4).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>For subsection (5) substitute—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>Where the Secretary of State has, or the Scottish Ministers have, <?new-line?>granted an exploration licence, neither the Secretary of State nor the <?new-line?>Scottish Ministers may grant an exploitation licence which relates to <?new-line?>any part of the licensed area in relation to the exploration licence and <?new-line?>to any of the mineral resources to which that licence relates unless <?new-line?>the exploitation licence is granted—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>to the holder of the exploration licence, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>with that person’s written consent.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</BlockAmendment>
+</P2para>
+</P2>
+</P1para>
+</P1>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<Text><?start-line?>For section 3 substitute—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Contracts granted by the Authority</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Neither the Secretary of State nor the Scottish Ministers may grant an <?new-line?>exploration or exploitation licence which relates to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>any area of the deep sea bed in respect of which a contract <?new-line?>granted by the Authority is in force, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>any description of mineral resources to which the contract <?new-line?>relates.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>a</Pnumber>
+<P2para>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>any area of the deep sea bed in respect of which a contract <?new-line?>granted by the Authority is in force, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>any description of mineral resources to which the contract <?new-line?>relates.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Subsection (1) does not apply where the contract is a corresponding <?new-line?>contract in relation to a licence previously granted by the Secretary <?new-line?>of State or the Scottish Ministers.</Text>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>For the purposes of any proceedings a contract granted by the <?new-line?>Authority may be proved by the production of a copy of the contract <?new-line?>certified to be a true copy by an official of the Authority; and any <?new-line?>document purporting to be such a copy is to be received in evidence <?new-line?>and is to be deemed to be such a contract unless the contrary is <?new-line?>proved.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Exemptions from prohibition in section 1</Title>
+<P1>
+<Pnumber>3A</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>A person to whom section 1 applies (“P”) is not prohibited by that <?new-line?>section from prospecting for mineral resources in any area of the <?new-line?>deep sea bed if P does so in accordance with the terms of a <?new-line?>notification of prospecting—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>given by P to the Authority under the Convention, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>recorded by the Authority as complying with the <?new-line?>requirements of the Convention.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Where a person to whom section 1 applies holds a contract for <?new-line?>exploration granted by the Authority or is the agent or employee of <?new-line?>the holder of such a contract (acting in that capacity), that person is <?new-line?>not prohibited by that section from exploring for any of the <?new-line?>description of mineral resources to which the contract relates in any <?new-line?>area of the deep sea bed in respect of which the contract is in force.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Where a person to whom section 1 applies holds a contract for <?new-line?>exploitation granted by the Authority or is the agent or employee of <?new-line?>the holder of such a contract (acting in that capacity), that person is <?new-line?>not prohibited by that section from exploiting any of the description <?new-line?>of mineral resources to which the contract relates in any area of the <?new-line?>deep sea bed in respect of which the contract is in force.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P1para>
+</P1>
+<P1>
+<Pnumber>5</Pnumber>
+<P1para>
+<Text><?start-line?>In section 4 (prevention of interference with licensed operations), in <?new-line?>subsection (1), for the words from “pursuance” onwards substitute <?new-line?>“pursuance of—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>a contract granted by the Authority; or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>an exploration or exploitation licence.</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+</P1para>
+</P1>
+<P1>
+<Pnumber>6</Pnumber>
+<P1para>
+<Text><?start-line?>In section 5 (protection of the marine environment)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in subsection (1)—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>after “State”, in the first place, insert “or, as the case may be, <?new-line?>the Scottish Ministers”,</Text>
+
+</P4para></P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>after “State”, in the second place, insert “or the Scottish <?new-line?>Ministers”, and</Text>
+
+</P4para></P4>
+<P4>
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text><?start-line?>after “him” insert “(or them)”, and</Text>
+
+</P4para></P4>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in subsection (2)—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>for “section 2(3)” substitute “section 2(3A)”,</Text>
+
+</P4para></P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>after “State” insert “or the Scottish Ministers”, and</Text>
+
+</P4para></P4>
+<P4>
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text><?start-line?>after “considers” insert “(or they consider)”.</Text>
+
+</P4para></P4>
+
+</P3para></P3>
+</P1para>
+</P1>
+<P1>
+<Pnumber>7</Pnumber>
+<P1para>
+<Text><?start-line?>In section 6 (variation or revocation of licences), after subsection (2) insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>This section applies in relation to an exploration or exploitation <?new-line?>licence granted by the Scottish Ministers as if references to the <?new-line?>Secretary of State were references to the Scottish Ministers.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+</P1para>
+</P1>
+<P1>
+<Pnumber>8</Pnumber>
+<P1para>
+<Text><?start-line?>In section 8 (foreign discriminatory action)—</Text>
+<?new-page?><P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in subsection (1), after “State” insert “or, as the case may be, the <?new-line?>Scottish Ministers”,</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in subsection (2)—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>for “section 2(3) above, the Secretary of State” substitute <?new-line?>“section 2(3A) above, the Secretary of State or the Scottish <?new-line?>Ministers”, and</Text>
+
+</P4para></P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>after “considers” insert “(or they consider)”, and</Text>
+
+</P4para></P4>
+
+</P3para></P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>in subsection (4), after “State” insert “or, as the case may be, the <?new-line?>Scottish Ministers”.</Text>
+
+</P3para></P3>
+</P1para>
+</P1>
+<P1>
+<Pnumber>9</Pnumber>
+<P1para>
+<Text><?start-line?>After section 8 insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Enforcement of decisions of the Seabed Disputes Chamber</Title>
+<P1>
+<Pnumber>8A</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>A decision of the Seabed Disputes Chamber of the Tribunal in <?new-line?>relation to a dispute of a type described in Article 187(c), (d) or (e) of <?new-line?>the Convention may be registered in the High Court or the Court of <?new-line?>Session (“the registering court”) in such manner as may be <?new-line?>prescribed by rules of court.</Text>
+</P2para>
+</P2>
+<P2 id="p00007">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Where a decision is registered under this section, it is to be treated for <?new-line?>the following purposes as if it had been originally given by the <?new-line?>registering court and had (where relevant) been entered—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>its force and effect for the purposes of enforcement;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>the powers of the registering court in relation to its <?new-line?>enforcement;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>the taking of proceedings for or with respect to its <?new-line?>enforcement.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 id="p00008">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Where a decision registered under this section provides for payment <?new-line?>of a sum of money, the debt resulting from the registration is to carry <?new-line?>interest as if the decision were a judgment of the registering court <?new-line?>and the debt had become due on the date of registration.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Where a decision is registered under this section, the reasonable <?new-line?>costs and expenses of and incidental to its registration are to be <?new-line?>recoverable as if they were sums recoverable under the decision.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>Costs or expenses recoverable by virtue of subsection (4) are to carry <?new-line?>interest as if they were the subject of an order for costs and expenses <?new-line?>made by the registering court on the date of registration.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>Subsection <InternalLink id="i00001" Ref="p00007">(2)</InternalLink> is subject to any provision made by rules of court as to <?new-line?>the manner in which and conditions subject to which a decision <?new-line?>registered under this section may be enforced.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>In the application of this section in relation to Scotland references to <?new-line?>costs are to be disregarded.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Proof and admissibility of decisions of the Seabed Disputes Chamber</Title>
+<P1>
+<Pnumber>8B</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>For the purposes of section 8A a document, duly authenticated, <?new-line?>which purports to be a copy of a decision given by the Seabed <?new-line?>Disputes Chamber of the Tribunal is without further proof to be <?new-line?>taken to be a true copy, unless the contrary is shown</Text>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>A document purporting to be a copy of a decision given by the <?new-line?>Seabed Disputes Chamber of the Tribunal is duly authenticated for <?new-line?>the purposes of this section if it purports—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>to bear the seal of the Tribunal, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>to be certified by any person in the person’s capacity as a <?new-line?>judge of the Tribunal, the Registrar of the Tribunal or a <?new-line?>member of the staff of the Registrar to be a true copy of a <?new-line?>decision given by the Tribunal.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Nothing in this section prejudices the admission in evidence of any <?new-line?>document which is admissible apart from this section.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Recognition and enforcement of arbitration awards</Title>
+<P1>
+<Pnumber>8C</Pnumber>
+<P1para>
+<Text><?start-line?>An award made in pursuance of Article 188(2)(a) of the Convention <?new-line?>(disputes concerning interpretation or application of contracts)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>is to be treated for the purposes of Part 3 of the Arbitration <?new-line?>Act 1996 (recognition and enforcement of certain foreign <?new-line?>awards) as a New York Convention award, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>is to be treated for the purposes of sections 18 to 22 of the <?new-line?>Arbitration (Scotland) Act 2010 (which make similar <?new-line?>provision for Scotland) as a Convention award,</Text>
+</P3para>
+</P3>
+<Text><?start-line?>whether or not (in either case) it would be so treated apart from this <?new-line?>section.</Text>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P1para>
+</P1>
+<P1>
+<Pnumber>10</Pnumber>
+<P1para>
+<Text><?start-line?>Omit section 9 (the deep sea mining levy) and section 10 (the Deep Sea <?new-line?>Mining Fund).</Text>
+</P1para>
+</P1>
+<P1>
+<Pnumber>11</Pnumber>
+<P1para>
+<Text><?start-line?>In section 11 (inspectors)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in subsection (1)—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>after “State” insert “or the Scottish Ministers”,</Text>
+
+</P4para></P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>after “him”, in both places, insert “(or them)”, and</Text>
+
+</P4para></P4>
+<P4>
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text><?start-line?>after “considers” insert “(or they consider)”, and</Text>
+
+</P4para></P4>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>in subsection (2)—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text><?start-line?>after “State”, in the first place, insert “or the Scottish <?new-line?>Ministers”, and</Text>
+
+</P4para></P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text><?start-line?>for “may determine with the approval” substitute “or, as the <?new-line?>case may be, the Scottish Ministers, may determine with the <?new-line?>approval (in the case of an appointment by the Secretary of <?new-line?>State)”.</Text>
+
+</P4para></P4>
+
+</P3para></P3>
+</P1para>
+</P1>
+<P1>
+<Pnumber>12</Pnumber>
+<P1para>
+<Text><?start-line?>For section 12 substitute—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Regulations and orders</Title>
+<P1>
+<Pnumber>12</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>The Secretary of State may make regulations—</Text>
+</P2para>
+</P2>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>prescribing anything required or authorised to be prescribed <?new-line?>under this Act in relation to an exploration or exploitation <?new-line?>licence granted or to be granted by the Secretary of State;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>generally for carrying this Act into effect, except where the <?new-line?>Scottish Ministers have power to make provision under <?new-line?>subsection (2)(b).</Text>
+</P3para>
+</P3>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The Scottish Ministers may make regulations—</Text>
+<?new-page?><P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>prescribing anything required or authorised to be prescribed <?new-line?>under this Act in relation to an exploration or exploitation <?new-line?>licence granted or to be granted by the Scottish Ministers;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>generally for carrying this Act into effect.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Regulations under this section may, in particular, make provision <?new-line?>with respect to any of the matters mentioned in the Schedule.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Regulations under this section may make different provision for <?new-line?>different cases or classes of case and may exclude the operation of <?new-line?>any provision of the regulations in specified cases.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text><?start-line?>Any power of the Secretary of State to make regulations or an order <?new-line?>under this Act is exercisable by statutory instrument.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text><?start-line?>A statutory instrument containing regulations made under this Act <?new-line?>by the Secretary of State is subject to annulment in pursuance of a <?new-line?>resolution of either House of Parliament.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text><?start-line?>Regulations under subsection (2) are subject to the negative <?new-line?>procedure, within the meaning of section 28 of the Interpretation and <?new-line?>Legislative Reform (Scotland) Act 2010.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P1para>
+</P1>
+<P1>
+<Pnumber>13</Pnumber>
+<P1para>
+<Text><?start-line?>In section 13(1) (disclosure of information)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>in paragraph (b), for “or the Secretary of State” substitute “, the <?new-line?>Secretary of State or the Scottish Ministers”; and</Text>
+
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>for paragraph (e) substitute—</Text>
+
+</P3para></P3>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text><?start-line?>to the Authority.</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+</P1para>
+</P1>
+<P1>
+<Pnumber>14</Pnumber>
+<P1para>
+<Text><?start-line?>For sections 16 and 17 substitute—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Exclusion of certain legislation</Title>
+<P1>
+<Pnumber>16</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Nothing in the following enactments applies to anything done in <?new-line?>pursuance of an exploration or exploitation licence or a contract <?new-line?>granted by the Authority.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>Those enactments are—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text><?start-line?>Part 2 of the Food and Environment Protection Act 1985 <?new-line?>(deposits in the sea);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text><?start-line?>Part 4 of the Marine and Coastal Access Act 2009 (marine <?new-line?>licensing);</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text><?start-line?>Part 4 of the Marine (Scotland) Act 2010 (marine licensing).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title><?start-line?>Interpretation</Title>
+<P1>
+<Pnumber>17</Pnumber>
+<P1para>
+<Text><?start-line?>In this Act—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text><?start-line?>“the Agreement” means the Agreement relating to the <?new-line?>Implementation of Part XI of the United Nations Convention <?new-line?>on the Law of the Sea of December 1982;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“ancillary operations”, in relation to any licensed operations, <?new-line?>means any activity carried on by or on behalf of the licensee <?new-line?>which is ancillary to the licensed operations (including the <?new-line?>processing and transportation of any substances recovered);</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“the Authority” has the meaning given by section 2;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“the Convention” means the United Nations Convention on the <?new-line?>Law of the Sea;</Text>
+</Para>
+</ListItem>
+<?new-page?><ListItem>
+<Para>
+<Text><?start-line?>“corresponding contract” has the meaning given by section 2;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“deep sea bed” has the meaning given by section 1;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“deep sea bed mining operations” means any exploration or <?new-line?>exploitation of the mineral resources of the deep sea bed;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“exploitation” means commercial exploitation;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“exploitation licence” has the meaning given by section 2;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“exploration”, in relation to the mineral resources of any area of <?new-line?>the deep sea bed, means the investigation of that area of the <?new-line?>deep sea bed for the purpose of ascertaining whether or not <?new-line?>the mineral resources of that area of the deep sea bed can be <?new-line?>commercially exploited;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“exploration licence” has the meaning given by section 2;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“granted by the Authority”, in relation to a contract, has the <?new-line?>meaning given by section 2;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“inspector” means a person appointed as inspector under <?new-line?>section 11;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“licensed area” in relation to a licence, means the area of the <?new-line?>deep sea bed specified in the licence;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“licensed mineral resource” in relation to a licence, means the <?new-line?>description of mineral resource specified in the licence;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“licensed operations” means any activities which the licensee <?new-line?>may carry on by virtue of their licence;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“licensee” means the holder of an exploration or exploitation <?new-line?>licence;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“mineral resource” has the meaning given by section 1;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“plan of work” has the meaning given by section 2;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“prescribed” (except where used in relation to rules of court) <?new-line?>means prescribed by regulations under section 12;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“prospecting” in relation to the mineral resources of any area of <?new-line?>the deep sea bed, means searching for mineral resources in <?new-line?>that area of the deep sea bed and may include estimating the <?new-line?>composition, size, distribution and economic values of such <?new-line?>mineral resources;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“ship” includes every description of vessel used in navigation;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text><?start-line?>“the Tribunal” means the International Tribunal for the Law of <?new-line?>the Sea.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P1para>
+</P1>
+<P1>
+<Pnumber>15</Pnumber>
+<P1para>
+<Text><?start-line?>After section 17 insert—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P1group>
+<Title><?start-line?>Exercise of functions by the Scottish Ministers</Title>
+<P1>
+<Pnumber>17A</Pnumber>
+<P1para>
+<Text><?start-line?>Any provision of this Act which confers a function on the Scottish <?new-line?>Ministers is to be read as conferring a function exercisable only so far <?new-line?>as within devolved competence (within the meaning of section 54 of <?new-line?>the Scotland Act 1998).</Text>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+</P1para>
+</P1>
+<P1>
+<Pnumber>16</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Section 18 (short title etc.) is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>In subsection (1) omit “(Temporary Provisions)”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>Omit subsections (3) to (5).</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+<P1>
+<Pnumber>17</Pnumber>
+<P1para>
+<Text><?start-line?>In the Schedule, in paragraph 5, after “Secretary of State” insert “(or, in the <?new-line?>case of regulations made under section 12(2), the Scottish Ministers)”.</Text>
+</P1para>
+</P1>
+</ScheduleBody>
+</Schedule>
+</Schedules>
+</Primary>
+</Legislation>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendments>
+   <header>
+      <billtitle>Energy_(Bill48(g))</billtitle>
+      <headertext>AMENDMENTS TO BE MOVED ON REPORT</headertext>
+   </header>
+   <clausenumber>Clause 130</clausenumber>
+   <proposer>BARONESS MADDOCK</proposer>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> Clause 130, page 100, line 16, at end insert&#8212;</quote>
+         <IndentOne>&#8220;(ba) require information to be provided in a form that is clear and easy to understand;&#8221;</IndentOne>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> Clause 130, page 100, line 18, leave out from &#8220;information&#8221; to &#8220;about&#8221; in line 23</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> Clause 130, page 100, line 24, after &#8220;terms&#8221; insert &#8220;to be provided&#8221;</quote>
+      </text>
+   </Amendment>
+   <Amendment>
+      <Number>000</Number>
+      <text>
+         <quote>
+            <B>000:</B> Clause 130, page 100, line 24, at end insert&#8212;</quote>
+         <IndentOne>&#8220;(c) make provision about the way in which information is to be provided, which may in particular require information to be provided&#8212;</IndentOne>
+         <IndentTwo>(i) by means of a code or otherwise using a format readable by an electronic device, or</IndentTwo>
+         <IndentTwo>(ii) in a way which facilitates processing of the information by means of an electronic device.&#8221;</IndentTwo>
+      </text>
+   </Amendment>
+</amendments>

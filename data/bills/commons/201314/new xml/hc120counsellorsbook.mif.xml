@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation C:\development\projects\ActsToSchema\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<ukm:Metadata>
+<dc:title>Counsellors and Psychotherapists (Regulation) Bill</dc:title>
+<dc:identifier>ISBN TO GO HERE</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator>Parliamentary Counsel</dc:creator>
+<dc:date>12/12/2013</dc:date>
+<ukm:BillMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="Bill" />
+<ukm:DocumentMainType Value="PublicBill" />
+<ukm:DocumentStatus Value="final" />
+</ukm:DocumentClassification>
+<ukm:Number Value="Bill 120" />
+<ukm:Parliament Value="55" />
+<ukm:Session Value="3" />
+<ukm:House Value="House of Commons" />
+</ukm:BillMetadata>
+</ukm:Metadata>
+<Contents>
+<Rubric TemplateVersion="4.2.002" xmlns="" /><Rubric xmlns="" /><ContentsTitle>Contents</ContentsTitle>
+<ContentsItem ContentRef="p00005">
+<ContentsNumber>1</ContentsNumber>
+<ContentsTitle>Regulation of mental health practitioners</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00006">
+<ContentsNumber>2</ContentsNumber>
+<ContentsTitle>Code of ethics for registered counsellors, therapists and psychotherapists</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00007">
+<ContentsNumber>3</ContentsNumber>
+<ContentsTitle>Complaints and disciplinary procedures</ContentsTitle>
+</ContentsItem>
+<ContentsItem ContentRef="p00008">
+<ContentsNumber>4</ContentsNumber>
+<ContentsTitle>Short title and commencement</ContentsTitle>
+</ContentsItem>
+</Contents>
+<Primary>
+<PrimaryPrelims>
+<Title><?start-line?>A
+<?new-line?>Bill
+
+<?new-line?>To
+</Title>
+<Number /><LongTitle><?start-line?><Para>
+<Text>Provide that the Health Professionals Council be the regulatory body for <?new-line?>counsellors and psychotherapists; and for connected purposes.<DateOfEnactment><DateText /></DateOfEnactment>
+</Text>
+</Para>
+</LongTitle>
+<DateOfEnactment><DateText /></DateOfEnactment>
+<PrimaryPreamble>
+<EnactingText>
+<Para>
+<Text>B<SmallCaps>e it enacted</SmallCaps> by the Queen’s most Excellent Majesty, by and with the advice and <?new-line?>consent of the Lords Spiritual and Temporal, and Commons, in this present <?new-line?>Parliament assembled, and by the authority of the same, as follows:—</Text>
+</Para>
+</EnactingText>
+</PrimaryPreamble>
+</PrimaryPrelims>
+<Body NumberFormat="default">
+<P1group id="p00005">
+<Title><?start-line?>Regulation of mental health practitioners</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Section 60 of the Health Act 1999 (Regulation of health care and associated <?new-line?>professions) is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>After section 60(2)(ca) the following paragraph is inserted—</Text>
+<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>cb</Pnumber>
+<P3para>
+<Text><?start-line?>the professions regulated by the Counsellors and <?new-line?>Pyschotherapists (Regulation) Act 2013,</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00006">
+<Title><?start-line?>Code of ethics for registered counsellors, therapists and psychotherapists</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Counsellors, therapists and psychotherapists shall be registered by the Health <?new-line?>and Care Professions Council, formerly known as the Health Professions <?new-line?>Council, “the Council”.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>The Council shall prepare and publish a code of ethics (“the code”) for <?new-line?>registered counsellors, therapists and psychotherapists.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text><?start-line?>The code must include a prohibition on gay to straight conversion therapy.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text><?start-line?>Agreement to abide by the code shall be a condition of admission to the register <?new-line?>maintained by the Council under the Health and Social Work Professions <?new-line?>Order 2001 (“the register”).</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00007">
+<Title><?start-line?>Complaints and disciplinary procedures</Title>
+<P1>
+<Pnumber>3</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>Where a patient complains to the Council that a registered counsellor, therapist <?new-line?>or psychotherapist has breached the code, the Council must investigate that <?new-line?>complaint.</Text>
+</P2para>
+</P2>
+<?new-page?><P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>A practitioner found by the Council to have breached the code shall be subject <?new-line?>to disciplinary action by the Council, including temporary or permanent <?new-line?>removal from the register. A breach of that section of the code relating to <?new-line?>prohibition of gay to straight conversion therapy shall result in permanent <?new-line?>removal from the register.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group id="p00008">
+<Title><?start-line?>Short title and commencement</Title>
+<P1>
+<Pnumber>4</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text><?start-line?>This Act may be cited as the Counsellors and Psychotherapists (Regulation) <?new-line?>Act 2013.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text><?start-line?>This Act comes into force at the end of the period of 6 months beginning with <?new-line?>the day on which it is passed.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</Body>
+</Primary>
+</Legislation>
