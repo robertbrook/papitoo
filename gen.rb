@@ -1,40 +1,34 @@
 require 'nokogiri'
 require 'time'
 
-# http://nokogiri.org/Nokogiri/XML/SAX/Document.html
-# grep -Hnrc --colour "hs_TimeCode time=\"2000" *
+doc = Nokogiri::XML(File.open("./data/hansard/march2014/LHAN121.xml"))
 
-class HansardDoc < Nokogiri::XML::SAX::Document
+doc.remove_namespaces!
 
-def start_element name, attrs = []
-  if name.eql?("hs_TimeCode")
-    target = attrs[0][1]
-    puts Time.parse target
-    if Time.parse(target).to_i == 946684800
-      puts "^^^^^^^^dodgy!"
-    end
+timecodes = doc.xpath('//hs_TimeCode')
+
+timecodes.each_with_index do |hs_timecode, index|
+  hs_timecode_time = hs_timecode['time']
+  this_intime = Time.parse(hs_timecode_time).to_i
+  prev_intime = Time.parse(timecodes[index-1]['time']).to_i
+  
+  if this_intime > prev_intime
+    puts "sequence looks ok"
+  else
+    puts "SEQUENCE ERROR #{hs_timecode.line.to_s}"
   end
-end
+  
+#   puts hs_timecode.path
+#   puts hs_timecode.previous_element
 
-def characters string
-
-    # string.strip!
-#     if @is_hs_TimeCode and !string.empty?
-#       puts string
-#     end
-end
-
-def end_element name
+  if this_intime == 946684800
+    puts "Happy New Year: #{hs_timecode_time}
+      LINE #{hs_timecode.line.to_s}
+      URL http://www.publications.parliament.uk#{hs_timecode.parent['url']}
+      "
     
+  end
+  
 end
 
-def processing_instruction(name, content)
-#   puts name
-#   puts content
-end
 
-end
-
-parser = Nokogiri::XML::SAX::Parser.new(HansardDoc.new)
-
-parser.parse(File.open("./data/hansard/march2014/LHAN121.xml"))
