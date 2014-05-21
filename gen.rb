@@ -1,5 +1,9 @@
 require 'nokogiri'
 require 'time'
+require 'logger'
+
+log = Logger.new(STDOUT)
+log.level = Logger::INFO
 
 doc = Nokogiri::XML(File.open("./data/hansard/march2014/LHAN121.xml"))
 
@@ -12,25 +16,19 @@ timecodes.each_with_index do |hs_timecode, index|
   this_intime = Time.parse(hs_timecode_time).to_i
   prev_intime = Time.parse(timecodes[index-1]['time']).to_i
   
-  if this_intime > prev_intime
-#     puts "sequence looks ok"
-  else
-    puts "SEQUENCE ERROR
-      LINE #{hs_timecode.line.to_s}
-      #{hs_timecode_time} follows #{timecodes[index-1]['time']}"
-    puts
+  case
+    when (this_intime == 946684800)
+      log.info ["DEFAULT VALUE", hs_timecode.line, "2000-01-01"]
+      
+    when !(this_intime > prev_intime)
+      log.info ["SEQUENCE", hs_timecode.line, "#{hs_timecode_time} follows #{timecodes[index-1]['time']}"]
+      
+    else
+      log.debug "line looks fine"
+      
   end
   
-#   puts hs_timecode.path
-#   puts hs_timecode.previous_element
-
-  if this_intime == 946684800
-    puts "Happy New Year: #{hs_timecode_time}
-      LINE #{hs_timecode.line.to_s}
-      URL http://www.publications.parliament.uk#{hs_timecode.parent['url']}
-      "
-    
-  end
+  # hs_timecode.parent['url']
   
 end
 
