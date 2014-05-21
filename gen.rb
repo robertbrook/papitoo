@@ -13,9 +13,12 @@ timecodes.each_with_index do |hs_timecode, index|
   prev_intime = Time.parse(timecodes[index-1]['time']).to_i
   
   if this_intime > prev_intime
-    puts "sequence looks ok"
+#     puts "sequence looks ok"
   else
-    puts "SEQUENCE ERROR #{hs_timecode.line.to_s}"
+    puts "SEQUENCE ERROR
+      LINE #{hs_timecode.line.to_s}
+      #{hs_timecode_time} follows #{timecodes[index-1]['time']}"
+    puts
   end
   
 #   puts hs_timecode.path
