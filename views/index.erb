@@ -9,13 +9,20 @@
   </thead>
   <tbody>
 <% @reports.each do |report| %>
-  <tr>
+
+  <% if report.size > 1000000 %>
+   <tr class="warning">
+  <% else %>
+   <tr>
+  <% end %>
+
     <td><%= report.filedir %>
   </td>
   <td><%= report.filexml %>
 </td>
-<td><a href="<%= report.file %>">XML <%= report.size %></a>
-</td>
+
+
+<td><a href="<%= report.file %>">XML</a></td>
   </tr>
 <% end %>
 </tbody>

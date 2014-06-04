@@ -1,6 +1,5 @@
 require 'nokogiri'
 require 'time'
-require 'logger'
 require 'sqlite3'
 require "./app"
 require "sinatra/activerecord/rake"
@@ -16,14 +15,12 @@ def setup
 
   @db = SQLite3::Database.new "report.db"
 
-  @db.execute "create table reports (file text,timestamp text,line text);"
+  @db.execute "create table reports(id INTEGER PRIMARY KEY,file text,timestamp text,line text);"
 
 end
 
 def gen(this)
 
-  log = Logger.new(STDOUT)
-  log.level = Logger::INFO
 
   doc = Nokogiri::XML(File.open(this))
 
@@ -38,8 +35,6 @@ def gen(this)
 
     @db.execute("INSERT INTO reports (file, timestamp, line) VALUES (?, ?, ?)", [this, this_intime, hs_timecode.line])
 
-
-    #   when (this_intime == 946684800)
 
     #   when !(this_intime > prev_intime)
     #     # log.info [this, "SEQUENCE", hs_timecode.line, "#{hs_timecode_time} follows #{timecodes[index-1]['time']}"]
@@ -61,6 +56,8 @@ namespace :log do
 
     gen(this)
     end
+
+    `terminal-notifier -message "Finished"`
   end
 
 

@@ -1,4 +1,3 @@
-require 'uri'
 require "sinatra"
 require "sinatra/activerecord"
 
@@ -7,20 +6,25 @@ set :database, "sqlite3:report.db"
 class Report < ActiveRecord::Base
 
   def filedir
-    self.file.split('/')[2]
+    self.file.split('/')[3]
   end
 
   def filexml
-    self.file.split('/')[3]
+    self.file.split('/')[4]
   end
 
   def size
     File.size(self.file)
   end
-  
+
+  def big
+    self.size > 1000000
+  end
+
 end
 
 helpers do
+
   def title
     if @title
       "#{@title} -- Reporter"
