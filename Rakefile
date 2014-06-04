@@ -5,8 +5,8 @@ require 'sqlite3'
 require "./app"
 require "sinatra/activerecord/rake"
 
-lordstest = "./data/hansard/march2014/LHAN121.xml"
-hansard_xml = FileList['./data/hansard/*/*.xml']
+lordstest = "./public/hansard/march2014/LHAN121.xml"
+hansard_xml = FileList['./public/hansard/*/*.xml']
 
 task :default => 'log:timecodes'
 

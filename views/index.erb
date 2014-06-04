@@ -1,9 +1,22 @@
 
-<ul>
+<table class="table table-hover table-condensed">
+  <thead>
+    <tr>
+      <td>Folder</td>
+      <td>File</td>
+      <td>XML</td>
+    </tr>
+  </thead>
+  <tbody>
 <% @reports.each do |report| %>
-  <li>
-    <a href="<%= data_to_public(report.file) %>"><%= data_to_public(report.file) %></a>
-    <span><%= report.attributes %></span>
-  </li>
+  <tr>
+    <td><%= report.filedir %>
+  </td>
+  <td><%= report.filexml %>
+</td>
+<td><a href="<%= report.file %>">XML <%= report.size %></a>
+</td>
+  </tr>
 <% end %>
-</ul>
+</tbody>
+</table>
