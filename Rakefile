@@ -1,11 +1,24 @@
 require 'nokogiri'
 require 'time'
 require 'logger'
+require 'sqlite3'
+require "./app"
+require "sinatra/activerecord/rake"
 
 lordstest = "./data/hansard/march2014/LHAN121.xml"
 hansard_xml = FileList['./data/hansard/*/*.xml']
 
 task :default => 'log:timecodes'
+
+def setup
+
+  File.delete('report.db')
+
+  @db = SQLite3::Database.new "report.db"
+
+  @db.execute "create table reports (file text,timestamp text,line text);"
+
+end
 
 def gen(this)
 
@@ -23,17 +36,13 @@ def gen(this)
     this_intime = Time.parse(hs_timecode_time).to_i
     prev_intime = Time.parse(timecodes[index-1]['time']).to_i
 
-    case
-      when (this_intime == 946684800)
-        log.info [this, "DEFAULT VALUE", hs_timecode.line, "2000-01-01"]
+    @db.execute("INSERT INTO reports (file, timestamp, line) VALUES (?, ?, ?)", [this, this_intime, hs_timecode.line])
 
-      when !(this_intime > prev_intime)
-        log.info [this, "SEQUENCE", hs_timecode.line, "#{hs_timecode_time} follows #{timecodes[index-1]['time']}"]
 
-      else
-        log.debug "line looks fine"
+    #   when (this_intime == 946684800)
 
-    end
+    #   when !(this_intime > prev_intime)
+    #     # log.info [this, "SEQUENCE", hs_timecode.line, "#{hs_timecode_time} follows #{timecodes[index-1]['time']}"]
 
     # hs_timecode.parent['url']
 
@@ -47,6 +56,7 @@ namespace :log do
 
   desc "Timecodes"
   task :timecodes do
+    setup()
     hansard_xml.each do |this|
 
     gen(this)

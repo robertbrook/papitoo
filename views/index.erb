@@ -1,0 +1,9 @@
+
+<ul>
+<% @reports.each do |report| %>
+  <li>
+    <a href="<%= data_to_public(report.file) %>"><%= data_to_public(report.file) %></a>
+    <span><%= report.attributes %></span>
+  </li>
+<% end %>
+</ul>
