@@ -41,7 +41,7 @@ helpers do
 end
 
 get "/" do
-  # @reports = Report.where(timestamp: "946684800").take(100)
-  @reports = Report.select(:file).distinct
+  @reports = Report.where(timestamp: "946684800").take(100)
+  # @reports = Report.select(:file).distinct
   erb :index
 end
