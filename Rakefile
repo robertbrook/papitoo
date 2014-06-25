@@ -55,6 +55,7 @@ namespace :log do
     hansard_xml.each do |this|
 
     gen(this)
+    `terminal-notifier -message "Processing #{this}"`
     end
 
     `terminal-notifier -message "Finished"`
