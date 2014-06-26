@@ -47,18 +47,18 @@ def gen(this)
 end
 
 
-namespace :log do
+namespace :timecodes do
 
-  desc "Timecodes"
-  task :timecodes do
+  desc "rebuild timecodes report db"
+  task :rebuild do
     setup()
     hansard_xml.each do |this|
 
     gen(this)
-    `terminal-notifier -message "Processing #{this}"`
+    puts "Processing #{this}"
     end
 
-    `terminal-notifier -message "Finished"`
+    puts "Finished"
   end
 
 

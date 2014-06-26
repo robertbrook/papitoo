@@ -2,28 +2,22 @@
 <table class="table table-hover table-condensed">
   <thead>
     <tr>
-      <td>Folder</td>
-      <td>File</td>
-      <td>XML</td>
+      <th>ID</th>
+      <th>Line</th>
+      <th>File</th>
+      <th>Timestamp</th>
+            <th>Decoded</th>
+
     </tr>
   </thead>
   <tbody>
 <% @reports.each do |report| %>
-
-  <% if report.size > 1000000 %>
-   <tr class="warning">
-  <% else %>
-   <tr>
-  <% end %>
-
-    <td><%= report.filedir %>
-      <%= report.id %>
-  </td>
-  <td><%= report.filexml %>
-</td>
-
-
-<td><a href="<%= report.file %>">XML</a></td>
+  <tr>
+  <td><%= report.id %></td>
+  <td><%= report.line %></td>
+  <td><a href='<%= report.static_file_path %>'><%= report.static_file_path %></a></td>
+  <td><%= report.timestamp %></td>
+  <td><%= report.pretty_timestamp %></td>
   </tr>
 <% end %>
 </tbody>

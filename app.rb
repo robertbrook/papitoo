@@ -1,47 +1,26 @@
 require "sinatra"
 require "sinatra/activerecord"
 
-set :database, "sqlite3:report.db"
+set :database, {adapter: "sqlite3", database: "report.db"}
 
 class Report < ActiveRecord::Base
 
-  def filedir
-    self.file.split('/')[3]
+  def static_file_path
+    file.gsub('public/','')
   end
 
-  def filexml
-    self.file.split('/')[4]
+  def pretty_timestamp
+    Time.at(timestamp.to_i).strftime("%A %d %b %Y")
   end
 
-  def size
-    File.size(self.file)
-  end
-
-  def big
-    self.size > 1000000
-  end
 
 end
 
-helpers do
-
-  def title
-    if @title
-      "#{@title} -- Reporter"
-    else
-      "Reporter"
-    end
-  end
-
-
-  def pretty_date(time)
-   time.strftime("%d %b %Y")
-  end
-
-end
 
 get "/" do
-  @reports = Report.where(timestamp: "946684800").take(100)
+  # @reports = Report.where(timestamp: "946684800").take(100)
   # @reports = Report.select(:file).distinct
+    @reports = Report.all().take(40)
+
   erb :index
 end
