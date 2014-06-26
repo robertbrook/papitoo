@@ -1,11 +1,18 @@
 
+
 <table class="table table-hover table-condensed">
+<caption><%= will_paginate @reports, :page_links => false %></caption> 
+
   <thead>
     <tr>
-      <th>ID</th>
+          <th>Error</th>
+
+      <th class="text-muted">ID</th>
+            <th class="text-muted">Timestamp</th>
+            <th>Timecode</th>
+
       <th>Line</th>
       <th>File</th>
-      <th>Timestamp</th>
             <th>Decoded</th>
 
     </tr>
@@ -13,12 +20,21 @@
   <tbody>
 <% @reports.each do |report| %>
   <tr>
-  <td><%= report.id %></td>
+    <td><%= report.error %> <%= report.error_badge %></td>
+
+  <td class="text-muted"><%= report.id %></td>
+    <td class="text-muted"><%= report.timestamp %></td>
+  <td><%= report.timecode %></td>
+
   <td><%= report.line %></td>
   <td><a href='<%= report.static_file_path %>'><%= report.static_file_path %></a></td>
-  <td><%= report.timestamp %></td>
   <td><%= report.pretty_timestamp %></td>
   </tr>
 <% end %>
+
 </tbody>
+
 </table>
+
+
+<p><%= @reports.count %> total reports</p>

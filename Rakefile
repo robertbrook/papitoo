@@ -15,7 +15,7 @@ def setup
 
   @db = SQLite3::Database.new "report.db"
 
-  @db.execute "create table reports(id INTEGER PRIMARY KEY,file text,timestamp text,line text);"
+  @db.execute "create table reports(id INTEGER PRIMARY KEY,file text,timecode text,timestamp text,line text);"
 
 end
 
@@ -33,7 +33,7 @@ def gen(this)
     this_intime = Time.parse(hs_timecode_time).to_i
     prev_intime = Time.parse(timecodes[index-1]['time']).to_i
 
-    @db.execute("INSERT INTO reports (file, timestamp, line) VALUES (?, ?, ?)", [this, this_intime, hs_timecode.line])
+    @db.execute("INSERT INTO reports (file, timecode, timestamp, line) VALUES (?, ?, ?, ?)", [this, hs_timecode_time, this_intime, hs_timecode.line])
 
 
     #   when !(this_intime > prev_intime)
