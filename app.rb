@@ -7,8 +7,12 @@ set :database, {adapter: "sqlite3", database: "report.db"}
 
 class Report < ActiveRecord::Base
 
-  def static_file_path
-    file.gsub('public/','')
+  def error
+    if self.error_badge
+      true
+    else
+      false
+    end
   end
 
   def pretty_timestamp
@@ -29,13 +33,32 @@ class Report < ActiveRecord::Base
     
   end
 
+  def tr_error
+
+    if self.error
+      "<tr class='danger'>"
+    else
+      "<tr>"
+    end
+    
+  end
+
 end
 
+helpers do
+  def static_file_path!(path)
+    path.gsub('public/','')
+  end
+end
 
 get "/" do
-  # @reports = Report.where(timestamp: "946684800").take(100)
-  # @reports = Report.select(:file).distinct
-    @reports = Report.paginate(:page => params[:page], :per_page => 30)
 
+    @files = Report.select(:file).distinct.paginate(:page => params[:page], :per_page => 30)
   erb :index
+end
+
+get "/timestamps" do
+    # @reports = Report.where(timestamp: "946684800").take(100)
+    @reports = Report.paginate(:page => params[:page], :per_page => 30)
+  erb :timestamps
 end
