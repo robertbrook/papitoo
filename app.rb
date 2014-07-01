@@ -52,7 +52,6 @@ helpers do
 end
 
 get "/" do
-
     @files = Report.select(:file).distinct.paginate(:page => params[:page], :per_page => 30)
   erb :index
 end
