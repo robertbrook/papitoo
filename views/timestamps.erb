@@ -1,6 +1,7 @@
+<h2><%= params['file'] %></h2>
 
 <table class="table table-hover table-condensed">
-<caption><%= will_paginate @reports, :page_links => false %></caption> 
+<caption class="hidden"><%= will_paginate @reports, :page_links => false %></caption> 
 
   <thead>
     <tr>

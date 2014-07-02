@@ -3,6 +3,7 @@ require "sinatra/activerecord"
 require 'will_paginate'
 require 'will_paginate/active_record'
 
+I18n.config.enforce_available_locales=false
 set :database, {adapter: "sqlite3", database: "report.db"}
 
 class Report < ActiveRecord::Base
@@ -57,7 +58,6 @@ get "/" do
 end
 
 get "/timestamps" do
-    # @reports = Report.where(timestamp: "946684800").take(100)
-    @reports = Report.paginate(:page => params[:page], :per_page => 30)
+    @reports = Report.where(file: params['file']).paginate(:page => params[:page], :per_page => 30)
   erb :timestamps
 end

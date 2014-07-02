@@ -1,19 +1,19 @@
 
 
-<table class="table table-hover table-condensed">
-<caption><%= will_paginate @files, :page_links => false %></caption> 
+
+<table class="table table-hover">
+
+<caption class="hidden"><%= will_paginate @files, :page_links => false %></caption> 
 
   <thead>
     <tr>
             <th>File</th>
-
-
     </tr>
   </thead>
   <tbody>
 <% @files.each do |sourcefile| %>
   <tr>
-  <td><%= sourcefile.file %></td>
+  <td><a href="/timestamps?file=<%= sourcefile.file %>"><%= static_file_path!(sourcefile.file) %></a></td>
   </tr>
 <% end %>
 
