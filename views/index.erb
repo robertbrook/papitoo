@@ -8,12 +8,14 @@
   <thead>
     <tr>
             <th>File</th>
+            <th>Errors</th>
     </tr>
   </thead>
   <tbody>
 <% @files.each do |sourcefile| %>
   <tr>
   <td><a href="/timestamps?file=<%= sourcefile.file %>"><%= static_file_path!(sourcefile.file) %></a></td>
+  <td>Error count</td>
   </tr>
 <% end %>
 

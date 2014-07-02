@@ -28,7 +28,7 @@
   var my_prev = $("div.pagination a.previous_page").attr("href") || "";
   var my_next = $("div.pagination a.next_page").attr("href") || "";
 
-  $( "div.page-header" ).after( "<ul class='pager'><li class='previous'><a href='" + my_prev + "'>&larr; Older</a></li><li class='next'><a href='" + my_next + "'>Newer &rarr;</a></li></ul>" );
+  $( "div.page-header" ).after( "<ul class='pager'><li class='previous'><a href='" + my_prev + "'>&larr; Earlier</a></li><li class='next'><a href='" + my_next + "'>Later &rarr;</a></li></ul>" );
 
     if (my_prev == "") {$( "ul.pager li.previous" ).addClass( "disabled" );} 
     if (my_next == "") {$( "ul.pager li.next" ).addClass( "disabled" );} 

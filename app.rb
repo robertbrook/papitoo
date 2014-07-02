@@ -34,12 +34,12 @@ class Report < ActiveRecord::Base
     
   end
 
-  def tr_error
+  def tr_with_class
 
     if self.error
       "<tr class='danger'>"
     else
-      "<tr>"
+      "<tr class='text-muted'>"
     end
     
   end

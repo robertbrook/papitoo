@@ -1,4 +1,6 @@
-<h2><%= params['file'] %></h2>
+<h2><%= static_file_path!(params['file']) %></h2>
+
+<p><a href="<%= static_file_path!(params['file']) %>">View original XML</a></p>
 
 <table class="table table-hover table-condensed">
 <caption class="hidden"><%= will_paginate @reports, :page_links => false %></caption> 
@@ -7,27 +9,27 @@
     <tr>
           <th></th>
 
-      <th class="text-muted">ID</th>
-            <th class="text-muted">Timestamp</th>
+      <th>ID</th>
+            <th>Timestamp</th>
             <th>Timecode</th>
 
       <th>Line</th>
-      <th>File</th>
+      <!-- <th>File</th> -->
             <th></th>
 
     </tr>
   </thead>
   <tbody>
 <% @reports.each do |report| %>
-  <%= report.tr_error %>
+  <%= report.tr_with_class %>
     <td><%= report.error_badge %></td>
 
-  <td class="text-muted"><%= report.id %></td>
-    <td class="text-muted"><%= report.timestamp %></td>
+  <td><%= report.id %></td>
+    <td><%= report.timestamp %></td>
   <td><%= report.timecode %></td>
 
   <td><%= report.line %></td>
-  <td><a href='<%= static_file_path!(report.file) %>'><%= static_file_path!(report.file) %></a></td>
+  <!-- <td><a href='<%= static_file_path!(report.file) %>'><%= static_file_path!(report.file) %></a></td> -->
   <td><%= report.pretty_timestamp %></td>
   </tr>
 <% end %>

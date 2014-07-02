@@ -19,8 +19,9 @@ def setup
 
 end
 
-def gen(this)
 
+
+def gen(this)
 
   doc = Nokogiri::XML(File.open(this))
 
@@ -46,6 +47,55 @@ def gen(this)
 
 end
 
+def get_business_types(this)
+
+  doc = Nokogiri::XML(File.open(this))
+
+  doc.remove_namespaces!
+
+  newdebates = doc.xpath('//NewDebate')
+
+  newdebates.each_with_index do |newdebate, index|
+    puts newdebate['BusinessType']
+
+  end
+
+
+end
+
+def get_amendment_headings(this)
+
+  doc = Nokogiri::XML(File.open(this))
+
+  doc.remove_namespaces!
+
+  amendmentheadings = doc.xpath('//hs_AmendmentHeading')
+
+  amendmentheadings.each_with_index do |amendmentheading, index|
+    puts [amendmentheading['uid'], amendmentheading['url'], amendmentheading.text]
+
+  end
+
+
+end
+
+def get_amendments(this)
+
+  doc = Nokogiri::XML(File.open(this))
+
+  doc.remove_namespaces!
+
+  amendments = doc.xpath('//Amendment')
+
+  amendments.each_with_index do |amendment, index|
+    # puts amendment.inspect
+    puts [index, this]
+    puts amendment.text
+    puts
+  end
+
+
+end
 
 namespace :timecodes do
 
@@ -55,6 +105,53 @@ namespace :timecodes do
     hansard_xml.each do |this|
 
     gen(this)
+    puts "Processing #{this}"
+    end
+
+    puts "Finished"
+  end
+
+end
+
+namespace :business do
+
+  desc "print out businesstypes"
+  task :report do
+    hansard_xml.each do |this|
+
+    get_business_types(this)
+    puts "Processing #{this}"
+    end
+
+    puts "Finished"
+  end
+
+
+end
+
+namespace :amendmentheadings do
+
+  desc "print out amendmentheadings"
+  task :report do
+    hansard_xml.each do |this|
+
+    get_amendment_headings(this)
+    puts "Processing #{this}"
+    end
+
+    puts "Finished"
+  end
+
+
+end
+
+namespace :amendments do
+
+  desc "print out amendments"
+  task :report do
+    hansard_xml.each do |this|
+
+    get_amendments(this)
     puts "Processing #{this}"
     end
 
